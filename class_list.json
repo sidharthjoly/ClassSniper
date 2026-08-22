@@ -964,7 +964,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -1294,7 +1294,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 28
   },
   {
@@ -2284,7 +2284,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -2779,7 +2779,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -3791,7 +3791,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "North Sydney",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 40
   },
   {
@@ -4869,7 +4869,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Chris Jumman",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
