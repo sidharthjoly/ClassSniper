@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book36845",
-    "date": "2026-08-24",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book38206",
-    "date": "2026-08-24",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book32714",
-    "date": "2026-08-24",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Newtown",
-    "remaining_spots": 17,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book84511",
-    "date": "2026-08-24",
-    "time": "2:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book57144",
     "date": "2026-08-24",
     "time": "2:15 PM",
@@ -1536,7 +1492,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 40
   },
   {
@@ -4440,7 +4396,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -4924,7 +4880,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Chris Jumman",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -4946,7 +4902,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -4990,7 +4946,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
