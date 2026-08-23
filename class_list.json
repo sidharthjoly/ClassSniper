@@ -2680,7 +2680,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -4847,7 +4847,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -5881,7 +5881,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -5958,7 +5958,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 18
   },
   {
