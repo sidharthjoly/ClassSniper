@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book51969",
-    "date": "2026-08-25",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "Haymarket",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book36026",
-    "date": "2026-08-25",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sarah Goring",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book62005",
-    "date": "2026-08-25",
-    "time": "12:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book61131",
-    "date": "2026-08-25",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63965",
-    "date": "2026-08-25",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book73219",
     "date": "2026-08-25",
     "time": "12:30 PM",
@@ -4528,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -4539,7 +4484,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -4572,7 +4517,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -4605,7 +4550,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
