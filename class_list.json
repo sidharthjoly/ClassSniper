@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book53563",
-    "date": "2026-08-25",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40578",
     "date": "2026-08-25",
     "time": "11:00 AM",
@@ -2977,7 +2966,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
