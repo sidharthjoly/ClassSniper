@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book37053",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book50254",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book50462",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Barre HIIT",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book66594",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book37474",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 5,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book38728",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book34071",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book59537",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book56402",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60465",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 25
-  },
-  {
     "booking_id": "105book28272",
     "date": "2026-08-24",
     "time": "6:15 PM",
@@ -4803,7 +4693,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 35
   },
   {
@@ -4836,7 +4726,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
@@ -5144,7 +5034,7 @@
     "class_type": "S&C Series",
     "instructor": "Patrick Fox",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5166,7 +5056,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
