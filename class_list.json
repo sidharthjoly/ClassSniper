@@ -2174,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2900,7 +2900,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 12,
     "capacity": 21
   },
   {
@@ -4638,7 +4638,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
