@@ -1525,7 +1525,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2306,7 +2306,7 @@
     "class_type": "S&C Series",
     "instructor": "Randy Strickland",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -2911,7 +2911,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
@@ -5397,7 +5397,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -5892,7 +5892,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
