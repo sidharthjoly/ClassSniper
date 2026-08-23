@@ -117,7 +117,7 @@
     "class_type": "Mat Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
@@ -216,7 +216,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -524,7 +524,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill, Zoe Downing",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -2977,7 +2977,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 21
   },
   {
@@ -3230,7 +3230,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
