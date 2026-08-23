@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book36741",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book37507",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book49615",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book49771",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book34175",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book59642",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "North Sydney",
-    "remaining_spots": 19,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book56983",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book59382",
-    "date": "2026-08-24",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49459",
     "date": "2026-08-24",
     "time": "4:15 PM",
@@ -4242,7 +4154,7 @@
     "class_type": "Spin Series",
     "instructor": "Emily Romania",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 35
   },
   {
@@ -5276,7 +5188,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
