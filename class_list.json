@@ -2042,7 +2042,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kate Vose",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -2900,7 +2900,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -3703,7 +3703,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -4814,7 +4814,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
@@ -5199,7 +5199,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -5650,7 +5650,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -9124,7 +9124,7 @@
     "time": "6:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Flyn Woodward",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -9465,7 +9465,7 @@
     "time": "7:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Flyn Woodward",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -10004,7 +10004,7 @@
     "time": "9:30 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -10257,7 +10257,7 @@
     "time": "10:30 AM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -10466,7 +10466,7 @@
     "time": "11:30 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -10719,7 +10719,7 @@
     "time": "12:30 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Flyn Woodward",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -20014,7 +20014,7 @@
     "time": "6:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
+    "instructor": "Enif Alvarez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -20311,7 +20311,7 @@
     "time": "7:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
+    "instructor": "Enif Alvarez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
