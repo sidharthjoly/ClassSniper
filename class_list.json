@@ -40,7 +40,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -766,7 +766,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 22
   },
   {
@@ -2625,7 +2625,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Dance Series",
     "instructor": "Whitney Bertrand",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 38
   },
   {
