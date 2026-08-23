@@ -678,7 +678,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 35
   },
   {
@@ -4396,7 +4396,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 34
   },
   {
@@ -4957,7 +4957,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -5089,7 +5089,7 @@
     "class_type": "Barre Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
