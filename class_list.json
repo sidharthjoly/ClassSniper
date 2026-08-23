@@ -799,7 +799,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 5,
     "capacity": 28
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 28
   },
   {
@@ -3439,7 +3439,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 28
   },
   {
@@ -4616,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elaina Lentini",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
