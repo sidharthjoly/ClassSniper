@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book61355",
-    "date": "2026-08-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joanne Afiatini",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book62886",
-    "date": "2026-08-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book38506",
     "date": "2026-08-25",
     "time": "7:00 AM",
@@ -3681,7 +3659,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "Marrickville",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
