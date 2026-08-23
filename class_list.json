@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book39489",
-    "date": "2026-08-25",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book62108",
-    "date": "2026-08-25",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book81194",
-    "date": "2026-08-25",
-    "time": "9:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book38294",
     "date": "2026-08-25",
     "time": "10:00 AM",
