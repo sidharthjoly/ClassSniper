@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book47557",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book39732",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book35986",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book62217",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 18,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book62359",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Molly Williams",
-    "location": "Surry Hills",
-    "remaining_spots": 24,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book64017",
-    "date": "2026-08-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book35868",
     "date": "2026-08-25",
     "time": "1:15 PM",
@@ -4572,7 +4506,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 35
   },
   {
@@ -4682,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -4781,7 +4715,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
