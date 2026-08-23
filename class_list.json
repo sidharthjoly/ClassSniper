@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book36583",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book57037",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32461",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book47794",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book38887",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "104book33859",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Newtown",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book57940",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book58570",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book58702",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book59488",
-    "date": "2026-08-24",
-    "time": "5:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book74102",
     "date": "2026-08-24",
     "time": "5:45 PM",
@@ -1404,7 +1294,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -4990,7 +4880,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5155,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
