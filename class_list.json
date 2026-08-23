@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28272",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book50046",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book63932",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 31
-  },
-  {
-    "booking_id": "104book33592",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book58800",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book59435",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book59126",
-    "date": "2026-08-24",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Sean Grosvenor",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book32383",
     "date": "2026-08-24",
     "time": "6:30 PM",
@@ -4638,7 +4561,7 @@
     "class_type": "Mat Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
