@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book67228",
-    "date": "2026-08-24",
-    "time": "6:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book38832",
-    "date": "2026-08-24",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book34541",
     "date": "2026-08-24",
     "time": "7:00 PM",
@@ -986,7 +964,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
