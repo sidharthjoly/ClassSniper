@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book53722",
-    "date": "2026-08-25",
-    "time": "3:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book39330",
     "date": "2026-08-25",
     "time": "4:00 PM",
@@ -3109,7 +3098,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
