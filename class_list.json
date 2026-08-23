@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book40103",
-    "date": "2026-08-25",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 12,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book64298",
     "date": "2026-08-25",
     "time": "5:50 AM",
@@ -5518,7 +5507,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 35
   },
   {
