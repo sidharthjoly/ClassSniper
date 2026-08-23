@@ -436,7 +436,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 34
   },
   {
@@ -2768,7 +2768,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -3945,7 +3945,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -5705,7 +5705,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
