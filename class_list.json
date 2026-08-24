@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book64158",
-    "date": "2026-08-26",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 6,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book55095",
     "date": "2026-08-26",
     "time": "5:30 AM",
