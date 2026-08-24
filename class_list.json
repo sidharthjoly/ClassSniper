@@ -676,7 +676,7 @@
     "time": "6:00 AM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
+    "instructor": "Matt Bull",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 32
@@ -1039,7 +1039,7 @@
     "time": "7:00 AM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
+    "instructor": "Matt Bull",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 32
@@ -1140,7 +1140,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1369,7 +1369,7 @@
     "time": "8:00 AM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
+    "instructor": "Matt Bull",
     "location": "Haymarket",
     "remaining_spots": 1,
     "capacity": 32
@@ -1811,7 +1811,7 @@
     "class_type": "Mat Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
@@ -2339,7 +2339,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -2900,7 +2900,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3934,7 +3934,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -4858,7 +4858,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5067,7 +5067,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -6061,6 +6061,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "104book55151",
+    "date": "2026-08-27",
+    "time": "6:00 PM",
+    "name": "YogaBeats",
+    "class_type": "Yoga Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "104book38898",
     "date": "2026-08-27",
     "time": "6:00 PM",
@@ -6334,6 +6345,17 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "104book55051",
+    "date": "2026-08-27",
+    "time": "7:00 PM",
+    "name": "Burlesque",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "104book38950",
