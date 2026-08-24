@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book41503",
-    "date": "2026-08-26",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book42625",
-    "date": "2026-08-26",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "103book55459",
     "date": "2026-08-26",
     "time": "9:00 AM",
