@@ -821,7 +821,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 28
   },
   {
@@ -4682,7 +4682,7 @@
     "class_type": "S&C Series",
     "instructor": "Stephanie Conlin",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
@@ -5353,7 +5353,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -5507,7 +5507,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
