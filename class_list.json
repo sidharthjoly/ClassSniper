@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book54676",
-    "date": "2026-08-26",
-    "time": "8:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book42521",
-    "date": "2026-08-26",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book62798",
-    "date": "2026-08-26",
-    "time": "8:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book66510",
-    "date": "2026-08-26",
-    "time": "8:15 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book42625",
     "date": "2026-08-26",
     "time": "8:20 AM",
