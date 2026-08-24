@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51121",
-    "date": "2026-08-26",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book41451",
     "date": "2026-08-26",
     "time": "8:00 AM",
