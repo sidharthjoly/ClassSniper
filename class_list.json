@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28673",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book64342",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 31
-  },
-  {
-    "booking_id": "104book35120",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Chris Jumman",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book72193",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book47392",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book61620",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book63119",
-    "date": "2026-08-25",
-    "time": "6:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book39065",
     "date": "2026-08-25",
     "time": "6:30 PM",
@@ -733,7 +656,7 @@
     "class_type": "Fight Series",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -2790,7 +2713,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 21
   },
   {
@@ -4891,7 +4814,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -5144,7 +5067,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -5760,7 +5683,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Newtown",
-    "remaining_spots": 27,
+    "remaining_spots": 28,
     "capacity": 28
   },
   {
