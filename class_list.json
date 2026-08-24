@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book41555",
-    "date": "2026-08-26",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book75137",
-    "date": "2026-08-26",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40579",
     "date": "2026-08-26",
     "time": "11:00 AM",
