@@ -2317,7 +2317,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 21
   },
   {
@@ -2449,7 +2449,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amber Yan",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 18,
     "capacity": 22
   },
   {
@@ -5507,7 +5507,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
@@ -5727,7 +5727,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -5760,7 +5760,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5870,7 +5870,7 @@
     "class_type": "Mat Series",
     "instructor": "Nathan Newman",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
