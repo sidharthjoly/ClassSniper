@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book55303",
-    "date": "2026-08-26",
-    "time": "12:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book36813",
-    "date": "2026-08-26",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 26,
-    "capacity": 32
-  },
-  {
     "booking_id": "105book49844",
     "date": "2026-08-26",
     "time": "1:00 PM",
@@ -799,7 +777,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -1250,7 +1228,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 34
   },
   {
