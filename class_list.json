@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book52273",
-    "date": "2026-08-26",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Marrickville",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book55821",
-    "date": "2026-08-26",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 5,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book65360",
-    "date": "2026-08-26",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "Surry Hills",
-    "remaining_spots": 17,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book79040",
     "date": "2026-08-26",
     "time": "9:45 AM",
