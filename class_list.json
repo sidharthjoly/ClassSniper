@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book42365",
-    "date": "2026-08-26",
-    "time": "9:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book64864",
-    "date": "2026-08-26",
-    "time": "9:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 31
-  },
-  {
     "booking_id": "103book52273",
     "date": "2026-08-26",
     "time": "9:30 AM",
@@ -854,7 +832,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
