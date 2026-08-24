@@ -315,7 +315,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -491,7 +491,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 33
   },
   {
@@ -557,7 +557,7 @@
     "class_type": "Spin Series",
     "instructor": "Emily Romania",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 35
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 23
   },
   {
@@ -3989,7 +3989,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 6,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -5078,7 +5078,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -5507,7 +5507,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -5518,7 +5518,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 34
   },
   {
@@ -5628,7 +5628,7 @@
     "class_type": "Mat Series",
     "instructor": "Emmy Drew",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
