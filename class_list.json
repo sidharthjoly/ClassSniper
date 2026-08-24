@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book42625",
-    "date": "2026-08-26",
-    "time": "8:20 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book40251",
     "date": "2026-08-26",
     "time": "8:30 AM",
