@@ -3747,7 +3747,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -5386,7 +5386,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -6926,8 +6926,8 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
+    "remaining_spots": 5,
+    "capacity": 5
   },
   {
     "booking_id": "106book47689",
@@ -6959,8 +6959,8 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
+    "remaining_spots": 3,
+    "capacity": 3
   },
   {
     "booking_id": "106book47689",
@@ -7201,8 +7201,8 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
+    "remaining_spots": 3,
+    "capacity": 3
   },
   {
     "booking_id": "106book23417",
@@ -7212,8 +7212,8 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
+    "remaining_spots": 5,
+    "capacity": 5
   },
   {
     "booking_id": "106book48401",
@@ -7388,8 +7388,8 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
+    "remaining_spots": 5,
+    "capacity": 5
   },
   {
     "booking_id": "106book48453",
@@ -7410,8 +7410,8 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
+    "remaining_spots": 3,
+    "capacity": 3
   },
   {
     "booking_id": "104book40828",
@@ -7597,8 +7597,8 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
+    "remaining_spots": 3,
+    "capacity": 3
   },
   {
     "booking_id": "106book23671",
@@ -7608,8 +7608,8 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
+    "remaining_spots": 5,
+    "capacity": 5
   },
   {
     "booking_id": "104book40360",
@@ -7793,7 +7793,7 @@
     "time": "12:30 PM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Jose Da Rocha",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -8189,7 +8189,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -8200,7 +8200,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -8321,7 +8321,7 @@
     "time": "5:15 PM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -8332,7 +8332,7 @@
     "time": "5:15 PM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -8497,7 +8497,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -8519,7 +8519,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Amber Yan",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -9977,15 +9977,15 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book72060",
+    "booking_id": "103book77318",
     "date": "2026-08-29",
     "time": "11:30 AM",
-    "name": "Burlesque",
+    "name": "Burlesque (Heels Optional)",
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "103book60061",
@@ -11559,17 +11559,6 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "103book49044",
-    "date": "2026-08-31",
-    "time": "6:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "103book63390",
@@ -16307,7 +16296,7 @@
     "time": "2:00 PM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -16362,7 +16351,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -16494,7 +16483,7 @@
     "time": "4:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -16780,7 +16769,7 @@
     "time": "5:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -17088,7 +17077,7 @@
     "time": "6:30 PM",
     "name": "Fight Club",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -17363,7 +17352,7 @@
     "time": "7:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -18067,7 +18056,7 @@
     "time": "7:15 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
     "remaining_spots": 25,
     "capacity": 26
@@ -18326,17 +18315,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book67446",
-    "date": "2026-09-02",
-    "time": "8:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Surry Hills",
-    "remaining_spots": 26,
-    "capacity": 26
-  },
-  {
     "booking_id": "101book66511",
     "date": "2026-09-02",
     "time": "8:15 AM",
@@ -18555,17 +18533,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "103book52274",
-    "date": "2026-09-02",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "101book65361",
@@ -18808,17 +18775,6 @@
     "location": "Marrickville",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "103book56689",
-    "date": "2026-09-02",
-    "time": "11:00 AM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "103book40584",
@@ -20482,6 +20438,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "107book86234",
+    "date": "2026-09-03",
+    "time": "5:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book63422",
     "date": "2026-09-03",
     "time": "5:30 AM",
@@ -20678,6 +20645,17 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "107book86333",
+    "date": "2026-09-03",
+    "time": "6:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "107book65674",
@@ -20939,6 +20917,17 @@
     "name": "Athletica",
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "107book86418",
+    "date": "2026-09-03",
+    "time": "7:00 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -21219,6 +21208,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "107book86517",
+    "date": "2026-09-03",
+    "time": "8:00 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book75267",
     "date": "2026-09-03",
     "time": "8:00 AM",
@@ -21268,7 +21268,7 @@
     "time": "8:15 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -21279,7 +21279,7 @@
     "time": "8:15 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -21422,7 +21422,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -21444,7 +21444,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 22
@@ -21459,6 +21459,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book86817",
+    "date": "2026-09-03",
+    "time": "9:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book68623",
@@ -22913,6 +22924,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "104book55152",
+    "date": "2026-09-03",
+    "time": "6:00 PM",
+    "name": "YogaBeats",
+    "class_type": "Yoga Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "107book64191",
     "date": "2026-09-03",
     "time": "6:00 PM",
@@ -23175,6 +23197,17 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "104book55052",
+    "date": "2026-09-03",
+    "time": "7:00 PM",
+    "name": "Burlesque",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "104book38951",
