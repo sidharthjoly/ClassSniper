@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68255",
-    "date": "2026-08-27",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41816",
     "date": "2026-08-27",
     "time": "6:00 AM",
