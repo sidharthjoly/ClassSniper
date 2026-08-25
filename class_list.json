@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book41243",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book54830",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Limitless",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book69979",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amber Yan",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book42086",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book41772",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book36866",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book42461",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 11,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book66934",
-    "date": "2026-08-26",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book55877",
     "date": "2026-08-26",
     "time": "6:45 PM",
@@ -2896,9 +2808,9 @@
     "booking_id": "101book69625",
     "date": "2026-08-27",
     "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "name": "Fighting Fit",
+    "class_type": "Fight Series",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 5,
     "capacity": 26
@@ -4781,7 +4693,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
