@@ -557,7 +557,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 32
   },
   {
@@ -1426,7 +1426,7 @@
     "class_type": "Barre Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -2889,7 +2889,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3131,7 +3131,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -3417,7 +3417,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -4231,7 +4231,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
