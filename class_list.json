@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book29184",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book56087",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book64969",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 31
-  },
-  {
-    "booking_id": "106book43452",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 2,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book49577",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book65676",
-    "date": "2026-08-26",
-    "time": "5:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book40879",
     "date": "2026-08-26",
     "time": "5:30 PM",
@@ -3571,7 +3505,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -4385,7 +4319,7 @@
     "class_type": "S&C Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
