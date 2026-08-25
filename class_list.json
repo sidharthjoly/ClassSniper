@@ -1657,7 +1657,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -2959,6 +2959,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "104book55395",
+    "date": "2026-08-27",
+    "time": "4:30 PM",
+    "name": "Strong",
+    "class_type": "S&C Series",
+    "instructor": "Chris Jumman",
+    "location": "Newtown",
+    "remaining_spots": 28,
+    "capacity": 28
+  },
+  {
     "booking_id": "101book68183",
     "date": "2026-08-27",
     "time": "4:30 PM",
@@ -3094,11 +3105,11 @@
     "booking_id": "103book67077",
     "date": "2026-08-27",
     "time": "5:15 PM",
-    "name": "Reformer: Strong",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -3201,6 +3212,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "104book54929",
+    "date": "2026-08-27",
+    "time": "5:30 PM",
+    "name": "Strong",
+    "class_type": "S&C Series",
+    "instructor": "Chris Jumman",
+    "location": "Newtown",
+    "remaining_spots": 28,
+    "capacity": 28
+  },
+  {
     "booking_id": "107book64403",
     "date": "2026-08-27",
     "time": "5:30 PM",
@@ -3296,7 +3318,7 @@
     "class_type": "Yoga Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -4352,7 +4374,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
@@ -5045,7 +5067,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
