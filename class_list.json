@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book56638",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book56139",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book54777",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book69224",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book61141",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book67040",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book44773",
     "date": "2026-08-27",
     "time": "5:15 AM",
@@ -1899,7 +1833,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -2530,17 +2464,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book55151",
-    "date": "2026-08-27",
-    "time": "6:00 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "104book38898",
     "date": "2026-08-27",
     "time": "6:00 PM",
@@ -2814,17 +2737,6 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "104book55051",
-    "date": "2026-08-27",
-    "time": "7:00 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "104book38950",
@@ -3813,7 +3725,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -4561,7 +4473,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -5045,7 +4957,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
