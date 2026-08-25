@@ -5474,7 +5474,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -13354,10 +13354,10 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book53723",
+    "booking_id": "103book77767",
     "date": "2026-09-01",
     "time": "3:30 PM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
     "instructor": "Lauren Buck",
     "location": "Marrickville",
@@ -14388,6 +14388,17 @@
     "capacity": 25
   },
   {
+    "booking_id": "101book85527",
+    "date": "2026-09-01",
+    "time": "7:30 PM",
+    "name": "Yoga: Restore & Sound",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Patterson",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book63226",
     "date": "2026-09-01",
     "time": "7:30 PM",
@@ -14397,17 +14408,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "101book61726",
-    "date": "2026-09-01",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "103book64159",
@@ -18518,7 +18518,7 @@
     "time": "9:30 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
+    "instructor": "Eva Baonza",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -20713,17 +20713,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "101book76637",
-    "date": "2026-09-04",
-    "time": "6:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "101book71594",
     "date": "2026-09-04",
     "time": "6:30 AM",
@@ -20744,6 +20733,17 @@
     "location": "Surry Hills",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "101book85633",
+    "date": "2026-09-04",
+    "time": "6:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "106book46145",
