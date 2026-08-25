@@ -71,7 +71,7 @@
     "time": "12:30 PM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Bethany Rumore",
     "location": "Marrickville",
     "remaining_spots": 8,
     "capacity": 15
@@ -854,7 +854,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 35
   },
   {
@@ -1437,7 +1437,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 28
   },
   {
