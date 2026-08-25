@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book65781",
-    "date": "2026-08-26",
-    "time": "4:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book56191",
     "date": "2026-08-26",
     "time": "4:30 PM",
@@ -205,7 +194,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 35
   },
   {
@@ -381,7 +370,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
@@ -4561,7 +4550,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 32
   },
   {
