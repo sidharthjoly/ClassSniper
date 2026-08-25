@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41920",
-    "date": "2026-08-27",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
-  },
-  {
     "booking_id": "105book55356",
     "date": "2026-08-27",
     "time": "11:30 AM",
