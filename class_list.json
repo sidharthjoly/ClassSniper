@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book57007",
-    "date": "2026-08-27",
-    "time": "9:15 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book45814",
-    "date": "2026-08-27",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book44826",
-    "date": "2026-08-27",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57948",
     "date": "2026-08-27",
     "time": "9:30 AM",
