@@ -194,7 +194,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -414,7 +414,7 @@
     "class_type": "Spin Series",
     "instructor": "Allegra Sadnick",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -1492,7 +1492,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -4132,7 +4132,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 32
   },
   {
@@ -4495,7 +4495,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -5034,7 +5034,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
@@ -5309,7 +5309,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -5331,7 +5331,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
@@ -5496,7 +5496,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 32
   },
   {
