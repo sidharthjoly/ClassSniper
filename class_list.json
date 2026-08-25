@@ -6405,7 +6405,7 @@
     "booking_id": "105book30157",
     "date": "2026-08-29",
     "time": "9:15 AM",
-    "name": "Beatbox",
+    "name": "The Zone",
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
@@ -6532,17 +6532,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book45903",
-    "date": "2026-08-29",
-    "time": "10:00 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "105book45693",
@@ -9724,17 +9713,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "107book56458",
-    "date": "2026-08-31",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Hayley van Stom",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book59222",
     "date": "2026-08-31",
     "time": "10:30 AM",
@@ -10318,17 +10296,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book84512",
-    "date": "2026-08-31",
-    "time": "2:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book57145",
     "date": "2026-08-31",
     "time": "2:15 PM",
@@ -10382,17 +10349,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book81090",
-    "date": "2026-08-31",
-    "time": "3:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book49408",
