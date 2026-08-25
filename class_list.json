@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book44773",
-    "date": "2026-08-27",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57529",
     "date": "2026-08-27",
     "time": "5:30 AM",
@@ -2064,7 +2053,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Newtown",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 28
   },
   {
@@ -2416,7 +2405,7 @@
     "class_type": "Yoga Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -3032,7 +3021,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 33
   },
   {
