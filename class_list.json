@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book57529",
-    "date": "2026-08-27",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book63421",
-    "date": "2026-08-27",
-    "time": "5:30 AM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 34,
-    "capacity": 40
-  },
-  {
     "booking_id": "106book70894",
     "date": "2026-08-27",
     "time": "5:45 AM",
@@ -1261,7 +1239,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -2713,7 +2691,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
@@ -5628,7 +5606,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
