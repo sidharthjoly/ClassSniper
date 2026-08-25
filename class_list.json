@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book57899",
-    "date": "2026-08-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book38731",
-    "date": "2026-08-27",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 27,
-    "capacity": 32
-  },
-  {
     "booking_id": "105book56017",
     "date": "2026-08-27",
     "time": "1:00 PM",
@@ -29,7 +7,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
