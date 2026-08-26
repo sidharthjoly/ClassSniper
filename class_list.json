@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book64032",
-    "date": "2026-08-27",
-    "time": "7:20 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
-    "location": "North Sydney",
-    "remaining_spots": 10,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57847",
     "date": "2026-08-27",
     "time": "7:30 PM",
@@ -4341,7 +4330,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
