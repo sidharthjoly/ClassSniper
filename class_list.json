@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59593",
-    "date": "2026-08-28",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book48453",
-    "date": "2026-08-28",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 21
-  },
-  {
     "booking_id": "103book40454",
     "date": "2026-08-28",
     "time": "11:00 AM",
