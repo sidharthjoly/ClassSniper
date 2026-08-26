@@ -205,7 +205,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -1338,7 +1338,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -2570,7 +2570,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -3868,7 +3868,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -4231,7 +4231,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -4583,7 +4583,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
