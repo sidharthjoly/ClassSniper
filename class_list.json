@@ -2350,7 +2350,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 32
   },
   {
@@ -2966,7 +2966,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -2977,7 +2977,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 38
   },
   {
@@ -3076,7 +3076,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 21
   },
   {
@@ -4473,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -17176,7 +17176,7 @@
     "time": "6:30 PM",
     "name": "Calisthenics",
     "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
+    "instructor": "Zoe Downing",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -17440,7 +17440,7 @@
     "time": "7:30 PM",
     "name": "Mobility",
     "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
+    "instructor": "Zoe Downing",
     "location": "Newtown",
     "remaining_spots": 24,
     "capacity": 24
@@ -21488,7 +21488,7 @@
     "time": "11:15 AM",
     "name": "Calisthenics",
     "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
+    "instructor": "Zoe Downing",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -21631,7 +21631,7 @@
     "time": "12:15 PM",
     "name": "Mobility",
     "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
+    "instructor": "Zoe Downing",
     "location": "Newtown",
     "remaining_spots": 24,
     "capacity": 24
