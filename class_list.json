@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book56119",
-    "date": "2026-08-28",
-    "time": "5:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book59125",
     "date": "2026-08-28",
     "time": "5:30 AM",
