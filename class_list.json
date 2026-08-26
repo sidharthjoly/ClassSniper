@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book79400",
-    "date": "2026-08-28",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59489",
     "date": "2026-08-28",
     "time": "2:30 PM",
