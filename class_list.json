@@ -3263,7 +3263,7 @@
     "class_type": "Spin Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 40
   },
   {
@@ -21182,7 +21182,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 11,
     "capacity": 22
   },
   {
@@ -21314,7 +21314,7 @@
     "class_type": "Events",
     "instructor": "Joey Bowling",
     "location": "Merrylands",
-    "remaining_spots": 27,
+    "remaining_spots": 29,
     "capacity": 31
   },
   {
