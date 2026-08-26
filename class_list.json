@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book54292",
-    "date": "2026-08-27",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book56119",
     "date": "2026-08-28",
     "time": "5:00 AM",
@@ -1382,7 +1371,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -1591,7 +1580,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -3758,7 +3747,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
