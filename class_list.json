@@ -2405,7 +2405,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -21017,7 +21017,7 @@
     "class_type": "Events",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 21
   },
   {
@@ -21556,7 +21556,7 @@
     "class_type": "Events",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 33
   },
   {
