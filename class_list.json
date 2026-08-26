@@ -293,7 +293,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -1591,7 +1591,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -2284,7 +2284,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -2306,7 +2306,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amber Yan",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 22
   },
   {
@@ -3175,7 +3175,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 25,
     "capacity": 35
   },
   {
@@ -3186,7 +3186,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -4451,7 +4451,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 34
   },
   {
