@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59125",
-    "date": "2026-08-28",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book67770",
-    "date": "2026-08-28",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book46091",
     "date": "2026-08-28",
     "time": "5:45 AM",
@@ -1976,7 +1954,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -3692,7 +3670,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 21
   },
   {
