@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book44235",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book44911",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book47741",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 11,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book47741",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39886",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book42658",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 27,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book71855",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book71697",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book81299",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book77043",
-    "date": "2026-08-28",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book46753",
     "date": "2026-08-28",
     "time": "7:45 AM",
@@ -20434,7 +20324,7 @@
     "class_type": "Events",
     "instructor": "Joey Bowling, Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 31
   },
   {
