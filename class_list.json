@@ -2284,7 +2284,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -13722,7 +13722,7 @@
     "time": "5:00 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
+    "instructor": "Kristy Hocking",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -14041,7 +14041,7 @@
     "time": "6:00 PM",
     "name": "BodyBlast",
     "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
+    "instructor": "Kristy Hocking",
     "location": "North Sydney",
     "remaining_spots": 27,
     "capacity": 27
@@ -17400,6 +17400,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book78105",
+    "date": "2026-09-03",
+    "time": "7:30 PM",
+    "name": "Hip Hop",
+    "class_type": "Dance Series",
+    "instructor": "Dante Devitt",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book58809",
