@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book46091",
-    "date": "2026-08-28",
-    "time": "5:45 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book73706",
-    "date": "2026-08-28",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book71220",
     "date": "2026-08-28",
     "time": "5:50 AM",
