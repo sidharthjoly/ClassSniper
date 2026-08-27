@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book73888",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book59021",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Reggaeton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book34968",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book53505",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 15,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book70792",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Emmy Drew",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book33435",
-    "date": "2026-08-28",
-    "time": "5:30 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "George Hoad",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 25
-  },
-  {
     "booking_id": "107book80355",
     "date": "2026-08-28",
     "time": "5:45 PM",
@@ -304,7 +238,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
@@ -887,7 +821,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 26
   },
   {
@@ -2691,7 +2625,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
@@ -2702,7 +2636,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -2735,7 +2669,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
