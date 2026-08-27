@@ -2515,7 +2515,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -2526,7 +2526,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -2647,7 +2647,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -19323,7 +19323,7 @@
     "class_type": "Events",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 33
   },
   {
