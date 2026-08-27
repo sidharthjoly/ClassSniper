@@ -1635,7 +1635,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -1778,7 +1778,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -2229,7 +2229,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -2372,7 +2372,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
