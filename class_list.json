@@ -128,7 +128,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -3285,7 +3285,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -3428,7 +3428,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
