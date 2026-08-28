@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book56809",
-    "date": "2026-08-30",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book73559",
-    "date": "2026-08-30",
-    "time": "1:30 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 25
-  },
-  {
     "booking_id": "104book43995",
     "date": "2026-08-30",
     "time": "2:30 PM",
@@ -2251,7 +2229,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 38
   },
   {
@@ -2834,7 +2812,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -3450,7 +3428,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Alyssa Liem",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -3912,7 +3890,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maggie Dixon-Best",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
