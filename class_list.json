@@ -1503,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -3076,7 +3076,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 32
   },
   {
