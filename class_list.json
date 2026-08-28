@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book56707",
-    "date": "2026-08-30",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book65871",
-    "date": "2026-08-30",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43735",
-    "date": "2026-08-30",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book74083",
-    "date": "2026-08-30",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 23
-  },
-  {
     "booking_id": "103book68716",
     "date": "2026-08-30",
     "time": "1:00 PM",
