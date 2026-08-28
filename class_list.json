@@ -832,7 +832,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -1272,7 +1272,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -1976,7 +1976,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
