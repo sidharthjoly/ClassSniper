@@ -711,7 +711,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chloe Greenwood",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2966,7 +2966,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -3604,7 +3604,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
