@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book74240",
-    "date": "2026-08-30",
-    "time": "9:45 AM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book61968",
     "date": "2026-08-30",
     "time": "10:00 AM",
