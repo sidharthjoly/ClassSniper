@@ -1613,7 +1613,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 28
   },
   {
@@ -3560,7 +3560,7 @@
     "class_type": "Fight Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
@@ -3923,7 +3923,7 @@
     "class_type": "Reformer Series",
     "instructor": "Estella Jones",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -16408,7 +16408,7 @@
     "class_type": "Events",
     "instructor": "Lihini Rose",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 34,
     "capacity": 34
   },
   {
