@@ -524,7 +524,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2163,7 +2163,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -5133,7 +5133,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 23
   },
   {
@@ -5529,7 +5529,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -5705,7 +5705,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -5793,7 +5793,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -5826,7 +5826,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
