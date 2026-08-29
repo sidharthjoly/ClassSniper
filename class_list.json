@@ -1206,7 +1206,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1712,7 +1712,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -2130,7 +2130,7 @@
     "class_type": "Mat Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 34
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -5474,7 +5474,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -5507,7 +5507,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Newtown",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 28
   },
   {
@@ -5529,7 +5529,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
@@ -5551,7 +5551,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
