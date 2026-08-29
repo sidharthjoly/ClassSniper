@@ -3582,7 +3582,7 @@
     "class_type": "Fight Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 26
   },
   {
@@ -3868,7 +3868,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 26
   },
   {
@@ -5254,7 +5254,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
@@ -5518,7 +5518,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
