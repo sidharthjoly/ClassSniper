@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55880",
-    "date": "2026-08-30",
-    "time": "5:15 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book37581",
     "date": "2026-08-31",
     "time": "5:00 AM",
@@ -172,7 +161,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 32
   },
   {
@@ -887,7 +876,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -1030,7 +1019,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -1140,7 +1129,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
@@ -2328,7 +2317,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Newtown",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -2856,7 +2845,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 28
   },
   {
@@ -3428,7 +3417,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -3945,7 +3934,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
@@ -14967,7 +14956,7 @@
     "class_type": "Events",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 33
   },
   {
