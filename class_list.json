@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book74031",
-    "date": "2026-08-30",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book74031",
-    "date": "2026-08-30",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book55880",
     "date": "2026-08-30",
     "time": "5:15 PM",
@@ -3901,7 +3879,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -4308,7 +4286,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -4374,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
