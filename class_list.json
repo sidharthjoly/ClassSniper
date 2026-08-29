@@ -172,7 +172,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -282,7 +282,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -315,7 +315,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 21
   },
   {
@@ -2394,7 +2394,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -4187,7 +4187,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 21
   },
   {
