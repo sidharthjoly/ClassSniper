@@ -513,7 +513,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -744,7 +744,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
@@ -4594,7 +4594,7 @@
     "class_type": "Mat Series",
     "instructor": "Sarah Goring",
     "location": "Haymarket",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
