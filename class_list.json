@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book38941",
-    "date": "2026-08-31",
-    "time": "9:15 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book50936",
     "date": "2026-08-31",
     "time": "9:30 AM",
