@@ -766,7 +766,7 @@
     "class_type": "Reformer Series",
     "instructor": "Emmy Drew",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1745,7 +1745,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -5694,7 +5694,7 @@
     "class_type": "Dance Series",
     "instructor": "Lauren Buck",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 38
   },
   {
