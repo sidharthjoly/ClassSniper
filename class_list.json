@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book36532",
-    "date": "2026-08-31",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "104book34803",
-    "date": "2026-08-31",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book59222",
-    "date": "2026-08-31",
-    "time": "10:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60041",
-    "date": "2026-08-31",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49564",
     "date": "2026-08-31",
     "time": "10:45 AM",
