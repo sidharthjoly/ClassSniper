@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book37106",
-    "date": "2026-08-31",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book59116",
-    "date": "2026-08-31",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 4,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60147",
-    "date": "2026-08-31",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book37612",
     "date": "2026-08-31",
     "time": "10:00 AM",
