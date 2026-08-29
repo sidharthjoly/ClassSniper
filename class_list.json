@@ -3131,7 +3131,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3307,7 +3307,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 40
   },
   {
@@ -4066,7 +4066,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
