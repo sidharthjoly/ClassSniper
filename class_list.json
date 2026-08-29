@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book31961",
-    "date": "2026-08-31",
-    "time": "12:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book49668",
-    "date": "2026-08-31",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book36635",
     "date": "2026-08-31",
     "time": "1:00 PM",
@@ -4572,7 +4550,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
@@ -4583,7 +4561,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
