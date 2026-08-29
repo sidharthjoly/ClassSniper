@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book48712",
-    "date": "2026-08-30",
-    "time": "4:45 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "101book74031",
     "date": "2026-08-30",
     "time": "5:00 PM",
@@ -3076,7 +3065,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
