@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book37581",
-    "date": "2026-08-31",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book63285",
     "date": "2026-08-31",
     "time": "5:15 AM",
@@ -3175,7 +3164,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
