@@ -2,28 +2,6 @@
   {
     "booking_id": "106book48712",
     "date": "2026-08-30",
-    "time": "4:30 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 34
-  },
-  {
-    "booking_id": "107book55986",
-    "date": "2026-08-30",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Emmy Drew",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book48712",
-    "date": "2026-08-30",
     "time": "4:45 PM",
     "name": "Breathwork: Deep Calm (Evening)",
     "class_type": "Harmony Series",
@@ -271,7 +249,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -3426,7 +3404,7 @@
     "time": "6:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Samantha Smolens",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 20
@@ -3571,7 +3549,7 @@
     "class_type": "Reformer Series",
     "instructor": "Estella Jones",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3745,7 +3723,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Samantha Smolens",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 20
