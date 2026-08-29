@@ -1437,7 +1437,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -2515,7 +2515,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -2889,7 +2889,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 36
   },
   {
@@ -2966,7 +2966,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lihini Rose",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 34
   },
   {
@@ -4110,7 +4110,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -5166,7 +5166,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -7837,7 +7837,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -7892,7 +7892,7 @@
     "time": "4:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -10191,7 +10191,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Kat Morrison",
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 22
@@ -17704,7 +17704,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -17968,7 +17968,7 @@
     "time": "7:15 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -18232,7 +18232,7 @@
     "time": "8:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -18320,7 +18320,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -18485,7 +18485,7 @@
     "time": "9:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -19200,7 +19200,7 @@
     "time": "1:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -19299,7 +19299,7 @@
     "time": "3:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -19409,7 +19409,7 @@
     "time": "4:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Elizabeth Chun",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
