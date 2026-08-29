@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book36635",
-    "date": "2026-08-31",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book67415",
-    "date": "2026-08-31",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book45741",
-    "date": "2026-08-31",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book59380",
-    "date": "2026-08-31",
-    "time": "1:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book60202",
-    "date": "2026-08-31",
-    "time": "1:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book47772",
     "date": "2026-08-31",
     "time": "1:15 PM",
@@ -2097,7 +2042,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -4407,7 +4352,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 33
   },
   {
@@ -4429,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -4451,7 +4396,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Taniesha Walker",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -4539,7 +4484,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -4693,7 +4638,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Taniesha Walker",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
@@ -4704,7 +4649,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
@@ -4726,7 +4671,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -4792,7 +4737,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -4803,7 +4748,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
