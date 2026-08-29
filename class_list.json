@@ -2537,7 +2537,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 28
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -5441,7 +5441,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 33
   },
   {
@@ -5518,7 +5518,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -5551,7 +5551,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -5573,7 +5573,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
