@@ -359,7 +359,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1954,7 +1954,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 28
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3692,7 +3692,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
