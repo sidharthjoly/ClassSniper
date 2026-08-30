@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book39172",
-    "date": "2026-09-01",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book68340",
-    "date": "2026-09-01",
-    "time": "3:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book35669",
-    "date": "2026-09-01",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book61185",
-    "date": "2026-09-01",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "North Sydney",
-    "remaining_spots": 22,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63435",
-    "date": "2026-09-01",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book77767",
     "date": "2026-09-01",
     "time": "3:30 PM",
@@ -148,7 +93,7 @@
     "time": "4:15 PM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Matthew Gardner",
     "location": "Surry Hills",
     "remaining_spots": 21,
     "capacity": 26
@@ -412,7 +357,7 @@
     "time": "5:15 PM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Matthew Gardner",
     "location": "Surry Hills",
     "remaining_spots": 5,
     "capacity": 26
@@ -709,7 +654,7 @@
     "time": "6:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Matthew Gardner",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 26
@@ -1006,7 +951,7 @@
     "time": "7:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Matthew Gardner",
     "location": "Surry Hills",
     "remaining_spots": 22,
     "capacity": 26
@@ -4968,7 +4913,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -5078,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -5111,7 +5056,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 5,
     "capacity": 8
   },
   {
@@ -5133,7 +5078,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
