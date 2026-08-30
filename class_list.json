@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book61356",
-    "date": "2026-09-01",
-    "time": "6:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joanne Afiatini",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book62887",
-    "date": "2026-09-01",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book38507",
     "date": "2026-09-01",
     "time": "7:00 AM",
@@ -5100,7 +5078,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 33
   },
   {
