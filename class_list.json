@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book77767",
-    "date": "2026-09-01",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book38189",
     "date": "2026-09-01",
     "time": "4:00 PM",
@@ -4330,7 +4319,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 35
   },
   {
@@ -4429,7 +4418,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 22
   },
   {
@@ -4737,7 +4726,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 34
   },
   {
@@ -6110,7 +6099,7 @@
     "time": "4:15 PM",
     "name": "Fight Club",
     "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -6308,7 +6297,7 @@
     "time": "5:15 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
