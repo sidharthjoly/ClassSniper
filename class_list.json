@@ -150,7 +150,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 28
   },
   {
@@ -2053,7 +2053,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -3054,7 +3054,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 32
   },
   {
@@ -3186,7 +3186,7 @@
     "class_type": "One Run",
     "instructor": "OP Staff",
     "location": "Surry Hills",
-    "remaining_spots": 50,
+    "remaining_spots": 49,
     "capacity": 50
   },
   {
