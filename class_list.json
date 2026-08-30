@@ -1393,7 +1393,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 34
   },
   {
@@ -1690,7 +1690,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3219,7 +3219,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -3272,7 +3272,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 6,
     "capacity": 24
@@ -3525,7 +3525,7 @@
     "time": "7:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 8,
     "capacity": 24
@@ -3734,7 +3734,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 18,
     "capacity": 24
@@ -3901,7 +3901,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -3932,7 +3932,7 @@
     "time": "8:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 20,
     "capacity": 24
@@ -4119,9 +4119,9 @@
     "time": "10:00 AM",
     "name": "Reformer: Athletic",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -4284,7 +4284,7 @@
     "time": "10:45 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Zennah Chaudri",
     "location": "Haymarket",
     "remaining_spots": 21,
     "capacity": 24
