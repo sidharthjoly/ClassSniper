@@ -634,7 +634,7 @@
     "class_type": "Reformer Series",
     "instructor": "Estella Jones",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -1382,7 +1382,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -5518,7 +5518,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 40
   },
   {
@@ -13130,7 +13130,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 19,
     "capacity": 22
   },
   {
