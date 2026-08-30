@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book75577",
-    "date": "2026-08-31",
-    "time": "7:45 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book39312",
     "date": "2026-09-01",
     "time": "5:15 AM",
@@ -1921,7 +1910,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -3065,7 +3054,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
