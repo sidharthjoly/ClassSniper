@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book67229",
-    "date": "2026-08-31",
-    "time": "6:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book38833",
-    "date": "2026-08-31",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book37002",
     "date": "2026-08-31",
     "time": "7:00 PM",
@@ -4341,7 +4319,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 26
   },
   {
