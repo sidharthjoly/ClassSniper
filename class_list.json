@@ -357,7 +357,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Enif Alvarez",
     "location": "Haymarket",
     "remaining_spots": 6,
     "capacity": 35
@@ -665,7 +665,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Enif Alvarez",
     "location": "Haymarket",
     "remaining_spots": 8,
     "capacity": 35
@@ -4022,7 +4022,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -4638,7 +4638,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
