@@ -324,7 +324,7 @@
     "time": "5:15 PM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Chris Jumman",
+    "instructor": "Jose Da Rocha",
     "location": "Newtown",
     "remaining_spots": 16,
     "capacity": 28
@@ -610,7 +610,7 @@
     "time": "6:15 PM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Chris Jumman",
+    "instructor": "Jose Da Rocha",
     "location": "Newtown",
     "remaining_spots": 0,
     "capacity": 28
@@ -1811,7 +1811,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -2504,7 +2504,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -4913,7 +4913,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
