@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28674",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 3,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book64343",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 31
-  },
-  {
-    "booking_id": "104book35121",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book72194",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book47393",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book61621",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book63120",
-    "date": "2026-09-01",
-    "time": "6:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book31860",
     "date": "2026-09-01",
     "time": "6:30 PM",
@@ -1459,7 +1382,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -4451,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 22
   },
   {
@@ -5166,7 +5089,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
