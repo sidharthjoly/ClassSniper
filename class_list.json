@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book31581",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Haymarket",
-    "remaining_spots": 3,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book39013",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book51635",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book64209",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Blackout",
-    "class_type": "Spin Series",
-    "instructor": "Andrew Lloyd",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book39418",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book41870",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "North Sydney",
-    "remaining_spots": 28,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book63544",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book63276",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book62940",
-    "date": "2026-09-01",
-    "time": "5:30 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book61503",
     "date": "2026-09-01",
     "time": "5:45 PM",
@@ -1789,7 +1690,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
@@ -2262,7 +2163,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -3989,7 +3890,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 22
   },
   {
@@ -4737,7 +4638,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -5111,7 +5012,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5155,7 +5056,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
