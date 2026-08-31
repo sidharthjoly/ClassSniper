@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book56479",
-    "date": "2026-09-02",
-    "time": "10:30 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 13,
-    "capacity": 26
-  },
-  {
-    "booking_id": "107book78937",
-    "date": "2026-09-02",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 11,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66144",
-    "date": "2026-09-02",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41556",
     "date": "2026-09-02",
     "time": "10:45 AM",
