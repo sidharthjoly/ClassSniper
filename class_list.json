@@ -359,7 +359,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 40
   },
   {
@@ -2273,7 +2273,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -2735,7 +2735,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 40
   },
   {
@@ -4616,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
