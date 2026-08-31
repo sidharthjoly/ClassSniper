@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book41504",
-    "date": "2026-09-02",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book42626",
-    "date": "2026-09-02",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "103book40256",
     "date": "2026-09-02",
     "time": "9:00 AM",
@@ -3384,7 +3362,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
