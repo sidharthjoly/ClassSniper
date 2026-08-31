@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book38136",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34595",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Lauren Buck",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book51744",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Shannon Campradt",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book40807",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36203",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49380",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63226",
-    "date": "2026-09-01",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book28544",
     "date": "2026-09-01",
     "time": "7:15 PM",
@@ -447,7 +370,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
@@ -665,7 +588,7 @@
     "time": "6:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 20
@@ -810,7 +733,7 @@
     "class_type": "Spin Series",
     "instructor": "Emily Romania",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 35
   },
   {
@@ -2262,7 +2185,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -3787,7 +3710,7 @@
     "booking_id": "103book58655",
     "date": "2026-09-03",
     "time": "7:15 AM",
-    "name": "Yoga: Empower",
+    "name": "Yoga: Origins",
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Marrickville",
@@ -5012,7 +4935,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
