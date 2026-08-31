@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book40252",
-    "date": "2026-09-02",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 38
-  },
-  {
-    "booking_id": "101book65202",
-    "date": "2026-09-02",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book66251",
-    "date": "2026-09-02",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book65624",
-    "date": "2026-09-02",
-    "time": "8:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book51172",
     "date": "2026-09-02",
     "time": "8:40 AM",
