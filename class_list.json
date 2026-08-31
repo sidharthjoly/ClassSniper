@@ -447,7 +447,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -5870,7 +5870,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
@@ -9812,6 +9812,17 @@
     "capacity": 31
   },
   {
+    "booking_id": "106book75615",
+    "date": "2026-09-05",
+    "time": "10:30 AM",
+    "name": "MOVE AS ONE | Mat Pilates",
+    "class_type": "Events",
+    "instructor": "Danielle Panayi",
+    "location": "Merrylands",
+    "remaining_spots": 33,
+    "capacity": 34
+  },
+  {
     "booking_id": "104book42375",
     "date": "2026-09-05",
     "time": "10:30 AM",
@@ -10340,6 +10351,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "106book74358",
+    "date": "2026-09-05",
+    "time": "2:00 PM",
+    "name": "MOVE AS ONE | Reiki & Sound Healing",
+    "class_type": "Events",
+    "instructor": "Lihini Rose",
+    "location": "Merrylands",
+    "remaining_spots": 28,
+    "capacity": 34
+  },
+  {
     "booking_id": "106book74362",
     "date": "2026-09-05",
     "time": "2:00 PM",
@@ -10349,17 +10371,6 @@
     "location": "Merrylands",
     "remaining_spots": 17,
     "capacity": 22
-  },
-  {
-    "booking_id": "106book74479",
-    "date": "2026-09-05",
-    "time": "2:00 PM",
-    "name": "MOVE AS ONE | Move On The Mat",
-    "class_type": "Events",
-    "instructor": "Joey Curcio",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "104book41641",
@@ -10458,6 +10469,17 @@
     "instructor": "Lihini Rose",
     "location": "Merrylands",
     "remaining_spots": 28,
+    "capacity": 34
+  },
+  {
+    "booking_id": "106book74478",
+    "date": "2026-09-05",
+    "time": "3:00 PM",
+    "name": "MOVE AS ONE | Yoga Flowstate by YLNOS",
+    "class_type": "Events",
+    "instructor": "Jen Tran",
+    "location": "Merrylands",
+    "remaining_spots": 30,
     "capacity": 34
   },
   {
@@ -12281,7 +12303,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Emmy Drew",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
