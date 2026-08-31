@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49342",
-    "date": "2026-09-02",
-    "time": "12:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book40096",
     "date": "2026-09-02",
     "time": "12:15 PM",
@@ -414,7 +403,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -1998,7 +1987,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
