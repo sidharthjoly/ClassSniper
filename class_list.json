@@ -865,7 +865,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 21
   },
   {
@@ -2746,7 +2746,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -10072,7 +10072,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 22
   },
   {
