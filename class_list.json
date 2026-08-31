@@ -2559,7 +2559,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -2889,7 +2889,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amber Yan",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 22
   },
   {
@@ -3494,7 +3494,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
