@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51542",
-    "date": "2026-09-02",
-    "time": "6:50 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book40825",
     "date": "2026-09-02",
     "time": "7:00 AM",
@@ -4902,7 +4891,7 @@
     "class_type": "S&C Series",
     "instructor": "Chris Jumman",
     "location": "Newtown",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 28
   },
   {
