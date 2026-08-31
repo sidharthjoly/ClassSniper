@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51172",
-    "date": "2026-09-02",
-    "time": "8:40 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 18,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book41504",
     "date": "2026-09-02",
     "time": "8:45 AM",
