@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28777",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Emily Romania",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book55564",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book54729",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book64648",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book64648",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 34
-  },
-  {
-    "booking_id": "107book63633",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book67094",
-    "date": "2026-09-02",
-    "time": "6:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book39860",
     "date": "2026-09-02",
     "time": "6:30 AM",
@@ -1690,7 +1613,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -2108,7 +2031,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
