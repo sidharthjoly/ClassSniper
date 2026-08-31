@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book79041",
-    "date": "2026-09-02",
-    "time": "9:45 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66458",
-    "date": "2026-09-02",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book40667",
     "date": "2026-09-02",
     "time": "10:00 AM",
