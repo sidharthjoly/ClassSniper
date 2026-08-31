@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book62254",
-    "date": "2026-09-01",
-    "time": "4:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book51953",
     "date": "2026-09-01",
     "time": "4:30 PM",
@@ -2801,7 +2790,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3175,7 +3164,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -3527,7 +3516,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 23
   },
   {
@@ -4616,7 +4605,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 23
   },
   {
@@ -4946,7 +4935,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 4
   },
   {
@@ -5034,7 +5023,7 @@
     "class_type": "S&C Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
