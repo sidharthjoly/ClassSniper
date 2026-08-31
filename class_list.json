@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book41556",
-    "date": "2026-09-02",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book75138",
-    "date": "2026-09-02",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40457",
     "date": "2026-09-02",
     "time": "11:00 AM",
