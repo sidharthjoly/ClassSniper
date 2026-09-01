@@ -3681,7 +3681,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -3868,7 +3868,7 @@
     "class_type": "Spin Series",
     "instructor": "Alexandra Doddridge",
     "location": "North Sydney",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 40
   },
   {
@@ -6618,7 +6618,7 @@
     "class_type": "Events",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 33
   },
   {
