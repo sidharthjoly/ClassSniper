@@ -546,7 +546,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2229,7 +2229,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -3373,7 +3373,7 @@
     "class_type": "S&C Series",
     "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
