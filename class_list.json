@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book71410",
-    "date": "2026-09-03",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book42737",
     "date": "2026-09-03",
     "time": "9:00 AM",
