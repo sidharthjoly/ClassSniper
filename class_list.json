@@ -623,7 +623,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 38
   },
   {
@@ -3967,7 +3967,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 18
   },
   {
@@ -4286,7 +4286,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 33
   },
   {
@@ -6231,7 +6231,7 @@
     "time": "8:30 AM",
     "name": "Barre Signature",
     "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Anton Anton",
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
@@ -6550,7 +6550,7 @@
     "time": "9:30 AM",
     "name": "BodyBurn",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Anton Anton",
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
@@ -6847,7 +6847,7 @@
     "time": "10:30 AM",
     "name": "Ritual",
     "class_type": "Mat Series",
-    "instructor": "Katie Jay",
+    "instructor": "Anton Anton",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -8596,7 +8596,7 @@
     "time": "6:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -8959,7 +8959,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -9245,7 +9245,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -9432,7 +9432,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -10158,7 +10158,7 @@
     "time": "12:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Karol Karg",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -10290,7 +10290,7 @@
     "time": "1:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Karol Karg",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -15284,7 +15284,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
+    "instructor": "Abigail Rose",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -15504,7 +15504,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
+    "instructor": "Abigail Rose",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -16879,7 +16879,7 @@
     "time": "5:30 PM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
+    "instructor": "Flyn Woodward",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -17220,7 +17220,7 @@
     "time": "6:30 PM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
+    "instructor": "Flyn Woodward",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -19200,7 +19200,7 @@
     "time": "12:00 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha, Molly Williams",
+    "instructor": "Jose Da Rocha",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -20014,7 +20014,7 @@
     "time": "6:00 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Anton Anton",
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
@@ -22445,7 +22445,7 @@
     "time": "12:15 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Maeve O'Keeffe",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -22654,7 +22654,7 @@
     "time": "1:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Maeve O'Keeffe",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
