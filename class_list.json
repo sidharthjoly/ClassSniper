@@ -612,7 +612,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
@@ -634,7 +634,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 35
   },
   {
@@ -6387,7 +6387,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 22
   },
   {
@@ -6827,7 +6827,7 @@
     "class_type": "Events",
     "instructor": "Joey Bowling",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 31
   },
   {
