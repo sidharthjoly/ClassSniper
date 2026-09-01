@@ -2394,7 +2394,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2493,7 +2493,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Bridget Surdich",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 33
   },
   {
@@ -2757,7 +2757,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
