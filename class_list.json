@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book75029",
-    "date": "2026-09-03",
-    "time": "10:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book43975",
-    "date": "2026-09-03",
-    "time": "10:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 33
-  },
-  {
     "booking_id": "105book55253",
     "date": "2026-09-03",
     "time": "10:30 AM",
