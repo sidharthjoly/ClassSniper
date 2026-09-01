@@ -2636,7 +2636,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -4748,7 +4748,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -4869,7 +4869,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennifer Irvine",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -5012,7 +5012,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 23
   },
   {
@@ -5353,7 +5353,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -5705,7 +5705,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 34
   },
   {
@@ -5760,7 +5760,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -7234,7 +7234,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 14,
     "capacity": 34
   },
   {
