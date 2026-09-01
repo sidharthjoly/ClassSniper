@@ -1041,7 +1041,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -1360,7 +1360,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -3197,7 +3197,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -3219,7 +3219,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
