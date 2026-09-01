@@ -414,7 +414,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -1965,7 +1965,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -5408,7 +5408,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -21785,7 +21785,7 @@
     "time": "9:30 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -22016,7 +22016,7 @@
     "time": "10:30 AM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -22225,7 +22225,7 @@
     "time": "11:30 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Kim Hoffenberg",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
