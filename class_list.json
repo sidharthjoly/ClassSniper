@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book57373",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book56400",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book44615",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book86333",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book65674",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book69467",
-    "date": "2026-09-03",
-    "time": "6:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book42945",
     "date": "2026-09-03",
     "time": "6:30 AM",
@@ -4374,7 +4308,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -4704,7 +4638,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 23
   },
   {
