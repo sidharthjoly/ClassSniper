@@ -66,17 +66,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book41817",
-    "date": "2026-09-03",
-    "time": "6:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book57213",
     "date": "2026-09-03",
     "time": "6:00 AM",
@@ -264,39 +253,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book42945",
-    "date": "2026-09-03",
-    "time": "6:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book41869",
-    "date": "2026-09-03",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book33269",
-    "date": "2026-09-03",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book45659",
     "date": "2026-09-03",
     "time": "6:30 AM",
@@ -405,17 +361,6 @@
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book40408",
-    "date": "2026-09-03",
-    "time": "7:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
   },
   {
     "booking_id": "103book58498",
@@ -528,28 +473,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book29448",
-    "date": "2026-09-03",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book42580",
-    "date": "2026-09-03",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book56244",
     "date": "2026-09-03",
     "time": "7:15 AM",
@@ -614,28 +537,6 @@
     "location": "Surry Hills",
     "remaining_spots": 2,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book40512",
-    "date": "2026-09-03",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book33370",
-    "date": "2026-09-03",
-    "time": "7:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 35
   },
   {
     "booking_id": "106book45815",
@@ -713,17 +614,6 @@
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book42025",
-    "date": "2026-09-03",
-    "time": "8:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
   },
   {
     "booking_id": "103book57685",
@@ -812,28 +702,6 @@
     "location": "North Sydney",
     "remaining_spots": 13,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book42528",
-    "date": "2026-09-03",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book57290",
-    "date": "2026-09-03",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book71482",
@@ -944,17 +812,6 @@
     "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book42737",
-    "date": "2026-09-03",
-    "time": "9:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 24
   },
   {
     "booking_id": "103book40711",
@@ -1133,17 +990,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book42632",
-    "date": "2026-09-03",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book56956",
     "date": "2026-09-03",
     "time": "9:45 AM",
@@ -1175,17 +1021,6 @@
     "location": "Surry Hills",
     "remaining_spots": 10,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book43083",
-    "date": "2026-09-03",
-    "time": "10:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 32
   },
   {
     "booking_id": "103book57582",
@@ -1307,17 +1142,6 @@
     "location": "Merrylands",
     "remaining_spots": 31,
     "capacity": 33
-  },
-  {
-    "booking_id": "105book55253",
-    "date": "2026-09-03",
-    "time": "10:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 6,
-    "capacity": 24
   },
   {
     "booking_id": "104book38524",
@@ -1452,28 +1276,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book41921",
-    "date": "2026-09-03",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 34,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book55357",
-    "date": "2026-09-03",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book58213",
     "date": "2026-09-03",
     "time": "11:30 AM",
@@ -1527,17 +1329,6 @@
     "location": "Surry Hills",
     "remaining_spots": 16,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book42181",
-    "date": "2026-09-03",
-    "time": "12:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 7,
-    "capacity": 32
   },
   {
     "booking_id": "103book41112",
@@ -1672,28 +1463,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book40460",
-    "date": "2026-09-03",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 34,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book41712",
-    "date": "2026-09-03",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book65514",
     "date": "2026-09-03",
     "time": "12:15 PM",
@@ -1758,17 +1527,6 @@
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 32
-  },
-  {
-    "booking_id": "105book56018",
-    "date": "2026-09-03",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 24
   },
   {
     "booking_id": "106book45191",
@@ -1859,17 +1617,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book56121",
-    "date": "2026-09-03",
-    "time": "2:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book71515",
     "date": "2026-09-03",
     "time": "2:00 PM",
@@ -1925,17 +1672,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book50814",
-    "date": "2026-09-03",
-    "time": "3:00 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book39159",
     "date": "2026-09-03",
     "time": "3:00 PM",
@@ -1978,28 +1714,6 @@
     "location": "Marrickville",
     "remaining_spots": 6,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book42077",
-    "date": "2026-09-03",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book41660",
-    "date": "2026-09-03",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book57112",
@@ -2046,17 +1760,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book41973",
-    "date": "2026-09-03",
-    "time": "4:10 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book67653",
     "date": "2026-09-03",
     "time": "4:15 PM",
@@ -2101,17 +1804,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book42320",
-    "date": "2026-09-03",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book64774",
     "date": "2026-09-03",
     "time": "4:45 PM",
@@ -2132,28 +1824,6 @@
     "location": "Surry Hills",
     "remaining_spots": 2,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book43191",
-    "date": "2026-09-03",
-    "time": "5:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book40564",
-    "date": "2026-09-03",
-    "time": "5:00 PM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 22,
-    "capacity": 38
   },
   {
     "booking_id": "103book56904",
@@ -2209,17 +1879,6 @@
     "location": "North Sydney",
     "remaining_spots": 1,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book28946",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
   },
   {
     "booking_id": "103book67078",
@@ -2286,28 +1945,6 @@
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book42476",
-    "date": "2026-09-03",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book43032",
-    "date": "2026-09-03",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 35
   },
   {
     "booking_id": "103book64569",
@@ -2420,28 +2057,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book42682",
-    "date": "2026-09-03",
-    "time": "6:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34188",
-    "date": "2026-09-03",
-    "time": "6:00 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
     "booking_id": "103book57425",
     "date": "2026-09-03",
     "time": "6:00 PM",
@@ -2530,17 +2145,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29284",
-    "date": "2026-09-03",
-    "time": "6:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book54513",
     "date": "2026-09-03",
     "time": "6:15 PM",
@@ -2616,28 +2220,6 @@
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book42128",
-    "date": "2026-09-03",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book41764",
-    "date": "2026-09-03",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book58704",
@@ -2750,28 +2332,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book42893",
-    "date": "2026-09-03",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34439",
-    "date": "2026-09-03",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 37,
-    "capacity": 38
-  },
-  {
     "booking_id": "106book54619",
     "date": "2026-09-03",
     "time": "7:00 PM",
@@ -2836,17 +2396,6 @@
     "location": "Surry Hills",
     "remaining_spots": 10,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book55672",
-    "date": "2026-09-03",
-    "time": "7:15 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 24
   },
   {
     "booking_id": "106book45399",
@@ -3058,17 +2607,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book45173",
-    "date": "2026-09-04",
-    "time": "6:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 9,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book60323",
     "date": "2026-09-04",
     "time": "6:00 AM",
@@ -3245,39 +2783,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book44808",
-    "date": "2026-09-04",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 3,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book45017",
-    "date": "2026-09-04",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 29,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book44079",
-    "date": "2026-09-04",
-    "time": "6:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book60589",
     "date": "2026-09-04",
     "time": "6:30 AM",
@@ -3410,17 +2915,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book45275",
-    "date": "2026-09-04",
-    "time": "7:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book59802",
     "date": "2026-09-04",
     "time": "7:00 AM",
@@ -3520,28 +3014,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book44340",
-    "date": "2026-09-04",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book29386",
-    "date": "2026-09-04",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book74513",
     "date": "2026-09-04",
     "time": "7:15 AM",
@@ -3595,28 +3067,6 @@
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book44236",
-    "date": "2026-09-04",
-    "time": "7:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book44912",
-    "date": "2026-09-04",
-    "time": "7:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
   },
   {
     "booking_id": "106book47742",
@@ -3718,17 +3168,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book45330",
-    "date": "2026-09-04",
-    "time": "8:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book59698",
     "date": "2026-09-04",
     "time": "8:00 AM",
@@ -3828,28 +3267,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book51600",
-    "date": "2026-09-04",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book29888",
-    "date": "2026-09-04",
-    "time": "8:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book74614",
     "date": "2026-09-04",
     "time": "8:15 AM",
@@ -3927,17 +3344,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book45121",
-    "date": "2026-09-04",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book78694",
     "date": "2026-09-04",
     "time": "8:30 AM",
@@ -3967,7 +3373,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -3980,17 +3386,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book44444",
-    "date": "2026-09-04",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 24
   },
   {
     "booking_id": "103book40258",
@@ -4191,17 +3586,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book44652",
-    "date": "2026-09-04",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book67877",
     "date": "2026-09-04",
     "time": "9:45 AM",
@@ -4222,17 +3606,6 @@
     "location": "Surry Hills",
     "remaining_spots": 14,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45069",
-    "date": "2026-09-04",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 32
   },
   {
     "booking_id": "103book39332",
@@ -4367,17 +3740,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "105book44756",
-    "date": "2026-09-04",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book60691",
     "date": "2026-09-04",
     "time": "10:30 AM",
@@ -4440,7 +3802,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -4554,17 +3916,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book48697",
-    "date": "2026-09-04",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book71380",
     "date": "2026-09-04",
     "time": "11:15 AM",
@@ -4574,17 +3925,6 @@
     "location": "Surry Hills",
     "remaining_spots": 11,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book44704",
-    "date": "2026-09-04",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
   },
   {
     "booking_id": "103book59438",
@@ -4640,17 +3980,6 @@
     "location": "North Sydney",
     "remaining_spots": 22,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book44962",
-    "date": "2026-09-04",
-    "time": "12:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 32
   },
   {
     "booking_id": "103book41113",
@@ -4796,28 +4125,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book48801",
-    "date": "2026-09-04",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book55943",
-    "date": "2026-09-04",
-    "time": "12:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book67930",
     "date": "2026-09-04",
     "time": "12:15 PM",
@@ -4860,17 +4167,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book44026",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 30
   },
   {
     "booking_id": "103book59958",
@@ -4926,17 +4222,6 @@
     "location": "North Sydney",
     "remaining_spots": 38,
     "capacity": 40
-  },
-  {
-    "booking_id": "105book56448",
-    "date": "2026-09-04",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book47946",
@@ -5071,17 +4356,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "105book43973",
-    "date": "2026-09-04",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book47842",
     "date": "2026-09-04",
     "time": "2:00 PM",
@@ -5137,17 +4411,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book44131",
-    "date": "2026-09-04",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book40569",
     "date": "2026-09-04",
     "time": "3:00 PM",
@@ -5201,28 +4464,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book44288",
-    "date": "2026-09-04",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book44860",
-    "date": "2026-09-04",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "104book39731",
@@ -5335,17 +4576,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book48446",
-    "date": "2026-09-04",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book70152",
     "date": "2026-09-04",
     "time": "4:45 PM",
@@ -5355,17 +4585,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45225",
-    "date": "2026-09-04",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "106book47222",
@@ -5489,28 +4708,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book61284",
-    "date": "2026-09-04",
-    "time": "5:30 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "George Hoad",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book44183",
-    "date": "2026-09-04",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59022",
     "date": "2026-09-04",
     "time": "5:30 PM",
@@ -5586,17 +4783,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book44600",
-    "date": "2026-09-04",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book60746",
@@ -5753,17 +4939,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book44496",
-    "date": "2026-09-04",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book60798",
     "date": "2026-09-04",
     "time": "7:00 PM",
@@ -5795,17 +4970,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book45799",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book46300",
@@ -5885,28 +5049,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book46511",
-    "date": "2026-09-05",
-    "time": "7:30 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book46067",
-    "date": "2026-09-05",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book49275",
     "date": "2026-09-05",
     "time": "7:30 AM",
@@ -5949,28 +5091,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45851",
-    "date": "2026-09-05",
-    "time": "8:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book45538",
-    "date": "2026-09-05",
-    "time": "8:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book40907",
@@ -6046,7 +5166,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 22
   },
   {
@@ -6149,17 +5269,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book30262",
-    "date": "2026-09-05",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book61111",
     "date": "2026-09-05",
     "time": "8:15 AM",
@@ -6180,17 +5289,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book43310",
-    "date": "2026-09-05",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book74486",
@@ -6268,39 +5366,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45957",
-    "date": "2026-09-05",
-    "time": "8:45 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book45590",
-    "date": "2026-09-05",
-    "time": "9:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book45486",
-    "date": "2026-09-05",
-    "time": "9:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book72218",
@@ -6457,17 +5522,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book30158",
-    "date": "2026-09-05",
-    "time": "9:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book61423",
     "date": "2026-09-05",
     "time": "9:15 AM",
@@ -6508,17 +5562,6 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book46119",
-    "date": "2026-09-05",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -6587,28 +5630,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book45642",
-    "date": "2026-09-05",
-    "time": "10:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book45694",
-    "date": "2026-09-05",
-    "time": "10:00 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book72563",
@@ -6743,17 +5764,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book30056",
-    "date": "2026-09-05",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 34,
-    "capacity": 35
-  },
-  {
     "booking_id": "104book41690",
     "date": "2026-09-05",
     "time": "10:15 AM",
@@ -6774,17 +5784,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book43362",
-    "date": "2026-09-05",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book60010",
@@ -6862,17 +5861,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book19568",
-    "date": "2026-09-05",
-    "time": "11:00 AM",
-    "name": "One Coach Academy",
-    "class_type": "OneCoach",
-    "instructor": "OP Staff",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book72317",
@@ -6985,17 +5973,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book46012",
-    "date": "2026-09-05",
-    "time": "11:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "104book41848",
     "date": "2026-09-05",
     "time": "11:15 AM",
@@ -7027,17 +6004,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book46171",
-    "date": "2026-09-05",
-    "time": "11:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book60062",
@@ -7128,17 +6094,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book43258",
-    "date": "2026-09-05",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "104book25571",
     "date": "2026-09-05",
     "time": "12:15 PM",
@@ -7159,28 +6114,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book46223",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book52629",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book72164",
@@ -7304,28 +6237,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book45434",
-    "date": "2026-09-05",
-    "time": "1:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book46275",
-    "date": "2026-09-05",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book74487",
     "date": "2026-09-05",
     "time": "1:30 PM",
@@ -7423,17 +6334,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book46461",
-    "date": "2026-09-05",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book74488",
@@ -7612,17 +6512,6 @@
     "capacity": 31
   },
   {
-    "booking_id": "105book46618",
-    "date": "2026-09-06",
-    "time": "8:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "106book73305",
     "date": "2026-09-06",
     "time": "8:00 AM",
@@ -7665,17 +6554,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book46775",
-    "date": "2026-09-06",
-    "time": "8:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book65255",
@@ -7766,17 +6644,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book46929",
-    "date": "2026-09-06",
-    "time": "9:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book69512",
     "date": "2026-09-06",
     "time": "9:00 AM",
@@ -7852,28 +6719,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book46827",
-    "date": "2026-09-06",
-    "time": "9:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book46670",
-    "date": "2026-09-06",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book65359",
@@ -7953,17 +6798,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book61969",
-    "date": "2026-09-06",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book69409",
     "date": "2026-09-06",
     "time": "10:00 AM",
@@ -8030,17 +6864,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book30364",
-    "date": "2026-09-06",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "107book73148",
     "date": "2026-09-06",
     "time": "10:15 AM",
@@ -8050,28 +6873,6 @@
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book47192",
-    "date": "2026-09-06",
-    "time": "10:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book47036",
-    "date": "2026-09-06",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book65768",
@@ -8206,28 +7007,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book46984",
-    "date": "2026-09-06",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book46879",
-    "date": "2026-09-06",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book66074",
     "date": "2026-09-06",
     "time": "11:30 AM",
@@ -8305,17 +7084,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book56708",
-    "date": "2026-09-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book65872",
     "date": "2026-09-06",
     "time": "12:30 PM",
@@ -8371,17 +7139,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book56810",
-    "date": "2026-09-06",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book73560",
     "date": "2026-09-06",
     "time": "1:30 PM",
@@ -8404,17 +7161,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book47244",
-    "date": "2026-09-06",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book74344",
     "date": "2026-09-06",
     "time": "3:00 PM",
@@ -8435,17 +7181,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book47140",
-    "date": "2026-09-06",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "107book55775",
@@ -8589,28 +7324,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book37263",
-    "date": "2026-09-07",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book37404",
-    "date": "2026-09-07",
-    "time": "6:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book50830",
@@ -8789,39 +7502,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book35658",
-    "date": "2026-09-07",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32083",
-    "date": "2026-09-07",
-    "time": "6:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book37263",
-    "date": "2026-09-07",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book57023",
     "date": "2026-09-07",
     "time": "6:30 AM",
@@ -8941,28 +7621,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book37455",
-    "date": "2026-09-07",
-    "time": "7:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book62533",
-    "date": "2026-09-07",
-    "time": "7:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book48941",
@@ -9086,17 +7744,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book59781",
-    "date": "2026-09-07",
-    "time": "7:15 AM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book48889",
     "date": "2026-09-07",
     "time": "7:15 AM",
@@ -9128,28 +7775,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book35709",
-    "date": "2026-09-07",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32184",
-    "date": "2026-09-07",
-    "time": "7:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book66766",
@@ -9238,28 +7863,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book62838",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book36152",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book50514",
@@ -9427,17 +8030,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "105book37315",
-    "date": "2026-09-07",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book48733",
     "date": "2026-09-07",
     "time": "9:00 AM",
@@ -9592,17 +8184,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book37107",
-    "date": "2026-09-07",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book59117",
     "date": "2026-09-07",
     "time": "9:45 AM",
@@ -9623,28 +8204,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book37613",
-    "date": "2026-09-07",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book37107",
-    "date": "2026-09-07",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book39333",
@@ -9755,17 +8314,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book51440",
-    "date": "2026-09-07",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "104book34804",
@@ -9933,17 +8481,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book62943",
-    "date": "2026-09-07",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book72716",
     "date": "2026-09-07",
     "time": "11:30 AM",
@@ -9975,17 +8512,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book37561",
-    "date": "2026-09-07",
-    "time": "12:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41114",
@@ -10109,28 +8635,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book35762",
-    "date": "2026-09-07",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book36795",
-    "date": "2026-09-07",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book33753",
     "date": "2026-09-07",
     "time": "12:15 PM",
@@ -10186,28 +8690,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book31962",
-    "date": "2026-09-07",
-    "time": "12:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book36795",
-    "date": "2026-09-07",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book49669",
     "date": "2026-09-07",
     "time": "12:30 PM",
@@ -10217,17 +8699,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book36636",
-    "date": "2026-09-07",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book67416",
@@ -10274,17 +8745,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book47773",
-    "date": "2026-09-07",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "107book59804",
     "date": "2026-09-07",
     "time": "1:15 PM",
@@ -10316,17 +8776,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book36636",
-    "date": "2026-09-07",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book49305",
@@ -10369,17 +8818,6 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book63048",
-    "date": "2026-09-07",
-    "time": "2:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -10437,17 +8875,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book37509",
-    "date": "2026-09-07",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book49617",
@@ -10527,28 +8954,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book34753",
-    "date": "2026-09-07",
-    "time": "4:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32285",
-    "date": "2026-09-07",
-    "time": "4:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book58199",
     "date": "2026-09-07",
     "time": "4:30 PM",
@@ -10571,17 +8976,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book63153",
-    "date": "2026-09-07",
-    "time": "4:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book59597",
     "date": "2026-09-07",
     "time": "4:45 PM",
@@ -10591,17 +8985,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book36951",
-    "date": "2026-09-07",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book50152",
@@ -10703,17 +9086,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book28443",
-    "date": "2026-09-07",
-    "time": "5:15 PM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book67071",
     "date": "2026-09-07",
     "time": "5:15 PM",
@@ -10778,39 +9150,6 @@
     "location": "Surry Hills",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book57039",
-    "date": "2026-09-07",
-    "time": "5:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32463",
-    "date": "2026-09-07",
-    "time": "5:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book36585",
-    "date": "2026-09-07",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book47796",
@@ -10890,17 +9229,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book36585",
-    "date": "2026-09-07",
-    "time": "5:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book74104",
     "date": "2026-09-07",
     "time": "5:45 PM",
@@ -10921,17 +9249,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book37055",
-    "date": "2026-09-07",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book50464",
@@ -11033,17 +9350,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "105book28274",
-    "date": "2026-09-07",
-    "time": "6:15 PM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book50048",
     "date": "2026-09-07",
     "time": "6:15 PM",
@@ -11108,17 +9414,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book32385",
-    "date": "2026-09-07",
-    "time": "6:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book50100",
@@ -11220,17 +9515,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book62776",
-    "date": "2026-09-07",
-    "time": "6:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book67230",
     "date": "2026-09-07",
     "time": "6:45 PM",
@@ -11251,28 +9535,6 @@
     "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book37003",
-    "date": "2026-09-07",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34543",
-    "date": "2026-09-07",
-    "time": "7:00 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Kristine Gimenez",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book50360",
@@ -11339,17 +9601,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book36219",
-    "date": "2026-09-07",
-    "time": "7:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book74204",
@@ -11495,17 +9746,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book36219",
-    "date": "2026-09-07",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book75578",
     "date": "2026-09-07",
     "time": "7:45 PM",
@@ -11581,39 +9821,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book39544",
-    "date": "2026-09-08",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book50070",
-    "date": "2026-09-08",
-    "time": "6:00 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book38402",
-    "date": "2026-09-08",
-    "time": "6:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book52541",
@@ -11715,17 +9922,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book50070",
-    "date": "2026-09-08",
-    "time": "6:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book52438",
     "date": "2026-09-08",
     "time": "6:15 AM",
@@ -11801,39 +9997,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book31661",
-    "date": "2026-09-08",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book39544",
-    "date": "2026-09-08",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book35606",
-    "date": "2026-09-08",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "106book40264",
@@ -11922,39 +10085,6 @@
     "location": "Surry Hills",
     "remaining_spots": 19,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book39597",
-    "date": "2026-09-08",
-    "time": "7:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book38508",
-    "date": "2026-09-08",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book49755",
-    "date": "2026-09-08",
-    "time": "7:00 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book52594",
@@ -12067,28 +10197,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book39597",
-    "date": "2026-09-08",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book49755",
-    "date": "2026-09-08",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book51904",
     "date": "2026-09-08",
     "time": "7:15 AM",
@@ -12153,28 +10261,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book58120",
-    "date": "2026-09-08",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book31761",
-    "date": "2026-09-08",
-    "time": "7:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book53777",
@@ -12252,28 +10338,6 @@
     "location": "Surry Hills",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book39491",
-    "date": "2026-09-08",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book38243",
-    "date": "2026-09-08",
-    "time": "8:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book62808",
@@ -12463,17 +10527,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "105book39703",
-    "date": "2026-09-08",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book71581",
     "date": "2026-09-08",
     "time": "9:00 AM",
@@ -12628,17 +10681,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book39491",
-    "date": "2026-09-08",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book62110",
     "date": "2026-09-08",
     "time": "9:45 AM",
@@ -12659,28 +10701,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book38296",
-    "date": "2026-09-08",
-    "time": "10:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book63281",
-    "date": "2026-09-08",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book40841",
@@ -12791,17 +10811,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book54696",
-    "date": "2026-09-08",
-    "time": "10:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book49826",
@@ -12925,17 +10934,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book54801",
-    "date": "2026-09-08",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book52703",
     "date": "2026-09-08",
     "time": "11:30 AM",
@@ -12978,17 +10976,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book38455",
-    "date": "2026-09-08",
-    "time": "12:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41115",
@@ -13134,17 +11121,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book36028",
-    "date": "2026-09-08",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sarah Goring",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "107book62007",
     "date": "2026-09-08",
     "time": "12:15 PM",
@@ -13176,17 +11152,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book54696",
-    "date": "2026-09-08",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book73221",
@@ -13266,17 +11231,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book35870",
-    "date": "2026-09-08",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sarah Goring",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "107book61611",
     "date": "2026-09-08",
     "time": "1:15 PM",
@@ -13308,17 +11262,6 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "105book63386",
-    "date": "2026-09-08",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book53671",
@@ -13429,17 +11372,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book38190",
-    "date": "2026-09-08",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book49879",
@@ -13563,17 +11495,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book39226",
-    "date": "2026-09-08",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book63333",
     "date": "2026-09-08",
     "time": "4:45 PM",
@@ -13583,17 +11504,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book38347",
-    "date": "2026-09-08",
-    "time": "5:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book52169",
@@ -13695,17 +11605,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book39385",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book54625",
     "date": "2026-09-08",
     "time": "5:15 PM",
@@ -13770,28 +11669,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book31582",
-    "date": "2026-09-08",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book39014",
-    "date": "2026-09-08",
-    "time": "5:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book64210",
@@ -13871,17 +11748,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book39014",
-    "date": "2026-09-08",
-    "time": "5:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book61504",
     "date": "2026-09-08",
     "time": "5:45 PM",
@@ -13891,28 +11757,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book34701",
-    "date": "2026-09-08",
-    "time": "6:00 PM",
-    "name": "Dancehall",
-    "class_type": "Dance Series",
-    "instructor": "Whitney Bertrand",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book38084",
-    "date": "2026-09-08",
-    "time": "6:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book63906",
@@ -14014,17 +11858,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book28675",
-    "date": "2026-09-08",
-    "time": "6:15 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book64344",
     "date": "2026-09-08",
     "time": "6:15 PM",
@@ -14089,28 +11922,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book31861",
-    "date": "2026-09-08",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book39067",
-    "date": "2026-09-08",
-    "time": "6:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book52113",
@@ -14212,17 +12023,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book39067",
-    "date": "2026-09-08",
-    "time": "6:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book54307",
     "date": "2026-09-08",
     "time": "6:45 PM",
@@ -14243,28 +12043,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "105book34596",
-    "date": "2026-09-08",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Lauren Buck",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book38137",
-    "date": "2026-09-08",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book51745",
@@ -14320,28 +12098,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book28545",
-    "date": "2026-09-08",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book39279",
-    "date": "2026-09-08",
-    "time": "7:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book63600",
@@ -14487,17 +12243,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "105book39279",
-    "date": "2026-09-08",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book64160",
     "date": "2026-09-09",
     "time": "5:15 AM",
@@ -14562,39 +12307,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book27978",
-    "date": "2026-09-09",
-    "time": "6:00 AM",
-    "name": "One Run Darling Harbour",
-    "class_type": "One Run",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 50,
-    "capacity": 50
-  },
-  {
-    "booking_id": "105book39861",
-    "date": "2026-09-09",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40042",
-    "date": "2026-09-09",
-    "time": "6:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book64465",
@@ -14729,17 +12441,6 @@
     "capacity": 50
   },
   {
-    "booking_id": "105book28778",
-    "date": "2026-09-09",
-    "time": "6:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Emily Romania",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book55565",
     "date": "2026-09-09",
     "time": "6:15 AM",
@@ -14804,39 +12505,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book40201",
-    "date": "2026-09-09",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book39861",
-    "date": "2026-09-09",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book32685",
-    "date": "2026-09-09",
-    "time": "6:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book42263",
@@ -14949,28 +12617,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book41609",
-    "date": "2026-09-09",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40826",
-    "date": "2026-09-09",
-    "time": "7:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book55253",
     "date": "2026-09-09",
     "time": "7:00 AM",
@@ -15070,28 +12716,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29080",
-    "date": "2026-09-09",
-    "time": "7:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Emily Romania",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book41609",
-    "date": "2026-09-09",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book54993",
     "date": "2026-09-09",
     "time": "7:15 AM",
@@ -15145,28 +12769,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book33169",
-    "date": "2026-09-09",
-    "time": "7:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book40305",
-    "date": "2026-09-09",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "106book69561",
@@ -15277,28 +12879,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book63458",
-    "date": "2026-09-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book39911",
-    "date": "2026-09-09",
-    "time": "8:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book55513",
@@ -15433,17 +13013,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "105book40253",
-    "date": "2026-09-09",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book65625",
     "date": "2026-09-09",
     "time": "8:30 AM",
@@ -15497,17 +13066,6 @@
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book63563",
-    "date": "2026-09-09",
-    "time": "9:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book40261",
@@ -15675,28 +13233,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book41349",
-    "date": "2026-09-09",
-    "time": "10:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40668",
-    "date": "2026-09-09",
-    "time": "10:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book40842",
     "date": "2026-09-09",
     "time": "10:00 AM",
@@ -15783,17 +13319,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book28847",
-    "date": "2026-09-09",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "106book61143",
@@ -15972,17 +13497,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "105book41401",
-    "date": "2026-09-09",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book55409",
     "date": "2026-09-09",
     "time": "11:30 AM",
@@ -16014,17 +13528,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book40721",
-    "date": "2026-09-09",
-    "time": "12:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41116",
@@ -16148,28 +13651,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book40097",
-    "date": "2026-09-09",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book41089",
-    "date": "2026-09-09",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book62958",
     "date": "2026-09-09",
     "time": "12:15 PM",
@@ -16212,17 +13693,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book41089",
-    "date": "2026-09-09",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book55305",
@@ -16313,17 +13783,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book38992",
-    "date": "2026-09-09",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "107book49789",
     "date": "2026-09-09",
     "time": "1:15 PM",
@@ -16355,17 +13814,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book63796",
-    "date": "2026-09-09",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book55201",
@@ -16412,17 +13860,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book41297",
-    "date": "2026-09-09",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book55617",
     "date": "2026-09-09",
     "time": "2:30 PM",
@@ -16432,17 +13869,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book41297",
-    "date": "2026-09-09",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "104book38000",
@@ -16487,39 +13913,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book63868",
-    "date": "2026-09-09",
-    "time": "3:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book39809",
-    "date": "2026-09-09",
-    "time": "4:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book40357",
-    "date": "2026-09-09",
-    "time": "4:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book55045",
@@ -16632,17 +14025,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book41037",
-    "date": "2026-09-09",
-    "time": "4:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book62376",
     "date": "2026-09-09",
     "time": "4:45 PM",
@@ -16663,28 +14045,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book39966",
-    "date": "2026-09-09",
-    "time": "5:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book40149",
-    "date": "2026-09-09",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book55149",
@@ -16797,17 +14157,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "105book29186",
-    "date": "2026-09-09",
-    "time": "5:15 PM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book56089",
     "date": "2026-09-09",
     "time": "5:15 PM",
@@ -16861,28 +14210,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book40881",
-    "date": "2026-09-09",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book32867",
-    "date": "2026-09-09",
-    "time": "5:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book56536",
@@ -16973,17 +14300,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book40881",
-    "date": "2026-09-09",
-    "time": "5:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book69331",
     "date": "2026-09-09",
     "time": "5:45 PM",
@@ -16993,28 +14309,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book40776",
-    "date": "2026-09-09",
-    "time": "6:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34649",
-    "date": "2026-09-09",
-    "time": "6:00 PM",
-    "name": "Reggeaton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book55721",
@@ -17127,17 +14421,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book48348",
-    "date": "2026-09-09",
-    "time": "6:15 PM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 34,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book52327",
     "date": "2026-09-09",
     "time": "6:15 PM",
@@ -17202,28 +14485,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book41245",
-    "date": "2026-09-09",
-    "time": "6:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book32565",
-    "date": "2026-09-09",
-    "time": "6:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book54832",
@@ -17303,17 +14564,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book41245",
-    "date": "2026-09-09",
-    "time": "6:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book55879",
     "date": "2026-09-09",
     "time": "6:45 PM",
@@ -17334,28 +14584,6 @@
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 21
-  },
-  {
-    "booking_id": "105book40618",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34492",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "106book41670",
@@ -17422,17 +14650,6 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "105book59888",
-    "date": "2026-09-09",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Shane Collard",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "106book70036",
@@ -17534,17 +14751,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book63691",
-    "date": "2026-09-09",
-    "time": "7:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book44775",
     "date": "2026-09-10",
     "time": "5:15 AM",
@@ -17609,28 +14815,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book41818",
-    "date": "2026-09-10",
-    "time": "6:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book42946",
-    "date": "2026-09-10",
-    "time": "6:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book57214",
@@ -17820,39 +15004,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book33270",
-    "date": "2026-09-10",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book41870",
-    "date": "2026-09-10",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book42946",
-    "date": "2026-09-10",
-    "time": "6:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book45660",
     "date": "2026-09-10",
     "time": "6:30 AM",
@@ -17961,28 +15112,6 @@
     "location": "Surry Hills",
     "remaining_spots": 19,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book42581",
-    "date": "2026-09-10",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40409",
-    "date": "2026-09-10",
-    "time": "7:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book57741",
@@ -18095,28 +15224,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29449",
-    "date": "2026-09-10",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book42581",
-    "date": "2026-09-10",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book56245",
     "date": "2026-09-10",
     "time": "7:15 AM",
@@ -18170,28 +15277,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book40513",
-    "date": "2026-09-10",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book33371",
-    "date": "2026-09-10",
-    "time": "7:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "106book45816",
@@ -18271,28 +15356,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book42026",
-    "date": "2026-09-10",
-    "time": "8:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book42529",
-    "date": "2026-09-10",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book71698",
     "date": "2026-09-10",
     "time": "8:00 AM",
@@ -18368,28 +15431,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book57291",
-    "date": "2026-09-10",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book42529",
-    "date": "2026-09-10",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book71483",
@@ -18500,17 +15541,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book42633",
-    "date": "2026-09-10",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book40262",
@@ -18678,17 +15708,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book42633",
-    "date": "2026-09-10",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book56957",
     "date": "2026-09-10",
     "time": "9:45 AM",
@@ -18720,28 +15739,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book64101",
-    "date": "2026-09-10",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book43084",
-    "date": "2026-09-10",
-    "time": "10:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book40843",
@@ -18997,39 +15994,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book41922",
-    "date": "2026-09-10",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book55358",
-    "date": "2026-09-10",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book56019",
-    "date": "2026-09-10",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book58214",
     "date": "2026-09-10",
     "time": "11:30 AM",
@@ -19083,17 +16047,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book42182",
-    "date": "2026-09-10",
-    "time": "12:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book57790",
@@ -19228,17 +16181,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book40461",
-    "date": "2026-09-10",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "107book65515",
     "date": "2026-09-10",
     "time": "12:15 PM",
@@ -19283,17 +16225,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "105book55358",
-    "date": "2026-09-10",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book57901",
     "date": "2026-09-10",
     "time": "12:30 PM",
@@ -19314,17 +16245,6 @@
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "105book56019",
-    "date": "2026-09-10",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book45192",
@@ -19404,17 +16324,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book64206",
-    "date": "2026-09-10",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book58162",
     "date": "2026-09-10",
     "time": "1:30 PM",
@@ -19424,17 +16333,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book56122",
-    "date": "2026-09-10",
-    "time": "2:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book71516",
@@ -19478,17 +16376,6 @@
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
     "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book56122",
-    "date": "2026-09-10",
-    "time": "2:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -19547,17 +16434,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book42078",
-    "date": "2026-09-10",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "103book57113",
     "date": "2026-09-10",
     "time": "4:00 PM",
@@ -19600,17 +16476,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book41974",
-    "date": "2026-09-10",
-    "time": "4:10 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "101book67654",
@@ -19657,17 +16522,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book42321",
-    "date": "2026-09-10",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book64775",
     "date": "2026-09-10",
     "time": "4:45 PM",
@@ -19688,28 +16542,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book43192",
-    "date": "2026-09-10",
-    "time": "5:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book40565",
-    "date": "2026-09-10",
-    "time": "5:00 PM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book56349",
@@ -19765,17 +16597,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book28947",
-    "date": "2026-09-10",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book67079",
@@ -19842,28 +16663,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book42477",
-    "date": "2026-09-10",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book43033",
-    "date": "2026-09-10",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book58443",
@@ -19965,17 +16764,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book42477",
-    "date": "2026-09-10",
-    "time": "5:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book54514",
     "date": "2026-09-10",
     "time": "5:45 PM",
@@ -19985,28 +16773,6 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book42683",
-    "date": "2026-09-10",
-    "time": "6:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34189",
-    "date": "2026-09-10",
-    "time": "6:00 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book57426",
@@ -20097,17 +16863,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29285",
-    "date": "2026-09-10",
-    "time": "6:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book54514",
     "date": "2026-09-10",
     "time": "6:15 PM",
@@ -20183,28 +16938,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book42129",
-    "date": "2026-09-10",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book41765",
-    "date": "2026-09-10",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book64675",
@@ -20295,17 +17028,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book55673",
-    "date": "2026-09-10",
-    "time": "6:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book73127",
     "date": "2026-09-10",
     "time": "6:45 PM",
@@ -20326,28 +17048,6 @@
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book34440",
-    "date": "2026-09-10",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book42894",
-    "date": "2026-09-10",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "106book54620",
@@ -20414,17 +17114,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book55673",
-    "date": "2026-09-10",
-    "time": "7:15 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book54294",
@@ -20548,17 +17237,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book41765",
-    "date": "2026-09-10",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book54294",
     "date": "2026-09-10",
     "time": "7:45 PM",
@@ -20645,28 +17323,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45174",
-    "date": "2026-09-11",
-    "time": "6:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book44809",
-    "date": "2026-09-11",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book60324",
@@ -20845,39 +17501,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book44080",
-    "date": "2026-09-11",
-    "time": "6:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book45018",
-    "date": "2026-09-11",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book44809",
-    "date": "2026-09-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book60590",
     "date": "2026-09-11",
     "time": "6:30 AM",
@@ -21010,28 +17633,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book45276",
-    "date": "2026-09-11",
-    "time": "7:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book44341",
-    "date": "2026-09-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59803",
     "date": "2026-09-11",
     "time": "7:00 AM",
@@ -21131,28 +17732,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29387",
-    "date": "2026-09-11",
-    "time": "7:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book44341",
-    "date": "2026-09-11",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book58971",
     "date": "2026-09-11",
     "time": "7:15 AM",
@@ -21206,28 +17785,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book44237",
-    "date": "2026-09-11",
-    "time": "7:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book44913",
-    "date": "2026-09-11",
-    "time": "7:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "106book47743",
@@ -21329,28 +17886,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book45331",
-    "date": "2026-09-11",
-    "time": "8:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book51801",
-    "date": "2026-09-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59699",
     "date": "2026-09-11",
     "time": "8:00 AM",
@@ -21450,28 +17985,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book51801",
-    "date": "2026-09-11",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book29889",
-    "date": "2026-09-11",
-    "time": "8:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book74615",
     "date": "2026-09-11",
     "time": "8:15 AM",
@@ -21549,17 +18062,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book45122",
-    "date": "2026-09-11",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book71959",
     "date": "2026-09-11",
     "time": "8:30 AM",
@@ -21602,17 +18104,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "105book44445",
-    "date": "2026-09-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book59543",
@@ -21813,17 +18304,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book44653",
-    "date": "2026-09-11",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book67878",
     "date": "2026-09-11",
     "time": "9:45 AM",
@@ -21844,28 +18324,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book44653",
-    "date": "2026-09-11",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book45070",
-    "date": "2026-09-11",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book39337",
@@ -22176,17 +18634,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book48698",
-    "date": "2026-09-11",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book71381",
     "date": "2026-09-11",
     "time": "11:15 AM",
@@ -22196,17 +18643,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book44705",
-    "date": "2026-09-11",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book59439",
@@ -22262,17 +18698,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book44963",
-    "date": "2026-09-11",
-    "time": "12:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41118",
@@ -22418,28 +18843,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book48802",
-    "date": "2026-09-11",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 37,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book55944",
-    "date": "2026-09-11",
-    "time": "12:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book53300",
     "date": "2026-09-11",
     "time": "12:15 PM",
@@ -22482,28 +18885,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book55944",
-    "date": "2026-09-11",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book44027",
-    "date": "2026-09-11",
-    "time": "12:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book59959",
@@ -22559,17 +18940,6 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
-  },
-  {
-    "booking_id": "105book56449",
-    "date": "2026-09-11",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book47947",
@@ -22680,17 +19050,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "105book56449",
-    "date": "2026-09-11",
-    "time": "1:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
   },
   {
     "booking_id": "103book59751",
@@ -22825,17 +19184,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "105book44861",
-    "date": "2026-09-11",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "104book39732",
     "date": "2026-09-11",
     "time": "4:00 PM",
@@ -22955,17 +19303,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book45226",
-    "date": "2026-09-11",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "106book47223",
@@ -23089,17 +19426,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book61285",
-    "date": "2026-09-11",
-    "time": "5:30 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "George Hoad",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "103book59023",
     "date": "2026-09-11",
     "time": "5:30 PM",
@@ -23175,17 +19501,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "105book44601",
-    "date": "2026-09-11",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book60747",
@@ -23340,17 +19655,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book44497",
-    "date": "2026-09-11",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book60799",
