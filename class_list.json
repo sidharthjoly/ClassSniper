@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book48402",
-    "date": "2026-09-04",
-    "time": "10:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book44756",
     "date": "2026-09-04",
     "time": "10:30 AM",
