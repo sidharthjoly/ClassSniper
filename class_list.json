@@ -667,7 +667,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -1129,7 +1129,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
