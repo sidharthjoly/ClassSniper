@@ -2394,7 +2394,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
@@ -5122,7 +5122,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 34
   },
   {
