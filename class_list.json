@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book60902",
-    "date": "2026-09-04",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Maggie Dixon-Best",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book60533",
-    "date": "2026-09-04",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book77248",
-    "date": "2026-09-04",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book79211",
-    "date": "2026-09-04",
-    "time": "9:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book44652",
     "date": "2026-09-04",
     "time": "9:45 AM",
