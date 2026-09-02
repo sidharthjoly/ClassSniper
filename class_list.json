@@ -425,7 +425,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -920,7 +920,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
@@ -1140,7 +1140,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -2812,7 +2812,7 @@
     "class_type": "Spin Series",
     "instructor": "Andrew Lloyd",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 38
   },
   {
