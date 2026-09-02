@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book57848",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book78105",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Dante Devitt",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book58809",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book45399",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38573",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Zoe Downing",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book69311",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book54293",
     "date": "2026-09-03",
     "time": "7:45 PM",
@@ -3175,7 +3109,7 @@
     "class_type": "Events",
     "instructor": "Melissa Passe-De Silva",
     "location": "Merrylands",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 34
   },
   {
