@@ -876,7 +876,7 @@
     "class_type": "Mat Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 36
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -4627,7 +4627,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
