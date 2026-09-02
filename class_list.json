@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book59854",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book59334",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book74412",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book51594",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book67253",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book70046",
-    "date": "2026-09-04",
-    "time": "6:15 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book44808",
     "date": "2026-09-04",
     "time": "6:30 AM",
@@ -5870,7 +5804,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
