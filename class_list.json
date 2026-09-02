@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book54513",
-    "date": "2026-09-03",
-    "time": "5:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book42682",
     "date": "2026-09-03",
     "time": "6:00 PM",
@@ -513,7 +502,7 @@
     "class_type": "Dance Series",
     "instructor": "Dante Devitt",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -19026,7 +19015,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
