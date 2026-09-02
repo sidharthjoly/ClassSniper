@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book47690",
-    "date": "2026-09-04",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book57619",
-    "date": "2026-09-04",
-    "time": "9:15 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Viola Jokudu",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book60902",
     "date": "2026-09-04",
     "time": "9:30 AM",
