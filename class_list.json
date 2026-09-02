@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59750",
-    "date": "2026-09-04",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book47842",
-    "date": "2026-09-04",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 21
-  },
-  {
     "booking_id": "105book43973",
     "date": "2026-09-04",
     "time": "2:00 PM",
@@ -1195,7 +1173,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 40
   },
   {
