@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book67653",
-    "date": "2026-09-03",
-    "time": "4:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book68023",
-    "date": "2026-09-03",
-    "time": "4:15 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book58265",
     "date": "2026-09-03",
     "time": "4:30 PM",
@@ -3230,7 +3208,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
@@ -4715,7 +4693,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
