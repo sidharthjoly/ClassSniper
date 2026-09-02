@@ -1272,7 +1272,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -3098,7 +3098,7 @@
     "class_type": "Events",
     "instructor": "Melissa Passe-De Silva",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 22,
     "capacity": 34
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Events",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 31
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
