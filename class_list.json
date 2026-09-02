@@ -854,7 +854,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -1008,7 +1008,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -2856,7 +2856,7 @@
     "class_type": "Events",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 33
   },
   {
@@ -6119,7 +6119,7 @@
     "booking_id": "105book59781",
     "date": "2026-09-07",
     "time": "7:15 AM",
-    "name": "The Zone",
+    "name": "Squad",
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
@@ -10136,7 +10136,7 @@
     "time": "12:00 PM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
+    "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -10290,7 +10290,7 @@
     "time": "1:00 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
+    "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -11044,12 +11044,12 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book28675",
+    "booking_id": "105book65096",
     "date": "2026-09-08",
     "time": "6:15 PM",
-    "name": "Surge.",
+    "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -11350,17 +11350,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book28545",
-    "date": "2026-09-08",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "105book39279",
@@ -11929,7 +11918,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -12479,7 +12468,7 @@
     "time": "8:30 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -20273,17 +20262,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "107book42761",
-    "date": "2026-09-11",
-    "time": "6:00 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "North Sydney",
-    "remaining_spots": 40,
-    "capacity": 40
-  },
-  {
     "booking_id": "101book70806",
     "date": "2026-09-11",
     "time": "6:05 PM",
@@ -20872,7 +20850,7 @@
     "time": "8:30 AM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Monique Cheng",
+    "instructor": "Lily Jones",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -21189,9 +21167,9 @@
     "booking_id": "107book84683",
     "date": "2026-09-12",
     "time": "9:30 AM",
-    "name": "Squad",
+    "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Monique Cheng",
+    "instructor": "Lily Jones",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -22049,7 +22027,7 @@
     "time": "3:30 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -22093,7 +22071,7 @@
     "time": "4:30 PM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
