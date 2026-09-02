@@ -546,7 +546,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2361,7 +2361,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -2955,7 +2955,7 @@
     "class_type": "Spin Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 40
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Creche",
     "instructor": "Medina Sadiki",
     "location": "Merrylands",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Events",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 31
   },
   {
