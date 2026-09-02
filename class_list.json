@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book44026",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book59958",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book47946",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book53061",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40200",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book42075",
-    "date": "2026-09-04",
-    "time": "12:30 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 38,
-    "capacity": 40
-  },
-  {
     "booking_id": "105book56448",
     "date": "2026-09-04",
     "time": "1:00 PM",
@@ -997,7 +931,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -1096,7 +1030,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 38
   },
   {
@@ -1690,7 +1624,7 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 23
   },
   {
