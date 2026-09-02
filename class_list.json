@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book79801",
-    "date": "2026-09-04",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 22,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59490",
     "date": "2026-09-04",
     "time": "2:30 PM",
@@ -1646,7 +1635,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 28
   },
   {
