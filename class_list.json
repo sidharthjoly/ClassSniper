@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book74004",
-    "date": "2026-09-04",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book44444",
     "date": "2026-09-04",
     "time": "9:00 AM",
@@ -2592,7 +2581,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 40
   },
   {
