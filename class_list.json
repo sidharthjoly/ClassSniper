@@ -491,7 +491,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -1932,7 +1932,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 28
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
