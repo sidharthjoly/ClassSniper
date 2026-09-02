@@ -733,7 +733,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1030,7 +1030,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 35
   },
   {
@@ -2119,7 +2119,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 34
   },
   {
@@ -2383,7 +2383,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
