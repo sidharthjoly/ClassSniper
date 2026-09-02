@@ -513,7 +513,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -766,7 +766,7 @@
     "class_type": "S&C Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -2504,7 +2504,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 34
   },
   {
@@ -2900,7 +2900,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 22
   },
   {
@@ -3802,7 +3802,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -3967,7 +3967,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 22
   },
   {
@@ -4616,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
