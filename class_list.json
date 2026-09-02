@@ -84,7 +84,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -854,7 +854,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -2130,7 +2130,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
@@ -4561,7 +4561,7 @@
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
