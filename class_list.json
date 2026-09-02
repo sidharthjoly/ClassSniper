@@ -2812,7 +2812,7 @@
     "class_type": "Spin Series",
     "instructor": "Andrew Lloyd",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -4275,7 +4275,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 22
   },
   {
@@ -4319,7 +4319,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4418,7 +4418,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 22
   },
   {
