@@ -810,7 +810,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -854,7 +854,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -4429,7 +4429,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
