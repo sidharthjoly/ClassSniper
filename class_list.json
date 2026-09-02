@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28946",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book67078",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 5,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book70655",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book65726",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67812",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book67200",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book67973",
-    "date": "2026-09-03",
-    "time": "5:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book42476",
     "date": "2026-09-03",
     "time": "5:30 PM",
@@ -3934,7 +3857,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -4341,7 +4264,7 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
@@ -4814,7 +4737,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
