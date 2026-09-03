@@ -414,7 +414,7 @@
     "class_type": "Events",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 21
   },
   {
@@ -722,7 +722,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -1426,7 +1426,7 @@
     "class_type": "Events",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 21
   },
   {
@@ -2658,7 +2658,7 @@
     "class_type": "Mat Series",
     "instructor": "Asami Iwasaki",
     "location": "Merrylands",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
