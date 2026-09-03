@@ -403,7 +403,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1162,7 +1162,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 22
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "Mat Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -2317,7 +2317,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 21
   },
   {
