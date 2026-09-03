@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book60274",
-    "date": "2026-09-04",
-    "time": "4:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book71865",
-    "date": "2026-09-04",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book71865",
-    "date": "2026-09-04",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book53349",
-    "date": "2026-09-04",
-    "time": "4:30 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book48446",
     "date": "2026-09-04",
     "time": "4:45 PM",
@@ -150,7 +106,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 22
   },
   {
@@ -2801,7 +2757,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -2834,7 +2790,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
