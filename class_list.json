@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book70805",
-    "date": "2026-09-04",
-    "time": "6:05 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book60484",
     "date": "2026-09-04",
     "time": "6:15 PM",
@@ -2416,7 +2405,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
