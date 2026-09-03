@@ -843,7 +843,7 @@
     "class_type": "S&C Series",
     "instructor": "Zoe Downing",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -1162,7 +1162,7 @@
     "class_type": "Events",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 22
   },
   {
@@ -1459,7 +1459,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
