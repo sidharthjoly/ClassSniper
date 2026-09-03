@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book55458",
-    "date": "2026-09-05",
-    "time": "9:05 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nicole Cinque",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book30158",
     "date": "2026-09-05",
     "time": "9:15 AM",
