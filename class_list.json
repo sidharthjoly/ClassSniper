@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book45957",
-    "date": "2026-09-05",
-    "time": "8:45 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book45590",
     "date": "2026-09-05",
     "time": "9:00 AM",
