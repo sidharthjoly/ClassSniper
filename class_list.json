@@ -1096,7 +1096,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -2262,7 +2262,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
@@ -2427,7 +2427,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 34
   },
   {
@@ -2438,7 +2438,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 38
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
@@ -2924,17 +2924,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book31635",
-    "date": "2026-09-07",
-    "time": "6:00 AM",
-    "name": "One Run Newtown",
-    "class_type": "One Run",
-    "instructor": "Luke Sikora",
-    "location": "Newtown",
-    "remaining_spots": 50,
-    "capacity": 50
   },
   {
     "booking_id": "107book59594",
@@ -3866,7 +3855,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 24
@@ -4801,7 +4790,7 @@
     "time": "4:45 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -5450,7 +5439,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -8926,7 +8915,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -9157,7 +9146,7 @@
     "time": "6:50 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -9487,7 +9476,7 @@
     "time": "7:40 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -9696,7 +9685,7 @@
     "time": "8:40 AM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -10708,7 +10697,7 @@
     "time": "3:45 PM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Sophia Rambaldini",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -10851,7 +10840,7 @@
     "time": "4:45 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Sophia Rambaldini",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -12996,7 +12985,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -13040,7 +13029,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 0,
     "capacity": 22
@@ -14111,17 +14100,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book38416",
-    "date": "2026-09-10",
-    "time": "5:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Chris Jumman",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book64405",
@@ -15565,17 +15543,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book59699",
-    "date": "2026-09-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book60429",
     "date": "2026-09-11",
     "time": "8:00 AM",
@@ -16555,17 +16522,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book46807",
-    "date": "2026-09-11",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "104book40362",
     "date": "2026-09-11",
     "time": "12:00 PM",
@@ -17341,7 +17297,7 @@
     "time": "5:30 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -17517,7 +17473,7 @@
     "time": "6:30 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -17638,7 +17594,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -17847,7 +17803,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -18177,7 +18133,7 @@
     "time": "9:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -18287,7 +18243,7 @@
     "time": "9:15 AM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Elizabeth Topfer",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -18573,7 +18529,7 @@
     "time": "10:15 AM",
     "name": "Gunshow",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Elizabeth Topfer",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -19343,7 +19299,7 @@
     "time": "8:10 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -19519,7 +19475,7 @@
     "time": "9:10 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -19695,7 +19651,7 @@
     "time": "10:10 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -19954,7 +19910,7 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book43737",
+    "booking_id": "104book57409",
     "date": "2026-09-13",
     "time": "12:30 PM",
     "name": "Reformer: Signature",
