@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book43258",
-    "date": "2026-09-05",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book25571",
-    "date": "2026-09-05",
-    "time": "12:15 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Zoe Downing",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book72598",
-    "date": "2026-09-05",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book46223",
     "date": "2026-09-05",
     "time": "12:30 PM",
@@ -1481,7 +1448,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 32
   },
   {
@@ -1624,7 +1591,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -1646,7 +1613,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
