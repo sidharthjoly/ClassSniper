@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book30056",
-    "date": "2026-09-05",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 35
-  },
-  {
-    "booking_id": "104book41690",
-    "date": "2026-09-05",
-    "time": "10:15 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book53871",
-    "date": "2026-09-05",
-    "time": "10:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book43362",
     "date": "2026-09-05",
     "time": "10:30 AM",
