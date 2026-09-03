@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book30262",
-    "date": "2026-09-05",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book61111",
-    "date": "2026-09-05",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book53822",
-    "date": "2026-09-05",
-    "time": "8:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book43310",
     "date": "2026-09-05",
     "time": "8:30 AM",
@@ -689,7 +656,7 @@
     "class_type": "Events",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
