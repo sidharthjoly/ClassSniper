@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book45799",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book46300",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "One Run Marrickville",
-    "class_type": "One Run",
-    "instructor": "Joey Dalisay",
-    "location": "Marrickville",
-    "remaining_spots": 50,
-    "capacity": 50
-  },
-  {
-    "booking_id": "103book61577",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book74490",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "MOVE AS ONE | Total Build",
-    "class_type": "Events",
-    "instructor": "Elizabeth Topfer",
-    "location": "Merrylands",
-    "remaining_spots": 1,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book42006",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 27,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book53718",
-    "date": "2026-09-05",
-    "time": "7:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book61267",
     "date": "2026-09-05",
     "time": "7:15 AM",
@@ -2636,7 +2570,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
