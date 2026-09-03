@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book46012",
-    "date": "2026-09-05",
-    "time": "11:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book41848",
-    "date": "2026-09-05",
-    "time": "11:15 AM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book84787",
-    "date": "2026-09-05",
-    "time": "11:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
-    "location": "North Sydney",
-    "remaining_spots": 17,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book72387",
-    "date": "2026-09-05",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book46171",
     "date": "2026-09-05",
     "time": "11:30 AM",
