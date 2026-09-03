@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "103book61842",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book74357",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "MOVE AS ONE | Yoga Flowstate by YLNOS",
-    "class_type": "Events",
-    "instructor": "Jen Tran",
-    "location": "Merrylands",
-    "remaining_spots": 2,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book74485",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "MOVE AS ONE | Reformer: Athletic X Monday Haircare",
-    "class_type": "Events",
-    "instructor": "Montana Cominos",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book41904",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book42427",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book53978",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book55357",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book72229",
     "date": "2026-09-05",
     "time": "1:15 PM",
@@ -1371,7 +1294,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -1393,7 +1316,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -1481,7 +1404,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -1701,7 +1624,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -1723,7 +1646,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 17,
     "capacity": 32
   },
   {
@@ -1745,7 +1668,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
@@ -1811,7 +1734,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -1833,7 +1756,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -1844,7 +1767,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -1855,7 +1778,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
