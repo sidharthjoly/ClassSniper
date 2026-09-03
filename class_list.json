@@ -293,7 +293,7 @@
     "class_type": "Events",
     "instructor": "Melissa Passe-De Silva",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
@@ -392,7 +392,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -436,7 +436,7 @@
     "class_type": "Events",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 31
   },
   {
@@ -623,7 +623,7 @@
     "class_type": "Events",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 33
   },
   {
@@ -1283,7 +1283,7 @@
     "class_type": "Events",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 21
   },
   {
@@ -1459,7 +1459,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 34
   },
   {
@@ -1514,7 +1514,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -1723,7 +1723,7 @@
     "class_type": "Events",
     "instructor": "Jen Tran",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
@@ -2614,7 +2614,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 25
   },
   {
