@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book44893",
-    "date": "2026-09-05",
-    "time": "2:15 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book46461",
     "date": "2026-09-05",
     "time": "2:30 PM",
@@ -799,7 +788,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
@@ -1382,7 +1371,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
@@ -1745,7 +1734,7 @@
     "class_type": "Mat Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
@@ -1767,7 +1756,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
