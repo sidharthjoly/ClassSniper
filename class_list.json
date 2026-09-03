@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book61475",
-    "date": "2026-09-05",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book74358",
-    "date": "2026-09-05",
-    "time": "3:00 PM",
-    "name": "MOVE AS ONE | Reiki & Sound Healing",
-    "class_type": "Events",
-    "instructor": "Lihini Rose",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book74478",
-    "date": "2026-09-05",
-    "time": "3:00 PM",
-    "name": "MOVE AS ONE | Yoga Flowstate by YLNOS",
-    "class_type": "Events",
-    "instructor": "Jen Tran",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book36989",
-    "date": "2026-09-05",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book74780",
     "date": "2026-09-05",
     "time": "3:30 PM",
@@ -260,7 +216,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -469,7 +425,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -1547,7 +1503,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 33
   },
   {
@@ -1646,7 +1602,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -1965,7 +1921,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -2042,7 +1998,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
