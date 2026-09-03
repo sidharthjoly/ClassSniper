@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book42062",
-    "date": "2026-09-05",
-    "time": "11:45 AM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Patricia Aguilar",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book74477",
     "date": "2026-09-05",
     "time": "12:00 PM",
