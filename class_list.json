@@ -73,7 +73,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -326,7 +326,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 22
   },
   {
@@ -1437,7 +1437,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -2174,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -2680,7 +2680,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kayla Job",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
@@ -2702,7 +2702,7 @@
     "class_type": "Yoga Series",
     "instructor": "Victoire de Polignac",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -2713,7 +2713,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
