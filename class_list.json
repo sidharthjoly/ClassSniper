@@ -436,7 +436,7 @@
     "class_type": "Events",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 31
   },
   {
@@ -744,7 +744,7 @@
     "class_type": "Events",
     "instructor": "Joey Bowling, Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 31
   },
   {
@@ -1030,7 +1030,7 @@
     "class_type": "Events",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 0,
     "capacity": 21
   },
   {
@@ -1745,7 +1745,7 @@
     "class_type": "Events",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 21
   },
   {
