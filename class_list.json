@@ -1019,7 +1019,7 @@
     "class_type": "Dance Series",
     "instructor": "Estefania Bravo",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -1536,7 +1536,7 @@
     "class_type": "Mat Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 38
   },
   {
@@ -1635,7 +1635,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
