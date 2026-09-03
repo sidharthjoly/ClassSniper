@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book46223",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book52629",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book72164",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book74365",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "MOVE AS ONE | Reformer:Sculpt | New Class",
-    "class_type": "Events",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 12,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book73246",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book61842",
     "date": "2026-09-05",
     "time": "1:00 PM",
@@ -1635,7 +1580,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -1668,7 +1613,7 @@
     "class_type": "Mat Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 20,
     "capacity": 23
   },
   {
@@ -1690,7 +1635,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
@@ -1712,7 +1657,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
