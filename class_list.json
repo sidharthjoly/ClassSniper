@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book61947",
-    "date": "2026-09-05",
-    "time": "6:45 AM",
-    "name": "Blackout",
-    "class_type": "Spin Series",
-    "instructor": "Andrew Lloyd",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book45799",
     "date": "2026-09-05",
     "time": "7:00 AM",
@@ -2537,7 +2526,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chloe Greenwood",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
