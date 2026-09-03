@@ -51,7 +51,7 @@
     "class_type": "Events",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 33
   },
   {
@@ -491,7 +491,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
@@ -1646,7 +1646,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ivan Iglesias Garcia",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 23
   },
   {
