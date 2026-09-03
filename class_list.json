@@ -1030,7 +1030,7 @@
     "class_type": "Events",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 21
   },
   {
@@ -1239,7 +1239,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -2394,7 +2394,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
