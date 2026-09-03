@@ -1316,7 +1316,7 @@
     "class_type": "Events",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 33
   },
   {
@@ -1327,7 +1327,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 22
   },
   {
@@ -1613,7 +1613,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -2614,7 +2614,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 25
   },
   {
