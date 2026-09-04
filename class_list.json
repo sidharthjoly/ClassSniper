@@ -16,7 +16,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 15,
     "capacity": 32
@@ -170,7 +170,7 @@
     "time": "9:00 AM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 2,
     "capacity": 32
@@ -260,7 +260,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 28,
     "capacity": 35
   },
   {
@@ -357,7 +357,7 @@
     "time": "10:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 32
@@ -2559,7 +2559,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -2933,7 +2933,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
