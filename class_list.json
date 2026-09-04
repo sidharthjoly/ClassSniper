@@ -2262,7 +2262,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -16962,6 +16962,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book80689",
+    "date": "2026-09-12",
+    "time": "11:30 AM",
+    "name": "Burlesque (Heels Optional)",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Marrickville",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "103book60063",
     "date": "2026-09-12",
     "time": "11:30 AM",
@@ -18463,7 +18474,7 @@
     "time": "6:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -18804,7 +18815,7 @@
     "time": "7:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -19035,7 +19046,7 @@
     "time": "8:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
