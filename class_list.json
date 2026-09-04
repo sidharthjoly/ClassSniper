@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book33169",
-    "date": "2026-09-06",
-    "time": "10:40 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Molly Williams",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book64951",
     "date": "2026-09-06",
     "time": "11:00 AM",
