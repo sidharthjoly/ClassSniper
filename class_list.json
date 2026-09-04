@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book74478",
-    "date": "2026-09-05",
-    "time": "4:00 PM",
-    "name": "MOVE AS ONE | Yoga Flowstate by YLNOS",
-    "class_type": "Events",
-    "instructor": "Jen Tran",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 34
-  },
-  {
-    "booking_id": "107book72089",
-    "date": "2026-09-05",
-    "time": "4:00 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book82011",
     "date": "2026-09-05",
     "time": "4:30 PM",
@@ -1316,7 +1294,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 23
   },
   {
@@ -1789,7 +1767,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -2174,7 +2152,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
