@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book46827",
-    "date": "2026-09-06",
-    "time": "9:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book46670",
     "date": "2026-09-06",
     "time": "9:30 AM",
