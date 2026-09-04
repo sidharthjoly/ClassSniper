@@ -645,7 +645,7 @@
     "class_type": "Yoga Series",
     "instructor": "Yigit Keskin",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -2823,7 +2823,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2944,7 +2944,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3175,7 +3175,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3703,7 +3703,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -3758,7 +3758,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
