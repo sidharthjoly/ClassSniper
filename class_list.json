@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "107book82494",
-    "date": "2026-09-06",
-    "time": "11:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
-    "location": "North Sydney",
-    "remaining_spots": 10,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book55933",
-    "date": "2026-09-06",
-    "time": "11:15 AM",
-    "name": "Breathwork: Dynamic Release (Morning)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book73767",
-    "date": "2026-09-06",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book46879",
     "date": "2026-09-06",
     "time": "11:30 AM",
