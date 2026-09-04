@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book65469",
-    "date": "2026-09-06",
-    "time": "7:00 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 31
-  },
-  {
     "booking_id": "105book46618",
     "date": "2026-09-06",
     "time": "8:00 AM",
