@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book43996",
-    "date": "2026-09-06",
-    "time": "2:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book47244",
     "date": "2026-09-06",
     "time": "3:00 PM",
@@ -4033,7 +4022,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
