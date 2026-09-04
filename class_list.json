@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book64951",
-    "date": "2026-09-06",
-    "time": "11:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book48661",
-    "date": "2026-09-06",
-    "time": "11:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Daniel Konieczny",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book73874",
-    "date": "2026-09-06",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book73874",
-    "date": "2026-09-06",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book82494",
     "date": "2026-09-06",
     "time": "11:15 AM",
@@ -2878,7 +2834,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 25
   },
   {
