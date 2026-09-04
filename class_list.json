@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55407",
-    "date": "2026-09-05",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book65469",
     "date": "2026-09-06",
     "time": "7:00 AM",
@@ -2317,7 +2306,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
