@@ -348,7 +348,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -2460,7 +2460,7 @@
     "class_type": "Yoga Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
