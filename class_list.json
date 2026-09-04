@@ -381,7 +381,7 @@
     "class_type": "Yoga Series",
     "instructor": "Victoire de Polignac",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -2592,7 +2592,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -2812,7 +2812,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 18,
     "capacity": 32
   },
   {
@@ -2823,7 +2823,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -2834,7 +2834,7 @@
     "class_type": "Mat Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
@@ -2867,7 +2867,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
