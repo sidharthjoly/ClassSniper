@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book47773",
-    "date": "2026-09-07",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 33,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book59804",
-    "date": "2026-09-07",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book57091",
-    "date": "2026-09-07",
-    "time": "1:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book58864",
-    "date": "2026-09-07",
-    "time": "1:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 25,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book36636",
     "date": "2026-09-07",
     "time": "1:30 PM",
@@ -4352,7 +4308,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
@@ -4649,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maggie Dixon-Best",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -4660,7 +4616,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -4671,7 +4627,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -4814,7 +4770,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -4847,7 +4803,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
