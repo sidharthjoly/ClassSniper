@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book58759",
-    "date": "2026-09-07",
-    "time": "11:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book62943",
     "date": "2026-09-07",
     "time": "11:30 AM",
