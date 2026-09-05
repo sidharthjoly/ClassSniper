@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book59331",
-    "date": "2026-09-07",
-    "time": "6:50 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book37455",
     "date": "2026-09-07",
     "time": "7:00 AM",
