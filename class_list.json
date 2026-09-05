@@ -3054,7 +3054,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 22
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 12,
     "capacity": 34
   },
   {
@@ -4583,7 +4583,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5078,7 +5078,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
@@ -22687,7 +22687,7 @@
     "time": "5:30 PM",
     "name": "Squad",
     "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
+    "instructor": "Elizabeth Chun",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
