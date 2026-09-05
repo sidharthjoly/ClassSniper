@@ -2559,7 +2559,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 28
   },
   {
@@ -2746,7 +2746,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
@@ -5188,7 +5188,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 35
   },
   {
