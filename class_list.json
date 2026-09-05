@@ -1558,7 +1558,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -2559,7 +2559,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 28
   },
   {
@@ -2966,7 +2966,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -5529,7 +5529,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 28
   },
   {
@@ -12226,7 +12226,7 @@
     "time": "6:00 AM",
     "name": "Power Pilates",
     "class_type": "Mat Series",
-    "instructor": "Emmy Drew",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12237,7 +12237,7 @@
     "time": "6:00 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Billy Thornhill, Laura Pailleux-Hanon",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -12567,7 +12567,7 @@
     "time": "7:00 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Emmy Drew",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -13821,7 +13821,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Luke Punton",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -19948,7 +19948,7 @@
     "time": "6:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Sean Grosvenor",
+    "instructor": "Laura Pailleux-Hanon, Sean Grosvenor",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
