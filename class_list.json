@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book34700",
-    "date": "2026-09-07",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book60675",
-    "date": "2026-09-07",
-    "time": "8:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book59833",
-    "date": "2026-09-07",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book59435",
     "date": "2026-09-07",
     "time": "8:40 AM",
