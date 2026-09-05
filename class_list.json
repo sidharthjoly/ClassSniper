@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book62838",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 11,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book36152",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book50514",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book67311",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book33541",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 30,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book34387",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book70143",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book58694",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book56099",
-    "date": "2026-09-07",
-    "time": "8:00 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book48837",
     "date": "2026-09-07",
     "time": "8:10 AM",
@@ -4253,7 +4154,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
