@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49409",
-    "date": "2026-09-07",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book38365",
-    "date": "2026-09-07",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book37509",
     "date": "2026-09-07",
     "time": "4:00 PM",
@@ -128,7 +106,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -997,7 +975,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -4429,7 +4407,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 23
   },
   {
@@ -5210,7 +5188,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
