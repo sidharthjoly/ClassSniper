@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book48837",
-    "date": "2026-09-07",
-    "time": "8:10 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book66901",
     "date": "2026-09-07",
     "time": "8:15 AM",
@@ -4440,7 +4429,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
