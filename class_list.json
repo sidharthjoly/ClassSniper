@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book50937",
-    "date": "2026-09-07",
-    "time": "9:30 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book49253",
-    "date": "2026-09-07",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Marrickville",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book33701",
-    "date": "2026-09-07",
-    "time": "9:30 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book60939",
-    "date": "2026-09-07",
-    "time": "9:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book37107",
     "date": "2026-09-07",
     "time": "9:45 AM",
