@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book53393",
-    "date": "2026-09-07",
-    "time": "6:45 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book37997",
-    "date": "2026-09-07",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book39048",
-    "date": "2026-09-07",
-    "time": "6:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book60886",
-    "date": "2026-09-07",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book59331",
     "date": "2026-09-07",
     "time": "6:50 AM",
