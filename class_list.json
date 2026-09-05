@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book34804",
-    "date": "2026-09-07",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book59223",
-    "date": "2026-09-07",
-    "time": "10:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60042",
-    "date": "2026-09-07",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49565",
     "date": "2026-09-07",
     "time": "10:45 AM",
