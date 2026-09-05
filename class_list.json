@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book38576",
-    "date": "2026-09-07",
-    "time": "5:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book53673",
-    "date": "2026-09-07",
-    "time": "5:45 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book56566",
-    "date": "2026-09-07",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 12,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book61306",
     "date": "2026-09-07",
     "time": "5:50 AM",
@@ -2592,7 +2559,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 22
   },
   {
@@ -3505,7 +3472,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
