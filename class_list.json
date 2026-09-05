@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book37582",
-    "date": "2026-09-07",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book63286",
     "date": "2026-09-07",
     "time": "5:15 AM",
@@ -986,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Wood",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 21
   },
   {
