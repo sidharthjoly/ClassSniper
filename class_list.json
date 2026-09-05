@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49565",
-    "date": "2026-09-07",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book38048",
-    "date": "2026-09-07",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "103book49721",
     "date": "2026-09-07",
     "time": "11:00 AM",
