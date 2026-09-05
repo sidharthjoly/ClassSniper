@@ -271,7 +271,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -3681,7 +3681,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 35
   },
   {
@@ -4055,7 +4055,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 25
   },
   {
@@ -4077,7 +4077,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4704,7 +4704,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
@@ -4979,7 +4979,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
