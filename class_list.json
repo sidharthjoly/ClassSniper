@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book53565",
-    "date": "2026-09-08",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40461",
     "date": "2026-09-08",
     "time": "11:00 AM",
