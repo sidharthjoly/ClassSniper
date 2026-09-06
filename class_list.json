@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book64300",
-    "date": "2026-09-08",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book39544",
     "date": "2026-09-08",
     "time": "6:00 AM",
@@ -1008,7 +997,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maggie Dixon-Best",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -1976,7 +1965,7 @@
     "class_type": "Yoga Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 34
   },
   {
@@ -2196,7 +2185,7 @@
     "class_type": "S&C Series",
     "instructor": "Matthew Gardner",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
