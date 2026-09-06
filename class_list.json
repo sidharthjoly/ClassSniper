@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39313",
-    "date": "2026-09-08",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49932",
     "date": "2026-09-08",
     "time": "5:30 AM",
@@ -3824,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
