@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book64884",
-    "date": "2026-09-08",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book63651",
-    "date": "2026-09-08",
-    "time": "8:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book68501",
     "date": "2026-09-08",
     "time": "8:45 AM",
@@ -216,7 +194,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
