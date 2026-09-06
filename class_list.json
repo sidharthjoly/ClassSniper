@@ -2493,7 +2493,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -5815,7 +5815,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 32
   },
   {
