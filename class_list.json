@@ -1745,7 +1745,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -1767,7 +1767,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -3890,7 +3890,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 32
   },
   {
@@ -3967,7 +3967,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -4748,7 +4748,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Marrickville",
-    "remaining_spots": 33,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
