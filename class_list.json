@@ -645,7 +645,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 38
   },
   {
@@ -689,7 +689,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -1723,7 +1723,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -4000,7 +4000,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
@@ -4275,7 +4275,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 21
   },
   {
@@ -4660,7 +4660,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -5265,7 +5265,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 25
   },
   {
