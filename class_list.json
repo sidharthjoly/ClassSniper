@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book35870",
-    "date": "2026-09-08",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sarah Goring",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book61611",
-    "date": "2026-09-08",
-    "time": "1:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book50089",
-    "date": "2026-09-08",
-    "time": "1:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book82810",
-    "date": "2026-09-08",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book63386",
     "date": "2026-09-08",
     "time": "1:30 PM",
@@ -3868,7 +3824,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -4253,7 +4209,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -4550,7 +4506,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 35
   },
   {
@@ -4616,7 +4572,7 @@
     "class_type": "Spin Series",
     "instructor": "Alexandra Doddridge",
     "location": "North Sydney",
-    "remaining_spots": 39,
+    "remaining_spots": 38,
     "capacity": 40
   },
   {
@@ -4880,7 +4836,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -4891,7 +4847,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
