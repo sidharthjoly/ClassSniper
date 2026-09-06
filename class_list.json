@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book68341",
-    "date": "2026-09-08",
-    "time": "3:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book35670",
-    "date": "2026-09-08",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book61186",
-    "date": "2026-09-08",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63436",
-    "date": "2026-09-08",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book77768",
     "date": "2026-09-08",
     "time": "3:30 PM",
@@ -414,7 +370,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -964,7 +920,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
@@ -1910,7 +1866,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 32
   },
   {
@@ -4143,7 +4099,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -4616,7 +4572,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -4814,7 +4770,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 22
   },
   {
@@ -5122,7 +5078,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5155,7 +5111,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
@@ -5210,7 +5166,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
