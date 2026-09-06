@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book77768",
-    "date": "2026-09-08",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 13,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book38190",
     "date": "2026-09-08",
     "time": "4:00 PM",
@@ -1206,7 +1195,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 33
   },
   {
@@ -1228,7 +1217,7 @@
     "class_type": "Mat Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
@@ -2218,7 +2207,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Surry Hills",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 34
   },
   {
@@ -2372,7 +2361,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 12,
     "capacity": 21
   },
   {
@@ -4484,7 +4473,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
@@ -5232,7 +5221,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tess Williams",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
