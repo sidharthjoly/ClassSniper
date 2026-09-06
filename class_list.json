@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book36219",
-    "date": "2026-09-07",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book75578",
-    "date": "2026-09-07",
-    "time": "7:45 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book39313",
     "date": "2026-09-08",
     "time": "5:15 AM",
