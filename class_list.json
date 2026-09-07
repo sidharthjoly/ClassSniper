@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book39385",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book54625",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book64456",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 31
-  },
-  {
-    "booking_id": "106book67931",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book35546",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 4,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book47372",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book59757",
-    "date": "2026-09-08",
-    "time": "5:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book31582",
     "date": "2026-09-08",
     "time": "5:30 PM",
@@ -2977,7 +2900,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 38
   },
   {
@@ -3175,7 +3098,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -3670,7 +3593,7 @@
     "class_type": "Harmony Series",
     "instructor": "Daniel Augustine",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -4033,7 +3956,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -4363,7 +4286,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
