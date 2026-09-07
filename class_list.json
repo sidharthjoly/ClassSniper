@@ -3571,7 +3571,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -4176,7 +4176,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 34
   },
   {
@@ -5177,7 +5177,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -5441,7 +5441,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
