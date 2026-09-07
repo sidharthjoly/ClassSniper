@@ -1349,7 +1349,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -3131,7 +3131,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
@@ -5925,7 +5925,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
@@ -6154,7 +6154,7 @@
     "time": "6:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
+    "instructor": "Abigail Rose",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -6517,7 +6517,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
+    "instructor": "Abigail Rose",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -10092,7 +10092,7 @@
     "time": "11:15 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -10224,7 +10224,7 @@
     "time": "12:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -12045,6 +12045,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "106book77074",
+    "date": "2026-09-14",
+    "time": "7:30 AM",
+    "name": "One Run Merrylands",
+    "class_type": "One Run",
+    "instructor": "Matty Mccormick",
+    "location": "Merrylands",
+    "remaining_spots": 50,
+    "capacity": 50
+  },
+  {
     "booking_id": "104book34544",
     "date": "2026-09-14",
     "time": "7:30 AM",
@@ -13407,17 +13418,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "105book32286",
-    "date": "2026-09-14",
-    "time": "4:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book59545",
@@ -14800,7 +14800,7 @@
     "time": "6:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 19,
     "capacity": 20
@@ -15108,7 +15108,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -15295,7 +15295,7 @@
     "time": "8:15 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -15460,7 +15460,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -15790,7 +15790,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mia Hamilton",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -15999,7 +15999,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mia Hamilton",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -16258,10 +16258,10 @@
     "capacity": 15
   },
   {
-    "booking_id": "106book68342",
+    "booking_id": "106book76559",
     "date": "2026-09-15",
     "time": "3:00 PM",
-    "name": "Reformer: Strong",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
@@ -16423,6 +16423,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "101book86969",
+    "date": "2026-09-15",
+    "time": "4:30 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book63597",
     "date": "2026-09-15",
     "time": "4:30 PM",
@@ -16432,17 +16443,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "101book64566",
-    "date": "2026-09-15",
-    "time": "4:30 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "105book39227",
@@ -18524,17 +18524,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book55358",
-    "date": "2026-09-16",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book39340",
     "date": "2026-09-16",
     "time": "10:00 AM",
@@ -18667,17 +18656,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book75140",
-    "date": "2026-09-16",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40594",
     "date": "2026-09-16",
     "time": "11:00 AM",
@@ -18764,17 +18742,6 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "103book55410",
-    "date": "2026-09-16",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "107book62906",
@@ -18995,17 +18962,6 @@
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 24
-  },
-  {
-    "booking_id": "103book55306",
-    "date": "2026-09-16",
-    "time": "12:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "104book36816",
@@ -21582,17 +21538,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book39317",
-    "date": "2026-09-17",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book75031",
     "date": "2026-09-17",
     "time": "10:15 AM",
@@ -21723,17 +21668,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book39109",
-    "date": "2026-09-17",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book64141",
@@ -21923,17 +21857,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book39265",
-    "date": "2026-09-17",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64249",
     "date": "2026-09-17",
     "time": "12:00 PM",
@@ -22075,17 +21998,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book39005",
-    "date": "2026-09-17",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "101book68943",
