@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book55931",
-    "date": "2026-09-09",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book63868",
     "date": "2026-09-09",
     "time": "3:45 PM",
@@ -667,7 +656,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 36
   },
   {
@@ -2053,7 +2042,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 4
   },
   {
@@ -3076,7 +3065,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -3879,7 +3868,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -5034,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -5298,7 +5287,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
