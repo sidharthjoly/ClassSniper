@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book63868",
-    "date": "2026-09-09",
-    "time": "3:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book39809",
     "date": "2026-09-09",
     "time": "4:00 PM",
@@ -3054,7 +3043,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -4308,7 +4297,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
@@ -4550,7 +4539,7 @@
     "class_type": "S&C Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
@@ -4715,7 +4704,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennifer Irvine",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
