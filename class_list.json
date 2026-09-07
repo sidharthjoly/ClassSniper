@@ -172,7 +172,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 28
   },
   {
@@ -1503,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 21
   },
   {
@@ -2262,7 +2262,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 23
   },
   {
@@ -3263,7 +3263,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 36
   },
   {
@@ -4066,7 +4066,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 22
   },
   {
