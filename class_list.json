@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book75139",
-    "date": "2026-09-09",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40462",
     "date": "2026-09-09",
     "time": "11:00 AM",
