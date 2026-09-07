@@ -1866,7 +1866,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -4748,7 +4748,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 32,
     "capacity": 35
   },
   {
@@ -4891,7 +4891,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 34
   },
   {
@@ -4913,7 +4913,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -4924,7 +4924,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
