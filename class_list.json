@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51123",
-    "date": "2026-09-09",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 9,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book63458",
     "date": "2026-09-09",
     "time": "8:00 AM",
@@ -2075,7 +2064,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
