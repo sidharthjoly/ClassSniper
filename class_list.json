@@ -2636,7 +2636,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 35
   },
   {
@@ -3098,7 +3098,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 22
   },
   {
@@ -5716,7 +5716,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -5881,7 +5881,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
