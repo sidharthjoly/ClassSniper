@@ -568,7 +568,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1987,7 +1987,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -3010,7 +3010,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
@@ -6035,7 +6035,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
