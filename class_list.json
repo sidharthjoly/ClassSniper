@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "103book67335",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book52007",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 22,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book54975",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Areeba Talpur",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book40528",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "107book61398",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63227",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book85528",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book63386",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book64834",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "name": "Reggaeton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 25
-  },
-  {
     "booking_id": "105book39279",
     "date": "2026-09-08",
     "time": "7:45 PM",
@@ -3681,7 +3582,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
@@ -4858,7 +4759,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -5001,7 +4902,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
