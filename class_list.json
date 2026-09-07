@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book65987",
-    "date": "2026-09-09",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book27978",
     "date": "2026-09-09",
     "time": "6:00 AM",
@@ -5848,7 +5837,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -5914,7 +5903,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
