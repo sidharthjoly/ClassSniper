@@ -3274,7 +3274,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -5342,7 +5342,7 @@
     "class_type": "Fight Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -5694,7 +5694,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -5958,7 +5958,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 34
   },
   {
