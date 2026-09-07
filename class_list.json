@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book39014",
-    "date": "2026-09-08",
-    "time": "5:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book61504",
-    "date": "2026-09-08",
-    "time": "5:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book34701",
     "date": "2026-09-08",
     "time": "6:00 PM",
@@ -3802,7 +3780,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 33
   },
   {
@@ -4022,7 +4000,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -5001,7 +4979,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
