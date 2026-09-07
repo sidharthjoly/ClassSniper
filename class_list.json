@@ -304,7 +304,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -392,7 +392,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -2427,7 +2427,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 32
   },
   {
@@ -5342,7 +5342,7 @@
     "class_type": "Fight Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -5980,7 +5980,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -6035,7 +6035,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 18
   },
   {
