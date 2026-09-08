@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "104book38525",
-    "date": "2026-09-10",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book65198",
-    "date": "2026-09-10",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book68732",
-    "date": "2026-09-10",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book68677",
-    "date": "2026-09-10",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book57270",
     "date": "2026-09-10",
     "time": "10:45 AM",
