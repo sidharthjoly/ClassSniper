@@ -2603,7 +2603,7 @@
     "class_type": "Fight Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -2790,7 +2790,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 32
   },
   {
@@ -4418,7 +4418,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -5122,7 +5122,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -5254,7 +5254,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
