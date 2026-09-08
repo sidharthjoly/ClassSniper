@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book56640",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 28,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book56141",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book54779",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book69226",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book61143",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book67042",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book63691",
     "date": "2026-09-09",
     "time": "7:45 PM",
@@ -2161,7 +2095,7 @@
     "time": "4:15 PM",
     "name": "Fight Club",
     "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 25,
     "capacity": 26
@@ -2185,7 +2119,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -2370,7 +2304,7 @@
     "time": "5:15 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 14,
     "capacity": 26
@@ -2676,9 +2610,9 @@
     "booking_id": "101book69627",
     "date": "2026-09-10",
     "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "name": "Fighting Fit",
+    "class_type": "Fight Series",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 2,
     "capacity": 26
@@ -5199,7 +5133,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
