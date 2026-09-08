@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book55358",
-    "date": "2026-09-10",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book57901",
-    "date": "2026-09-10",
-    "time": "12:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book38733",
-    "date": "2026-09-10",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 27,
-    "capacity": 32
-  },
-  {
     "booking_id": "105book56019",
     "date": "2026-09-10",
     "time": "1:00 PM",
