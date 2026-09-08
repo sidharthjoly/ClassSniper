@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book70896",
-    "date": "2026-09-10",
-    "time": "5:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book68257",
     "date": "2026-09-10",
     "time": "5:50 AM",
