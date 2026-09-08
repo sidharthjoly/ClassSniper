@@ -744,7 +744,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3615,7 +3615,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 36
   },
   {
@@ -5672,7 +5672,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 18
   },
   {
@@ -7456,17 +7456,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "106book65470",
-    "date": "2026-09-13",
-    "time": "7:00 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "105book46619",
@@ -11878,17 +11867,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "106book64152",
-    "date": "2026-09-15",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "106book51972",
