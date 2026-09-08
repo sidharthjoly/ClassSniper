@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book64206",
-    "date": "2026-09-10",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "Haymarket",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58162",
-    "date": "2026-09-10",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 5,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book56122",
     "date": "2026-09-10",
     "time": "2:00 PM",
@@ -4088,7 +4066,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -4099,7 +4077,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
