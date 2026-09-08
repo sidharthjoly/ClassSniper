@@ -3373,7 +3373,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 23
   },
   {
@@ -3615,7 +3615,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
@@ -4605,7 +4605,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 34
   },
   {
@@ -5639,7 +5639,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 22
   },
   {
@@ -5738,7 +5738,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -5894,17 +5894,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "107book53667",
-    "date": "2026-09-12",
-    "time": "7:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "105book46068",
@@ -6180,17 +6169,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "107book53823",
-    "date": "2026-09-12",
-    "time": "8:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "105book43311",
@@ -7007,17 +6985,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book46013",
-    "date": "2026-09-12",
-    "time": "11:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "104book41849",
     "date": "2026-09-12",
     "time": "11:15 AM",
@@ -7148,17 +7115,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book43259",
-    "date": "2026-09-12",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Chris Jumman",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "104book25572",
@@ -7298,7 +7254,7 @@
     "time": "1:15 PM",
     "name": "Ritual",
     "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -10197,6 +10153,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book88029",
+    "date": "2026-09-14",
+    "time": "2:00 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "107book57147",
     "date": "2026-09-14",
     "time": "2:15 PM",
@@ -11341,17 +11308,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book39314",
-    "date": "2026-09-15",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49933",
     "date": "2026-09-15",
     "time": "5:30 AM",
@@ -11592,17 +11548,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book39102",
-    "date": "2026-09-15",
-    "time": "6:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "107book49279",
@@ -11943,17 +11888,6 @@
     "instructor": "Paulo Lole",
     "location": "Merrylands",
     "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book64152",
-    "date": "2026-09-15",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -12419,17 +12353,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book39208",
-    "date": "2026-09-15",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book78036",
     "date": "2026-09-15",
     "time": "9:15 AM",
@@ -12802,17 +12725,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book38456",
-    "date": "2026-09-15",
-    "time": "12:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41120",
@@ -13348,7 +13260,7 @@
     "time": "4:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -13623,7 +13535,7 @@
     "time": "5:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -13942,7 +13854,7 @@
     "time": "6:30 PM",
     "name": "Fight Club",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -14074,7 +13986,7 @@
     "time": "7:00 PM",
     "name": "Heels",
     "class_type": "Dance Series",
-    "instructor": "Lauren Buck",
+    "instructor": "Whitney Bertrand",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -14217,7 +14129,7 @@
     "time": "7:30 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 24,
     "capacity": 24
@@ -20102,7 +20014,7 @@
     "time": "5:00 AM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -20212,7 +20124,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -20564,7 +20476,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
