@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book44775",
-    "date": "2026-09-10",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57531",
     "date": "2026-09-10",
     "time": "5:30 AM",
@@ -2163,7 +2152,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 38
   },
   {
@@ -5276,7 +5265,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
