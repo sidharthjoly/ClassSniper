@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book39160",
-    "date": "2026-09-10",
-    "time": "3:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book64934",
-    "date": "2026-09-10",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book68835",
-    "date": "2026-09-10",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book56745",
     "date": "2026-09-10",
     "time": "3:30 PM",
@@ -942,7 +909,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -4209,7 +4176,7 @@
     "class_type": "Mat Series",
     "instructor": "Joe Jackson",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -4319,7 +4286,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -4330,7 +4297,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -4374,7 +4341,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -4440,7 +4407,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
@@ -4451,7 +4418,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -4462,7 +4429,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
