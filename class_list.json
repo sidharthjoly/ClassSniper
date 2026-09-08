@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book56193",
-    "date": "2026-09-09",
-    "time": "4:30 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book67148",
-    "date": "2026-09-09",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book41037",
     "date": "2026-09-09",
     "time": "4:45 PM",
@@ -865,7 +843,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 29,
     "capacity": 36
   },
   {
@@ -1525,7 +1503,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Marrickville",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -4902,7 +4880,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 18
   },
   {
