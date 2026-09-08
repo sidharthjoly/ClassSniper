@@ -2548,7 +2548,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -4781,7 +4781,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
@@ -5155,7 +5155,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
