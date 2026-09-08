@@ -2284,7 +2284,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
@@ -2383,7 +2383,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 40
   },
   {
@@ -2911,7 +2911,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 34
   },
   {
@@ -3857,7 +3857,7 @@
     "class_type": "Mat Series",
     "instructor": "Danielle Panayi",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -5386,7 +5386,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
