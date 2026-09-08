@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book40618",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34492",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book41670",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book37636",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Daniel Augustine",
-    "location": "Newtown",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38052",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book62323",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66883",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book65575",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book59888",
     "date": "2026-09-09",
     "time": "7:15 PM",
@@ -4627,7 +4539,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4990,7 +4902,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -5232,7 +5144,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5243,7 +5155,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
