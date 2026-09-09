@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "107book53457",
-    "date": "2026-09-11",
-    "time": "1:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book67613",
-    "date": "2026-09-11",
-    "time": "1:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book69733",
-    "date": "2026-09-11",
-    "time": "1:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Angela Aho",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book56449",
     "date": "2026-09-11",
     "time": "1:30 PM",
