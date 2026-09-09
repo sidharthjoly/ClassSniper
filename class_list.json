@@ -216,7 +216,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -2284,7 +2284,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
