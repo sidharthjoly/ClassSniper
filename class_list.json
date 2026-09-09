@@ -194,7 +194,7 @@
     "class_type": "Fight Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -1393,7 +1393,7 @@
     "class_type": "S&C Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
@@ -1756,7 +1756,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
