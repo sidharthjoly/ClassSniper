@@ -2702,7 +2702,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -2836,17 +2836,6 @@
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 20
-  },
-  {
-    "booking_id": "106book49276",
-    "date": "2026-09-12",
-    "time": "7:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book63418",
@@ -3078,17 +3067,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book49485",
-    "date": "2026-09-12",
-    "time": "8:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book72686",
@@ -3802,7 +3780,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -4198,7 +4176,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -4264,7 +4242,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
