@@ -1525,7 +1525,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 36
   },
   {
@@ -2218,7 +2218,7 @@
     "class_type": "Harmony Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 34
   },
   {
@@ -2649,17 +2649,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "106book48662",
-    "date": "2026-09-13",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Daniel Konieczny",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "106book48766",
