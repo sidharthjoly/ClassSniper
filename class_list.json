@@ -821,7 +821,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
@@ -4374,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
