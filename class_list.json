@@ -3703,7 +3703,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -4176,7 +4176,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ivan Iglesias Garcia",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 23
   },
   {
@@ -4396,7 +4396,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 18
   },
   {
