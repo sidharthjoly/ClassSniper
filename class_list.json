@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59647",
-    "date": "2026-09-11",
-    "time": "3:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book44861",
     "date": "2026-09-11",
     "time": "4:00 PM",
@@ -2273,7 +2262,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
@@ -2471,7 +2460,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
