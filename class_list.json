@@ -986,7 +986,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
@@ -1591,7 +1591,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
@@ -3032,7 +3032,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 33
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Caroline Der Garabedian",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 33
   },
   {
@@ -14003,17 +14003,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "106book69227",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book61144",
     "date": "2026-09-16",
     "time": "7:30 PM",
@@ -14023,6 +14012,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "106book77577",
+    "date": "2026-09-16",
+    "time": "7:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "101book67043",
@@ -18777,17 +18777,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "104book40202",
-    "date": "2026-09-18",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book42077",
     "date": "2026-09-18",
     "time": "12:30 PM",
@@ -19688,6 +19677,17 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "106book76936",
+    "date": "2026-09-19",
+    "time": "7:30 AM",
+    "name": "One Run Merrylands",
+    "class_type": "One Run",
+    "instructor": "Matty Mccormick",
+    "location": "Merrylands",
+    "remaining_spots": 50,
+    "capacity": 50
   },
   {
     "booking_id": "107book55252",
