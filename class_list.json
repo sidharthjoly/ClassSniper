@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book55459",
-    "date": "2026-09-12",
-    "time": "9:05 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jen Tran",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book30159",
     "date": "2026-09-12",
     "time": "9:15 AM",
