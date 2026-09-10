@@ -414,7 +414,7 @@
     "class_type": "Barre Series",
     "instructor": "Sarah Goring",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -645,7 +645,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 35
   },
   {
@@ -1195,7 +1195,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
@@ -2339,7 +2339,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 23
   },
   {
@@ -2427,7 +2427,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
