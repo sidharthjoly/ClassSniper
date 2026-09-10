@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book61476",
-    "date": "2026-09-12",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book36990",
-    "date": "2026-09-12",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Newtown",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book81922",
     "date": "2026-09-12",
     "time": "3:30 PM",
@@ -557,7 +535,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -1525,7 +1503,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -1646,7 +1624,7 @@
     "class_type": "Mat Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -1932,7 +1910,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
