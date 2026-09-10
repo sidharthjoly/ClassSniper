@@ -436,7 +436,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -1360,7 +1360,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 21
   },
   {
@@ -2339,7 +2339,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
@@ -2383,7 +2383,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 25
   },
   {
