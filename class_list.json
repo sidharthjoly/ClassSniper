@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book45958",
-    "date": "2026-09-12",
-    "time": "8:45 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book45487",
     "date": "2026-09-12",
     "time": "9:00 AM",
