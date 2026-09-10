@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book81922",
-    "date": "2026-09-12",
-    "time": "3:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book72824",
-    "date": "2026-09-12",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book72090",
     "date": "2026-09-12",
     "time": "4:00 PM",
