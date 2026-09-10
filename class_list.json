@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book41849",
-    "date": "2026-09-12",
-    "time": "11:15 AM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book84788",
-    "date": "2026-09-12",
-    "time": "11:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 5,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book72388",
-    "date": "2026-09-12",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book46172",
     "date": "2026-09-12",
     "time": "11:30 AM",
