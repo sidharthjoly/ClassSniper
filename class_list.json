@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book56918",
-    "date": "2026-09-12",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book42220",
-    "date": "2026-09-12",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book80567",
-    "date": "2026-09-12",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book25572",
     "date": "2026-09-12",
     "time": "12:15 PM",
