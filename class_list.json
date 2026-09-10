@@ -425,7 +425,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 40
   },
   {
@@ -546,7 +546,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
@@ -876,7 +876,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 36
   },
   {
@@ -1965,7 +1965,7 @@
     "class_type": "Spin Series",
     "instructor": "Alexandra Doddridge",
     "location": "North Sydney",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 40
   },
   {
@@ -2119,7 +2119,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 21
   },
   {
