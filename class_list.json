@@ -1547,7 +1547,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -4713,7 +4713,7 @@
     "time": "5:00 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
+    "instructor": "Joe Jackson",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -4801,7 +4801,7 @@
     "time": "5:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Killian Bolster",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -5032,7 +5032,7 @@
     "time": "6:00 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
+    "instructor": "Joe Jackson",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -5131,7 +5131,7 @@
     "time": "6:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "Killian Bolster",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -5340,7 +5340,7 @@
     "time": "7:00 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
+    "instructor": "Joe Jackson",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -7392,6 +7392,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "105book65998",
+    "date": "2026-09-15",
+    "time": "4:00 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Zennah Chaudri",
+    "location": "Haymarket",
+    "remaining_spots": 38,
+    "capacity": 38
+  },
+  {
     "booking_id": "103book49880",
     "date": "2026-09-15",
     "time": "4:00 PM",
@@ -7533,6 +7544,17 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "105book66495",
+    "date": "2026-09-15",
+    "time": "5:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Zennah Chaudri",
+    "location": "Haymarket",
+    "remaining_spots": 38,
+    "capacity": 38
   },
   {
     "booking_id": "105book38348",
@@ -13040,7 +13062,7 @@
     "time": "12:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
+    "instructor": "Jack Bowen, Luke Punton",
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
@@ -13528,17 +13550,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "101book67814",
-    "date": "2026-09-17",
-    "time": "5:15 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book67975",
@@ -19217,6 +19228,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "107book90412",
+    "date": "2026-09-20",
+    "time": "1:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "104book43842",
     "date": "2026-09-20",
     "time": "1:15 PM",
@@ -19239,6 +19261,17 @@
     "capacity": 25
   },
   {
+    "booking_id": "107book90509",
+    "date": "2026-09-20",
+    "time": "2:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "104book43998",
     "date": "2026-09-20",
     "time": "2:30 PM",
@@ -19257,6 +19290,17 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "107book90606",
+    "date": "2026-09-20",
+    "time": "3:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
   },
