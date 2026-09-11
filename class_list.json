@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book72877",
-    "date": "2026-09-12",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book82012",
-    "date": "2026-09-12",
-    "time": "4:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book55408",
     "date": "2026-09-12",
     "time": "5:00 PM",
