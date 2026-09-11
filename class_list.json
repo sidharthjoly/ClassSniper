@@ -425,7 +425,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 35
   },
   {
@@ -2570,7 +2570,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -3098,7 +3098,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 28
   },
   {
@@ -3571,7 +3571,7 @@
     "class_type": "Harmony Series",
     "instructor": "Marie de Bella",
     "location": "Surry Hills",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 34
   },
   {
@@ -3747,7 +3747,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
