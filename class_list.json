@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book73201",
-    "date": "2026-09-13",
-    "time": "3:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book47141",
     "date": "2026-09-13",
     "time": "4:00 PM",
@@ -3406,7 +3395,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 40
   },
   {
@@ -3428,7 +3417,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 23
   },
   {
