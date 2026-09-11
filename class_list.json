@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book15296",
-    "date": "2026-09-13",
-    "time": "10:10 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book30365",
     "date": "2026-09-13",
     "time": "10:15 AM",
