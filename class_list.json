@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book30762",
-    "date": "2026-09-13",
-    "time": "8:10 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book46671",
     "date": "2026-09-13",
     "time": "8:30 AM",
