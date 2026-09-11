@@ -3208,7 +3208,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 40
   },
   {
@@ -3219,7 +3219,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 34
   },
   {
@@ -3549,7 +3549,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -3747,7 +3747,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -3846,7 +3846,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -6858,7 +6858,7 @@
     "time": "5:50 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
+    "instructor": "Isabelle Ward",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7232,7 +7232,7 @@
     "time": "6:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maggie Dixon-Best",
+    "instructor": "Isabelle Ward",
     "location": "Surry Hills",
     "remaining_spots": 19,
     "capacity": 20
@@ -7527,9 +7527,9 @@
     "booking_id": "101book65882",
     "date": "2026-09-16",
     "time": "7:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
+    "instructor": "Isabelle Ward",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7678,6 +7678,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book88754",
+    "date": "2026-09-16",
+    "time": "8:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book67448",
     "date": "2026-09-16",
     "time": "8:15 AM",
@@ -7687,17 +7698,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "101book66513",
-    "date": "2026-09-16",
-    "time": "8:15 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book40254",
@@ -7793,7 +7793,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
+    "instructor": "Elizabeth Chun",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -10246,7 +10246,7 @@
     "time": "7:15 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
+    "instructor": "Jessy Patterson",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -11610,7 +11610,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -11676,10 +11676,21 @@
     "time": "4:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "101book89255",
+    "date": "2026-09-17",
+    "time": "4:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Mackenzie Sengotta",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book41975",
@@ -11753,7 +11764,7 @@
     "time": "4:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -12831,7 +12842,7 @@
     "time": "6:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "James Wood, Jennifer Irvine",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -13172,7 +13183,7 @@
     "time": "7:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "James Wood",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -13508,17 +13519,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book78696",
-    "date": "2026-09-18",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 26,
-    "capacity": 26
-  },
-  {
     "booking_id": "106book74006",
     "date": "2026-09-18",
     "time": "8:45 AM",
@@ -13709,7 +13709,18 @@
     "booking_id": "101book79213",
     "date": "2026-09-18",
     "time": "9:30 AM",
-    "name": "BodySculpt",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Lily Cole",
+    "location": "Surry Hills",
+    "remaining_spots": 0,
+    "capacity": 23
+  },
+  {
+    "booking_id": "101book79213",
+    "date": "2026-09-18",
+    "time": "9:30 AM",
+    "name": "Infrared Pilates",
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
@@ -16390,6 +16401,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book81979",
+    "date": "2026-09-19",
+    "time": "11:30 AM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Megan Leung",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book77321",
     "date": "2026-09-19",
     "time": "11:30 AM",
@@ -16399,17 +16421,6 @@
     "location": "Marrickville",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "103book60064",
-    "date": "2026-09-19",
-    "time": "11:30 AM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "106book50011",
@@ -17572,7 +17583,7 @@
     "time": "1:15 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
+    "instructor": "Sunil Tailor",
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
@@ -17605,7 +17616,7 @@
     "time": "2:30 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
+    "instructor": "Sunil Tailor",
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
@@ -18045,7 +18056,7 @@
     "time": "6:30 AM",
     "name": "Surge",
     "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
+    "instructor": "Frances Lee",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -18357,17 +18368,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "107book47561",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Surge",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 40,
-    "capacity": 40
   },
   {
     "booking_id": "101book60308",
