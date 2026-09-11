@@ -172,7 +172,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 34
   },
   {
@@ -315,7 +315,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -2911,7 +2911,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3439,7 +3439,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
