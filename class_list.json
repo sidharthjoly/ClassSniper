@@ -1932,7 +1932,7 @@
     "class_type": "Mat Series",
     "instructor": "Joe Jackson",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -4726,7 +4726,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
