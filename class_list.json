@@ -909,7 +909,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
@@ -1316,7 +1316,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -2229,7 +2229,7 @@
     "class_type": "Fight Series",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 29,
     "capacity": 31
   },
   {
