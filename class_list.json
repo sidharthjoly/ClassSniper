@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book63287",
-    "date": "2026-09-14",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49150",
     "date": "2026-09-14",
     "time": "5:30 AM",
@@ -909,7 +898,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -5265,7 +5254,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 18
   },
   {
