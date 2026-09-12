@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book48714",
-    "date": "2026-09-13",
-    "time": "4:45 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book55882",
     "date": "2026-09-13",
     "time": "5:15 PM",
@@ -2537,7 +2526,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 35
   },
   {
@@ -2658,7 +2647,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 22
   },
   {
@@ -3197,7 +3186,7 @@
     "class_type": "One Run",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 49,
+    "remaining_spots": 48,
     "capacity": 50
   },
   {
