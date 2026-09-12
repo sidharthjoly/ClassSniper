@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book59490",
-    "date": "2026-09-14",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book36153",
     "date": "2026-09-14",
     "time": "8:00 AM",
@@ -854,7 +843,7 @@
     "class_type": "Yoga Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
