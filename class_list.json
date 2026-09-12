@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book51441",
-    "date": "2026-09-14",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 35
-  },
-  {
     "booking_id": "104book34805",
     "date": "2026-09-14",
     "time": "10:30 AM",
