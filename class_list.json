@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28444",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "David Mitchell",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book64052",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 31
-  },
-  {
-    "booking_id": "106book67072",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 10,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book33807",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book58751",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book58971",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Sean Grosvenor",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book58655",
-    "date": "2026-09-14",
-    "time": "5:15 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book32464",
     "date": "2026-09-14",
     "time": "5:30 PM",
@@ -1283,7 +1206,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 33
   },
   {
@@ -3021,7 +2944,7 @@
     "class_type": "S&C Series",
     "instructor": "Matthew Gardner",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 26
   },
   {
@@ -3725,7 +3648,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
