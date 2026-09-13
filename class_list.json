@@ -1008,7 +1008,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -1624,7 +1624,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 18,
     "capacity": 28
   },
   {
@@ -2779,7 +2779,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
@@ -3527,7 +3527,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 18
   },
   {
@@ -4946,7 +4946,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -5353,7 +5353,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 27
   },
   {
@@ -5375,7 +5375,7 @@
     "class_type": "Mat Series",
     "instructor": "Joe Jackson",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 36
   },
   {
