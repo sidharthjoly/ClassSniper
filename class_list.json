@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book78036",
-    "date": "2026-09-15",
-    "time": "9:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 25,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book54570",
     "date": "2026-09-15",
     "time": "9:30 AM",
