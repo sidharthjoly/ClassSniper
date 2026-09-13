@@ -40,7 +40,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 22
   },
   {
@@ -2020,7 +2020,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
@@ -2339,7 +2339,7 @@
     "class_type": "Dance Series",
     "instructor": "Whitney Bertrand",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 38
   },
   {
@@ -5320,7 +5320,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 23
   },
   {
@@ -5727,7 +5727,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 26
   },
   {
@@ -8690,12 +8690,12 @@
     "capacity": 24
   },
   {
-    "booking_id": "106book56122",
+    "booking_id": "106book77861",
     "date": "2026-09-18",
     "time": "5:00 AM",
-    "name": "Upper Build",
+    "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
+    "instructor": "Colleen Antony",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -8805,7 +8805,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
+    "instructor": "Colleen Antony",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -9157,7 +9157,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
+    "instructor": "Colleen Antony",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -13557,7 +13557,7 @@
     "time": "11:30 AM",
     "name": "Reformer: Athletic",
     "class_type": "Reformer Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Vanessa Liu",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
