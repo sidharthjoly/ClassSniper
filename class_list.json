@@ -821,7 +821,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -2141,7 +2141,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tess Williams",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
@@ -3637,7 +3637,7 @@
     "class_type": "S&C Series",
     "instructor": "Zoe Downing",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 28
   },
   {
@@ -3736,7 +3736,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -3890,7 +3890,7 @@
     "class_type": "Mat Series",
     "instructor": "Zoe Downing",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
