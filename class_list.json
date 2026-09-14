@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book64867",
-    "date": "2026-09-16",
-    "time": "9:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 31
-  },
-  {
     "booking_id": "103book76969",
     "date": "2026-09-16",
     "time": "9:30 AM",
