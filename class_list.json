@@ -2438,7 +2438,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -4660,7 +4660,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Sophia Collins",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4946,7 +4946,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
