@@ -1426,7 +1426,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -4407,7 +4407,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -4429,7 +4429,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
