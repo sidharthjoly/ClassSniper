@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book55932",
-    "date": "2026-09-16",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book63869",
     "date": "2026-09-16",
     "time": "3:45 PM",
@@ -3879,7 +3868,7 @@
     "class_type": "Dance Series",
     "instructor": "Dante Devitt",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -3890,7 +3879,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -4055,7 +4044,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Merrylands",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 33
   },
   {
