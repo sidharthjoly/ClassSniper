@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book76969",
-    "date": "2026-09-16",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book55824",
-    "date": "2026-09-16",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book65363",
-    "date": "2026-09-16",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book79043",
     "date": "2026-09-16",
     "time": "9:45 AM",
