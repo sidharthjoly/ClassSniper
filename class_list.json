@@ -1932,7 +1932,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -2218,7 +2218,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4638,7 +4638,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 26
   },
   {
@@ -4649,7 +4649,7 @@
     "class_type": "S&C Series",
     "instructor": "James Wood",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
