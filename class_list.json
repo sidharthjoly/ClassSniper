@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book63797",
-    "date": "2026-09-16",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book55202",
-    "date": "2026-09-16",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book42888",
     "date": "2026-09-16",
     "time": "2:00 PM",
@@ -2856,7 +2834,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4143,7 +4121,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -4286,7 +4264,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4308,7 +4286,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -4418,7 +4396,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -4572,7 +4550,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -4627,7 +4605,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -4660,7 +4638,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
@@ -4682,7 +4660,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -4715,7 +4693,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 20,
     "capacity": 23
   },
   {
@@ -4726,7 +4704,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -4748,7 +4726,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
@@ -4759,7 +4737,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
