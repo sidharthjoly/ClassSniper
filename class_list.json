@@ -942,7 +942,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
@@ -1459,7 +1459,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1470,7 +1470,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -1657,7 +1657,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -1965,7 +1965,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 34
   },
   {
@@ -3571,7 +3571,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 32
   },
   {
@@ -5945,7 +5945,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
+    "instructor": "Chelsea Bayntun",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -6209,7 +6209,7 @@
     "time": "7:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
+    "instructor": "Chelsea Bayntun",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
