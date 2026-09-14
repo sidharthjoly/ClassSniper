@@ -568,7 +568,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -876,7 +876,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -3670,7 +3670,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
