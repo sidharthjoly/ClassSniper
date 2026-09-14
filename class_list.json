@@ -997,7 +997,7 @@
     "class_type": "Creche",
     "instructor": "Shova Rana",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -3923,7 +3923,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -4044,7 +4044,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4099,7 +4099,7 @@
     "class_type": "Creche",
     "instructor": "Shova Rana",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 8
   },
   {
