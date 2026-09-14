@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book34597",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Whitney Bertrand",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book38138",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book51746",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Shannon Campradt",
-    "location": "Marrickville",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book40809",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36205",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49382",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63228",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book39280",
     "date": "2026-09-15",
     "time": "7:15 PM",
@@ -3151,7 +3074,7 @@
     "time": "5:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 17,
     "capacity": 24
@@ -3360,7 +3283,7 @@
     "time": "6:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
@@ -3635,7 +3558,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
