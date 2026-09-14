@@ -293,7 +293,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3307,7 +3307,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -5727,7 +5727,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -6310,7 +6310,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 35
   },
   {
@@ -6497,7 +6497,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
