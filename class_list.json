@@ -62,7 +62,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1206,7 +1206,7 @@
     "class_type": "Mat Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 34
   },
   {
@@ -2339,7 +2339,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
@@ -2757,7 +2757,7 @@
     "class_type": "Spin Series",
     "instructor": "Shane Collard",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 35
   },
   {
@@ -4704,7 +4704,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
