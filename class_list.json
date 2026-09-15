@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book41038",
-    "date": "2026-09-16",
-    "time": "4:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book62377",
-    "date": "2026-09-16",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66672",
-    "date": "2026-09-16",
-    "time": "4:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book39967",
     "date": "2026-09-16",
     "time": "5:00 PM",
@@ -2075,7 +2042,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -4671,7 +4638,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -4968,7 +4935,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 32
   },
   {
