@@ -1,12 +1,1 @@
-[
-  {
-    "enabled": true,
-    "armed_booking_ids": [],
-    "id": "merrylands-5:00-am-total-build",
-    "weekday": "Monday",
-    "time": "5:00 AM",
-    "location": "Merrylands",
-    "name": "Total Build",
-    "watch_if_full": false
-  }
-]
+[]
