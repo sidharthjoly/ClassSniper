@@ -45,8 +45,12 @@ several locations, isn't realistic. This automates it.
 │   Web dashboard          │  reads the JSON files directly — public, no auth
 │   (GitHub Pages)         │  needed just to look
 └─────────────┬────────────┘
-              │ writes (arm / remove / add rule) via the GitHub Contents API,
-              │ using a fine-grained PAT scoped to just this repo
+              │ writes (arm / remove / add rule) go to…
+              ▼
+┌──────────────────────────┐
+│   API worker             │  holds the GitHub token, so the dashboard only
+│   (Cloudflare)           │  needs an access key. Read-modify-write with a
+└─────────────┬────────────┘  retry on conflict; auth is rate limited
               ▼
 ┌──────────────────────────┐
 │   This repo              │  source of truth: pending_booking.json,
@@ -164,10 +168,12 @@ no business installing pytest.
 2. Add repo secrets: `GYM_EMAIL`, `GYM_PASSWORD`.
 3. Enable GitHub Pages: Settings → Pages → Source: **GitHub Actions**.
 4. Enable Actions if the fork disabled them by default.
-5. Open the Pages URL, create a [fine-grained GitHub token](https://github.com/settings/personal-access-tokens/new)
-   scoped to just this repo with **Contents: read & write**, paste it into the
-   dashboard's "GitHub Connection" card (stored only in that browser's
-   `localStorage`) — needed to arm/remove bookings, not to view status.
+5. Deploy the API worker — see [worker/README.md](worker/README.md). It holds a
+   [fine-grained token](https://github.com/settings/personal-access-tokens/new)
+   (this repo, **Contents: read & write**) so the dashboard doesn't have to, and
+   it's what makes the thing usable by someone who has never heard of GitHub:
+   they get an access key, not a PAT. Put its URL in `API_BASE` at the top of
+   `index.html`.
 6. **Set up the external trigger** — don't skip this. The repo's own `schedule:`
    cron is kept as a free backup, but on its own it's not reliable enough to
    actually strike on time (see above). Create a second
@@ -176,6 +182,17 @@ no business installing pytest.
    service like [cron-job.org](https://cron-job.org) to `POST` every 60s to
    `https://api.github.com/repos/<you>/<repo>/actions/workflows/main.yml/dispatches`
    with header `Authorization: Bearer <token>` and body `{"ref":"main"}`.
+
+## Who can actually use it
+
+Anyone you give the access key to. Looking is free — status, the class list and
+the queue are read straight from this public repo with no credential at all —
+and arming needs the key, which is pasted once and remembered by the browser.
+
+Everything GitHub-shaped lives behind [the worker](worker/README.md). That was
+deliberate: setup used to begin "create a fine-grained personal access token",
+which is a reasonable ask of the person who wrote this and the end of the
+conversation with anyone else.
 
 ## Safety & scope
 

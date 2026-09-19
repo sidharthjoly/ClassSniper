@@ -383,6 +383,8 @@
   const REPO = 'ClassSniper';
   const BRANCH = 'main';
   const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}`;
+  // Holds the GitHub token so this page doesn't have to. See worker/README.md.
+  const API_BASE = 'https://classsniper-api.jolysidharth.workers.dev';
   const MIN_LEAD_HOURS = 30; // Cancelling within 24h of a class incurs a fee; keep a safety buffer above that.
 
   // ---------- toast ----------
@@ -398,67 +400,42 @@
     }, type === 'error' ? 7000 : 3800);
   }
 
-  // ---------- token storage ----------
-  function getToken() {
-    return localStorage.getItem('gh_token') || '';
+  // ---------- access key ----------
+  function getKey() {
+    return localStorage.getItem('cs_key') || '';
   }
 
-  function setToken(token) {
-    if (token) localStorage.setItem('gh_token', token);
-    else localStorage.removeItem('gh_token');
+  function setKey(key) {
+    if (key) localStorage.setItem('cs_key', key);
+    else localStorage.removeItem('cs_key');
   }
 
-  // ---------- GitHub API (writes only need the token) ----------
-  function authHeaders() {
-    const token = getToken();
-    const headers = { 'Accept': 'application/vnd.github.v3+json' };
-    if (token) headers.Authorization = `token ${token}`;
-    return headers;
-  }
-
-  function decodeContent(content) {
-    return decodeURIComponent(escape(atob(content.replace(/\n/g, ''))));
-  }
-  function encodeContent(text) {
-    return btoa(unescape(encodeURIComponent(text)));
-  }
-
+  // ---------- reads: straight from the public repo, no credential ----------
   async function fetchPublicJson(path) {
     const res = await fetch(`${RAW_BASE}/${path}?_=${Date.now()}`);
     if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
     return res.json();
   }
 
-  async function githubGetFile(path) {
-    const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}`, {
-      headers: authHeaders(),
+  // ---------- writes: through the API worker ----------
+  // This used to be the GitHub Contents API called straight from here, which meant
+  // anyone using the dashboard first had to create a fine-grained personal access
+  // token. The worker holds that token now; this only needs the access key.
+  async function api(path, body) {
+    const res = await fetch(`${API_BASE}${path}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${getKey()}` },
+      body: JSON.stringify(body),
     });
-    if (!res.ok) {
-      const body = await res.text();
-      throw new Error(`GitHub read failed: ${res.status} ${extractGithubMessage(body)}`);
-    }
-    return res.json();
-  }
 
-  function extractGithubMessage(bodyText) {
-    try {
-      return JSON.parse(bodyText).message || bodyText;
-    } catch {
-      return bodyText;
-    }
-  }
+    let payload = {};
+    try { payload = await res.json(); } catch { /* keep the status-based message */ }
 
-  async function githubPutFile(path, message, content, sha) {
-    const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents/${path}`, {
-      method: 'PUT',
-      headers: authHeaders(),
-      body: JSON.stringify({ message, content, sha, branch: BRANCH }),
-    });
     if (!res.ok) {
-      const body = await res.text();
-      throw new Error(`GitHub write failed: ${res.status} ${extractGithubMessage(body)}`);
+      if (res.status === 401) throw new Error('That access key was rejected.');
+      throw new Error(payload.error || `Request failed (${res.status})`);
     }
-    return res.json();
+    return payload;
   }
 
   // ---------- date helpers ----------
@@ -565,11 +542,25 @@
   }
 
   // ---------- pending bookings ----------
+  // Every write returns the updated list, so the card can re-render from the
+  // response instead of re-reading raw.githubusercontent.com and hoping its CDN
+  // cache has caught up with the commit that was just made.
+  let pendingCache = [];
+
   async function loadPendingBookings() {
     const container = document.getElementById('pendingCard');
     try {
       const payload = await fetchPublicJson('pending_booking.json');
-      const bookings = Array.isArray(payload) ? payload : [payload];
+      renderPendingBookings(Array.isArray(payload) ? payload : [payload]);
+    } catch (error) {
+      console.error(error);
+      container.innerHTML = `<div class="card-kicker">Pending bookings</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load pending bookings.</div>`;
+    }
+  }
+
+  function renderPendingBookings(bookings) {
+    const container = document.getElementById('pendingCard');
+    pendingCache = bookings;
       const rows = bookings.length === 0
         ? `<div class="card-meta" style="padding:var(--space-2) 0 0;">Nothing queued. Arm a booking to the right.</div>`
         : bookings.map((item, i) => `
@@ -585,11 +576,7 @@
             </button>
           </div>
         `).join('');
-      container.innerHTML = `<div class="card-kicker">Pending bookings</div>${rows}`;
-    } catch (error) {
-      console.error(error);
-      container.innerHTML = `<div class="card-kicker">Pending bookings</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load pending bookings.</div>`;
-    }
+    container.innerHTML = `<div class="card-kicker">Pending bookings</div>${rows}`;
   }
 
   // A booking that has resolved stays in the queue so it can say why — the striker
@@ -606,19 +593,24 @@
   }
 
   async function removeBooking(index) {
-    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    const item = pendingCache[index];
+    if (!item) return;
+    if (!needsKey()) return;
     try {
-      const file = await githubGetFile('pending_booking.json');
-      let payload = JSON.parse(decodeContent(file.content));
-      if (!Array.isArray(payload)) payload = [payload];
-      const removed = payload.splice(index, 1)[0];
-      const content = encodeContent(JSON.stringify(payload, null, 2));
-      await githubPutFile('pending_booking.json', `Remove pending booking ${removed?.date} ${removed?.time}`, content, file.sha);
+      // Identified by its stable fields, not its position: the striker writes
+      // state and attempts onto these between this list loading and the click.
+      const { bookings } = await api('/api/bookings/remove', {
+        booking_id: item.booking_id,
+        date: item.date,
+        time: item.time,
+        location: item.location,
+        name: item.name,
+      });
       toast('Booking removed.', 'success');
-      loadPendingBookings();
+      renderPendingBookings(bookings);
     } catch (error) {
       console.error(error);
-      toast(`Failed to remove booking — ${error.message}`, 'error');
+      toast(error.message, 'error');
     }
   }
 
@@ -754,16 +746,9 @@
   async function armClass(bookingId) {
     const cls = classListCache.find(c => c.booking_id === bookingId);
     if (!cls) return;
-    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    if (!needsKey()) return;
     try {
-      const file = await githubGetFile('pending_booking.json');
-      let payload = JSON.parse(decodeContent(file.content));
-      if (!Array.isArray(payload)) payload = [payload];
-      if (payload.some(b => b.booking_id === bookingId)) {
-        toast('That class is already queued.', 'error');
-        return;
-      }
-      payload.push({
+      const { bookings } = await api('/api/bookings', {
         watch_if_full: watchIfFull,
         booking_id: cls.booking_id,
         date: cls.date,
@@ -772,13 +757,11 @@
         instructor: cls.instructor,
         location: cls.location,
       });
-      const content = encodeContent(JSON.stringify(payload, null, 2));
-      await githubPutFile('pending_booking.json', `Arm ${cls.name} at ${cls.time} on ${cls.date} (${cls.location})`, content, file.sha);
       toast(`Armed: ${cls.name} at ${cls.time}, ${cls.location}.`, 'success');
-      loadPendingBookings();
+      renderPendingBookings(bookings);
     } catch (error) {
       console.error(error);
-      toast(`Failed to arm booking — ${error.message}`, 'error');
+      toast(error.message, 'error');
     }
   }
 
@@ -809,27 +792,18 @@
       }
     }
 
-    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    if (!needsKey()) return;
 
     const btn = document.getElementById('armBtn');
     btn.disabled = true;
     try {
-      const file = await githubGetFile('pending_booking.json');
-      let payload = JSON.parse(decodeContent(file.content));
-      if (!Array.isArray(payload)) payload = [payload];
-      if (payload.some(b => b.date === date && b.time === time && (b.location || 'Newtown') === location)) {
-        toast('That booking is already queued.', 'error');
-        return;
-      }
-      payload.push({ date, time, location });
-      const content = encodeContent(JSON.stringify(payload, null, 2));
-      await githubPutFile('pending_booking.json', `Arm booking for ${time} on ${date} (${location})`, content, file.sha);
+      const { bookings } = await api('/api/bookings', { date, time, location });
       toast('Booking armed.', 'success');
       document.getElementById('timeInput').value = '';
-      loadPendingBookings();
+      renderPendingBookings(bookings);
     } catch (error) {
       console.error(error);
-      toast(`Failed to arm booking — ${error.message}`, 'error');
+      toast(error.message, 'error');
     } finally {
       btn.disabled = false;
     }
@@ -844,11 +818,22 @@
     return new Date(y, m - 1, d).toLocaleDateString('en-AU', { weekday: 'long' });
   }
 
+  let standingCache = [];
+
   async function loadStandingRules() {
     const card = document.getElementById('standingCard');
     try {
       const payload = await fetchPublicJson('standing_bookings.json');
-      const rules = Array.isArray(payload) ? payload : [];
+      renderStandingRules(Array.isArray(payload) ? payload : []);
+    } catch (error) {
+      console.error(error);
+      card.innerHTML = `<div class="card-kicker">Standing rules</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load standing rules.</div>`;
+    }
+  }
+
+  function renderStandingRules(rules) {
+    const card = document.getElementById('standingCard');
+    standingCache = rules;
       const rows = rules.length === 0
         ? `<div class="card-meta" style="padding:var(--space-2) 0 0;">No standing rules. Hit "Weekly" on a class to arm it every week.</div>`
         : rules.map((r, i) => `
@@ -863,17 +848,13 @@
             </button>
           </div>
         `).join('');
-      card.innerHTML = `<div class="card-kicker">Standing rules</div>${rows}`;
-    } catch (error) {
-      console.error(error);
-      card.innerHTML = `<div class="card-kicker">Standing rules</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load standing rules.</div>`;
-    }
+    card.innerHTML = `<div class="card-kicker">Standing rules</div>${rows}`;
   }
 
   async function addStandingRule(bookingId) {
     const cls = classListCache.find(c => c.booking_id === bookingId);
     if (!cls) return;
-    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    if (!needsKey()) return;
     const rule = {
       id: `${cls.location}-${cls.time}-${cls.name}`.replace(/\s+/g, '-').toLowerCase(),
       weekday: weekdayOf(cls.date),
@@ -885,83 +866,80 @@
       armed_booking_ids: [],
     };
     try {
-      const file = await githubGetFile('standing_bookings.json');
-      let payload = JSON.parse(decodeContent(file.content));
-      if (!Array.isArray(payload)) payload = [];
-      if (payload.some(r => r.id === rule.id && r.weekday === rule.weekday)) {
-        toast('There is already a rule for that class.', 'error');
-        return;
-      }
-      payload.push(rule);
-      const content = encodeContent(JSON.stringify(payload, null, 2));
-      await githubPutFile('standing_bookings.json', `Add standing rule for ${rule.name} on ${rule.weekday}s`, content, file.sha);
+      const { rules } = await api('/api/rules', rule);
       toast(`${cls.name} will be armed every ${rule.weekday}.`);
-      loadStandingRules();
+      renderStandingRules(rules);
     } catch (error) {
       console.error(error);
-      toast(`Failed to add rule — ${error.message}`, 'error');
+      toast(error.message, 'error');
     }
   }
 
   async function removeStandingRule(index) {
-    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    const rule = standingCache[index];
+    if (!rule) return;
+    if (!needsKey()) return;
     try {
-      const file = await githubGetFile('standing_bookings.json');
-      let payload = JSON.parse(decodeContent(file.content));
-      if (!Array.isArray(payload)) payload = [];
-      const removed = payload.splice(index, 1)[0];
-      const content = encodeContent(JSON.stringify(payload, null, 2));
-      await githubPutFile('standing_bookings.json', `Remove standing rule for ${removed?.name}`, content, file.sha);
+      const { rules } = await api('/api/rules/remove', {
+        id: rule.id, weekday: rule.weekday, time: rule.time, location: rule.location, name: rule.name,
+      });
       toast('Standing rule removed. Anything it already queued stays queued.');
-      loadStandingRules();
+      renderStandingRules(rules);
     } catch (error) {
       console.error(error);
-      toast(`Failed to remove rule — ${error.message}`, 'error');
+      toast(error.message, 'error');
     }
   }
 
   function renderConnectCard() {
     const card = document.getElementById('connectCard');
-    const token = getToken();
+    const key = getKey();
 
-    document.getElementById('navConnected').style.display = token ? 'inline-flex' : 'none';
-    document.getElementById('navNotConnected').style.display = token ? 'none' : 'inline-flex';
+    document.getElementById('navConnected').style.display = key ? 'inline-flex' : 'none';
+    document.getElementById('navNotConnected').style.display = key ? 'none' : 'inline-flex';
 
-    if (token) {
+    if (key) {
       card.innerHTML = `
-        <div class="card-kicker">GitHub connection</div>
+        <div class="card-kicker">Access</div>
         <div class="connect-status">
-          <div class="who">Connected to<br><strong>${OWNER}/${REPO}</strong></div>
+          <div class="who">Unlocked on<br><strong>this browser</strong></div>
           <button class="btn btn-ghost btn-sm" onclick="disconnect()">Change</button>
         </div>
       `;
     } else {
       card.innerHTML = `
-        <div class="card-kicker">GitHub connection</div>
+        <div class="card-kicker">Access</div>
         <div class="field" style="margin-top:var(--space-2);">
-          <label for="tokenInput">GitHub token</label>
-          <input class="input" type="password" id="tokenInput" placeholder="github_pat_...">
+          <label for="keyInput">Access key</label>
+          <input class="input" type="password" id="keyInput" placeholder="Paste your access key">
         </div>
-        <button class="btn btn-primary btn-block" onclick="saveToken()">Connect</button>
+        <button class="btn btn-primary btn-block" onclick="saveKey()">Unlock</button>
         <div class="hint">
-          Only needed to arm or remove bookings. Create a
-          <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine-grained token</a>
-          scoped to just this repo with <strong>Contents: read &amp; write</strong>. Stored only in this browser.
+          Only needed to arm or remove bookings &mdash; looking is free. Ask whoever
+          set this up for the key. It's remembered in this browser, so you should
+          only ever type it once.
         </div>
       `;
     }
   }
 
-  function saveToken() {
-    const token = document.getElementById('tokenInput').value.trim();
-    if (!token) { toast('Paste a token first.', 'error'); return; }
-    setToken(token);
+  function saveKey() {
+    const key = document.getElementById('keyInput').value.trim();
+    if (!key) { toast('Paste the access key first.', 'error'); return; }
+    setKey(key);
     renderConnectCard();
-    toast('Connected.', 'success');
+    toast('Unlocked.', 'success');
+  }
+
+  // Everything that writes calls this first, so the prompt is the same everywhere.
+  function needsKey() {
+    if (getKey()) return true;
+    toast('Enter your access key first — see the Access card.', 'error');
+    return false;
   }
 
   function disconnect() {
-    setToken('');
+    setKey('');
     renderConnectCard();
   }
 
