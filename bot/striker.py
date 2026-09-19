@@ -87,13 +87,32 @@ def free_spots(booking_id):
     return None
 
 # --- Fast API path ---
-# Found by reading the site's own JS bundle: the whole booking flow is two
-# unauthenticated-transport HTTP calls (person_key acts as the credential, sent
-# in the body, not a header/cookie). No browser needed at all if this works.
+# Found by reading the site's own JS bundle: the whole booking flow is two HTTP
+# calls. No browser needed at all if this works.
+#
+# The venue rebuilt its auth in September 2026 and /person-auth now 404s, which
+# had every strike silently falling back to the ~20s browser flow. Read the
+# bundle again: sign-in is /login and the session is a COOKIE now, not a
+# personKey handed back in the body to pass along in the booking payload. The
+# frontend calls everything with `credentials: "include"` and clears the old
+# localStorage token on boot. requests.Session carries the cookie for us.
 API_BASE = "https://cms.oneplayground.com.au/api/timetable"
-AUTH_URL = f"{API_BASE}/person-auth"
+LOGIN_URL = f"{API_BASE}/login"
 SESSIONS_URL = f"{API_BASE}/get-sessions-by-center-and-date"
 BOOK_URL = f"{API_BASE}/create-participation-and-send-message"
+
+# The endpoints are CORS-locked to the site's own origin and the session is a
+# cookie, so present as what this is rather than as an anonymous script.
+API_HEADERS = {
+    "Origin": "https://oneplayground.com.au",
+    "Referer": TIMETABLE_URL,
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+}
+
+# What the frontend throws when the cookie is missing or stale — worth telling
+# apart from a wrong password, which is not something a retry will fix.
+SESSION_ERROR_CODES = ("SESSION_EXPIRED", "SESSION_REQUIRED")
 
 def warm_connection(session):
     """Best-effort: establish the TCP/TLS connection to the API host ahead of time so
@@ -104,6 +123,25 @@ def warm_connection(session):
         session.get(f"{API_BASE}/centers", timeout=5)
     except Exception:
         pass
+
+
+def _participation_id(body):
+    """Pull the id the venue assigns a booking, when it's in the response.
+
+    Not used to decide success — only to put something in status.json that can
+    be checked against the account, since this path has never been verified
+    against a real booking.
+    """
+    try:
+        participation = body.get("participation") or {}
+        if participation.get("participation_id"):
+            return f"Booked via the fast path, participation {participation['participation_id']}."
+        first = ((body.get("response") or {}).get("participations") or [{}])[0]
+        if first.get("participationId"):
+            return f"Booked via the fast path, participation {first['participationId']}."
+    except (AttributeError, IndexError, TypeError):
+        pass
+    return None
 
 
 async def try_fast_strike(target, session):
@@ -133,15 +171,15 @@ async def try_fast_strike(target, session):
         return None, None, None
 
     def _login():
-        return session.post(AUTH_URL, json={
-            "email": EMAIL, "password": PASSWORD, "include_participations": False,
-        }, timeout=10)
+        # Sets the session cookie on `session`; the body only carries expiresAt.
+        return session.post(LOGIN_URL, json={"email": EMAIL, "password": PASSWORD},
+                            headers=API_HEADERS, timeout=10)
 
     def _refresh_session():
         to_date = (datetime.strptime(target["date"], "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
         return session.post(SESSIONS_URL, json={
             "center_id": center_id, "from_date": target["date"], "to_date": to_date,
-        }, timeout=10)
+        }, headers=API_HEADERS, timeout=10)
 
     try:
         login_resp, session_resp = await asyncio.gather(
@@ -152,9 +190,11 @@ async def try_fast_strike(target, session):
 
     if login_resp.status_code != 200:
         return "ERROR", f"Fast-path login failed: {login_resp.status_code} {login_resp.text[:200]}", None
-    person_key = (login_resp.json().get("data") or {}).get("personKey")
-    if not person_key:
-        return "ERROR", "Fast-path login returned no personKey", None
+    # No token to read any more: being signed in *is* the cookie now. If it
+    # didn't arrive, every later call would 401 on an expired-session code, so
+    # say so here rather than three requests later.
+    if not session.cookies:
+        return "ERROR", "Fast-path login returned no session cookie", None
 
     if session_resp.status_code != 200:
         return "ERROR", f"Fast-path session refresh failed: {session_resp.status_code}", None
@@ -168,10 +208,12 @@ async def try_fast_strike(target, session):
         return "FULL", "Fast-path: class is full", None
 
     def _book():
+        # booking_id replaced person_key here in the same rebuild: the server
+        # takes the member from the cookie, not the payload.
         return session.post(BOOK_URL, json={
-            "pk": match["pk"], "sk": match["sk"], "person_key": person_key,
+            "pk": match["pk"], "sk": match["sk"], "booking_id": booking_id,
             "send_confirmation_message": True,
-        }, timeout=10)
+        }, headers=API_HEADERS, timeout=10)
 
     try:
         book_resp = await asyncio.to_thread(_book)
@@ -179,8 +221,16 @@ async def try_fast_strike(target, session):
         return "ERROR", f"Fast-path booking request failed: {e}", None
 
     if book_resp.status_code == 200:
-        return "SUCCESS", None, book_resp.json()
-    return "ERROR", f"Fast-path booking failed: {book_resp.status_code} {book_resp.text[:300]}", None
+        # A 200 is taken as booked. Deliberately not stricter: treating a 200
+        # whose shape we don't recognise as inconclusive would send the browser
+        # fallback in to book the same class a second time.
+        body = book_resp.json() if book_resp.content else {}
+        return "SUCCESS", _participation_id(body), body
+
+    detail = book_resp.text[:300]
+    if book_resp.status_code == 401 and any(c in detail for c in SESSION_ERROR_CODES):
+        return "ERROR", f"Fast-path: the session cookie was rejected ({detail})", None
+    return "ERROR", f"Fast-path booking failed: {book_resp.status_code} {detail}", None
 
 
 # Matches both "6:00 AM" (pending_booking.json) and the site's own compact
@@ -548,9 +598,13 @@ async def run_booking():
                 "status": "SUCCESS",
                 "path": "fast",
                 "time": str(datetime.now()),
-                "note": "Booked via the fast API path (no browser) — this path is unverified "
-                        "against a real account, so treat an early SUCCESS here as needing a "
-                        "sanity check against what actually happened.",
+                # fast_detail carries the venue's participation id when the
+                # response included one — the one thing that can be checked
+                # against the account, on a path never verified against a real
+                # booking.
+                "note": fast_detail or "Booked via the fast API path (no browser) — this path is "
+                        "unverified against a real account, so treat an early SUCCESS here as "
+                        "needing a sanity check against what actually happened.",
             })
         elif fast_status == "FULL":
             print(f"Fast path: {fast_detail}")

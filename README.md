@@ -106,6 +106,14 @@ matched by a rule and struck in the same run.
   — the same public API the site's own frontend calls — with the full
   browser-automation flow kept as a tested, reliable fallback if anything about
   the fast path doesn't pan out.
+- **Reading the bundle again when it broke.** The venue rebuilt its auth in
+  September 2026: `/person-auth` started 404ing, sign-in moved to `/login`, and
+  the credential became a session cookie instead of a `personKey` handed back to
+  pass along in the booking payload (which is now keyed by `booking_id`). The
+  fallback did its job — every strike still worked — so nothing failed visibly;
+  it just quietly took twenty seconds instead of milliseconds, which for a class
+  that fills in seconds is the difference between getting it and not. The failure
+  mode of a good fallback is that it hides the thing it's covering for.
 - **Timing.** The strike moment is computed precisely (72h before class start).
   The process sleeps until just before it, warms up its HTTP connection ~5
   seconds ahead of time so the DNS/TLS handshake isn't sitting on the critical
