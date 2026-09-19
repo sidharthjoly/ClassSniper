@@ -26,6 +26,12 @@ several locations, isn't realistic. This automates it.
 - A hard safety rule blocks arming *or* striking anything starting less than
   **30 hours** away, since cancelling inside 24 hours incurs a fee. The tool
   won't let itself create a charge it didn't need to.
+- **Standing rules** handle the weekly case: the window is only 72 hours wide, so
+  a class you take every Monday has to be armed every Monday. A rule describes it
+  once and each occurrence is queued as the scraper picks it up.
+- **Losing the race isn't final.** A booking can be left watching a full class and
+  strikes again the moment a spot reopens — cancellations are constant. The watch
+  costs nothing: the scraper is already refreshing `remaining_spots` every 60s.
 
 ## Architecture
 
@@ -36,28 +42,51 @@ several locations, isn't realistic. This automates it.
 └─────────┬──────────┘
           ▼
 ┌──────────────────────────┐
-│   Web dashboard          │  reads status.json / pending_booking.json /
-│   (GitHub Pages)         │  class_list.json directly — public, no auth needed
+│   Web dashboard          │  reads the JSON files directly — public, no auth
+│   (GitHub Pages)         │  needed just to look
 └─────────────┬────────────┘
-              │ writes (arm / remove) via the GitHub Contents API,
+              │ writes (arm / remove / add rule) via the GitHub Contents API,
               │ using a fine-grained PAT scoped to just this repo
               ▼
 ┌──────────────────────────┐
 │   This repo              │  source of truth: pending_booking.json,
-│   (GitHub Actions)       │  status.json, class_list.json
-└─────────────┬────────────┘
+│   (GitHub Actions)       │  standing_bookings.json, status.json,
+└─────────────┬────────────┘  class_list.json, scrape_status.json
               │
-     ┌────────┴────────┐
-     ▼                 ▼
- bot/scraper.py    bot/striker.py
- pulls the live    checks pending_booking.json; once a window opens:
- schedule for       1. fast path — two raw HTTP calls (login, book),
- every location         no browser
- → class_list.json  2. falls back to full Playwright browser automation
-                         if the fast path is inconclusive
+     ┌────────┼─────────────────┐
+     ▼        ▼                 ▼
+ bot/        bot/           bot/striker.py
+ scraper.py  standing.py    takes the next actionable booking; once its
+ every       matches the    window opens:
+ location's  rules against   1. fast path — two raw HTTP calls (login,
+ live        the fresh          book), no browser
+ schedule,   scrape and      2. falls back to full Playwright browser
+ fetched     queues what        automation if that's inconclusive
+ concurrently it finds
 ```
 
+The three run in that order every tick, so a class scraped this minute can be
+matched by a rule and struck in the same run.
+
 ## Key engineering details
+
+- **Nothing is allowed to fail quietly.** This is the failure mode the project
+  keeps hitting, so it's now designed against directly. `activity_type`
+  disappeared from the venue's payload one day in September; the filter keying
+  off it rejected every session, the scraper wrote an empty list, and because an
+  empty picker looks exactly like a quiet afternoon, the dashboard sat dead for
+  four days. Three layers now: the scraper asserts the payload still has the
+  fields the pipeline reads (including the two the *striker* posts to book), it
+  refuses to overwrite a good class list with an empty or drastically shrunken
+  one, and it writes a heartbeat on every run — including the runs that refuse —
+  which the dashboard turns amber when it stops moving.
+- **One lost class used to cost every booking behind it.** Selection took the
+  earliest-opening eligible booking and returned after striking it, and only a
+  win ever left the queue — so a class that came back full was re-struck every
+  60 seconds for the ~42 hours until it hit the safety margin, while everything
+  queued behind it never got a turn and missed its own window. An attempt now
+  records its outcome on the booking: resolved ones stay visible but drop out of
+  selection.
 
 - **Class disambiguation.** Multiple distinct classes routinely share the exact
   same time slot at the same location (e.g. 5:00 PM Newtown might be *Athletica*,
@@ -74,7 +103,11 @@ several locations, isn't realistic. This automates it.
 - **Timing.** The strike moment is computed precisely (72h before class start).
   The process sleeps until just before it, warms up its HTTP connection ~5
   seconds ahead of time so the DNS/TLS handshake isn't sitting on the critical
-  path, then fires.
+  path, then fires — and records how many milliseconds after the window opening
+  the request actually went out, since that number is the point of all of the
+  above. The ten locations are scraped concurrently for the same reason: at ~25
+  seconds, that scrape was eating a third of the 60-second tick it shares with
+  the strike.
 - **Why not GitHub's own scheduler?** `schedule:` triggers on GitHub Actions are
   documented as best-effort and get deprioritized under load — observed in
   production as runs landing ~55-75 minutes apart despite a `*/5` cron, which is
@@ -98,12 +131,32 @@ several locations, isn't realistic. This automates it.
   written to `status.json` regardless of source.
 - **Respecting the platform.** The fast path makes at most 3 requests per attempt
   and never retries — the login endpoint rate-limits at 5 requests, and a
-  fallback attempt needs some of that budget left for its own login.
+  fallback attempt needs some of that budget left for its own login. Repeated
+  errors on one booking stop after 5 attempts rather than retrying for days, and
+  watching a full class for a cancellation adds no requests at all: the scraper
+  is already refreshing `remaining_spots` every 60 seconds, so a freed spot is
+  visible without asking again. A successful snipe costs two booking attempts —
+  one to find it full, one to take the spot.
 
 ## Stack
 
 Python · [Playwright](https://playwright.dev) · GitHub Actions · vanilla HTML/CSS/JS
 (no framework, no build step) on GitHub Pages.
+
+## Tests
+
+```
+pip install -r requirements.txt -r requirements-dev.txt
+python -m pytest tests
+```
+
+They run against a trimmed recording of the real session payload, date-shifted
+at load so a fixture can't start passing for the wrong reason as it ages, and
+cover what has actually gone wrong here: a vanished field, a half-failed scrape,
+a full class blocking the queue, a standing rule loose enough to arm a whole
+day's timetable, an auto-armed booking reappearing after you delete it. CI runs
+them on push and PR only — the booking workflow fires every 60 seconds and has
+no business installing pytest.
 
 ## Setup (to adapt this for your own use)
 
