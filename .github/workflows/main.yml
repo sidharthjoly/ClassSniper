@@ -77,9 +77,19 @@ jobs:
           git commit -m "Update class list" || echo "No changes"
           for i in 1 2 3 4 5; do
             git push && break
-            echo "Push rejected (attempt $i), fetching and rebasing..."
+            # Rebasing used to go here, and it could not work: scrape_status.json
+            # carries a timestamp so every run rewrites it, which makes any push
+            # race a guaranteed conflict on the same lines, and the rebase
+            # aborted the whole run. Both files are generated output with no
+            # merge semantics — the newest scrape is simply the right one — so
+            # take whatever landed and re-apply this run's copy on top.
+            echo "Push rejected (attempt $i) — taking the latest and re-applying this run's files"
+            cp class_list.json scrape_status.json "$RUNNER_TEMP/"
             git fetch origin main
-            git rebase origin/main || { echo "Rebase failed"; git rebase --abort; exit 1; }
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/class_list.json" "$RUNNER_TEMP/scrape_status.json" .
+            git add class_list.json scrape_status.json
+            git commit -m "Update class list" || echo "No changes"
           done
       - name: Upload Debug Screenshot
         if: always()
