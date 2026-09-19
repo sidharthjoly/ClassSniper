@@ -428,11 +428,11 @@
     not_found: "That one isn't in the list any more — it may have just been booked or removed.",
   };
 
-  async function api(path, body) {
+  async function api(path, body, method = 'POST') {
     const res = await fetch(`${API_BASE}${path}`, {
-      method: 'POST',
+      method,
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${getKey()}` },
-      body: JSON.stringify(body),
+      ...(body === undefined ? {} : { body: JSON.stringify(body) }),
     });
 
     let payload = {};
@@ -490,10 +490,12 @@
     NONE: { label: 'Idle', color: 'var(--status-neutral)' },
   };
 
-  async function loadStatus() {
+  function renderStatus(data) {
     const card = document.getElementById('statusCard');
-    try {
-      const data = await fetchPublicJson('status.json');
+    if (!data || !data.status) {
+      card.innerHTML = `<div class="card-kicker">Status</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Nothing booked yet.</div>`;
+      return;
+    }
       const meta = STATUS_META[data.status] || { label: data.status || 'Unknown', color: 'var(--status-neutral)' };
       let detail = '';
       const target = data.selected_target || data.target;
@@ -514,12 +516,34 @@
         </div>
         ${detail ? `<div class="hr" style="margin:var(--space-3) 0"></div><div class="status-detail">${detail}</div>` : ''}
       `;
+  }
+
+  // ---------- the private half ----------
+  // Status, the queue and your standing rules used to be fetched from the public
+  // repo with no credential, which meant the page published which class you'd
+  // booked, where and when, to anyone who opened it. They come from the worker
+  // now and need the key. The class picker below doesn't — that's the gym's own
+  // timetable and says nothing about anyone.
+  function renderLocked() {
+    const note = `<div class="card-meta" style="padding:var(--space-2) 0 0;">Enter your access key to see this.</div>`;
+    document.getElementById('statusCard').innerHTML = `<div class="card-kicker">Status</div>${note}`;
+    document.getElementById('pendingCard').innerHTML = `<div class="card-kicker">Pending bookings</div>${note}`;
+    document.getElementById('standingCard').innerHTML = `<div class="card-kicker">Standing rules</div>${note}`;
+  }
+
+  async function loadPrivateState() {
+    if (!getKey()) { renderLocked(); return; }
+    try {
+      const { status, bookings, rules } = await api('/api/state', undefined, 'GET');
+      renderStatus(status);
+      renderPendingBookings(Array.isArray(bookings) ? bookings : []);
+      renderStandingRules(Array.isArray(rules) ? rules : []);
     } catch (error) {
       console.error(error);
-      card.innerHTML = `
-        <div class="card-kicker">Status</div>
-        <div class="status-row"><div class="status-left"><span class="status-dot" style="background:var(--status-neutral)"></span><div class="status-title">Unavailable</div></div></div>
-      `;
+      const note = `<div class="card-meta" style="padding:var(--space-2) 0 0;">${error.message}</div>`;
+      document.getElementById('statusCard').innerHTML = `<div class="card-kicker">Status</div>${note}`;
+      document.getElementById('pendingCard').innerHTML = `<div class="card-kicker">Pending bookings</div>${note}`;
+      document.getElementById('standingCard').innerHTML = `<div class="card-kicker">Standing rules</div>${note}`;
     }
   }
 
@@ -559,17 +583,6 @@
   // response instead of re-reading raw.githubusercontent.com and hoping its CDN
   // cache has caught up with the commit that was just made.
   let pendingCache = [];
-
-  async function loadPendingBookings() {
-    const container = document.getElementById('pendingCard');
-    try {
-      const payload = await fetchPublicJson('pending_booking.json');
-      renderPendingBookings(Array.isArray(payload) ? payload : [payload]);
-    } catch (error) {
-      console.error(error);
-      container.innerHTML = `<div class="card-kicker">Pending bookings</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load pending bookings.</div>`;
-    }
-  }
 
   function renderPendingBookings(bookings) {
     const container = document.getElementById('pendingCard');
@@ -836,17 +849,6 @@
 
   let standingCache = [];
 
-  async function loadStandingRules() {
-    const card = document.getElementById('standingCard');
-    try {
-      const payload = await fetchPublicJson('standing_bookings.json');
-      renderStandingRules(Array.isArray(payload) ? payload : []);
-    } catch (error) {
-      console.error(error);
-      card.innerHTML = `<div class="card-kicker">Standing rules</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load standing rules.</div>`;
-    }
-  }
-
   function renderStandingRules(rules) {
     const card = document.getElementById('standingCard');
     standingCache = rules;
@@ -946,6 +948,7 @@
     if (!key) { toast('Paste the access key first.', 'error'); return; }
     setKey(key);
     renderConnectCard();
+    loadPrivateState();
     toast('Unlocked.', 'success');
   }
 
@@ -959,15 +962,14 @@
   function disconnect() {
     setKey('');
     renderConnectCard();
+    renderLocked();
   }
 
   // ---------- init ----------
   renderConnectCard();
-  loadStatus();
-  loadScrapeStatus();
-  loadPendingBookings();
-  loadStandingRules();
-  loadClassPicker();
+  loadScrapeStatus();   // public: the gym's timetable, no key needed
+  loadClassPicker();    // public
+  loadPrivateState();   // yours: needs the key
 </script>
 </body>
 </html>
