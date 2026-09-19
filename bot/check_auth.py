@@ -16,7 +16,7 @@ import sys
 
 import requests
 
-import striker
+import api
 
 EMAIL = os.getenv("GYM_EMAIL")
 PASSWORD = os.getenv("GYM_PASSWORD")
@@ -29,18 +29,18 @@ def check():
 
     session = requests.Session()
 
-    before = session.get(f"{striker.API_BASE}/session", headers=striker.API_HEADERS, timeout=10)
+    before = session.get(api.SESSION_URL, headers=api.API_HEADERS, timeout=10)
     print(f"1. GET /session before sign-in -> {before.status_code} {before.text[:80]}")
     if before.status_code != 200:
         print("   The session endpoint is not answering; the fast path cannot work.")
         return 1
 
-    login = session.post(striker.LOGIN_URL, json={"email": EMAIL, "password": PASSWORD},
-                         headers=striker.API_HEADERS, timeout=10)
+    login = session.post(api.LOGIN_URL, json={"email": EMAIL, "password": PASSWORD},
+                         headers=api.API_HEADERS, timeout=10)
     # Never print the body: it is the one response that could echo an identifier.
     print(f"2. POST /login -> {login.status_code}")
     if login.status_code != 200:
-        print(f"   Sign-in failed. Error code: {striker.redact(login.json().get('error', '?'))}")
+        print(f"   Sign-in failed. Error code: {login.json().get('error', '?')}")
         return 1
 
     cookies = list(session.cookies.keys())
@@ -49,12 +49,12 @@ def check():
         print("   Signed in but no cookie: the booking call would be rejected.")
         return 1
 
-    after = session.get(f"{striker.API_BASE}/session", headers=striker.API_HEADERS, timeout=10)
+    after = session.get(api.SESSION_URL, headers=api.API_HEADERS, timeout=10)
     authenticated = after.status_code == 200 and after.json().get("authenticated") is True
     print(f"4. GET /session after sign-in -> authenticated={authenticated}")
 
     try:
-        session.post(f"{striker.API_BASE}/logout", headers=striker.API_HEADERS, timeout=10)
+        session.post(api.LOGOUT_URL, headers=api.API_HEADERS, timeout=10)
         print("5. signed out again")
     except requests.RequestException:
         print("5. sign-out failed (harmless — the session expires on its own)")

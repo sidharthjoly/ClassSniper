@@ -11,6 +11,10 @@ import requests
 # against them every run — a location that opens later can't quietly go missing
 # here and send every booking for it down the slow browser path.
 from centers import CENTER_IDS
+from api import (
+    API_BASE, API_HEADERS, BOOK_URL, LOGIN_URL, SESSION_ERROR_CODES,
+    SESSIONS_URL, TIMETABLE_URL,
+)
 
 # --- CONFIG FROM SECRETS ---
 EMAIL = os.getenv("GYM_EMAIL")
@@ -58,7 +62,6 @@ async def mask_sensitive_fields(page):
     except Exception:
         pass
 
-TIMETABLE_URL = "https://oneplayground.com.au/classes/timetable/"
 DEFAULT_LOCATION = "Newtown"
 
 # Outcomes that settle a queued booking for good. It stays in pending_booking.json
@@ -87,32 +90,10 @@ def free_spots(booking_id):
     return None
 
 # --- Fast API path ---
-# Found by reading the site's own JS bundle: the whole booking flow is two HTTP
-# calls. No browser needed at all if this works.
-#
-# The venue rebuilt its auth in September 2026 and /person-auth now 404s, which
-# had every strike silently falling back to the ~20s browser flow. Read the
-# bundle again: sign-in is /login and the session is a COOKIE now, not a
-# personKey handed back in the body to pass along in the booking payload. The
-# frontend calls everything with `credentials: "include"` and clears the old
-# localStorage token on boot. requests.Session carries the cookie for us.
-API_BASE = "https://cms.oneplayground.com.au/api/timetable"
-LOGIN_URL = f"{API_BASE}/login"
-SESSIONS_URL = f"{API_BASE}/get-sessions-by-center-and-date"
-BOOK_URL = f"{API_BASE}/create-participation-and-send-message"
+# The whole booking flow is two HTTP calls: sign in, then book. No browser at
+# all if it works. Endpoints and headers live in api.py so the sign-in check can
+# import them without pulling Playwright in with them.
 
-# The endpoints are CORS-locked to the site's own origin and the session is a
-# cookie, so present as what this is rather than as an anonymous script.
-API_HEADERS = {
-    "Origin": "https://oneplayground.com.au",
-    "Referer": TIMETABLE_URL,
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-}
-
-# What the frontend throws when the cookie is missing or stale — worth telling
-# apart from a wrong password, which is not something a retry will fix.
-SESSION_ERROR_CODES = ("SESSION_EXPIRED", "SESSION_REQUIRED")
 
 def warm_connection(session):
     """Best-effort: establish the TCP/TLS connection to the API host ahead of time so
