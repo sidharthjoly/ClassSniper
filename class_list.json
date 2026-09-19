@@ -3791,7 +3791,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -4220,7 +4220,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4583,7 +4583,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 40
   },
   {
