@@ -1338,7 +1338,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Alyssa Liem",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -2075,7 +2075,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 8
   },
   {
@@ -2570,7 +2570,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 8
   },
   {
