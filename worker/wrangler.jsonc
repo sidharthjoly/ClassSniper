@@ -1,0 +1,44 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "classsniper-api",
+  "main": "src/index.ts",
+  // Pinned to what the test runtime's bundled workerd supports, rather than today,
+  // so tests and production run on the same compatibility date instead of a newer
+  // deploy quietly diverging from what was tested. Raise it when the vitest pool
+  // ships a newer runtime.
+  "compatibility_date": "2026-08-22",
+  "compatibility_flags": ["nodejs_compat"],
+
+  "observability": {
+    "enabled": true,
+    "logs": { "head_sampling_rate": 1 }
+  },
+
+  // Deliberately no cron trigger. The external cron that wakes the booking
+  // workflow every 60s is the one piece of this system with a proven cadence, and
+  // Cloudflare's scheduler is best-effort in the same way GitHub's is — the thing
+  // that made an external cron necessary in the first place. The end user never
+  // sees it either way, so moving it would trade strike timing for nothing.
+  "vars": {
+    "GITHUB_OWNER": "SidharthJoly",
+    "GITHUB_REPO": "ClassSniper",
+    "GITHUB_BRANCH": "main",
+    // Only the dashboard may call this. Anything else gets no CORS headers back.
+    "ALLOWED_ORIGIN": "https://sidharthjoly.github.io"
+  },
+
+  // The passphrase is the only thing between the internet and someone else's gym
+  // account, and a workers.dev hostname is guessable. timingSafeEqual handles the
+  // side channel; this handles volume.
+  "ratelimits": [
+    {
+      "name": "AUTH_LIMITER",
+      "namespace_id": "1001",
+      "simple": { "limit": 20, "period": 60 }
+    }
+  ]
+
+  // Secrets, set with `wrangler secret put` — never in this file:
+  //   GITHUB_TOKEN          fine-grained PAT, this repo only, Contents: read & write
+  //   DASHBOARD_PASSPHRASE  what the dashboard sends as its bearer token
+}
