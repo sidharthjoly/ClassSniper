@@ -61,6 +61,10 @@ async def mask_sensitive_fields(page):
 TIMETABLE_URL = "https://oneplayground.com.au/classes/timetable/"
 DEFAULT_LOCATION = "Newtown"
 
+# Outcomes that settle a queued booking for good. It stays in pending_booking.json
+# so the dashboard can say what happened, but is never struck at again.
+TERMINAL_STATES = ("full", "failed")
+
 # --- Fast API path ---
 # Found by reading the site's own JS bundle: the whole booking flow is two
 # unauthenticated-transport HTTP calls (person_key acts as the credential, sent
@@ -321,6 +325,7 @@ async def _run_strike(page, target, location_name, result):
     if book_status == "FULL":
         result.update({
             "status": "FAILED",
+            "reason": "FULL",
             "time": str(datetime.now()),
             "error": book_detail,
         })
@@ -363,6 +368,19 @@ async def run_booking():
     except FileNotFoundError:
         print("No pending_booking.json found. Create one to start.")
         return
+    except ValueError as e:
+        # Several things write this file — the dashboard, the workflow's arm step,
+        # this script. A half-written one used to raise here and kill the run before
+        # status.json was written, which is the same silent-failure shape that has
+        # bitten this project before. Say so in the status file instead.
+        print(f"pending_booking.json is not valid JSON: {e}")
+        with open('status.json', 'w') as f:
+            json.dump({
+                "status": "ERROR",
+                "time": str(datetime.now()),
+                "error": f"pending_booking.json could not be parsed: {e}",
+            }, f)
+        return
 
     if isinstance(data, dict):
         targets = [data]
@@ -377,6 +395,10 @@ async def run_booking():
     # Cancelling inside 24h of a class incurs a charge. Never strike a class that
     # starts less than this many hours from now, so it can always be safely cancelled.
     MIN_LEAD_HOURS = 30
+
+    # A booking that keeps erroring shouldn't keep trying for days. The login
+    # endpoint rate-limits at 5 requests and every attempt spends one.
+    MAX_ATTEMPTS = 5
 
     now = datetime.now(sydney_tz)
 
@@ -411,8 +433,27 @@ async def run_booking():
             json.dump(result, f)
         return
 
-    eligible.sort(key=lambda entry: entry["opens_at"])
-    selected = eligible[0]
+    # Selection used to be "earliest-opening eligible booking", full stop, and only a
+    # SUCCESS ever left the queue. A class that came back FULL was therefore re-struck
+    # every 60s until it fell under the 30h margin — ~42 hours of retries for one
+    # class — and since a run returns after striking whatever it selected, every
+    # booking queued behind it missed its own window entirely. That defeats the one
+    # thing this project exists to do. Resolved bookings stay in the file for the
+    # dashboard to explain, but drop out of selection.
+    actionable = [b for b in eligible if b["target"].get("state") not in TERMINAL_STATES]
+    for b in eligible:
+        if b not in actionable:
+            t = b["target"]
+            print(f"Skipping {t.get('name') or t['time']} on {t['date']}: already resolved ({t.get('state')}).")
+
+    if not actionable:
+        # Deliberately leaves status.json alone: the run that resolved these already
+        # recorded what happened, and overwriting it every 60s would bury it.
+        print("Every queued booking has already resolved. Remove them from the dashboard to clear the queue.")
+        return
+
+    actionable.sort(key=lambda entry: entry["opens_at"])
+    selected = actionable[0]
     target = selected["target"]
     booking_opens_at = selected["opens_at"]
 
@@ -452,6 +493,13 @@ async def run_booking():
 
     location_name = target.get("location", DEFAULT_LOCATION)
 
+    # The whole design here — warming the connection, sleeping to the exact second —
+    # is about how close to the window opening the first request actually lands, and
+    # nothing was writing that number down. booking_opens_at is Sydney-aware, so this
+    # has to be too or the subtraction raises.
+    fired_at = datetime.now(sydney_tz)
+    result["strike_latency_ms"] = round((fired_at - booking_opens_at).total_seconds() * 1000)
+
     try:
         print("Trying the fast API path first (no browser)...")
         fast_status, fast_detail, fast_raw = await try_fast_strike(target, session)
@@ -460,6 +508,7 @@ async def run_booking():
             print("Fast path booked it.")
             result.update({
                 "status": "SUCCESS",
+                "path": "fast",
                 "time": str(datetime.now()),
                 "note": "Booked via the fast API path (no browser) — this path is unverified "
                         "against a real account, so treat an early SUCCESS here as needing a "
@@ -467,8 +516,15 @@ async def run_booking():
             })
         elif fast_status == "FULL":
             print(f"Fast path: {fast_detail}")
-            result.update({"status": "FAILED", "time": str(datetime.now()), "error": fast_detail})
+            result.update({
+                "status": "FAILED",
+                "reason": "FULL",
+                "path": "fast",
+                "time": str(datetime.now()),
+                "error": fast_detail,
+            })
         else:
+            result["path"] = "browser"
             if fast_status is not None:
                 print(f"Fast path inconclusive ({fast_status}: {fast_detail}). Falling back to the browser flow...")
             async with async_playwright() as p:
@@ -494,13 +550,23 @@ async def run_booking():
             "error": str(e),
         })
     finally:
+        result["strike_took_ms"] = round((datetime.now(sydney_tz) - fired_at).total_seconds() * 1000)
+
         if result.get("status") == "SUCCESS":
             try:
                 targets.remove(target)
             except ValueError:
                 pass
-            with open('pending_booking.json', 'w') as f:
-                json.dump(targets, f, indent=2)
+        else:
+            target["attempts"] = target.get("attempts", 0) + 1
+            target["last_attempt"] = str(datetime.now())
+            if result.get("reason") == "FULL":
+                target["state"] = "full"
+            elif target["attempts"] >= MAX_ATTEMPTS:
+                target["state"] = "failed"
+
+        with open('pending_booking.json', 'w') as f:
+            json.dump(targets, f, indent=2)
 
         with open('status.json', 'w') as f:
             json.dump(redact_value(result), f)
