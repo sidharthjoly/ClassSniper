@@ -88,6 +88,11 @@ jobs:
       - name: Scrape Class List
         continue-on-error: true # don't let a scraper hiccup block the actual booking check
         run: python bot/scraper.py
+      - name: Arm Standing Bookings
+        # Between the scrape and the booker on purpose: a class matched off this
+        # minute's scrape can be struck in this same run.
+        continue-on-error: true # a matcher problem shouldn't block an already-queued strike
+        run: python bot/standing.py
       - name: Run Booker
         env:
           GYM_EMAIL: ${{ secrets.GYM_EMAIL }}
@@ -98,7 +103,7 @@ jobs:
         run: |
           git config --global user.name "GymBot"
           git config --global user.email "gymbot@users.noreply.github.com"
-          git add status.json pending_booking.json class_list.json scrape_status.json
+          git add status.json pending_booking.json class_list.json scrape_status.json standing_bookings.json
           git commit -m "Update booking status and class list" || echo "No changes"
           for i in 1 2 3 4 5; do
             git push && break
