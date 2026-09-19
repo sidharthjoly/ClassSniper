@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "watch_if_full": false,
+    "booking_id": "103book63288",
+    "date": "2026-09-21",
+    "time": "5:15 AM",
+    "name": "Squad",
+    "instructor": "Colleen Antony",
+    "location": "Marrickville"
+  }
+]
