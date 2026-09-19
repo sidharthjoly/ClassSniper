@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="ClassSniper">
+  <title>ClassSniper</title>
+  <!-- The booking window, open, with the moment of the strike at its centre.
+       Reads as a C at any size, which is the useful accident. Colours are the
+       dashboard's own: --color-text, --color-bg and --color-accent-200. -->
+  <rect width="64" height="64" fill="#0C1F4b"/>
+  <path d="M 47.37 43.17 A 19 19 0 1 1 43.70 17.03"
+        fill="none" stroke="#f3f2f2" stroke-width="9"/>
+  <circle cx="32" cy="32" r="5.5" fill="#b9d3e1"/>
+</svg>
