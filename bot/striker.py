@@ -7,6 +7,11 @@ from playwright.async_api import async_playwright
 import pytz
 import requests
 
+# Center ids live in their own module so scraper.py can check the live timetable
+# against them every run — a location that opens later can't quietly go missing
+# here and send every booking for it down the slow browser path.
+from centers import CENTER_IDS
+
 # --- CONFIG FROM SECRETS ---
 EMAIL = os.getenv("GYM_EMAIL")
 PASSWORD = os.getenv("GYM_PASSWORD")
@@ -64,13 +69,6 @@ API_BASE = "https://cms.oneplayground.com.au/api/timetable"
 AUTH_URL = f"{API_BASE}/person-auth"
 SESSIONS_URL = f"{API_BASE}/get-sessions-by-center-and-date"
 BOOK_URL = f"{API_BASE}/create-participation-and-send-message"
-
-# From /api/timetable/centers — hardcoded here to avoid a lookup call at strike
-# time; these are effectively static (physical gym locations).
-CENTER_IDS = {
-    "Surry Hills": 101, "Bunker": 102, "Marrickville": 103, "Newtown": 104,
-    "Haymarket": 105, "Merrylands": 106, "North Sydney": 107, "Zetland": 108,
-}
 
 def warm_connection(session):
     """Best-effort: establish the TCP/TLS connection to the API host ahead of time so
