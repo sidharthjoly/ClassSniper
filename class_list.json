@@ -2922,7 +2922,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -4968,7 +4968,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -5441,7 +5441,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
@@ -5474,7 +5474,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
