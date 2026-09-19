@@ -5,17 +5,26 @@ knowing what GitHub is.
 
 ## Why this exists
 
-The dashboard used to call the GitHub Contents API directly from the browser,
-which meant every user first had to create a fine-grained personal access token
-and paste it in. That's a fine ask for the person who wrote the thing and an
-impossible one for anyone else.
+Two reasons, arrived at in that order.
 
-This Worker holds that token instead. The dashboard sends an access key it was
-given once; everything GitHub-shaped stays on this side.
+**Nobody should need a GitHub account.** The dashboard used to call the GitHub
+Contents API straight from the browser, so every user first had to create a
+fine-grained personal access token and paste it in — a fine ask for the person
+who wrote the thing and the end of the conversation with anyone else.
 
-Reads didn't move — the repo is public, so the dashboard still fetches
-`class_list.json` and friends straight from `raw.githubusercontent.com` with no
-credential at all. Only writes come through here.
+**And the personal state shouldn't have been public.** `status.json`,
+`pending_booking.json` and `standing_bookings.json` were committed to a public
+repo and read by the dashboard with no credential, which published which class
+you booked, at which gym, at what time. They live in D1 here instead.
+
+D1 rather than KV: KV is eventually consistent by up to 60 seconds, and a
+booking armed from the dashboard has to be visible to the striker on its very
+next run.
+
+What stayed public is what isn't personal — `class_list.json` and
+`scrape_status.json`, the gym's own timetable and a scrape heartbeat. The
+dashboard still fetches those from `raw.githubusercontent.com` with no
+credential, so browsing classes needs no key.
 
 ## What it doesn't do
 
@@ -29,12 +38,17 @@ timing to change nothing anyone can see.
 
 All `POST`, all requiring `Authorization: Bearer <access key>`.
 
-| Path | Body | Does |
-|---|---|---|
-| `/api/bookings` | the class | Arms it |
-| `/api/bookings/remove` | `booking_id`, or date + time | Unarms it |
-| `/api/rules` | the rule | Adds a standing rule |
-| `/api/rules/remove` | `id`, or the rule's time | Removes one |
+| Path | Method | Who | Does |
+|---|---|---|---|
+| `/api/state` | GET | either | Your status, queue and rules |
+| `/api/bookings` | POST | either | Arms a class |
+| `/api/bookings/remove` | POST | either | Unarms one |
+| `/api/rules` | POST | either | Adds a standing rule |
+| `/api/rules/remove` | POST | either | Removes one |
+| `/api/state/push` | POST | bot only | What a run changed |
+
+Two keys, not one. `DASHBOARD_PASSPHRASE` is handed to whoever uses the
+dashboard; `BOT_TOKEN` is the workflow's, and only it may push a finished run.
 
 Each returns the full updated list, so the dashboard can re-render immediately
 rather than waiting on the raw.githubusercontent.com CDN cache to expire.
@@ -46,15 +60,19 @@ cd worker
 npm install
 ```
 
-**1. Create the GitHub token.** A [fine-grained token](https://github.com/settings/personal-access-tokens/new)
-scoped to just this repo with **Contents: read & write**. Nothing else — this
-Worker never touches Actions.
-
-**2. Set both secrets.**
+**1. Create the database and its table.**
 
 ```bash
-npx wrangler secret put GITHUB_TOKEN        # paste the token above
-npx wrangler secret put DASHBOARD_PASSPHRASE # paste the generated access key
+npx wrangler d1 create classsniper-state    # put the id in wrangler.jsonc
+npx wrangler d1 execute classsniper-state --remote --file=migrations/0001_state.sql
+```
+
+**2. Set both keys.** Generate them rather than choosing them — they're what
+stands between the internet and a real gym account.
+
+```bash
+npx wrangler secret put DASHBOARD_PASSPHRASE  # what dashboard users are given
+npx wrangler secret put BOT_TOKEN             # what the workflow uses
 ```
 
 **3. Deploy.**
@@ -63,8 +81,12 @@ npx wrangler secret put DASHBOARD_PASSPHRASE # paste the generated access key
 npx wrangler deploy
 ```
 
-**4. Point the dashboard at it.** Put the deployed URL in `API_BASE` at the top
-of `index.html`.
+**4. Wire both ends.** Put the deployed URL in `API_BASE` at the top of
+`index.html`, and add `CLASSSNIPER_API` and `CLASSSNIPER_BOT_TOKEN` as repo
+secrets so the workflow can pull and push state.
+
+This Worker holds no GitHub credential at all. Nothing in the system can write
+to the repo except the workflow itself.
 
 ## Notes
 
@@ -74,10 +96,13 @@ of `index.html`.
   IP — the hostname is public and guessable.
 - CORS is locked to the dashboard's origin. A request from anywhere else is
   refused whether or not it has the key.
-- Writes are read-modify-write against GitHub with a retry on conflict. Four
-  things write `pending_booking.json` — this, the striker, the standing-rule
-  matcher and the workflow's arm step — and the old browser-side version just
-  surfaced a conflict as "failed".
+- Writes are read-modify-write with a version check and a retry. Both the
+  dashboard and the bot write the queue, and a run overlaps the window in which
+  someone is clicking.
+- A finished run is pushed as what it *changed* — adds, removes, field updates —
+  not what it ended up with. A run is ~30s of a 60s tick, so writing the whole
+  list back would drop a booking armed mid-run about half the time. See
+  `applyPendingDelta`.
 
 ```bash
 npm test        # the auth gate

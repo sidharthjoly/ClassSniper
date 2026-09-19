@@ -48,9 +48,11 @@ several locations, isn't realistic. This automates it.
               │ writes (arm / remove / add rule) go to…
               ▼
 ┌──────────────────────────┐
-│   API worker             │  holds the GitHub token, so the dashboard only
-│   (Cloudflare)           │  needs an access key. Read-modify-write with a
-└─────────────┬────────────┘  retry on conflict; auth is rate limited
+│   API worker + D1        │  holds what you booked, what's queued and your
+│   (Cloudflare)           │  standing rules — the things that shouldn't be in
+└─────────────┬────────────┘  a public repo. Reached with the access key.
+              │ the bot pulls this state in before a run and pushes back
+              │ what it changed
               ▼
 ┌──────────────────────────┐
 │   This repo              │  source of truth: pending_booking.json,
@@ -168,12 +170,12 @@ no business installing pytest.
 2. Add repo secrets: `GYM_EMAIL`, `GYM_PASSWORD`.
 3. Enable GitHub Pages: Settings → Pages → Source: **GitHub Actions**.
 4. Enable Actions if the fork disabled them by default.
-5. Deploy the API worker — see [worker/README.md](worker/README.md). It holds a
-   [fine-grained token](https://github.com/settings/personal-access-tokens/new)
-   (this repo, **Contents: read & write**) so the dashboard doesn't have to, and
-   it's what makes the thing usable by someone who has never heard of GitHub:
-   they get an access key, not a PAT. Put its URL in `API_BASE` at the top of
-   `index.html`.
+5. Deploy the API worker — see [worker/README.md](worker/README.md). It holds
+   your bookings and serves the dashboard's writes, and it's what makes the
+   thing usable by someone who has never heard of GitHub: they get an access
+   key, not a personal access token. Put its URL in `API_BASE` at the top of
+   `index.html`, and add `CLASSSNIPER_API` and `CLASSSNIPER_BOT_TOKEN` as repo
+   secrets so the workflow can reach it.
 6. **Set up the external trigger** — don't skip this. The repo's own `schedule:`
    cron is kept as a free backup, but on its own it's not reliable enough to
    actually strike on time (see above). Create a second
@@ -185,14 +187,31 @@ no business installing pytest.
 
 ## Who can actually use it
 
-Anyone you give the access key to. Looking is free — status, the class list and
-the queue are read straight from this public repo with no credential at all —
-and arming needs the key, which is pasted once and remembered by the browser.
+Anyone you give the access key to. It's pasted once and remembered by that
+browser; there is no account to make and nothing to install.
 
 Everything GitHub-shaped lives behind [the worker](worker/README.md). That was
 deliberate: setup used to begin "create a fine-grained personal access token",
 which is a reasonable ask of the person who wrote this and the end of the
 conversation with anyone else.
+
+## What's public and what isn't
+
+This repo is public, so the split matters.
+
+**Public, no key:** `class_list.json` and `scrape_status.json` — the gym's own
+timetable and a heartbeat saying when it was last refreshed. Neither says
+anything about a person, so browsing classes needs no key at all.
+
+**Behind the key:** what you booked, what's queued, and your standing rules.
+These used to be committed here as `status.json`, `pending_booking.json` and
+`standing_bookings.json`, which published a record of where you physically are
+and when to anyone who opened the dashboard or the repo. A standing rule is the
+sharpest version of that — it's "this person is at this gym at this time every
+Monday". They live in the worker's database now.
+
+Old commits still contain a handful of past bookings; the history wasn't
+rewritten. Nothing new is published.
 
 ## Safety & scope
 
