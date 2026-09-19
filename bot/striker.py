@@ -65,6 +65,27 @@ DEFAULT_LOCATION = "Newtown"
 # so the dashboard can say what happened, but is never struck at again.
 TERMINAL_STATES = ("full", "failed")
 
+CLASS_LIST_FILE = "class_list.json"
+
+
+def free_spots(booking_id):
+    """Spots left on a class according to the last scrape, or None if it isn't there.
+
+    Watching a full class for a cancellation costs nothing extra: the scraper
+    already refreshes remaining_spots for every class every 60s, so the freed spot
+    is visible here without spending a single request against a booking API this
+    project is deliberately light on.
+    """
+    try:
+        with open(CLASS_LIST_FILE) as f:
+            classes = json.load(f)
+    except (OSError, ValueError):
+        return None
+    for c in classes:
+        if c.get("booking_id") == booking_id:
+            return c.get("remaining_spots") or 0
+    return None
+
 # --- Fast API path ---
 # Found by reading the site's own JS bundle: the whole booking flow is two
 # unauthenticated-transport HTTP calls (person_key acts as the credential, sent
@@ -440,16 +461,33 @@ async def run_booking():
     # booking queued behind it missed its own window entirely. That defeats the one
     # thing this project exists to do. Resolved bookings stay in the file for the
     # dashboard to explain, but drop out of selection.
-    actionable = [b for b in eligible if b["target"].get("state") not in TERMINAL_STATES]
+    def strikeable(t):
+        state = t.get("state")
+        if state in TERMINAL_STATES:
+            return False
+        if state == "watching":
+            # Full last time, and flagged to keep watching for a cancellation. The
+            # scrape is the source of truth for whether a spot came back.
+            return (free_spots(t.get("booking_id")) or 0) > 0
+        return True
+
+    actionable = [b for b in eligible if strikeable(b["target"])]
     for b in eligible:
         if b not in actionable:
             t = b["target"]
-            print(f"Skipping {t.get('name') or t['time']} on {t['date']}: already resolved ({t.get('state')}).")
+            state = t.get("state")
+            if state == "watching":
+                print(f"Watching {t.get('name') or t['time']} on {t['date']}: still full, nothing to strike.")
+            else:
+                print(f"Skipping {t.get('name') or t['time']} on {t['date']}: already resolved ({state}).")
 
     if not actionable:
         # Deliberately leaves status.json alone: the run that resolved these already
         # recorded what happened, and overwriting it every 60s would bury it.
-        print("Every queued booking has already resolved. Remove them from the dashboard to clear the queue.")
+        if any(b["target"].get("state") == "watching" for b in eligible):
+            print("Nothing to strike this run — watched bookings are still full.")
+        else:
+            print("Every queued booking has already resolved. Remove them from the dashboard to clear the queue.")
         return
 
     actionable.sort(key=lambda entry: entry["opens_at"])
@@ -558,12 +596,19 @@ async def run_booking():
             except ValueError:
                 pass
         else:
-            target["attempts"] = target.get("attempts", 0) + 1
             target["last_attempt"] = str(datetime.now())
             if result.get("reason") == "FULL":
-                target["state"] = "full"
-            elif target["attempts"] >= MAX_ATTEMPTS:
-                target["state"] = "failed"
+                # A full class isn't an error and shouldn't spend the error budget.
+                # Cancellations happen constantly, so with watch_if_full set the
+                # booking stays live and gets re-struck the moment a scrape shows a
+                # free spot. That needs a booking_id to match on, so anything armed
+                # by hand without one just resolves.
+                watchable = target.get("watch_if_full") and target.get("booking_id")
+                target["state"] = "watching" if watchable else "full"
+            else:
+                target["attempts"] = target.get("attempts", 0) + 1
+                if target["attempts"] >= MAX_ATTEMPTS:
+                    target["state"] = "failed"
 
         with open('pending_booking.json', 'w') as f:
             json.dump(targets, f, indent=2)
