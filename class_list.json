@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book38578",
-    "date": "2026-09-21",
-    "time": "5:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book61308",
     "date": "2026-09-21",
     "time": "5:50 AM",
@@ -3978,7 +3967,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
