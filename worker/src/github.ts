@@ -8,6 +8,12 @@ export interface RepoConfig {
 }
 
 export class ConflictError extends Error {}
+export class RateLimitedError extends Error {}
+
+/** GitHub's secondary rate limit answers 403/429 with a body explaining itself. */
+function isRateLimited(status: number, body: string): boolean {
+  return status === 429 || (status === 403 && /rate limit|abuse|secondary/i.test(body));
+}
 
 const API = "https://api.github.com";
 
@@ -26,12 +32,17 @@ interface FileState<T> {
 }
 
 async function readFile<T>(cfg: RepoConfig, path: string, fallback: T): Promise<FileState<T>> {
-  const url = `${API}/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${cfg.branch}`;
-  const res = await fetch(url, { headers: headers(cfg.token) });
+  // Cache-bust: the contents API will happily serve a copy from before the commit
+  // made a second ago, which would have this read back a list that's already stale.
+  const url = `${API}/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${cfg.branch}&t=${Date.now()}`;
+  const res = await fetch(url, { headers: { ...headers(cfg.token), "Cache-Control": "no-cache" } });
 
   if (res.status === 404) return { value: fallback, sha: undefined };
   if (!res.ok) {
     const detail = await res.text().catch(() => "");
+    if (isRateLimited(res.status, detail)) {
+      throw new RateLimitedError(`GitHub is rate limiting reads of ${path}`);
+    }
     throw new Error(`GitHub read failed for ${path}: ${res.status} ${detail.slice(0, 300)}`);
   }
 
@@ -71,7 +82,14 @@ export async function mutate<T>(
 ): Promise<T> {
   let lastStatus = 0;
 
-  for (let attempt = 0; attempt < 3; attempt++) {
+  // Four things write pending_booking.json and the booking workflow commits about
+  // every 60 seconds, so losing a race here is ordinary rather than exceptional.
+  // Retries back off instead of hammering into the same moment.
+  const ATTEMPTS = 5;
+
+  for (let attempt = 0; attempt < ATTEMPTS; attempt++) {
+    if (attempt > 0) await new Promise((r) => setTimeout(r, 150 * 2 ** (attempt - 1)));
+
     const { value, sha } = await readFile<T>(cfg, path, fallback);
     const next = change(value);
 
@@ -83,11 +101,19 @@ export async function mutate<T>(
     if (res.ok) return next;
     lastStatus = res.status;
 
-    // 409: the sha moved under us. 422: GitHub's other way of saying the same.
-    if (res.status !== 409 && res.status !== 422) {
+    // What contention actually looks like from GitHub's contents API: 409 when the
+    // sha moved under us, 422 as its other way of saying that, and — observed
+    // repeatedly against the live repo while the booking workflow was committing
+    // every 60s — a bare 500 with an empty body. Retrying only the tidy statuses
+    // meant an arm failed outright whenever it landed near one of those commits,
+    // then worked on the next try. A 5xx is retryable by definition.
+    if (res.status !== 409 && res.status !== 422 && res.status < 500) {
       // GitHub says why in the body, and throwing only the status meant finding
       // out required a redeploy.
       const detail = await res.text().catch(() => "");
+      if (isRateLimited(res.status, detail)) {
+        throw new RateLimitedError(`GitHub is rate limiting writes to ${path}`);
+      }
       throw new Error(`GitHub write failed for ${path}: ${res.status} ${detail.slice(0, 300)}`);
     }
   }

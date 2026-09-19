@@ -24,7 +24,10 @@
     "GITHUB_REPO": "ClassSniper",
     "GITHUB_BRANCH": "main",
     // Only the dashboard may call this. Anything else gets no CORS headers back.
-    "ALLOWED_ORIGIN": "https://sidharthjoly.github.io"
+    // Two entries because Pages serves from the custom domain and 301s the
+    // github.io URL to it — a browser sent from the latter still ends up with the
+    // former as its origin, but both are the dashboard.
+    "ALLOWED_ORIGINS": "https://classsniper.sidharthjoly.com,https://sidharthjoly.github.io"
   },
 
   // The passphrase is the only thing between the internet and someone else's gym

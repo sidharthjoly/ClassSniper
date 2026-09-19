@@ -11,7 +11,7 @@
  * need no credential, and routing them through here would only add a hop.
  */
 
-import { ConflictError, mutate, type RepoConfig } from "./github";
+import { ConflictError, RateLimitedError, mutate, type RepoConfig } from "./github";
 
 const PENDING_FILE = "pending_booking.json";
 const RULES_FILE = "standing_bookings.json";
@@ -85,9 +85,21 @@ async function authorised(request: Request, env: Env): Promise<boolean> {
   return crypto.subtle.timingSafeEqual(got, want);
 }
 
-function corsHeaders(env: Env): Record<string, string> {
+function allowedOrigins(env: Env): string[] {
+  return env.ALLOWED_ORIGINS.split(",").map((o) => o.trim()).filter(Boolean);
+}
+
+function isAllowedOrigin(env: Env, origin: string | null): boolean {
+  return origin === null || allowedOrigins(env).includes(origin);
+}
+
+function corsHeaders(env: Env, origin: string | null): Record<string, string> {
+  const allowed = allowedOrigins(env);
   return {
-    "Access-Control-Allow-Origin": env.ALLOWED_ORIGIN,
+    // Echo back the one that asked, when it's one of ours. A browser rejects a
+    // response naming any origin but its own, so a single hardcoded value breaks
+    // the moment the dashboard is served from a second hostname.
+    "Access-Control-Allow-Origin": origin && allowed.includes(origin) ? origin : allowed[0],
     "Access-Control-Allow-Methods": "POST, OPTIONS",
     "Access-Control-Allow-Headers": "Authorization, Content-Type",
     "Access-Control-Max-Age": "86400",
@@ -95,8 +107,8 @@ function corsHeaders(env: Env): Record<string, string> {
   };
 }
 
-function json(body: unknown, env: Env, status = 200): Response {
-  return Response.json(body, { status, headers: corsHeaders(env) });
+function json(body: unknown, env: Env, origin: string | null, status = 200): Response {
+  return Response.json(body, { status, headers: corsHeaders(env, origin) });
 }
 
 async function readBody<T>(request: Request): Promise<T> {
@@ -107,7 +119,7 @@ async function readBody<T>(request: Request): Promise<T> {
   }
 }
 
-async function armBooking(request: Request, env: Env): Promise<Response> {
+async function armBooking(request: Request, env: Env, origin: string | null): Promise<Response> {
   const booking = await readBody<Booking>(request);
   if (!booking?.date || !booking?.time) throw new BadRequest("A booking needs at least a date and a time.");
 
@@ -125,11 +137,11 @@ async function armBooking(request: Request, env: Env): Promise<Response> {
     },
   );
 
-  if (!added) return json({ ok: false, reason: "already_queued", bookings }, env, 409);
-  return json({ ok: true, bookings }, env);
+  if (!added) return json({ ok: false, reason: "already_queued", bookings }, env, origin, 409);
+  return json({ ok: true, bookings }, env, origin);
 }
 
-async function removeBooking(request: Request, env: Env): Promise<Response> {
+async function removeBooking(request: Request, env: Env, origin: string | null): Promise<Response> {
   const target = await readBody<Partial<Booking>>(request);
   if (!target?.booking_id && !(target?.date && target?.time)) {
     throw new BadRequest("Say which booking: a booking_id, or a date and time.");
@@ -149,11 +161,11 @@ async function removeBooking(request: Request, env: Env): Promise<Response> {
     },
   );
 
-  if (!removed) return json({ ok: false, reason: "not_found", bookings }, env, 404);
-  return json({ ok: true, bookings }, env);
+  if (!removed) return json({ ok: false, reason: "not_found", bookings }, env, origin, 404);
+  return json({ ok: true, bookings }, env, origin);
 }
 
-async function addRule(request: Request, env: Env): Promise<Response> {
+async function addRule(request: Request, env: Env, origin: string | null): Promise<Response> {
   const rule = await readBody<Rule>(request);
   // Mirrors REQUIRED_RULE_FIELDS in bot/standing.py: a rule with no time matches
   // every class at a location, which is a whole day's timetable per run.
@@ -173,11 +185,11 @@ async function addRule(request: Request, env: Env): Promise<Response> {
     },
   );
 
-  if (!added) return json({ ok: false, reason: "already_exists", rules }, env, 409);
-  return json({ ok: true, rules }, env);
+  if (!added) return json({ ok: false, reason: "already_exists", rules }, env, origin, 409);
+  return json({ ok: true, rules }, env, origin);
 }
 
-async function removeRule(request: Request, env: Env): Promise<Response> {
+async function removeRule(request: Request, env: Env, origin: string | null): Promise<Response> {
   const target = await readBody<Partial<Rule>>(request);
   if (!target?.id && !target?.time) throw new BadRequest("Say which rule: an id, or its time.");
 
@@ -195,11 +207,11 @@ async function removeRule(request: Request, env: Env): Promise<Response> {
     },
   );
 
-  if (!removed) return json({ ok: false, reason: "not_found", rules }, env, 404);
-  return json({ ok: true, rules }, env);
+  if (!removed) return json({ ok: false, reason: "not_found", rules }, env, origin, 404);
+  return json({ ok: true, rules }, env, origin);
 }
 
-const ROUTES: Record<string, (request: Request, env: Env) => Promise<Response>> = {
+const ROUTES: Record<string, (request: Request, env: Env, origin: string | null) => Promise<Response>> = {
   "/api/bookings": armBooking,
   "/api/bookings/remove": removeBooking,
   "/api/rules": addRule,
@@ -209,22 +221,22 @@ const ROUTES: Record<string, (request: Request, env: Env) => Promise<Response>> 
 export default {
   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     const url = new URL(request.url);
+    const origin = request.headers.get("Origin");
 
     if (request.method === "OPTIONS") {
-      return new Response(null, { status: 204, headers: corsHeaders(env) });
+      return new Response(null, { status: 204, headers: corsHeaders(env, origin) });
     }
 
     // A browser on another site can't read the response anyway, but there's no
     // reason to do the work. Absent Origin (curl, tests) is allowed through — the
     // passphrase is the actual gate.
-    const origin = request.headers.get("Origin");
-    if (origin && origin !== env.ALLOWED_ORIGIN) {
-      return json({ error: "Not allowed from this origin." }, env, 403);
+    if (!isAllowedOrigin(env, origin)) {
+      return json({ error: "Not allowed from this origin." }, env, origin, 403);
     }
 
     const route = ROUTES[url.pathname];
-    if (!route) return json({ error: "Not found." }, env, 404);
-    if (request.method !== "POST") return json({ error: "Use POST." }, env, 405);
+    if (!route) return json({ error: "Not found." }, env, origin, 404);
+    if (request.method !== "POST") return json({ error: "Use POST." }, env, origin, 405);
 
     try {
       // timingSafeEqual closes the side channel; this closes brute force. The
@@ -232,25 +244,28 @@ export default {
       // internet and someone else's gym account.
       const ip = request.headers.get("cf-connecting-ip") ?? "unknown";
       const { success } = await env.AUTH_LIMITER.limit({ key: ip });
-      if (!success) return json({ error: "Too many attempts. Wait a minute." }, env, 429);
+      if (!success) return json({ error: "Too many attempts. Wait a minute." }, env, origin, 429);
 
       if (!(await authorised(request, env))) {
         console.warn(JSON.stringify({ message: "rejected", path: url.pathname, ip }));
-        return json({ error: "Wrong access key." }, env, 401);
+        return json({ error: "Wrong access key." }, env, origin, 401);
       }
 
-      return await route(request, env);
+      return await route(request, env, origin);
     } catch (error) {
-      if (error instanceof BadRequest) return json({ error: error.message }, env, 400);
+      if (error instanceof BadRequest) return json({ error: error.message }, env, origin, 400);
       if (error instanceof ConflictError) {
-        return json({ error: "The queue was being written to. Try again." }, env, 503);
+        return json({ error: "The queue was busy being written to. Try again." }, env, origin, 503);
+      }
+      if (error instanceof RateLimitedError) {
+        return json({ error: "GitHub is rate limiting us. Wait a moment and try again." }, env, origin, 429);
       }
       console.error(JSON.stringify({
         message: "unhandled error",
         path: url.pathname,
         error: error instanceof Error ? error.message : String(error),
       }));
-      return json({ error: "Something went wrong. Try again." }, env, 500);
+      return json({ error: "Something went wrong. Try again." }, env, origin, 500);
     }
   },
 } satisfies ExportedHandler<Env>;

@@ -421,6 +421,13 @@
   // This used to be the GitHub Contents API called straight from here, which meant
   // anyone using the dashboard first had to create a fine-grained personal access
   // token. The worker holds that token now; this only needs the access key.
+  // The worker says why in `reason` when a request was understood but declined.
+  const API_REASONS = {
+    already_queued: 'That class is already queued.',
+    already_exists: 'There is already a rule for that class.',
+    not_found: "That one isn't in the list any more — it may have just been booked or removed.",
+  };
+
   async function api(path, body) {
     const res = await fetch(`${API_BASE}${path}`, {
       method: 'POST',
@@ -432,8 +439,14 @@
     try { payload = await res.json(); } catch { /* keep the status-based message */ }
 
     if (!res.ok) {
-      if (res.status === 401) throw new Error('That access key was rejected.');
-      throw new Error(payload.error || `Request failed (${res.status})`);
+      const message = res.status === 401
+        ? 'That access key was rejected.'
+        : payload.error || API_REASONS[payload.reason] || `Something went wrong (${res.status}).`;
+      const error = new Error(message);
+      // A decline still carries the real list, so the card can correct itself
+      // rather than keep showing whatever it was rendered from.
+      error.payload = payload;
+      throw error;
     }
     return payload;
   }
@@ -611,6 +624,7 @@
     } catch (error) {
       console.error(error);
       toast(error.message, 'error');
+      if (error.payload && error.payload.bookings) renderPendingBookings(error.payload.bookings);
     }
   }
 
@@ -762,6 +776,7 @@
     } catch (error) {
       console.error(error);
       toast(error.message, 'error');
+      if (error.payload && error.payload.bookings) renderPendingBookings(error.payload.bookings);
     }
   }
 
@@ -804,6 +819,7 @@
     } catch (error) {
       console.error(error);
       toast(error.message, 'error');
+      if (error.payload && error.payload.bookings) renderPendingBookings(error.payload.bookings);
     } finally {
       btn.disabled = false;
     }
@@ -872,6 +888,7 @@
     } catch (error) {
       console.error(error);
       toast(error.message, 'error');
+      if (error.payload && error.payload.rules) renderStandingRules(error.payload.rules);
     }
   }
 
@@ -888,6 +905,7 @@
     } catch (error) {
       console.error(error);
       toast(error.message, 'error');
+      if (error.payload && error.payload.rules) renderStandingRules(error.payload.rules);
     }
   }
 

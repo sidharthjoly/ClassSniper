@@ -12,7 +12,8 @@ import { describe, it, expect, beforeEach, vi, afterEach } from "vitest";
 import worker from "../src/index";
 
 const PASS = "correct-horse-battery-staple";
-const ORIGIN = "https://sidharthjoly.github.io";
+const ORIGIN = "https://classsniper.sidharthjoly.com";
+const FALLBACK_ORIGIN = "https://sidharthjoly.github.io";
 
 async function call(path: string, init: RequestInit = {}) {
   const request = new Request(`https://api.test${path}`, {
@@ -75,7 +76,7 @@ describe("the gate", () => {
 
 describe("origin handling", () => {
   it("answers the preflight the dashboard sends", async () => {
-    const res = await call("/api/bookings", { method: "OPTIONS" });
+    const res = await call("/api/bookings", { method: "OPTIONS", headers: { Origin: ORIGIN } });
     expect(res.status).toBe(204);
     expect(res.headers.get("Access-Control-Allow-Origin")).toBe(ORIGIN);
     expect(res.headers.get("Access-Control-Allow-Headers")).toContain("Authorization");
@@ -88,9 +89,19 @@ describe("origin handling", () => {
     expect(res.status).toBe(403);
   });
 
-  it("only ever names the dashboard as an allowed origin", async () => {
-    const res = await call("/api/bookings", { headers: { ...withKey(PASS), Origin: ORIGIN } });
-    expect(res.headers.get("Access-Control-Allow-Origin")).toBe(ORIGIN);
+  /**
+   * Pages serves the dashboard from a custom domain and 301s the github.io URL to
+   * it. A single hardcoded origin passed every test and then broke arming on the
+   * live site, because a browser rejects a response naming any origin but its own.
+   */
+  it.each([ORIGIN, FALLBACK_ORIGIN])("echoes back %s, so the browser accepts it", async (origin) => {
+    for (const method of ["OPTIONS", "POST"] as const) {
+      const res = await call("/api/bookings", {
+        method,
+        headers: { ...withKey(PASS), Origin: origin },
+      });
+      expect(res.headers.get("Access-Control-Allow-Origin"), `${method} from ${origin}`).toBe(origin);
+    }
   });
 });
 
