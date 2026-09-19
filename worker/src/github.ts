@@ -30,7 +30,10 @@ async function readFile<T>(cfg: RepoConfig, path: string, fallback: T): Promise<
   const res = await fetch(url, { headers: headers(cfg.token) });
 
   if (res.status === 404) return { value: fallback, sha: undefined };
-  if (!res.ok) throw new Error(`GitHub read failed for ${path}: ${res.status}`);
+  if (!res.ok) {
+    const detail = await res.text().catch(() => "");
+    throw new Error(`GitHub read failed for ${path}: ${res.status} ${detail.slice(0, 300)}`);
+  }
 
   const body = (await res.json()) as { content: string; sha: string };
   // GitHub wraps base64 at 60 chars; atob rejects the newlines.
@@ -71,14 +74,21 @@ export async function mutate<T>(
   for (let attempt = 0; attempt < 3; attempt++) {
     const { value, sha } = await readFile<T>(cfg, path, fallback);
     const next = change(value);
-    const res = await writeFile(cfg, path, next, sha, message);
 
+    // Nothing to say. Skips a pointless write — and, for a remove that matched
+    // nothing, a pointless commit.
+    if (JSON.stringify(next) === JSON.stringify(value)) return next;
+
+    const res = await writeFile(cfg, path, next, sha, message);
     if (res.ok) return next;
     lastStatus = res.status;
 
     // 409: the sha moved under us. 422: GitHub's other way of saying the same.
     if (res.status !== 409 && res.status !== 422) {
-      throw new Error(`GitHub write failed for ${path}: ${res.status}`);
+      // GitHub says why in the body, and throwing only the status meant finding
+      // out required a redeploy.
+      const detail = await res.text().catch(() => "");
+      throw new Error(`GitHub write failed for ${path}: ${res.status} ${detail.slice(0, 300)}`);
     }
   }
 

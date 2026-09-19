@@ -140,7 +140,7 @@ async function removeBooking(request: Request, env: Env): Promise<Response> {
     repoConfig(env),
     PENDING_FILE,
     [],
-    `Remove pending booking ${target.date ?? ""} ${target.time ?? ""}`.trim(),
+    `Remove pending booking ${target.date && target.time ? `${target.time} on ${target.date}` : (target.booking_id ?? "")}`.trim(),
     (current) => {
       const list = Array.isArray(current) ? current : [current as unknown as Booking];
       const next = list.filter((b) => !sameBooking(b, target));
