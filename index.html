@@ -550,8 +550,12 @@
       if (s.result === 'contract_failed') bits.push('the booking API changed shape — check the logs');
       if (s.centers_failed?.length) bits.push(`couldn't reach ${s.centers_failed.join(', ')}`);
       if (ageMin > STALE_AFTER_MINUTES) bits.push('this is stale — the scraper may have stopped');
+      // A heartbeat dated in the future means a clock is wrong somewhere, and left
+      // unchecked it reads as fresh forever — which is the one state this line
+      // exists to rule out.
+      if (ageMin < -STALE_AFTER_MINUTES) bits.push('heartbeat is dated in the future — check the clock where the scrape runs');
 
-      line.className = (ageMin > STALE_AFTER_MINUTES || s.result !== 'ok') ? 'scrape-line stale' : 'scrape-line';
+      line.className = (Math.abs(ageMin) > STALE_AFTER_MINUTES || s.result !== 'ok') ? 'scrape-line stale' : 'scrape-line';
       line.textContent = bits.join(' · ');
     } catch (error) {
       console.error(error);
