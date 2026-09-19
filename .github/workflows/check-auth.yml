@@ -1,0 +1,25 @@
+name: Check Fast-Path Auth
+
+# By hand only. The point is to answer "can the fast path still sign in?"
+# without waiting for a real booking to reveal it — the last drift was invisible
+# because the browser fallback quietly covered for it.
+#
+# It signs in, checks the session took, and signs out. It never calls a booking
+# endpoint, so running it cannot book or cancel anything.
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pytz
+      - name: Sign in and out
+        env:
+          GYM_EMAIL: ${{ secrets.GYM_EMAIL }}
+          GYM_PASSWORD: ${{ secrets.GYM_PASSWORD }}
+        run: python bot/check_auth.py
