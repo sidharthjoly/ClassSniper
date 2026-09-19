@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book63288",
-    "date": "2026-09-21",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49151",
     "date": "2026-09-21",
     "time": "5:30 AM",
@@ -5496,7 +5485,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 32
   },
   {
