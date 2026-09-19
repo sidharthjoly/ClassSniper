@@ -30,6 +30,19 @@
     "ALLOWED_ORIGINS": "https://classsniper.sidharthjoly.com,https://sidharthjoly.github.io"
   },
 
+  // Where the personal state lives now: what you booked, what's queued, your
+  // standing rules. It used to be JSON files in a public repo, which published
+  // your gym schedule to anyone who looked. D1 rather than KV because KV is
+  // eventually consistent by up to 60s, and a booking armed from the dashboard
+  // has to be visible to the striker on its very next run.
+  "d1_databases": [
+    {
+      "binding": "STATE_DB",
+      "database_name": "classsniper-state",
+      "database_id": "15cc1c68-8fd4-46db-8cdd-b95284d64b4b"
+    }
+  ],
+
   // The passphrase is the only thing between the internet and someone else's gym
   // account, and a workers.dev hostname is guessable. timingSafeEqual handles the
   // side channel; this handles volume.

@@ -7,7 +7,7 @@
  */
 
 import { env, createExecutionContext, waitOnExecutionContext } from "cloudflare:test";
-import { describe, it, expect, beforeEach, vi, afterEach } from "vitest";
+import { describe, it, expect, beforeEach } from "vitest";
 
 import worker from "../src/index";
 
@@ -30,14 +30,11 @@ async function call(path: string, init: RequestInit = {}) {
 
 const withKey = (key: string) => ({ Authorization: `Bearer ${key}` });
 
-beforeEach(() => {
-  // Stop any authorised request from actually reaching GitHub.
-  vi.spyOn(globalThis, "fetch").mockResolvedValue(
-    new Response(JSON.stringify({ content: btoa("[]"), sha: "abc" }), { status: 200 }),
-  );
-});
+const BOT = "test-bot-token";
 
-afterEach(() => vi.restoreAllMocks());
+beforeEach(async () => {
+  await env.STATE_DB.prepare("UPDATE state SET value = '[]' WHERE key IN ('pending','rules')").run();
+});
 
 describe("the gate", () => {
   it("turns away a request with no key at all", async () => {
@@ -61,10 +58,12 @@ describe("the gate", () => {
     expect(body).not.toContain(PASS);
   });
 
-  it("lets the right key through to the handler", async () => {
+  it("lets the right key through, all the way to a stored booking", async () => {
+    // Asserting the real status, not just "not 401": when the state table was
+    // missing, every request 500'd and a not-401 assertion passed on the error.
     const res = await call("/api/bookings", { headers: withKey(PASS) });
-    expect(res.status).not.toBe(401);
-    expect(res.status).not.toBe(403);
+    expect(res.status).toBe(200);
+    expect(await res.json()).toMatchObject({ ok: true, bookings: [{ date: "2026-09-21" }] });
   });
 
   it("guards every route that writes", async () => {
@@ -101,6 +100,36 @@ describe("origin handling", () => {
         headers: { ...withKey(PASS), Origin: origin },
       });
       expect(res.headers.get("Access-Control-Allow-Origin"), `${method} from ${origin}`).toBe(origin);
+    }
+  });
+});
+
+describe("the two keys are not the same key", () => {
+  it("won't let the dashboard key push a bot payload", async () => {
+    const res = await call("/api/state/push", { headers: withKey(PASS), body: JSON.stringify({ status: { hacked: true } }) });
+    expect(res.status).toBe(403);
+  });
+
+  it("lets the bot token push", async () => {
+    const res = await call("/api/state/push", { headers: withKey(BOT), body: JSON.stringify({ status: { status: "SUCCESS" } }) });
+    expect(res.status).toBe(200);
+  });
+
+  it("keeps your bookings behind a key — reading them is not free any more", async () => {
+    const request = new Request("https://api.test/api/state", { method: "GET" });
+    const ctx = createExecutionContext();
+    const res = await worker.fetch(request, env, ctx);
+    await waitOnExecutionContext(ctx);
+    expect(res.status).toBe(401);
+  });
+
+  it("serves state to either key", async () => {
+    for (const key of [PASS, BOT]) {
+      const request = new Request("https://api.test/api/state", { method: "GET", headers: withKey(key) });
+      const ctx = createExecutionContext();
+      const res = await worker.fetch(request, env, ctx);
+      await waitOnExecutionContext(ctx);
+      expect(res.status, key === PASS ? "dashboard" : "bot").toBe(200);
     }
   });
 });

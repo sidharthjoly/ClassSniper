@@ -7,16 +7,11 @@ on:
     # the exact strike moment once a run does start (see gym_script.py), so this
     # setting mainly matters for how late a run can start in the first place.
     - cron: '*/5 * * * *'
+  # The external cron POSTs here every 60s. It used to be able to arm a booking
+  # by passing a date and time; that path wrote pending_booking.json into the
+  # repo, which is exactly what stopped being a thing the repo holds. Arming goes
+  # through the dashboard and the API worker now.
   workflow_dispatch:
-    inputs:
-      class_date:
-        description: 'Date (YYYY-MM-DD) — leave blank to just run the check (used by the external wake-up trigger)'
-        required: false
-        default: ''
-      class_time:
-        description: 'Time (e.g., 3:30 PM) — leave blank to just run the check'
-        required: false
-        default: ''
 
 permissions:
   contents: write
@@ -34,49 +29,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update Target Class
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          CLASS_DATE: ${{ github.event.inputs.class_date }}
-          CLASS_TIME: ${{ github.event.inputs.class_time }}
-        run: |
-          python3 - <<'EOF'
-          import json, os, sys
-
-          date = os.environ.get("CLASS_DATE", "").strip()
-          time = os.environ.get("CLASS_TIME", "").strip()
-
-          if not date or not time:
-              print("No date/time provided — this is just a wake-up call, nothing to arm.")
-              sys.exit(0)
-
-          try:
-              with open("pending_booking.json") as f:
-                  data = json.load(f)
-          except FileNotFoundError:
-              data = []
-
-          if isinstance(data, dict):
-              data = [data]
-          elif not isinstance(data, list):
-              data = []
-
-          if not any(b.get("date") == date and b.get("time") == time for b in data):
-              data.append({"date": date, "time": time})
-
-          with open("pending_booking.json", "w") as f:
-              json.dump(data, f, indent=2)
-          EOF
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pending_booking.json
-          git commit -m "Arming for ${{ github.event.inputs.class_time }} on ${{ github.event.inputs.class_date }}" || echo "No changes to commit"
-          for i in 1 2 3 4 5; do
-            git push && break
-            echo "Push rejected (attempt $i), fetching and rebasing..."
-            git fetch origin main
-            git rebase origin/main || { echo "Rebase failed"; git rebase --abort; exit 1; }
-          done
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -85,6 +37,15 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install chromium
+      - name: Pull Private State
+        # Deliberately no continue-on-error. The striker reads a missing queue as
+        # "nothing to do" and exits green, so a failed pull would look exactly
+        # like an empty queue: a silently missed strike. Fail the run loudly
+        # instead — the next tick is 60 seconds away.
+        env:
+          CLASSSNIPER_API: ${{ secrets.CLASSSNIPER_API }}
+          CLASSSNIPER_BOT_TOKEN: ${{ secrets.CLASSSNIPER_BOT_TOKEN }}
+        run: python bot/state.py pull
       - name: Scrape Class List
         continue-on-error: true # don't let a scraper hiccup block the actual booking check
         run: python bot/scraper.py
@@ -98,13 +59,22 @@ jobs:
           GYM_EMAIL: ${{ secrets.GYM_EMAIL }}
           GYM_PASSWORD: ${{ secrets.GYM_PASSWORD }}
         run: python bot/striker.py
-      - name: Commit Status
+      - name: Push Private State
+        if: always() # a strike that happened still has to be recorded
+        env:
+          CLASSSNIPER_API: ${{ secrets.CLASSSNIPER_API }}
+          CLASSSNIPER_BOT_TOKEN: ${{ secrets.CLASSSNIPER_BOT_TOKEN }}
+        run: python bot/state.py push
+      - name: Commit Public Data
         if: always()
         run: |
           git config --global user.name "GymBot"
           git config --global user.email "gymbot@users.noreply.github.com"
-          git add status.json pending_booking.json class_list.json scrape_status.json standing_bookings.json
-          git commit -m "Update booking status and class list" || echo "No changes"
+          # The gym's own timetable and a scrape heartbeat. Everything personal —
+          # what you booked, what's queued, your standing rules — lives in the
+          # worker's database, because this repo is public.
+          git add class_list.json scrape_status.json
+          git commit -m "Update class list" || echo "No changes"
           for i in 1 2 3 4 5; do
             git push && break
             echo "Push rejected (attempt $i), fetching and rebasing..."

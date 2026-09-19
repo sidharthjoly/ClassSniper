@@ -4,3 +4,12 @@ __pycache__/
 final_failure.png
 booking_result.png
 .pytest_cache/
+
+# Personal state: what you booked, what's queued, your standing rules. These are
+# pulled from the API worker into a run's working directory and pushed back. They
+# are not repo contents — this repo is public, and they say where you physically
+# are and when.
+status.json
+pending_booking.json
+standing_bookings.json
+.state_snapshot.json

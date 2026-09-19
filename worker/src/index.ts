@@ -1,88 +1,57 @@
 /**
- * The write path for the ClassSniper dashboard.
+ * The private side of ClassSniper.
  *
- * The dashboard used to talk to the GitHub Contents API straight from the browser,
- * which meant anyone using it first had to create a fine-grained personal access
- * token — a sentence that ends the conversation with anyone who doesn't already
- * know what GitHub is. This holds that token instead, so the dashboard only ever
- * needs a passphrase.
+ * Two things live here. The GitHub token used to, so the dashboard wouldn't need
+ * one — that's what made the thing usable by someone who has never heard of
+ * GitHub. And now the personal state: what you booked, what's queued, your
+ * standing rules. Those were JSON files in a public repo, readable by anyone,
+ * which published a record of where you physically are and when.
  *
- * Reads still go to raw.githubusercontent.com directly: the repo is public, they
- * need no credential, and routing them through here would only add a hop.
+ * The public repo keeps the gym's own timetable and a scrape heartbeat. Neither
+ * says anything about a person, so the class picker still works with no key at
+ * all — only your bookings need one.
  */
 
-import { ConflictError, RateLimitedError, mutate, type RepoConfig } from "./github";
-
-const PENDING_FILE = "pending_booking.json";
-const RULES_FILE = "standing_bookings.json";
-
-interface Booking {
-  booking_id?: string;
-  date: string;
-  time: string;
-  location?: string;
-  name?: string;
-  watch_if_full?: boolean;
-  [key: string]: unknown;
-}
-
-interface Rule {
-  id?: string;
-  weekday?: string;
-  time: string;
-  location?: string;
-  name?: string;
-  enabled?: boolean;
-  watch_if_full?: boolean;
-  armed_booking_ids?: string[];
-}
+import {
+  applyPendingDelta,
+  applyRulesDelta,
+  sameBooking,
+  sameRule,
+  type Booking,
+  type PendingDelta,
+  type Rule,
+  type RulesDelta,
+} from "./bookings";
+import { DOC_KEYS, VersionConflict, mutateDoc, readAll, writeDoc, type DocKey } from "./state";
 
 class BadRequest extends Error {}
 
-function repoConfig(env: Env): RepoConfig {
-  return {
-    owner: env.GITHUB_OWNER,
-    repo: env.GITHUB_REPO,
-    branch: env.GITHUB_BRANCH,
-    token: env.GITHUB_TOKEN,
-  };
-}
+/** The dashboard's key is handed to whoever uses it; the bot's is not. */
+type Role = "dashboard" | "bot";
 
-/**
- * Same booking, by the fields that don't move.
- *
- * Deliberately ignores state/attempts/last_attempt: the striker writes those
- * between the dashboard loading the list and someone clicking remove, and
- * comparing whole objects would fail to match exactly when a booking has just
- * resolved — which is the moment people most want to clear it.
- */
-function sameBooking(a: Partial<Booking>, b: Partial<Booking>): boolean {
-  if (a.booking_id && b.booking_id) return a.booking_id === b.booking_id;
-  return (
-    a.date === b.date &&
-    a.time === b.time &&
-    (a.location ?? "") === (b.location ?? "") &&
-    (a.name ?? "") === (b.name ?? "")
-  );
-}
-
-function sameRule(a: Partial<Rule>, b: Partial<Rule>): boolean {
-  if (a.id && b.id) return a.id === b.id;
-  return a.weekday === b.weekday && a.time === b.time && (a.location ?? "") === (b.location ?? "");
-}
-
-async function authorised(request: Request, env: Env): Promise<boolean> {
-  const header = request.headers.get("Authorization") ?? "";
-  const provided = header.startsWith("Bearer ") ? header.slice(7) : "";
-
-  // Hash both to a fixed width before comparing: timingSafeEqual throws on a
-  // length mismatch, and bailing out early on length would leak it anyway.
+async function matches(provided: string, expected: string): Promise<boolean> {
+  // Hash both to a fixed width first: timingSafeEqual throws on a length
+  // mismatch, and bailing out early on length would leak it anyway.
   const encoder = new TextEncoder();
   const [got, want] = await Promise.all([
     crypto.subtle.digest("SHA-256", encoder.encode(provided)),
-    crypto.subtle.digest("SHA-256", encoder.encode(env.DASHBOARD_PASSPHRASE)),
+    crypto.subtle.digest("SHA-256", encoder.encode(expected)),
   ]);
   return crypto.subtle.timingSafeEqual(got, want);
+}
+
+async function identify(request: Request, env: Env): Promise<Role | null> {
+  const header = request.headers.get("Authorization") ?? "";
+  const provided = header.startsWith("Bearer ") ? header.slice(7) : "";
+
+  // Both are always checked, so the work doesn't reveal which one was close.
+  const [isDashboard, isBot] = await Promise.all([
+    matches(provided, env.DASHBOARD_PASSPHRASE),
+    matches(provided, env.BOT_TOKEN),
+  ]);
+  if (isBot) return "bot";
+  if (isDashboard) return "dashboard";
+  return null;
 }
 
 function allowedOrigins(env: Env): string[] {
@@ -98,9 +67,10 @@ function corsHeaders(env: Env, origin: string | null): Record<string, string> {
   return {
     // Echo back the one that asked, when it's one of ours. A browser rejects a
     // response naming any origin but its own, so a single hardcoded value breaks
-    // the moment the dashboard is served from a second hostname.
+    // the moment the dashboard is served from a second hostname — which is
+    // exactly what happened when Pages started serving the custom domain.
     "Access-Control-Allow-Origin": origin && allowed.includes(origin) ? origin : allowed[0],
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
     "Access-Control-Allow-Headers": "Authorization, Content-Type",
     "Access-Control-Max-Age": "86400",
     Vary: "Origin",
@@ -119,23 +89,35 @@ async function readBody<T>(request: Request): Promise<T> {
   }
 }
 
+// ---------- what the dashboard and the bot both read ----------
+
+async function getState(_request: Request, env: Env, origin: string | null): Promise<Response> {
+  const docs = await readAll(env.STATE_DB);
+  return json(
+    {
+      status: docs.status.value,
+      bookings: docs.pending.value,
+      rules: docs.rules.value,
+      versions: Object.fromEntries(DOC_KEYS.map((k) => [k, docs[k].version])),
+    },
+    env,
+    origin,
+  );
+}
+
+// ---------- what the dashboard writes ----------
+
 async function armBooking(request: Request, env: Env, origin: string | null): Promise<Response> {
   const booking = await readBody<Booking>(request);
   if (!booking?.date || !booking?.time) throw new BadRequest("A booking needs at least a date and a time.");
 
   let added = false;
-  const bookings = await mutate<Booking[]>(
-    repoConfig(env),
-    PENDING_FILE,
-    [],
-    `Arm ${booking.name ?? "booking"} at ${booking.time} on ${booking.date}`,
-    (current) => {
-      const list = Array.isArray(current) ? current : [current as unknown as Booking];
-      if (list.some((b) => sameBooking(b, booking))) return list;
-      added = true;
-      return [...list, booking];
-    },
-  );
+  const bookings = await mutateDoc<Booking[]>(env.STATE_DB, "pending", [], (current) => {
+    const list = Array.isArray(current) ? current : [];
+    if (list.some((b) => sameBooking(b, booking))) return list;
+    added = true;
+    return [...list, booking];
+  });
 
   if (!added) return json({ ok: false, reason: "already_queued", bookings }, env, origin, 409);
   return json({ ok: true, bookings }, env, origin);
@@ -148,18 +130,12 @@ async function removeBooking(request: Request, env: Env, origin: string | null):
   }
 
   let removed = false;
-  const bookings = await mutate<Booking[]>(
-    repoConfig(env),
-    PENDING_FILE,
-    [],
-    `Remove pending booking ${target.date && target.time ? `${target.time} on ${target.date}` : (target.booking_id ?? "")}`.trim(),
-    (current) => {
-      const list = Array.isArray(current) ? current : [current as unknown as Booking];
-      const next = list.filter((b) => !sameBooking(b, target));
-      removed = next.length !== list.length;
-      return next;
-    },
-  );
+  const bookings = await mutateDoc<Booking[]>(env.STATE_DB, "pending", [], (current) => {
+    const list = Array.isArray(current) ? current : [];
+    const next = list.filter((b) => !sameBooking(b, target));
+    removed = next.length !== list.length;
+    return next;
+  });
 
   if (!removed) return json({ ok: false, reason: "not_found", bookings }, env, origin, 404);
   return json({ ok: true, bookings }, env, origin);
@@ -172,18 +148,12 @@ async function addRule(request: Request, env: Env, origin: string | null): Promi
   if (!rule?.time) throw new BadRequest("A standing rule needs a time.");
 
   let added = false;
-  const rules = await mutate<Rule[]>(
-    repoConfig(env),
-    RULES_FILE,
-    [],
-    `Add standing rule for ${rule.name ?? "class"} on ${rule.weekday ?? "any day"}`,
-    (current) => {
-      const list = Array.isArray(current) ? current : [];
-      if (list.some((r) => sameRule(r, rule))) return list;
-      added = true;
-      return [...list, { enabled: true, armed_booking_ids: [], ...rule }];
-    },
-  );
+  const rules = await mutateDoc<Rule[]>(env.STATE_DB, "rules", [], (current) => {
+    const list = Array.isArray(current) ? current : [];
+    if (list.some((r) => sameRule(r, rule))) return list;
+    added = true;
+    return [...list, { enabled: true, armed_booking_ids: [], ...rule }];
+  });
 
   if (!added) return json({ ok: false, reason: "already_exists", rules }, env, origin, 409);
   return json({ ok: true, rules }, env, origin);
@@ -194,32 +164,69 @@ async function removeRule(request: Request, env: Env, origin: string | null): Pr
   if (!target?.id && !target?.time) throw new BadRequest("Say which rule: an id, or its time.");
 
   let removed = false;
-  const rules = await mutate<Rule[]>(
-    repoConfig(env),
-    RULES_FILE,
-    [],
-    `Remove standing rule for ${target.name ?? "class"}`,
-    (current) => {
-      const list = Array.isArray(current) ? current : [];
-      const next = list.filter((r) => !sameRule(r, target));
-      removed = next.length !== list.length;
-      return next;
-    },
-  );
+  const rules = await mutateDoc<Rule[]>(env.STATE_DB, "rules", [], (current) => {
+    const list = Array.isArray(current) ? current : [];
+    const next = list.filter((r) => !sameRule(r, target));
+    removed = next.length !== list.length;
+    return next;
+  });
 
   if (!removed) return json({ ok: false, reason: "not_found", rules }, env, origin, 404);
   return json({ ok: true, rules }, env, origin);
 }
 
-const ROUTES: Record<string, (request: Request, env: Env, origin: string | null) => Promise<Response>> = {
-  "/api/bookings": armBooking,
-  "/api/bookings/remove": removeBooking,
-  "/api/rules": addRule,
-  "/api/rules/remove": removeRule,
+// ---------- what the bot writes ----------
+
+interface PushBody {
+  pending?: PendingDelta;
+  rules?: RulesDelta;
+  status?: unknown;
+}
+
+/**
+ * A finished run, expressed as what it changed rather than what it ended up with.
+ * See applyPendingDelta: a run overlaps the moment someone is clicking, so
+ * writing back its whole list would drop their booking.
+ */
+async function pushState(request: Request, env: Env, origin: string | null): Promise<Response> {
+  const body = await readBody<PushBody>(request);
+
+  if (body.pending) {
+    await mutateDoc<Booking[]>(env.STATE_DB, "pending", [], (current) =>
+      applyPendingDelta(Array.isArray(current) ? current : [], body.pending!),
+    );
+  }
+  if (body.rules) {
+    await mutateDoc<Rule[]>(env.STATE_DB, "rules", [], (current) =>
+      applyRulesDelta(Array.isArray(current) ? current : [], body.rules!),
+    );
+  }
+  if (body.status !== undefined) {
+    // Only the striker writes this one, so there's nothing to merge against.
+    await writeDoc(env.STATE_DB, "status", body.status);
+  }
+
+  const docs = await readAll(env.STATE_DB);
+  return json({ ok: true, bookings: docs.pending.value, rules: docs.rules.value }, env, origin);
+}
+
+interface Route {
+  method: "GET" | "POST";
+  roles: Role[];
+  handle: (request: Request, env: Env, origin: string | null) => Promise<Response>;
+}
+
+const ROUTES: Record<string, Route> = {
+  "/api/state": { method: "GET", roles: ["dashboard", "bot"], handle: getState },
+  "/api/state/push": { method: "POST", roles: ["bot"], handle: pushState },
+  "/api/bookings": { method: "POST", roles: ["dashboard", "bot"], handle: armBooking },
+  "/api/bookings/remove": { method: "POST", roles: ["dashboard", "bot"], handle: removeBooking },
+  "/api/rules": { method: "POST", roles: ["dashboard", "bot"], handle: addRule },
+  "/api/rules/remove": { method: "POST", roles: ["dashboard", "bot"], handle: removeRule },
 };
 
 export default {
-  async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+  async fetch(request: Request, env: Env, _ctx: ExecutionContext): Promise<Response> {
     const url = new URL(request.url);
     const origin = request.headers.get("Origin");
 
@@ -228,37 +235,35 @@ export default {
     }
 
     // A browser on another site can't read the response anyway, but there's no
-    // reason to do the work. Absent Origin (curl, tests) is allowed through — the
-    // passphrase is the actual gate.
+    // reason to do the work. Absent Origin (curl, the bot) is allowed through —
+    // the key is the actual gate.
     if (!isAllowedOrigin(env, origin)) {
       return json({ error: "Not allowed from this origin." }, env, origin, 403);
     }
 
     const route = ROUTES[url.pathname];
     if (!route) return json({ error: "Not found." }, env, origin, 404);
-    if (request.method !== "POST") return json({ error: "Use POST." }, env, origin, 405);
+    if (request.method !== route.method) return json({ error: `Use ${route.method}.` }, env, origin, 405);
 
     try {
       // timingSafeEqual closes the side channel; this closes brute force. The
-      // hostname is public and the passphrase is all that stands between the
-      // internet and someone else's gym account.
+      // hostname is public and the key is all that stands between the internet
+      // and someone else's gym account.
       const ip = request.headers.get("cf-connecting-ip") ?? "unknown";
       const { success } = await env.AUTH_LIMITER.limit({ key: ip });
       if (!success) return json({ error: "Too many attempts. Wait a minute." }, env, origin, 429);
 
-      if (!(await authorised(request, env))) {
-        console.warn(JSON.stringify({ message: "rejected", path: url.pathname, ip }));
-        return json({ error: "Wrong access key." }, env, origin, 401);
+      const role = await identify(request, env);
+      if (!role || !route.roles.includes(role)) {
+        console.warn(JSON.stringify({ message: "rejected", path: url.pathname, role, ip }));
+        return json({ error: role ? "Not allowed." : "Wrong access key." }, env, origin, role ? 403 : 401);
       }
 
-      return await route(request, env, origin);
+      return await route.handle(request, env, origin);
     } catch (error) {
       if (error instanceof BadRequest) return json({ error: error.message }, env, origin, 400);
-      if (error instanceof ConflictError) {
+      if (error instanceof VersionConflict) {
         return json({ error: "The queue was busy being written to. Try again." }, env, origin, 503);
-      }
-      if (error instanceof RateLimitedError) {
-        return json({ error: "GitHub is rate limiting us. Wait a moment and try again." }, env, origin, 429);
       }
       console.error(JSON.stringify({
         message: "unhandled error",
