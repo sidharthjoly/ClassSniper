@@ -139,9 +139,16 @@ def scrape():
         if sessions:
             gone = missing_keys(sessions[0])
             if gone:
+                # Don't try to read a payload that has already been established as
+                # not the payload this code was written against: dropping a key it
+                # indexes by (booking_id, booking_start_datetime) raised straight
+                # out of the loop, before anything recorded why.
                 contract_breaks[center.get("name")] = gone
+                continue
 
         for s in sessions:
+            if not s.get("booking_id") or not s.get("booking_start_datetime"):
+                continue
             if s.get("booking_state") != "ACTIVE":
                 continue
             if is_non_class(s.get("activity_group_name")):
@@ -180,26 +187,29 @@ def scrape():
         print(f"CONTRACT: no center id in centers.py for {', '.join(unmapped)} — those would fall back to the browser path")
 
     existing = load_existing()
-    if existing and len(classes) < len(existing) * MIN_RETAINED_FRACTION:
+    refused = bool(existing) and len(classes) < len(existing) * MIN_RETAINED_FRACTION
+
+    if refused:
         detail = (
             f"Refusing to overwrite class_list.json: scraped only {len(classes)} classes "
             f"against {len(existing)} already on file. Keeping the old list — check "
             "whether the sessions API changed shape or a fetch half-failed."
         )
         print(detail)
-        write_status(result="refused", detail=detail, **status)
-        return 1
-
-    with open(CLASS_LIST_FILE, "w") as f:
-        json.dump(classes, f, indent=2)
-
-    print(f"Wrote {len(classes)} armable classes across {len(centers)} locations to class_list.json")
+    else:
+        # A missing field isn't worth blanking the dashboard over, so whatever did
+        # parse still gets written — the run just doesn't get to call itself fine.
+        with open(CLASS_LIST_FILE, "w") as f:
+            json.dump(classes, f, indent=2)
+        print(f"Wrote {len(classes)} armable classes across {len(centers)} locations to class_list.json")
 
     if contract_breaks or unmapped:
-        # The list still wrote — a missing field isn't worth blanking the dashboard
-        # over — but the run is marked failed so the change doesn't pass unnoticed.
-        write_status(result="contract_failed", detail="Live payload no longer matches what this pipeline reads.", **status)
+        write_status(result="contract_failed",
+                     detail="Live payload no longer matches what this pipeline reads.", **status)
         return 2
+    if refused:
+        write_status(result="refused", detail=detail, **status)
+        return 1
 
     write_status(result="ok", detail=None, **status)
     return 0

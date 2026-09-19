@@ -1,0 +1,29 @@
+name: Tests
+
+# Deliberately separate from the booking workflow. That one runs every 60 seconds
+# with a strike to make; it has no business installing pytest.
+on:
+  push:
+    # Only when the code changes. The booking workflow commits data files roughly
+    # every minute, and none of those commits need a test run.
+    paths:
+      - 'bot/**'
+      - 'tests/**'
+      - 'requirements*.txt'
+      - '.github/workflows/tests.yml'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        # No browser download: the tests stub the strike rather than driving one.
+        run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Run Tests
+        run: python -m pytest tests -q

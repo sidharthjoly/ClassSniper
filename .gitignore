@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 final_failure.png
 booking_result.png
+.pytest_cache/
