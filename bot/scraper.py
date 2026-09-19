@@ -1,4 +1,5 @@
 import json
+import sys
 from datetime import datetime, timedelta
 
 import pytz
@@ -11,6 +12,33 @@ LOOKAHEAD_DAYS = 10
 # Matches gym_script.py's MIN_LEAD_HOURS: cancelling inside 24h incurs a fee, so
 # don't even offer a class that couldn't be armed anyway.
 MIN_LEAD_HOURS = 30
+
+# Every session used to carry activity_type: "CLASS_BOOKING", which is what told a
+# real class apart from a recovery-suite booking. That field vanished from the API
+# payload on 2026-09-15 — the equality check then rejected every session and the
+# list silently emptied. The activity group is the field that still names those
+# non-class bookings, so filter on that instead.
+NON_CLASS_GROUP_KEYWORDS = ("sauna", "recovery", "plunge", "ice bath")
+
+# An empty scrape, or one that loses most of the list, means something upstream
+# broke — a dropped field, a half-finished fetch — not that the gym cancelled its
+# whole timetable. Keep the last good list rather than blanking the dashboard.
+MIN_RETAINED_FRACTION = 0.5
+
+
+def is_non_class(group_name):
+    """Sauna/recovery bookings share this endpoint with actual classes."""
+    name = (group_name or "").lower()
+    return any(word in name for word in NON_CLASS_GROUP_KEYWORDS)
+
+
+def load_existing():
+    try:
+        with open("class_list.json") as f:
+            existing = json.load(f)
+    except (OSError, ValueError):
+        return []
+    return existing if isinstance(existing, list) else []
 
 
 def fetch_centers():
@@ -54,8 +82,8 @@ def scrape():
         for s in sessions:
             if s.get("booking_state") != "ACTIVE":
                 continue
-            if s.get("activity_type") != "CLASS_BOOKING":
-                continue  # excludes non-class resources like sauna/recovery-suite bookings
+            if is_non_class(s.get("activity_group_name")):
+                continue
             start = datetime.strptime(s["booking_start_datetime"], "%Y-%m-%d %H:%M:%S")
             if start < min_start:
                 continue
@@ -73,11 +101,21 @@ def scrape():
 
     classes.sort(key=lambda c: (c["date"], datetime.strptime(c["time"], "%I:%M %p"), c["location"]))
 
+    existing = load_existing()
+    if existing and len(classes) < len(existing) * MIN_RETAINED_FRACTION:
+        print(
+            f"Refusing to overwrite class_list.json: scraped only {len(classes)} classes "
+            f"against {len(existing)} already on file. Keeping the old list — check "
+            "whether the sessions API changed shape or a fetch half-failed."
+        )
+        return 1
+
     with open("class_list.json", "w") as f:
         json.dump(classes, f, indent=2)
 
     print(f"Wrote {len(classes)} armable classes across {len(centers)} locations to class_list.json")
+    return 0
 
 
 if __name__ == "__main__":
-    scrape()
+    sys.exit(scrape())
