@@ -1811,7 +1811,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3681,7 +3681,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3934,7 +3934,7 @@
     "class_type": "S&C Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
@@ -4572,7 +4572,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
