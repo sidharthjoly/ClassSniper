@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book38944",
-    "date": "2026-09-21",
-    "time": "9:15 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49255",
     "date": "2026-09-21",
     "time": "9:30 AM",
