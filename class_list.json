@@ -3362,7 +3362,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 28
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
@@ -5320,7 +5320,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -5661,7 +5661,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -16065,7 +16065,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -16076,7 +16076,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -16241,7 +16241,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -16252,7 +16252,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -16406,7 +16406,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -16417,7 +16417,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -16505,7 +16505,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -16516,7 +16516,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
