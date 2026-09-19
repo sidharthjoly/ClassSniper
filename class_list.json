@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book32186",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book35711",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book66768",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book34545",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Bodysculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book60308",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book60414",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Becki Baldwin",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book60996",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book61098",
-    "date": "2026-09-21",
-    "time": "7:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book59491",
     "date": "2026-09-21",
     "time": "7:40 AM",
@@ -4583,7 +4495,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 34
   },
   {
