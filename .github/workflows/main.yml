@@ -90,3 +90,10 @@ jobs:
             final_failure.png
             booking_result.png
           if-no-files-found: ignore
+          # These show the booking confirmation screen, so they carry the same
+          # thing the rest of this repo deliberately stopped publishing: which
+          # class, which gym, what time. Artifacts on a public repo are
+          # downloadable by anyone signed into GitHub. They earn their keep while
+          # the browser path is still unverified, so keep them — but for a day,
+          # not the default ninety.
+          retention-days: 1
