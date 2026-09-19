@@ -7,5 +7,12 @@
     "name": "Squad",
     "instructor": "Colleen Antony",
     "location": "Marrickville"
+  },
+  {
+    "booking_id": "loop-4",
+    "date": "2026-09-27",
+    "time": "9:00 AM",
+    "location": "Newtown",
+    "name": "Loop 4"
   }
 ]
