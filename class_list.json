@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book59491",
-    "date": "2026-09-21",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book36154",
     "date": "2026-09-21",
     "time": "8:00 AM",
