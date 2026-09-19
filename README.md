@@ -2,7 +2,7 @@
 
 The system automates gym class bookings. It strikes the moment the booking window opens.
 
-**Live dashboard:** https://sidharthjoly.github.io/ClassSniper/
+**Live dashboard:** https://classsniper.sidharthjoly.com/
 
 ## The problem
 
