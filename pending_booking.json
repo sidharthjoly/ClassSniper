@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "watch_if_full": false,
+    "booking_id": "106book38578",
+    "date": "2026-09-21",
+    "time": "5:45 AM",
+    "name": "Lower Force",
+    "instructor": "Jonathan Krisnadi",
+    "location": "Merrylands"
+  }
+]
