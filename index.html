@@ -119,21 +119,23 @@
   .layout {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-areas: "sidebar-status" "picker" "sidebar-pending" "sidebar-connect";
+    grid-template-areas: "sidebar-status" "picker" "sidebar-pending" "sidebar-standing" "sidebar-connect";
     gap: var(--space-6);
   }
   .area-status { grid-area: sidebar-status; }
   .area-picker { grid-area: picker; min-width: 0; }
   .area-pending { grid-area: sidebar-pending; }
+  .area-standing { grid-area: sidebar-standing; }
   .area-connect { grid-area: sidebar-connect; }
 
   @media (min-width: 900px) {
     .layout {
       grid-template-columns: 300px 1fr;
       grid-template-areas:
-        "sidebar-status  picker"
-        "sidebar-pending picker"
-        "sidebar-connect picker";
+        "sidebar-status   picker"
+        "sidebar-pending  picker"
+        "sidebar-standing picker"
+        "sidebar-connect  picker";
       align-items: start;
       gap: var(--space-8);
     }
@@ -241,6 +243,16 @@
   .class-card .name { font-size: 15px; font-weight: 700; }
   .class-card .meta { font-size: 13px; color: var(--color-neutral-700); }
 
+  /* A stale class list looks exactly like a working one, which is how a dead
+     scraper went unnoticed for four days. This line is the only thing that tells
+     you the difference. */
+  .scrape-line { font-size: 11px; color: color-mix(in srgb, var(--color-text) 50%, transparent); margin-bottom: var(--space-3); }
+  .scrape-line.stale { color: var(--status-warning-fg); background: var(--status-warning); display: inline-block; padding: 3px 10px; }
+  .rule-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: var(--space-3) 0; border-bottom: 2px solid var(--color-divider); }
+  .rule-row:last-child { border-bottom: none; }
+  .rule-row .info { min-width: 0; font-size: 14px; }
+  .rule-row .info .when { font-weight: 700; }
+  .rule-row .info .what { color: var(--color-neutral-700); font-size: 13px; margin-top: 2px; }
   .empty-state { grid-column: 1 / -1; text-align: center; padding: var(--space-8) 0; color: var(--color-neutral-600); font-size: 14px; }
 
   .skeleton {
@@ -305,6 +317,7 @@
 
     <div class="area-picker">
       <div class="card-kicker" style="margin-bottom:var(--space-3)">Arm a booking</div>
+      <div id="scrapeLine" class="scrape-line"></div>
       <div id="pickerCard">
         <div class="skeleton" style="width:100%;height:40px"></div>
       </div>
@@ -336,6 +349,13 @@
     <div class="area-pending">
       <div class="card" id="pendingCard">
         <div class="card-kicker">Pending bookings</div>
+        <div class="skeleton" style="width:100%;height:40px;margin-top:6px;"></div>
+      </div>
+    </div>
+
+    <div class="area-standing">
+      <div class="card" id="standingCard">
+        <div class="card-kicker">Standing rules</div>
         <div class="skeleton" style="width:100%;height:40px;margin-top:6px;"></div>
       </div>
     </div>
@@ -513,6 +533,33 @@
     }
   }
 
+  // ---------- scrape freshness ----------
+  // The scraper writes scrape_status.json on every run, including runs that refuse
+  // to touch the class list. If this line stops moving, the pipeline has stopped —
+  // which previously looked identical to a quiet week.
+  const STALE_AFTER_MINUTES = 15;
+
+  async function loadScrapeStatus() {
+    const line = document.getElementById('scrapeLine');
+    try {
+      const s = await fetchPublicJson('scrape_status.json');
+      const ageMin = (Date.now() - new Date(s.scraped_at).getTime()) / 60000;
+      const bits = [`Class list updated ${relativeTime(s.scraped_at)}`];
+
+      if (s.result === 'refused') bits.push('last scrape looked broken and was ignored — showing the previous list');
+      if (s.result === 'contract_failed') bits.push('the booking API changed shape — check the logs');
+      if (s.centers_failed?.length) bits.push(`couldn't reach ${s.centers_failed.join(', ')}`);
+      if (ageMin > STALE_AFTER_MINUTES) bits.push('this is stale — the scraper may have stopped');
+
+      line.className = (ageMin > STALE_AFTER_MINUTES || s.result !== 'ok') ? 'scrape-line stale' : 'scrape-line';
+      line.textContent = bits.join(' · ');
+    } catch (error) {
+      console.error(error);
+      line.className = 'scrape-line stale';
+      line.textContent = 'No scrape heartbeat found — the class list may be stale.';
+    }
+  }
+
   // ---------- pending bookings ----------
   async function loadPendingBookings() {
     const container = document.getElementById('pendingCard');
@@ -526,7 +573,8 @@
             <div class="info">
               <div class="time">${item.time}${item.location ? ` &middot; ${item.location}` : ''}</div>
               ${item.name ? `<div class="name">${item.name}</div>` : ''}
-              <div class="date">${item.date}</div>
+              <div class="date">${item.date}${item.armed_by ? ' &middot; standing rule' : ''}</div>
+              ${stateTag(item)}
             </div>
             <button class="btn btn-icon" title="Remove" aria-label="Remove" onclick="removeBooking(${i})">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M6 18L18 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -538,6 +586,19 @@
       console.error(error);
       container.innerHTML = `<div class="card-kicker">Pending bookings</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load pending bookings.</div>`;
     }
+  }
+
+  // A booking that has resolved stays in the queue so it can say why — the striker
+  // stopped re-striking it, which is what used to starve everything behind it.
+  function stateTag(item) {
+    const meta = {
+      watching: { label: 'Full — watching for a cancellation', bg: 'var(--status-warning)', fg: 'var(--status-warning-fg)' },
+      full: { label: 'Was full — not retrying', bg: 'var(--color-neutral-200)', fg: 'var(--color-neutral-700)' },
+      failed: { label: `Gave up after ${item.attempts || 0} attempts`, bg: 'var(--color-neutral-200)', fg: 'var(--color-neutral-700)' },
+    }[item.state];
+    if (!meta) return item.watch_if_full
+      ? `<div class="date" style="margin-top:4px;">Will keep watching if full</div>` : '';
+    return `<span class="tag" style="margin-top:6px;background:${meta.bg};color:${meta.fg};">${meta.label}</span>`;
   }
 
   async function removeBooking(index) {
@@ -560,6 +621,11 @@
   // ---------- class picker (fed by class_list.json, scraped server-side across all locations) ----------
   let classListCache = [];
   let selectedDate = null;
+  // Applies to whatever you arm next: the booking stays live after coming back full
+  // and gets struck again the moment a scrape shows a free spot.
+  let watchIfFull = false;
+
+  function setWatch(on) { watchIfFull = on; renderClassGrid(); }
 
   function uniqueSorted(values) {
     return [...new Set(values.filter(Boolean))].sort();
@@ -605,6 +671,10 @@
           <option value="">All instructors</option>
           ${instructors.map(opt).join('')}
         </select>
+        <label class="card-meta" style="display:flex;align-items:center;gap:6px;cursor:pointer;">
+          <input type="checkbox" id="watchToggle" ${watchIfFull ? 'checked' : ''} onchange="setWatch(this.checked)">
+          Keep watching if full
+        </label>
       </div>
       <div class="day-strip" id="dayStrip"></div>
       <div class="class-grid" id="classGrid"></div>
@@ -668,7 +738,10 @@
           </div>
           <div class="name">${c.name}</div>
           <div class="meta">${[c.instructor, c.class_type].filter(Boolean).join(' · ')}</div>
-          <button class="btn ${full ? 'btn-ghost' : 'btn-secondary'} btn-block" style="margin-top:4px;" ${full ? 'disabled' : ''} onclick="armClass('${c.booking_id}')">Arm</button>
+          <div style="display:flex;gap:6px;margin-top:4px;">
+            <button class="btn ${full ? 'btn-ghost' : 'btn-secondary'}" style="flex:1;" ${full && !watchIfFull ? 'disabled' : ''} onclick="armClass('${c.booking_id}')">${full && watchIfFull ? 'Watch' : 'Arm'}</button>
+            <button class="btn btn-ghost" style="flex:1;" title="Arm this class every week automatically" onclick="addStandingRule('${c.booking_id}')">Weekly</button>
+          </div>
         </div>
       `;
     }).join('');
@@ -687,6 +760,7 @@
         return;
       }
       payload.push({
+        watch_if_full: watchIfFull,
         booking_id: cls.booking_id,
         date: cls.date,
         time: cls.time,
@@ -758,6 +832,90 @@
   }
 
   // ---------- connection card ----------
+  // ---------- standing rules ----------
+  // The 72h window means a weekly class has to be re-armed weekly. A rule describes
+  // it once and bot/standing.py queues each occurrence as the scrape picks it up.
+  function weekdayOf(date) {
+    const [y, m, d] = date.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-AU', { weekday: 'long' });
+  }
+
+  async function loadStandingRules() {
+    const card = document.getElementById('standingCard');
+    try {
+      const payload = await fetchPublicJson('standing_bookings.json');
+      const rules = Array.isArray(payload) ? payload : [];
+      const rows = rules.length === 0
+        ? `<div class="card-meta" style="padding:var(--space-2) 0 0;">No standing rules. Hit "Weekly" on a class to arm it every week.</div>`
+        : rules.map((r, i) => `
+          <div class="rule-row">
+            <div class="info">
+              <div class="when">${r.weekday ? r.weekday + 's' : 'Any day'} &middot; ${r.time}</div>
+              <div class="what">${[r.name, r.location].filter(Boolean).join(' · ')}</div>
+              ${r.watch_if_full ? `<div class="what">Keeps watching if full</div>` : ''}
+            </div>
+            <button class="btn btn-icon" title="Remove rule" aria-label="Remove rule" onclick="removeStandingRule(${i})">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M6 6L18 18M6 18L18 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </button>
+          </div>
+        `).join('');
+      card.innerHTML = `<div class="card-kicker">Standing rules</div>${rows}`;
+    } catch (error) {
+      console.error(error);
+      card.innerHTML = `<div class="card-kicker">Standing rules</div><div class="card-meta" style="padding:var(--space-2) 0 0;">Unable to load standing rules.</div>`;
+    }
+  }
+
+  async function addStandingRule(bookingId) {
+    const cls = classListCache.find(c => c.booking_id === bookingId);
+    if (!cls) return;
+    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    const rule = {
+      id: `${cls.location}-${cls.time}-${cls.name}`.replace(/\s+/g, '-').toLowerCase(),
+      weekday: weekdayOf(cls.date),
+      time: cls.time,
+      location: cls.location,
+      name: cls.name,
+      enabled: true,
+      watch_if_full: watchIfFull,
+      armed_booking_ids: [],
+    };
+    try {
+      const file = await githubGetFile('standing_bookings.json');
+      let payload = JSON.parse(decodeContent(file.content));
+      if (!Array.isArray(payload)) payload = [];
+      if (payload.some(r => r.id === rule.id && r.weekday === rule.weekday)) {
+        toast('There is already a rule for that class.', 'error');
+        return;
+      }
+      payload.push(rule);
+      const content = encodeContent(JSON.stringify(payload, null, 2));
+      await githubPutFile('standing_bookings.json', `Add standing rule for ${rule.name} on ${rule.weekday}s`, content, file.sha);
+      toast(`${cls.name} will be armed every ${rule.weekday}.`);
+      loadStandingRules();
+    } catch (error) {
+      console.error(error);
+      toast(`Failed to add rule — ${error.message}`, 'error');
+    }
+  }
+
+  async function removeStandingRule(index) {
+    if (!getToken()) { toast('Connect your GitHub token first.', 'error'); return; }
+    try {
+      const file = await githubGetFile('standing_bookings.json');
+      let payload = JSON.parse(decodeContent(file.content));
+      if (!Array.isArray(payload)) payload = [];
+      const removed = payload.splice(index, 1)[0];
+      const content = encodeContent(JSON.stringify(payload, null, 2));
+      await githubPutFile('standing_bookings.json', `Remove standing rule for ${removed?.name}`, content, file.sha);
+      toast('Standing rule removed. Anything it already queued stays queued.');
+      loadStandingRules();
+    } catch (error) {
+      console.error(error);
+      toast(`Failed to remove rule — ${error.message}`, 'error');
+    }
+  }
+
   function renderConnectCard() {
     const card = document.getElementById('connectCard');
     const token = getToken();
@@ -806,7 +964,9 @@
   // ---------- init ----------
   renderConnectCard();
   loadStatus();
+  loadScrapeStatus();
   loadPendingBookings();
+  loadStandingRules();
   loadClassPicker();
 </script>
 </body>
