@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book35660",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book37265",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book32085",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "104book33915",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book47742",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Surge",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 28,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book60730",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Becki Baldwin",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book60574",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book61206",
-    "date": "2026-09-21",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book37999",
     "date": "2026-09-21",
     "time": "6:45 AM",
@@ -887,7 +799,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
