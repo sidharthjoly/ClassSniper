@@ -326,7 +326,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -3516,7 +3516,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 40
   },
   {
@@ -4209,7 +4209,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 32
   },
   {
@@ -4363,7 +4363,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
