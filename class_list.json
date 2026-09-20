@@ -161,7 +161,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 28
   },
   {
@@ -1987,7 +1987,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 36
   },
   {
@@ -3010,7 +3010,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 28
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -3681,7 +3681,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -8706,7 +8706,7 @@
     "time": "5:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -8926,7 +8926,7 @@
     "time": "6:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -9201,7 +9201,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Sara Craighead",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10026,7 +10026,7 @@
     "time": "10:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Janet Lapprathana",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14773,7 +14773,7 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book59067",
+    "booking_id": "107book59120",
     "date": "2026-09-28",
     "time": "9:00 AM",
     "name": "Reformer: Signature",
@@ -15015,7 +15015,7 @@
     "capacity": 23
   },
   {
-    "booking_id": "107book59226",
+    "booking_id": "107book93603",
     "date": "2026-09-28",
     "time": "10:30 AM",
     "name": "Reformer: Origins",
@@ -15356,7 +15356,7 @@
     "capacity": 40
   },
   {
-    "booking_id": "107book56379",
+    "booking_id": "107book57149",
     "date": "2026-09-28",
     "time": "12:15 PM",
     "name": "Reformer: Signature",
@@ -15499,17 +15499,6 @@
     "capacity": 38
   },
   {
-    "booking_id": "107book57094",
-    "date": "2026-09-28",
-    "time": "1:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book59807",
     "date": "2026-09-28",
     "time": "1:15 PM",
@@ -15587,6 +15576,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book57041",
+    "date": "2026-09-28",
+    "time": "2:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book57149",
     "date": "2026-09-28",
     "time": "2:15 PM",
@@ -15631,7 +15631,7 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book57199",
+    "booking_id": "107book56886",
     "date": "2026-09-28",
     "time": "3:00 PM",
     "name": "Reformer: Signature",
@@ -16390,17 +16390,6 @@
     "capacity": 40
   },
   {
-    "booking_id": "107book56834",
-    "date": "2026-09-28",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book58522",
     "date": "2026-09-28",
     "time": "6:30 PM",
@@ -17072,6 +17061,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "107book60689",
+    "date": "2026-09-29",
+    "time": "6:30 AM",
+    "name": "Reformer: Athletic",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book59655",
     "date": "2026-09-29",
     "time": "6:30 AM",
@@ -17402,6 +17402,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "107book81585",
+    "date": "2026-09-29",
+    "time": "7:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book64250",
     "date": "2026-09-29",
     "time": "7:30 AM",
@@ -17611,6 +17622,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book61848",
+    "date": "2026-09-29",
+    "time": "8:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book63654",
     "date": "2026-09-29",
     "time": "8:30 AM",
@@ -17743,17 +17765,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "107book62060",
-    "date": "2026-09-29",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book63757",
     "date": "2026-09-29",
     "time": "9:00 AM",
@@ -17816,17 +17827,6 @@
     "class_type": "Reformer Series",
     "instructor": "Estella Jones",
     "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book62113",
-    "date": "2026-09-29",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -17985,10 +17985,10 @@
     "capacity": 36
   },
   {
-    "booking_id": "107book74492",
+    "booking_id": "107book93708",
     "date": "2026-09-29",
     "time": "10:30 AM",
-    "name": "Reformer: Signature",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "North Sydney",
@@ -18381,6 +18381,17 @@
     "capacity": 28
   },
   {
+    "booking_id": "107book61136",
+    "date": "2026-09-29",
+    "time": "12:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "106book78598",
     "date": "2026-09-29",
     "time": "1:00 PM",
@@ -18502,6 +18513,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "107book61614",
+    "date": "2026-09-29",
+    "time": "1:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "106book78894",
     "date": "2026-09-29",
     "time": "2:00 PM",
@@ -18522,17 +18544,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book61296",
-    "date": "2026-09-29",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book53621",
@@ -18566,17 +18577,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book61189",
-    "date": "2026-09-29",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book63439",
@@ -18665,17 +18665,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "107book61351",
-    "date": "2026-09-29",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book63175",
@@ -19019,6 +19008,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "107book61454",
+    "date": "2026-09-29",
+    "time": "5:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book41874",
     "date": "2026-09-29",
     "time": "5:30 PM",
@@ -19071,17 +19071,6 @@
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
     "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book61507",
-    "date": "2026-09-29",
-    "time": "5:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -19327,10 +19316,10 @@
     "capacity": 34
   },
   {
-    "booking_id": "107book61242",
+    "booking_id": "107book93813",
     "date": "2026-09-29",
     "time": "6:30 PM",
-    "name": "Reformer: Strong",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
@@ -19569,10 +19558,10 @@
     "capacity": 34
   },
   {
-    "booking_id": "107book61401",
+    "booking_id": "107book93417",
     "date": "2026-09-29",
     "time": "7:30 PM",
-    "name": "Reformer: Strong",
+    "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
@@ -19965,6 +19954,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "107book63637",
+    "date": "2026-09-30",
+    "time": "6:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Lily Cole",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book41972",
     "date": "2026-09-30",
     "time": "6:30 AM",
@@ -20284,6 +20284,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "107book63120",
+    "date": "2026-09-30",
+    "time": "7:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Lily Cole",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book65474",
     "date": "2026-09-30",
     "time": "7:30 AM",
@@ -20493,6 +20504,17 @@
     "capacity": 38
   },
   {
+    "booking_id": "107book62858",
+    "date": "2026-09-30",
+    "time": "8:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Lily Cole",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book65628",
     "date": "2026-09-30",
     "time": "8:30 AM",
@@ -20625,17 +20647,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book63173",
-    "date": "2026-09-30",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book66621",
     "date": "2026-09-30",
     "time": "9:00 AM",
@@ -20689,17 +20700,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "107book79045",
-    "date": "2026-09-30",
-    "time": "9:45 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book66462",
@@ -21219,6 +21219,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "107book62961",
+    "date": "2026-09-30",
+    "time": "12:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Gianna Petracic",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "106book42786",
     "date": "2026-09-30",
     "time": "1:00 PM",
@@ -21340,6 +21351,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "107book63014",
+    "date": "2026-09-30",
+    "time": "1:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Gianna Petracic",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "106book42890",
     "date": "2026-09-30",
     "time": "2:00 PM",
@@ -21360,17 +21382,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book63331",
-    "date": "2026-09-30",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "105book41300",
@@ -21404,17 +21415,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book63228",
-    "date": "2026-09-30",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book66568",
@@ -21569,6 +21569,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "107book93522",
+    "date": "2026-09-30",
+    "time": "4:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jessica Caetano",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book67151",
@@ -21857,14 +21868,14 @@
     "capacity": 32
   },
   {
-    "booking_id": "107book78187",
+    "booking_id": "107book62697",
     "date": "2026-09-30",
     "time": "5:30 PM",
-    "name": "Reformer: Sculpt",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -22187,6 +22198,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "107book62379",
+    "date": "2026-09-30",
+    "time": "6:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jessica Caetano",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book42466",
     "date": "2026-09-30",
     "time": "6:30 PM",
@@ -22295,17 +22317,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book62326",
-    "date": "2026-09-30",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book66886",
@@ -22427,6 +22438,17 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "107book78649",
+    "date": "2026-09-30",
+    "time": "7:30 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Jessica Caetano",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
   },
   {
     "booking_id": "101book67045",
