@@ -513,7 +513,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
@@ -568,7 +568,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 28
   },
   {
@@ -1756,7 +1756,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 34
   },
   {
@@ -1965,7 +1965,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 30,
+    "remaining_spots": 31,
     "capacity": 34
   },
   {
@@ -3758,7 +3758,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 28
   },
   {
