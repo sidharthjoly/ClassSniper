@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book37005",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34545",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Kristine Gimenez",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book50362",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book37949",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book66663",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book34231",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book59858",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book59333",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book36221",
     "date": "2026-09-21",
     "time": "7:15 PM",
@@ -3197,7 +3109,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 26
   },
   {
@@ -3769,7 +3681,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 40
   },
   {
@@ -4440,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -4748,7 +4660,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
