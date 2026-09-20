@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book54803",
-    "date": "2026-09-22",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book53885",
-    "date": "2026-09-22",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book52705",
-    "date": "2026-09-22",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book61559",
-    "date": "2026-09-22",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63704",
-    "date": "2026-09-22",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book54412",
     "date": "2026-09-22",
     "time": "12:00 PM",
@@ -480,7 +425,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 38
   },
   {
@@ -4253,7 +4198,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 36
   },
   {
@@ -4407,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
