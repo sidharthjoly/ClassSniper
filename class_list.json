@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book34755",
-    "date": "2026-09-21",
-    "time": "4:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 38
-  },
-  {
-    "booking_id": "101book58601",
-    "date": "2026-09-21",
-    "time": "4:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book59546",
-    "date": "2026-09-21",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book63155",
     "date": "2026-09-21",
     "time": "4:45 PM",
