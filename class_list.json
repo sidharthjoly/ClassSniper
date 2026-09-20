@@ -1283,7 +1283,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 35
   },
   {
@@ -3395,7 +3395,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 35
   },
   {
@@ -4440,7 +4440,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 8
   },
   {
@@ -4946,7 +4946,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -4979,7 +4979,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -5023,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
