@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "103book50569",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book50782",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book50727",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book50624",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book38523",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book34282",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book57040",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book59280",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book36221",
     "date": "2026-09-21",
     "time": "7:45 PM",
@@ -645,7 +557,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
@@ -1228,7 +1140,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -1613,7 +1525,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -3439,7 +3351,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 33
   },
   {
@@ -3681,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
