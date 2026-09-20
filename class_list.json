@@ -348,7 +348,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 40
   },
   {
@@ -2680,7 +2680,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2757,7 +2757,7 @@
     "class_type": "Dance Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 31,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
@@ -2768,7 +2768,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 21
   },
   {
@@ -5628,7 +5628,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
