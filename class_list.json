@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39315",
-    "date": "2026-09-22",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 25,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49934",
     "date": "2026-09-22",
     "time": "5:30 AM",
@@ -5672,7 +5661,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
