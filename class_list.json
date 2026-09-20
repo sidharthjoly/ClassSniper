@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book54571",
-    "date": "2026-09-22",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book64939",
-    "date": "2026-09-22",
-    "time": "9:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Julieanne Nicolas",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book39493",
     "date": "2026-09-22",
     "time": "9:45 AM",
