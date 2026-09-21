@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "103book52009",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book67337",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book40530",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book54977",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Areeba Talpur",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book61400",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book64836",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Reggaeton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 25
-  },
-  {
-    "booking_id": "101book85530",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book63388",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39281",
     "date": "2026-09-22",
     "time": "7:45 PM",
@@ -1701,7 +1613,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -2317,7 +2229,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -2845,7 +2757,7 @@
     "class_type": "Spin Series",
     "instructor": "Shane Collard",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
@@ -4605,7 +4517,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
