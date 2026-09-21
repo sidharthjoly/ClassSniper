@@ -3362,7 +3362,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -5254,7 +5254,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -5485,7 +5485,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 32
   },
   {
@@ -6816,7 +6816,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -7399,7 +7399,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -7564,7 +7564,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -14393,7 +14393,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
+    "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -14569,7 +14569,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
+    "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
