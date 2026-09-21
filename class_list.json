@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49135",
-    "date": "2026-09-23",
-    "time": "1:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book38994",
     "date": "2026-09-23",
     "time": "1:15 PM",
@@ -1514,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -4264,7 +4253,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
