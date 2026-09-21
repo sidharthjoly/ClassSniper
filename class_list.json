@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book28849",
-    "date": "2026-09-23",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 22,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book77468",
     "date": "2026-09-23",
     "time": "10:30 AM",
@@ -3714,7 +3703,7 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
