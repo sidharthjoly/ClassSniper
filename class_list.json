@@ -590,7 +590,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
@@ -5023,7 +5023,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 34
   },
   {
@@ -5507,7 +5507,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -5551,7 +5551,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -5945,7 +5945,7 @@
     "time": "6:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -6253,7 +6253,7 @@
     "time": "7:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -7276,7 +7276,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill, Luke Punton",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -7925,7 +7925,7 @@
     "time": "5:15 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Molly Williams",
+    "instructor": "Honor Mills",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -12149,7 +12149,7 @@
     "time": "12:00 PM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine, Patrick Fox",
+    "instructor": "Patrick Fox",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -17209,7 +17209,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
+    "instructor": "Janet Lapprathana",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -17352,7 +17352,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
+    "instructor": "Janet Lapprathana",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -17484,7 +17484,7 @@
     "time": "10:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
+    "instructor": "Janet Lapprathana",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -18698,6 +18698,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book82916",
+    "date": "2026-09-30",
+    "time": "6:30 PM",
+    "name": "Hip Hop",
+    "class_type": "Dance Series",
+    "instructor": "Shannon Campradt",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book42091",
@@ -20674,7 +20685,7 @@
     "time": "12:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jack Bowen, Luke Punton",
+    "instructor": "Jack Bowen",
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
@@ -20982,7 +20993,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
+    "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -21257,7 +21268,7 @@
     "time": "5:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
+    "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -21554,7 +21565,7 @@
     "time": "6:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
+    "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -21785,7 +21796,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Phoebe Thomson",
+    "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
