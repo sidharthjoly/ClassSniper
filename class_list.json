@@ -2009,7 +2009,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2438,7 +2438,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -3142,7 +3142,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 9,
     "capacity": 35
   },
   {
@@ -3373,7 +3373,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
@@ -5177,7 +5177,7 @@
     "class_type": "Dance Series",
     "instructor": "Whitney Bertrand",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -5452,7 +5452,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
