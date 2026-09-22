@@ -381,7 +381,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -2075,7 +2075,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
@@ -2805,6 +2805,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book71224",
+    "date": "2026-09-25",
+    "time": "5:50 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Elizabeth Chun",
+    "location": "Surry Hills",
+    "remaining_spots": 0,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book45176",
     "date": "2026-09-25",
     "time": "6:00 AM",
@@ -3032,7 +3043,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 13,
     "capacity": 23
   },
   {
@@ -3329,7 +3340,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -3516,7 +3527,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
@@ -3769,7 +3780,18 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
+    "capacity": 23
+  },
+  {
+    "booking_id": "101book79214",
+    "date": "2026-09-25",
+    "time": "9:30 AM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Lily Cole",
+    "location": "Surry Hills",
+    "remaining_spots": 12,
     "capacity": 23
   },
   {
@@ -3958,6 +3980,17 @@
     "location": "North Sydney",
     "remaining_spots": 20,
     "capacity": 24
+  },
+  {
+    "booking_id": "101book70665",
+    "date": "2026-09-25",
+    "time": "10:30 AM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "Surry Hills",
+    "remaining_spots": 13,
+    "capacity": 18
   },
   {
     "booking_id": "101book70665",
@@ -4616,7 +4649,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -4627,7 +4660,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -4649,7 +4682,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
