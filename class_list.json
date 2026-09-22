@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book45194",
-    "date": "2026-09-24",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39006",
-    "date": "2026-09-24",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book68944",
-    "date": "2026-09-24",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book67921",
-    "date": "2026-09-24",
-    "time": "1:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book65940",
     "date": "2026-09-24",
     "time": "1:15 PM",
@@ -1547,7 +1503,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -2889,7 +2845,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
@@ -3450,7 +3406,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 27,
     "capacity": 32
   },
   {
@@ -3461,7 +3417,7 @@
     "class_type": "Spin Series",
     "instructor": "Andrew Lloyd",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -3472,7 +3428,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
@@ -3538,7 +3494,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
