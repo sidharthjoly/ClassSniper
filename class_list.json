@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book45610",
-    "date": "2026-09-24",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book68521",
-    "date": "2026-09-24",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book40411",
     "date": "2026-09-24",
     "time": "7:00 AM",
@@ -3593,7 +3571,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
