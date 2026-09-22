@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book57011",
-    "date": "2026-09-24",
-    "time": "9:15 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book44830",
-    "date": "2026-09-24",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57952",
     "date": "2026-09-24",
     "time": "9:30 AM",
