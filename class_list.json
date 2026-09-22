@@ -1415,7 +1415,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 35
   },
   {
@@ -3296,7 +3296,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -3593,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -3736,7 +3736,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -3791,7 +3791,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -3879,7 +3879,7 @@
     "class_type": "Creche",
     "instructor": "Medina Sadiki",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -3901,7 +3901,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -3912,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
