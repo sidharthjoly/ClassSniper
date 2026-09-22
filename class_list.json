@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41924",
-    "date": "2026-09-24",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
     "booking_id": "105book56021",
     "date": "2026-09-24",
     "time": "11:30 AM",
@@ -766,7 +755,7 @@
     "class_type": "Fight Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
