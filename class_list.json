@@ -121,17 +121,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book45662",
-    "date": "2026-09-24",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book63313",
     "date": "2026-09-24",
     "time": "6:00 AM",
@@ -349,17 +338,6 @@
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 3,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book45610",
-    "date": "2026-09-24",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -605,17 +583,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book45818",
-    "date": "2026-09-24",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book38686",
     "date": "2026-09-24",
     "time": "7:30 AM",
@@ -814,17 +781,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book62375",
-    "date": "2026-09-24",
-    "time": "8:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "107book65834",
     "date": "2026-09-24",
     "time": "8:15 AM",
@@ -965,17 +921,6 @@
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
     "remaining_spots": 18,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book70553",
-    "date": "2026-09-24",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -1174,17 +1119,6 @@
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
     "remaining_spots": 16,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book70393",
-    "date": "2026-09-24",
-    "time": "10:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -2871,17 +2805,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book71224",
-    "date": "2026-09-25",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45176",
     "date": "2026-09-25",
     "time": "6:00 AM",
@@ -2946,17 +2869,6 @@
     "location": "Merrylands",
     "remaining_spots": 31,
     "capacity": 34
-  },
-  {
-    "booking_id": "106book72022",
-    "date": "2026-09-25",
-    "time": "6:00 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
   },
   {
     "booking_id": "104book40780",
@@ -3175,17 +3087,6 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book47277",
-    "date": "2026-09-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
     "remaining_spots": 17,
     "capacity": 22
   },
@@ -3351,7 +3252,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -3418,17 +3319,6 @@
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
     "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book47745",
-    "date": "2026-09-25",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -3637,17 +3527,6 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book72127",
-    "date": "2026-09-25",
-    "time": "8:15 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 22
   },
@@ -3791,17 +3670,6 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book47693",
-    "date": "2026-09-25",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 22
   },
@@ -3905,17 +3773,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "101book79214",
-    "date": "2026-09-25",
-    "time": "9:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book67880",
     "date": "2026-09-25",
     "time": "9:45 AM",
@@ -4002,17 +3859,6 @@
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 15
-  },
-  {
-    "booking_id": "106book48405",
-    "date": "2026-09-25",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
   },
   {
     "booking_id": "106book47537",
@@ -4121,17 +3967,6 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book70665",
-    "date": "2026-09-25",
-    "time": "10:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
   },
@@ -4178,17 +4013,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book48457",
-    "date": "2026-09-25",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
   },
   {
     "booking_id": "106book24059",
@@ -4376,17 +4200,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book48561",
-    "date": "2026-09-25",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "106book24186",
@@ -4598,17 +4411,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book47949",
-    "date": "2026-09-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 21
-  },
-  {
     "booking_id": "104book40884",
     "date": "2026-09-25",
     "time": "1:00 PM",
@@ -4717,17 +4519,6 @@
     "location": "Marrickville",
     "remaining_spots": 9,
     "capacity": 15
-  },
-  {
-    "booking_id": "106book47845",
-    "date": "2026-09-25",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "106book47845",
@@ -4917,17 +4708,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book71868",
-    "date": "2026-09-25",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
     "booking_id": "107book53352",
     "date": "2026-09-25",
     "time": "4:30 PM",
@@ -5024,17 +4804,6 @@
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
     "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book71973",
-    "date": "2026-09-25",
-    "time": "5:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 22
   },
   {
@@ -5179,17 +4948,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book72478",
-    "date": "2026-09-25",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
   },
   {
     "booking_id": "106book72478",
@@ -6479,17 +6237,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "106book56815",
-    "date": "2026-09-26",
-    "time": "11:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book23799",
     "date": "2026-09-26",
     "time": "11:00 AM",
@@ -7223,17 +6970,6 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book73720",
-    "date": "2026-09-27",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
   },
@@ -7392,17 +7128,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book73459",
-    "date": "2026-09-27",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book30836",
     "date": "2026-09-27",
     "time": "10:10 AM",
@@ -7420,17 +7145,6 @@
     "name": "Beatbox",
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book64348",
-    "date": "2026-09-27",
-    "time": "10:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -7557,17 +7271,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book73877",
-    "date": "2026-09-27",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book82497",
     "date": "2026-09-27",
     "time": "11:15 AM",
@@ -7642,17 +7345,6 @@
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book73668",
-    "date": "2026-09-27",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
     "capacity": 18
   },
   {
@@ -11220,17 +10912,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book64154",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book51974",
     "date": "2026-09-29",
     "time": "7:15 AM",
@@ -13692,17 +13373,6 @@
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
     "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book64652",
-    "date": "2026-09-30",
-    "time": "6:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -16379,17 +16049,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book45663",
-    "date": "2026-10-01",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book51107",
     "date": "2026-10-01",
     "time": "6:00 AM",
@@ -16586,17 +16245,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "106book45611",
-    "date": "2026-10-01",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book45611",
@@ -16841,17 +16489,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book45819",
-    "date": "2026-10-01",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book38687",
     "date": "2026-10-01",
     "time": "7:30 AM",
@@ -17039,17 +16676,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book62376",
-    "date": "2026-10-01",
-    "time": "8:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "107book65835",
     "date": "2026-10-01",
     "time": "8:15 AM",
@@ -17180,17 +16806,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book70554",
-    "date": "2026-10-01",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book23809",
@@ -17389,17 +17004,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "106book70394",
-    "date": "2026-10-01",
-    "time": "10:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book23936",
@@ -19052,17 +18656,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book71225",
-    "date": "2026-10-02",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44812",
     "date": "2026-10-02",
     "time": "6:00 AM",
@@ -19105,17 +18698,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "106book72023",
-    "date": "2026-10-02",
-    "time": "6:00 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book72023",
@@ -19336,17 +18918,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "106book47278",
-    "date": "2026-10-02",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book47278",
@@ -19602,17 +19173,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book47746",
-    "date": "2026-10-02",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book39891",
     "date": "2026-10-02",
     "time": "7:30 AM",
@@ -19822,17 +19382,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book72128",
-    "date": "2026-10-02",
-    "time": "8:15 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "107book53408",
     "date": "2026-10-02",
     "time": "8:15 AM",
@@ -19965,17 +19514,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "106book47694",
-    "date": "2026-10-02",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book23283",
     "date": "2026-10-02",
     "time": "9:00 AM",
@@ -20075,17 +19613,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book79215",
-    "date": "2026-10-02",
-    "time": "9:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book67363",
     "date": "2026-10-02",
     "time": "9:45 AM",
@@ -20172,17 +19699,6 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "106book48406",
-    "date": "2026-10-02",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book48406",
@@ -20295,17 +19811,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book70666",
-    "date": "2026-10-02",
-    "time": "10:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book59598",
     "date": "2026-10-02",
     "time": "10:45 AM",
@@ -20348,17 +19853,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book48458",
-    "date": "2026-10-02",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "106book48458",
@@ -20524,17 +20018,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "106book48562",
-    "date": "2026-10-02",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "106book48562",
@@ -20757,17 +20240,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book47950",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "104book40885",
     "date": "2026-10-02",
     "time": "1:00 PM",
@@ -20878,17 +20350,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book47846",
-    "date": "2026-10-02",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "101book70968",
     "date": "2026-10-02",
     "time": "2:00 PM",
@@ -20942,17 +20403,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book70103",
-    "date": "2026-10-02",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
   },
   {
     "booking_id": "101book70103",
@@ -21087,17 +20537,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "106book71869",
-    "date": "2026-10-02",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book70156",
     "date": "2026-10-02",
     "time": "4:45 PM",
@@ -21184,17 +20623,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "106book71974",
-    "date": "2026-10-02",
-    "time": "5:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book71974",
@@ -21349,17 +20777,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book72479",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book72479",
