@@ -304,7 +304,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -502,7 +502,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -4528,7 +4528,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
