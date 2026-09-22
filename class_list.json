@@ -799,7 +799,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1646,7 +1646,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -13893,12 +13893,12 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book40256",
+    "booking_id": "105book69814",
     "date": "2026-09-30",
     "time": "8:30 AM",
-    "name": "BodySculpt",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -19499,7 +19499,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 23,
     "capacity": 23
   },
   {
@@ -19794,7 +19794,7 @@
     "time": "11:00 AM",
     "name": "Infrared Yoga",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Victoire de Polignac",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -19981,7 +19981,7 @@
     "time": "12:00 PM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Victoire de Polignac",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -20179,7 +20179,7 @@
     "time": "1:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Katie Jay",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -20410,7 +20410,7 @@
     "time": "4:15 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -20575,7 +20575,7 @@
     "time": "5:15 PM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -20762,7 +20762,7 @@
     "time": "6:15 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
