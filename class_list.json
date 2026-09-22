@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book59890",
-    "date": "2026-09-23",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Shane Collard",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book70038",
-    "date": "2026-09-23",
-    "time": "7:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book49632",
-    "date": "2026-09-23",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67291",
-    "date": "2026-09-23",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book54781",
     "date": "2026-09-23",
     "time": "7:30 PM",
@@ -1701,7 +1657,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3637,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -4385,7 +4341,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
@@ -4539,7 +4495,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -4583,7 +4539,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 23
   },
   {
