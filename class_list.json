@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book57952",
-    "date": "2026-09-24",
-    "time": "9:30 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "104book38475",
-    "date": "2026-09-24",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book77885",
-    "date": "2026-09-24",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book56959",
     "date": "2026-09-24",
     "time": "9:45 AM",
