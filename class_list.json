@@ -1140,7 +1140,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 36
   },
   {
@@ -2794,17 +2794,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "104book42009",
-    "date": "2026-09-26",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book53721",
     "date": "2026-09-26",
     "time": "7:00 AM",
@@ -3045,17 +3034,6 @@
     "location": "Newtown",
     "remaining_spots": 0,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book41956",
-    "date": "2026-09-26",
-    "time": "8:00 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book53614",
@@ -3399,17 +3377,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book41798",
-    "date": "2026-09-26",
-    "time": "9:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book68609",
     "date": "2026-09-26",
     "time": "9:15 AM",
@@ -3672,17 +3639,6 @@
     "location": "Haymarket",
     "remaining_spots": 28,
     "capacity": 35
-  },
-  {
-    "booking_id": "104book41693",
-    "date": "2026-09-26",
-    "time": "10:15 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book53874",
