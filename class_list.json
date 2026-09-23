@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41767",
-    "date": "2026-09-24",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book77862",
     "date": "2026-09-25",
     "time": "5:00 AM",
@@ -2878,7 +2867,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -3263,7 +3252,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
