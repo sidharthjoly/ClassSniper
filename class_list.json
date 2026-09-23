@@ -1085,7 +1085,7 @@
     "class_type": "Creche",
     "instructor": "Mya Arrones",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 4
   },
   {
@@ -1613,7 +1613,7 @@
     "class_type": "Creche",
     "instructor": "Mya Arrones",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
@@ -2141,7 +2141,7 @@
     "class_type": "Fight Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 31
   },
   {
