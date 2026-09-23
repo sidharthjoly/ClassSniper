@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59597",
-    "date": "2026-09-25",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book41001",
     "date": "2026-09-25",
     "time": "11:00 AM",
