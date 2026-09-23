@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book44029",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book55946",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book59961",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book40203",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 12,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book53064",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book42078",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 34,
-    "capacity": 40
-  },
-  {
     "booking_id": "106book47949",
     "date": "2026-09-25",
     "time": "1:00 PM",
@@ -436,7 +370,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 23
   },
   {
@@ -1492,7 +1426,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 40
   },
   {
