@@ -469,7 +469,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 35
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -1019,7 +1019,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -1195,7 +1195,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -3021,7 +3021,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 22
   },
   {
@@ -3538,7 +3538,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 22
   },
   {
@@ -3712,7 +3712,7 @@
     "time": "1:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
+    "instructor": "Sunil Tailor",
     "location": "North Sydney",
     "remaining_spots": 23,
     "capacity": 30
@@ -3789,7 +3789,7 @@
     "time": "2:00 PM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
+    "instructor": "Sunil Tailor",
     "location": "North Sydney",
     "remaining_spots": 26,
     "capacity": 30
