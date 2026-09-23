@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book46148",
-    "date": "2026-09-25",
-    "time": "6:45 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book47277",
-    "date": "2026-09-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 12,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book71436",
-    "date": "2026-09-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44343",
     "date": "2026-09-25",
     "time": "7:00 AM",
