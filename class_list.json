@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book55675",
-    "date": "2026-09-24",
-    "time": "6:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book73129",
-    "date": "2026-09-24",
-    "time": "6:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book52080",
-    "date": "2026-09-24",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book34442",
     "date": "2026-09-24",
     "time": "7:00 PM",
@@ -1041,7 +1008,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 18
   },
   {
@@ -1580,7 +1547,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 36
   },
   {
@@ -3384,7 +3351,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
