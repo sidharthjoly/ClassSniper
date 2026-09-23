@@ -645,7 +645,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 35
   },
   {
@@ -997,7 +997,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 35
   },
   {
@@ -2251,7 +2251,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
