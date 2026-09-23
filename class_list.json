@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book42479",
-    "date": "2026-09-24",
-    "time": "5:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book54516",
-    "date": "2026-09-24",
-    "time": "5:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book42685",
     "date": "2026-09-24",
     "time": "6:00 PM",
@@ -3527,7 +3505,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 36
   },
   {
