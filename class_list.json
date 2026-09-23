@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book57622",
-    "date": "2026-09-25",
-    "time": "9:15 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Viola Jokudu",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book60536",
     "date": "2026-09-25",
     "time": "9:30 AM",
