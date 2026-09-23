@@ -447,7 +447,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill, James Wood",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3010,7 +3010,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kate Vose",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -13816,17 +13816,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "103book71268",
-    "date": "2026-10-01",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Zoe Downing",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 26
-  },
-  {
     "booking_id": "106book59415",
     "date": "2026-10-01",
     "time": "8:00 AM",
@@ -18320,7 +18309,7 @@
     "time": "7:00 AM",
     "name": "Blackout",
     "class_type": "Spin Series",
-    "instructor": "Andrew Lloyd",
+    "instructor": "Evie Bird",
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
@@ -18639,7 +18628,7 @@
     "time": "8:00 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -19068,7 +19057,7 @@
     "time": "9:30 AM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
