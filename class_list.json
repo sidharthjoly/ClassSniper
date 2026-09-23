@@ -557,7 +557,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 40
   },
   {
@@ -1800,7 +1800,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
@@ -3153,7 +3153,7 @@
     "class_type": "Spin Series",
     "instructor": "Andrew Lloyd",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3186,7 +3186,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
@@ -3527,7 +3527,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
@@ -3835,7 +3835,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3923,7 +3923,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 34
   },
   {
@@ -3934,7 +3934,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 38
   },
   {
@@ -3956,7 +3956,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
@@ -4077,7 +4077,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
