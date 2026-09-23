@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68026",
-    "date": "2026-09-24",
-    "time": "4:15 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book58268",
     "date": "2026-09-24",
     "time": "4:30 PM",
@@ -3824,7 +3813,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -3956,7 +3945,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
@@ -3967,7 +3956,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 38
   },
   {
@@ -4143,7 +4132,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 28
   },
   {
@@ -4154,7 +4143,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
