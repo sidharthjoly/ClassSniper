@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41976",
-    "date": "2026-09-24",
-    "time": "4:10 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Becki Baldwin",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book68026",
     "date": "2026-09-24",
     "time": "4:15 PM",
@@ -623,7 +612,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 18
   },
   {
@@ -2889,7 +2878,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 22
   },
   {
@@ -2977,7 +2966,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Alyssa Liem",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3692,7 +3681,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 38
   },
   {
@@ -3780,7 +3769,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
