@@ -117,7 +117,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -821,7 +821,7 @@
     "class_type": "Reformer Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -2702,7 +2702,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
