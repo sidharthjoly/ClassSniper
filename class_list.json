@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book70155",
-    "date": "2026-09-25",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45228",
     "date": "2026-09-25",
     "time": "5:00 PM",
@@ -2009,7 +1998,7 @@
     "class_type": "Harmony Series",
     "instructor": "Marie de Bella",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
@@ -2240,7 +2229,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -2394,7 +2383,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
