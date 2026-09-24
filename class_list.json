@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book61287",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "George Hoad",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book59025",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Reggaeton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book73892",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book34972",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book53509",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 7,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book86012",
-    "date": "2026-09-25",
-    "time": "5:30 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book80359",
     "date": "2026-09-25",
     "time": "5:45 PM",
@@ -359,7 +293,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -2152,7 +2086,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 34
   },
   {
@@ -2394,7 +2328,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
