@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book46514",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book46070",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book76937",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "One Run Merrylands",
-    "class_type": "One Run",
-    "instructor": "Matty Mccormick",
-    "location": "Merrylands",
-    "remaining_spots": 48,
-    "capacity": 50
-  },
-  {
-    "booking_id": "107book55253",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Ellie Chan",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book42177",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 28,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book72340",
-    "date": "2026-09-26",
-    "time": "7:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45854",
     "date": "2026-09-26",
     "time": "8:00 AM",
@@ -1437,7 +1371,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
