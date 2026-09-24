@@ -11187,10 +11187,10 @@
     "capacity": 26
   },
   {
-    "booking_id": "106book79006",
+    "booking_id": "106book80100",
     "date": "2026-10-01",
     "time": "7:00 AM",
-    "name": "Lower Build",
+    "name": "Upper Build",
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
@@ -11451,17 +11451,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "106book59415",
-    "date": "2026-10-01",
-    "time": "8:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
-  },
-  {
     "booking_id": "106book71309",
     "date": "2026-10-01",
     "time": "8:00 AM",
@@ -11471,6 +11460,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book80420",
+    "date": "2026-10-01",
+    "time": "8:00 AM",
+    "name": "Lower Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Charbel Tasipale",
+    "location": "Merrylands",
+    "remaining_spots": 33,
+    "capacity": 33
   },
   {
     "booking_id": "104book39475",
@@ -15510,17 +15510,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "106book79004",
-    "date": "2026-10-02",
-    "time": "5:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
-  },
-  {
     "booking_id": "104book40099",
     "date": "2026-10-02",
     "time": "5:00 PM",
@@ -15664,17 +15653,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book86013",
-    "date": "2026-10-02",
-    "time": "5:30 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book80360",
     "date": "2026-10-02",
     "time": "5:45 PM",
@@ -15728,17 +15706,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "106book78733",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
   },
   {
     "booking_id": "104book39993",
@@ -15827,17 +15794,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "107book86110",
-    "date": "2026-10-02",
-    "time": "6:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book60802",
