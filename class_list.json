@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book71804",
-    "date": "2026-09-25",
-    "time": "7:15 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Sobia Salim",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book45802",
     "date": "2026-09-26",
     "time": "7:00 AM",
@@ -1470,7 +1459,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
