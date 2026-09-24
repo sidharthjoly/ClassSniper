@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book46174",
-    "date": "2026-09-26",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book81980",
-    "date": "2026-09-26",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 32,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book80691",
-    "date": "2026-09-26",
-    "time": "11:30 AM",
-    "name": "Burlesque (Heels Optional)",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 4,
-    "capacity": 23
-  },
-  {
-    "booking_id": "106book50012",
-    "date": "2026-09-26",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book73352",
-    "date": "2026-09-26",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book49700",
     "date": "2026-09-26",
     "time": "11:45 AM",
@@ -1206,7 +1151,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
