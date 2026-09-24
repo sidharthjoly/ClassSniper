@@ -425,7 +425,7 @@
     "class_type": "Barre Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -799,7 +799,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2053,7 +2053,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 36
   },
   {
@@ -2317,7 +2317,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -6935,7 +6935,7 @@
     "time": "2:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Zennah Chaudri",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -6968,7 +6968,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -7056,7 +7056,7 @@
     "time": "4:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -8536,17 +8536,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book64564",
-    "date": "2026-09-30",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
-  },
-  {
     "booking_id": "106book69774",
     "date": "2026-09-30",
     "time": "7:15 AM",
@@ -9845,17 +9834,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book65420",
-    "date": "2026-09-30",
-    "time": "4:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "101book66307",
     "date": "2026-09-30",
     "time": "4:00 PM",
@@ -10224,7 +10202,7 @@
     "time": "5:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 22,
     "capacity": 24
@@ -10769,12 +10747,12 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book66182",
+    "booking_id": "105book70091",
     "date": "2026-09-30",
     "time": "7:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana, Simon Corfield",
+    "instructor": "Simon Corfield",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -13568,7 +13546,7 @@
     "time": "5:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -13755,7 +13733,7 @@
     "time": "6:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14008,7 +13986,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14272,7 +14250,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14514,7 +14492,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Danielle Panayi",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -15213,17 +15191,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book81409",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book71074",
     "date": "2026-10-02",
     "time": "1:00 PM",
@@ -15240,7 +15207,7 @@
     "time": "1:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
+    "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -15321,17 +15288,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "101book70968",
-    "date": "2026-10-02",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
   },
   {
     "booking_id": "107book97494",
@@ -15642,17 +15598,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book70341",
-    "date": "2026-10-02",
-    "time": "5:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Surry Hills",
-    "remaining_spots": 26,
-    "capacity": 26
-  },
-  {
     "booking_id": "101book71127",
     "date": "2026-10-02",
     "time": "5:15 PM",
@@ -15838,17 +15783,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "101book70553",
-    "date": "2026-10-02",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Surry Hills",
-    "remaining_spots": 26,
-    "capacity": 26
   },
   {
     "booking_id": "101book69789",
@@ -16065,7 +15999,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
@@ -16340,21 +16274,10 @@
     "time": "8:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "106book65262",
-    "date": "2026-10-03",
-    "time": "8:30 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "106book72794",
@@ -16384,7 +16307,7 @@
     "time": "8:30 AM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Allegra Sadnick",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -16498,6 +16421,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "106book80313",
+    "date": "2026-10-03",
+    "time": "9:00 AM",
+    "name": "Legacy",
+    "class_type": "Fight Series",
+    "instructor": "Noor Yaghi",
+    "location": "Merrylands",
+    "remaining_spots": 31,
+    "capacity": 31
   },
   {
     "booking_id": "106book24243",
@@ -16648,21 +16582,10 @@
     "time": "9:30 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "106book65368",
-    "date": "2026-10-03",
-    "time": "9:30 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "106book73099",
@@ -16692,7 +16615,7 @@
     "time": "9:30 AM",
     "name": "Squad",
     "class_type": "Spin Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Allegra Sadnick",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -16923,7 +16846,7 @@
     "time": "10:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
