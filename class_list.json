@@ -1529,17 +1529,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book88518",
-    "date": "2026-09-26",
-    "time": "3:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "107book72092",
     "date": "2026-09-26",
     "time": "4:00 PM",
@@ -1549,17 +1538,6 @@
     "location": "North Sydney",
     "remaining_spots": 8,
     "capacity": 30
-  },
-  {
-    "booking_id": "101book88517",
-    "date": "2026-09-26",
-    "time": "4:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "101book72879",
@@ -2251,7 +2229,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 25
   },
   {
@@ -2328,7 +2306,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -2339,7 +2317,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
