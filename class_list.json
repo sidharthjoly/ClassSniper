@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book44863",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book40728",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book39734",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book80044",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book71020",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book58320",
     "date": "2026-09-25",
     "time": "4:15 PM",
@@ -667,7 +612,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 38
   },
   {
@@ -1664,7 +1609,7 @@
     "booking_id": "105book46174",
     "date": "2026-09-26",
     "time": "11:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
@@ -1919,7 +1864,7 @@
     "time": "1:30 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Elizabeth Chun",
     "location": "Haymarket",
     "remaining_spots": 11,
     "capacity": 24
@@ -2086,7 +2031,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kayla Job",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -2416,7 +2361,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -2427,7 +2372,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
