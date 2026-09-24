@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book60277",
-    "date": "2026-09-25",
-    "time": "4:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book71868",
-    "date": "2026-09-25",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book53352",
-    "date": "2026-09-25",
-    "time": "4:30 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book70155",
     "date": "2026-09-25",
     "time": "4:45 PM",
@@ -1965,7 +1932,7 @@
     "class_type": "Yoga Series",
     "instructor": "Chanel Leaudais",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 36
   },
   {
@@ -2317,7 +2284,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kayla Job",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 20,
     "capacity": 32
   },
   {
@@ -2328,7 +2295,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -2460,7 +2427,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
