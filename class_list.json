@@ -348,7 +348,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 35
   },
   {
@@ -832,7 +832,7 @@
     "class_type": "Yoga Series",
     "instructor": "Victoire de Polignac",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 34
   },
   {
@@ -1041,7 +1041,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 17,
     "capacity": 21
   },
   {
@@ -1536,7 +1536,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
