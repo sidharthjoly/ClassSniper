@@ -1580,7 +1580,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -1767,7 +1767,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 32
   },
   {
@@ -2042,7 +2042,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -2218,7 +2218,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 28
   },
   {
@@ -2251,7 +2251,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
@@ -2647,7 +2647,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -6011,7 +6011,7 @@
     "time": "6:15 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
+    "instructor": "Benjamin Young",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -6253,7 +6253,7 @@
     "time": "7:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
+    "instructor": "Benjamin Young",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -11363,15 +11363,15 @@
     "capacity": 24
   },
   {
-    "booking_id": "106book54517",
+    "booking_id": "106book80624",
     "date": "2026-10-01",
     "time": "5:45 PM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 23
+    "remaining_spots": 0,
+    "capacity": 22
   },
   {
     "booking_id": "105book34192",
@@ -12903,15 +12903,15 @@
     "capacity": 26
   },
   {
-    "booking_id": "101book79215",
+    "booking_id": "101book92011",
     "date": "2026-10-02",
     "time": "9:30 AM",
-    "name": "BodySculpt",
+    "name": "Infrared Pilates",
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "101book77252",
@@ -14283,7 +14283,7 @@
     "time": "7:00 AM",
     "name": "Unity",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Honor Mills",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14536,7 +14536,7 @@
     "time": "8:00 AM",
     "name": "Unity",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Honor Mills",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -16164,7 +16164,7 @@
     "time": "10:15 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
+    "instructor": "Chanel Leaudais",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -16263,7 +16263,7 @@
     "time": "11:15 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
+    "instructor": "Chanel Leaudais",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -16472,7 +16472,7 @@
     "time": "3:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
+    "instructor": "Chanel Leaudais",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -16516,7 +16516,7 @@
     "time": "4:00 PM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
+    "instructor": "Chanel Leaudais",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
