@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book65875",
-    "date": "2026-09-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43739",
-    "date": "2026-09-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book74087",
-    "date": "2026-09-27",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
     "booking_id": "103book68720",
     "date": "2026-09-27",
     "time": "1:00 PM",
@@ -2966,7 +2933,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -3307,7 +3274,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
