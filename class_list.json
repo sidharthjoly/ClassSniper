@@ -293,7 +293,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "North Sydney",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 40
   },
   {
@@ -865,7 +865,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 32
   },
   {
@@ -3318,7 +3318,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
