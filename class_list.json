@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book46987",
-    "date": "2026-09-27",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book66077",
-    "date": "2026-09-27",
-    "time": "11:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43531",
-    "date": "2026-09-27",
-    "time": "11:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book68667",
     "date": "2026-09-27",
     "time": "12:00 PM",
