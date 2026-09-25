@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book46621",
-    "date": "2026-09-27",
-    "time": "8:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "106book73308",
-    "date": "2026-09-27",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book43478",
-    "date": "2026-09-27",
-    "time": "8:00 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book73825",
-    "date": "2026-09-27",
-    "time": "8:00 AM",
-    "name": "Meditation Soundscape",
-    "class_type": "Harmony Series",
-    "instructor": "Marie de Bella",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book30764",
     "date": "2026-09-27",
     "time": "8:10 AM",
