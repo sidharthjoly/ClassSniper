@@ -2383,7 +2383,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -2922,7 +2922,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -7419,7 +7419,7 @@
     "time": "9:45 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Vanessa Liu",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7584,7 +7584,7 @@
     "time": "10:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Vanessa Liu",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7716,7 +7716,7 @@
     "time": "11:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Vanessa Liu",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -11370,7 +11370,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Merrylands",
-    "remaining_spots": 0,
+    "remaining_spots": 22,
     "capacity": 22
   },
   {
@@ -16544,6 +16544,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "107book100424",
+    "date": "2026-10-05",
+    "time": "5:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "103book77224",
     "date": "2026-10-05",
     "time": "6:00 AM",
@@ -16575,6 +16586,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "107book99997",
+    "date": "2026-10-05",
+    "time": "6:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "105book35662",
@@ -16663,6 +16685,17 @@
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
+  },
+  {
+    "booking_id": "107book100425",
+    "date": "2026-10-05",
+    "time": "7:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "106book67210",
@@ -16786,6 +16819,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "107book99998",
+    "date": "2026-10-05",
+    "time": "8:00 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book61260",
     "date": "2026-10-05",
     "time": "8:15 AM",
@@ -16863,6 +16907,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book100426",
+    "date": "2026-10-05",
+    "time": "9:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sara Craighead",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book59887",
     "date": "2026-10-05",
     "time": "9:00 AM",
@@ -16894,6 +16949,17 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "107book100427",
+    "date": "2026-10-05",
+    "time": "9:45 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book60152",
@@ -16960,6 +17026,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book99999",
+    "date": "2026-10-05",
+    "time": "10:30 AM",
+    "name": "Reformer: Origins",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book60046",
@@ -17061,6 +17138,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "107book100000",
+    "date": "2026-10-05",
+    "time": "11:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book60257",
     "date": "2026-10-05",
     "time": "11:30 AM",
@@ -17125,6 +17213,17 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
+  },
+  {
+    "booking_id": "107book100428",
+    "date": "2026-10-05",
+    "time": "12:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book59079",
@@ -17204,6 +17303,17 @@
     "capacity": 38
   },
   {
+    "booking_id": "107book100601",
+    "date": "2026-10-05",
+    "time": "1:15 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Neave Welch",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book58868",
     "date": "2026-10-05",
     "time": "1:15 PM",
@@ -17237,6 +17347,28 @@
     "capacity": 22
   },
   {
+    "booking_id": "107book100602",
+    "date": "2026-10-05",
+    "time": "2:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "107book100603",
+    "date": "2026-10-05",
+    "time": "3:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "104book34181",
     "date": "2026-10-05",
     "time": "4:00 PM",
@@ -17246,6 +17378,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book100429",
+    "date": "2026-10-05",
+    "time": "4:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "101book59388",
@@ -17314,6 +17457,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book100604",
+    "date": "2026-10-05",
+    "time": "5:00 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "104book33810",
     "date": "2026-10-05",
     "time": "5:15 PM",
@@ -17376,6 +17530,17 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "107book100430",
+    "date": "2026-10-05",
+    "time": "5:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -17457,6 +17622,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "107book100605",
+    "date": "2026-10-05",
+    "time": "6:30 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "103book67234",
     "date": "2026-10-05",
     "time": "6:45 PM",
@@ -17499,5 +17675,16 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "107book100606",
+    "date": "2026-10-05",
+    "time": "7:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   }
 ]
