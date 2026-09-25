@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book72092",
-    "date": "2026-09-26",
-    "time": "4:00 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book72879",
     "date": "2026-09-26",
     "time": "4:30 PM",
@@ -51,7 +40,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kayla Job",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 32
   },
   {
@@ -1932,7 +1921,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 4,
     "capacity": 8
   },
   {
@@ -1976,7 +1965,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
