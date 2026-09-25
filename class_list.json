@@ -304,7 +304,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
@@ -836,17 +836,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "106book56569",
-    "date": "2026-09-28",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book38579",
     "date": "2026-09-28",
     "time": "5:45 AM",
@@ -1076,17 +1065,6 @@
     "location": "Haymarket",
     "remaining_spots": 27,
     "capacity": 30
-  },
-  {
-    "booking_id": "106book57026",
-    "date": "2026-09-28",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "104book33916",
@@ -1331,17 +1309,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book67209",
-    "date": "2026-09-28",
-    "time": "7:15 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book59026",
     "date": "2026-09-28",
     "time": "7:15 AM",
@@ -1485,17 +1452,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "106book67314",
-    "date": "2026-09-28",
-    "time": "8:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book34390",
     "date": "2026-09-28",
     "time": "8:00 AM",
@@ -1626,17 +1582,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 30
-  },
-  {
-    "booking_id": "106book67179",
-    "date": "2026-09-28",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "105book37318",
@@ -2405,7 +2350,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
