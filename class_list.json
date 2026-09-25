@@ -546,7 +546,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -1811,7 +1811,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
