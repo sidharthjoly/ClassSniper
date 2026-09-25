@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book73920",
-    "date": "2026-09-27",
-    "time": "9:40 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 26
-  },
-  {
     "booking_id": "101book74244",
     "date": "2026-09-27",
     "time": "9:45 AM",
