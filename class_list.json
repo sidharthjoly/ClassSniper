@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book48892",
-    "date": "2026-09-28",
-    "time": "7:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book59026",
-    "date": "2026-09-28",
-    "time": "7:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book32187",
     "date": "2026-09-28",
     "time": "7:30 AM",
@@ -4253,7 +4231,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 32
   },
   {
