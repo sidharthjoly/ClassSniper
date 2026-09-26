@@ -4605,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -4660,7 +4660,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 35
   },
   {
@@ -5896,6 +5896,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "105book70687",
+    "date": "2026-09-30",
+    "time": "7:15 AM",
+    "name": "Beatbox",
+    "class_type": "Spin Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Haymarket",
+    "remaining_spots": 35,
+    "capacity": 35
+  },
+  {
     "booking_id": "103book54996",
     "date": "2026-09-30",
     "time": "7:15 AM",
@@ -6136,6 +6147,17 @@
     "location": "North Sydney",
     "remaining_spots": 23,
     "capacity": 24
+  },
+  {
+    "booking_id": "105book70792",
+    "date": "2026-09-30",
+    "time": "8:15 AM",
+    "name": "Beatbox",
+    "class_type": "Spin Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Haymarket",
+    "remaining_spots": 35,
+    "capacity": 35
   },
   {
     "booking_id": "103book54681",
