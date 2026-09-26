@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book62946",
-    "date": "2026-09-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book72719",
-    "date": "2026-09-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book58961",
-    "date": "2026-09-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60256",
-    "date": "2026-09-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book37564",
     "date": "2026-09-28",
     "time": "12:00 PM",
