@@ -1107,7 +1107,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -3608,17 +3608,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book64459",
-    "date": "2026-09-29",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
-  },
-  {
     "booking_id": "104book35549",
     "date": "2026-09-29",
     "time": "5:15 PM",
@@ -3881,17 +3870,6 @@
     "location": "Haymarket",
     "remaining_spots": 5,
     "capacity": 35
-  },
-  {
-    "booking_id": "106book64347",
-    "date": "2026-09-29",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "106book41037",
@@ -4297,7 +4275,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
