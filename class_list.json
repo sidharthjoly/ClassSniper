@@ -2284,7 +2284,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 25
   },
   {
@@ -2328,7 +2328,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 28
   },
   {
@@ -3736,7 +3736,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
@@ -3835,7 +3835,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
