@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book47776",
-    "date": "2026-09-28",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 37,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book59807",
-    "date": "2026-09-28",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book94844",
-    "date": "2026-09-28",
-    "time": "1:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book58867",
-    "date": "2026-09-28",
-    "time": "1:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book36639",
     "date": "2026-09-28",
     "time": "1:30 PM",
@@ -4396,7 +4352,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Taniesha Walker",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
@@ -4407,7 +4363,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -4572,7 +4528,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
