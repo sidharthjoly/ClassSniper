@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book35765",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
-  },
-  {
-    "booking_id": "104book33756",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book90803",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "North Sydney",
-    "remaining_spots": 36,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book57149",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book59701",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book60098",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book59078",
-    "date": "2026-09-28",
-    "time": "12:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book36798",
     "date": "2026-09-28",
     "time": "12:30 PM",
@@ -2394,7 +2317,7 @@
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 34
   },
   {
@@ -2471,7 +2394,7 @@
     "class_type": "Creche",
     "instructor": "Shova Rana",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 8
   },
   {
@@ -3197,7 +3120,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 32
   },
   {
@@ -3769,7 +3692,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 28
   },
   {
@@ -4154,7 +4077,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4418,7 +4341,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
