@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book49568",
-    "date": "2026-09-28",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book49724",
     "date": "2026-09-28",
     "time": "11:00 AM",
