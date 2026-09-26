@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book66904",
-    "date": "2026-09-28",
-    "time": "8:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book61259",
-    "date": "2026-09-28",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "104book34703",
     "date": "2026-09-28",
     "time": "8:30 AM",
