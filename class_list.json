@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book59438",
-    "date": "2026-09-28",
-    "time": "8:40 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book37318",
     "date": "2026-09-28",
     "time": "9:00 AM",
