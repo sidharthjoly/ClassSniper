@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book48840",
-    "date": "2026-09-28",
-    "time": "8:10 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book66904",
     "date": "2026-09-28",
     "time": "8:15 AM",
