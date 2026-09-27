@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book31664",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book35609",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book40267",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 11,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book35340",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book48438",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book59655",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book64412",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book75899",
-    "date": "2026-09-29",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book61360",
     "date": "2026-09-29",
     "time": "6:45 AM",
@@ -2218,7 +2130,7 @@
     "class_type": "S&C Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4297,7 +4209,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 32
   },
   {
@@ -4770,7 +4682,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 38
   },
   {
@@ -5056,7 +4968,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -5111,7 +5023,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
