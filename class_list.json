@@ -3164,7 +3164,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elaina Lentini",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -5177,7 +5177,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 35
   },
   {
@@ -5474,7 +5474,7 @@
     "class_type": "Spin Series",
     "instructor": "Shane Collard",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 35
   },
   {
