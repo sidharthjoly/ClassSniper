@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book49758",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book51907",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book64154",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book51974",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book50305",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book64183",
-    "date": "2026-09-29",
-    "time": "7:15 AM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Angela Aho",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book31764",
     "date": "2026-09-29",
     "time": "7:30 AM",
@@ -590,7 +524,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3307,7 +3241,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 26
   },
   {
