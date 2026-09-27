@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book63654",
-    "date": "2026-09-29",
-    "time": "8:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book64887",
-    "date": "2026-09-29",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book68504",
     "date": "2026-09-29",
     "time": "8:45 AM",
@@ -4396,7 +4374,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
