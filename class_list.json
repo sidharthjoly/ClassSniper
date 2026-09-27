@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book49935",
-    "date": "2026-09-29",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book61954",
-    "date": "2026-09-29",
-    "time": "5:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book71422",
-    "date": "2026-09-29",
-    "time": "5:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 33,
-    "capacity": 40
-  },
-  {
     "booking_id": "106book40108",
     "date": "2026-09-29",
     "time": "5:45 AM",
@@ -2306,7 +2273,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
@@ -3076,7 +3043,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -5463,7 +5430,7 @@
     "class_type": "Spin Series",
     "instructor": "Shane Collard",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
