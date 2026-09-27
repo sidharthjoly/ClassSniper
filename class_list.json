@@ -150,7 +150,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -843,7 +843,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
@@ -4671,7 +4671,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -5331,7 +5331,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 40
   },
   {
@@ -9839,7 +9839,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Patrick Fox",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10697,7 +10697,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -10917,7 +10917,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -11258,7 +11258,7 @@
     "time": "9:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -15702,7 +15702,7 @@
     "time": "12:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
+    "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -15834,7 +15834,7 @@
     "time": "1:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
+    "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
