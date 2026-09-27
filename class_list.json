@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book52066",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Barre HIIT",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book51187",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book50142",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book78214",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book63070",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Angela Aho",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book64356",
-    "date": "2026-09-29",
-    "time": "8:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book63654",
     "date": "2026-09-29",
     "time": "8:30 AM",
@@ -4682,7 +4616,7 @@
     "class_type": "Spin Series",
     "instructor": "Shane Collard",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 35
   },
   {
