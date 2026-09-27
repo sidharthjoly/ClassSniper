@@ -1833,7 +1833,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -4869,7 +4869,7 @@
     "class_type": "Spin Series",
     "instructor": "David Mitchell",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
@@ -16280,17 +16280,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "106book64460",
-    "date": "2026-10-06",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
-  },
-  {
     "booking_id": "106book67935",
     "date": "2026-10-06",
     "time": "5:15 PM",
@@ -16575,17 +16564,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "106book64348",
-    "date": "2026-10-06",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "104book35126",
@@ -17501,6 +17479,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "105book70688",
+    "date": "2026-10-07",
+    "time": "7:15 AM",
+    "name": "Beatbox",
+    "class_type": "Spin Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Haymarket",
+    "remaining_spots": 35,
+    "capacity": 35
+  },
+  {
     "booking_id": "103book54997",
     "date": "2026-10-07",
     "time": "7:15 AM",
@@ -17741,6 +17730,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "105book70793",
+    "date": "2026-10-07",
+    "time": "8:15 AM",
+    "name": "Beatbox",
+    "class_type": "Spin Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Haymarket",
+    "remaining_spots": 35,
+    "capacity": 35
   },
   {
     "booking_id": "103book54682",
