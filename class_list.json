@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book93708",
-    "date": "2026-09-29",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 22,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book81199",
-    "date": "2026-09-29",
-    "time": "9:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book38299",
     "date": "2026-09-29",
     "time": "10:00 AM",
