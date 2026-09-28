@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book43248",
-    "date": "2026-09-30",
-    "time": "5:45 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book65990",
     "date": "2026-09-30",
     "time": "5:50 AM",
