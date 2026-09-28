@@ -1,10 +1,15 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-09-29T03:28:24.297262+10:00",
-  "class_count": 1903,
+  "scraped_at": "2026-09-29T03:29:31.630883+10:00",
+  "class_count": 1357,
   "centers_total": 10,
-  "centers_failed": [],
+  "centers_failed": [
+    "Newtown",
+    "Zetland",
+    "Bunker",
+    "Merrylands"
+  ],
   "contract_breaks": {},
   "unmapped_locations": []
 }
