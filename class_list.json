@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51176",
-    "date": "2026-09-30",
-    "time": "8:40 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book63566",
     "date": "2026-09-30",
     "time": "9:00 AM",
@@ -2669,7 +2658,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
