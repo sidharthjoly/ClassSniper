@@ -1558,7 +1558,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -4363,7 +4363,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4440,7 +4440,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 15,
     "capacity": 23
   },
   {
@@ -4495,7 +4495,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
