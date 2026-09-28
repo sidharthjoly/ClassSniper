@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book62908",
-    "date": "2026-09-30",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 9,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66462",
-    "date": "2026-09-30",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41352",
     "date": "2026-09-30",
     "time": "10:00 AM",
