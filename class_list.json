@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book31864",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book52116",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book39157",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book41779",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "North Sydney",
-    "remaining_spots": 28,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book95867",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book61676",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book63492",
-    "date": "2026-09-29",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39070",
     "date": "2026-09-29",
     "time": "6:45 PM",
@@ -2031,7 +1954,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -2075,7 +1998,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 38
   },
   {
@@ -2438,7 +2361,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 34
   },
   {
