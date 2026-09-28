@@ -2559,7 +2559,7 @@
     "class_type": "Harmony Series",
     "instructor": "Daniel Augustine",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -2878,7 +2878,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 22
   },
   {
@@ -4792,7 +4792,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -5582,7 +5582,7 @@
     "time": "6:00 AM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Honor Mills",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -5879,7 +5879,7 @@
     "time": "7:00 AM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Honor Mills",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -6165,7 +6165,7 @@
     "time": "8:00 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Honor Mills",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -6495,7 +6495,7 @@
     "time": "9:30 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Honor Mills",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -6686,17 +6686,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "103book58918",
-    "date": "2026-10-02",
-    "time": "10:30 AM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 26
   },
   {
     "booking_id": "107book67669",
@@ -7837,7 +7826,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -8057,7 +8046,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -8398,7 +8387,7 @@
     "time": "9:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Elizabeth Topfer",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -10142,17 +10131,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book100424",
-    "date": "2026-10-05",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book77224",
     "date": "2026-10-05",
     "time": "6:00 AM",
@@ -10191,7 +10169,7 @@
     "time": "6:15 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10290,7 +10268,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10422,7 +10400,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10510,7 +10488,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Jaclyn Bogdanovic",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10945,28 +10923,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "107book100602",
-    "date": "2026-10-05",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book100603",
-    "date": "2026-10-05",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book34181",
     "date": "2026-10-05",
     "time": "4:00 PM",
@@ -11273,17 +11229,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "107book100606",
-    "date": "2026-10-05",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book39317",
@@ -14107,7 +14052,7 @@
     "time": "5:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14349,7 +14294,7 @@
     "time": "6:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14602,7 +14547,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14866,7 +14811,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -15086,7 +15031,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -19002,7 +18947,7 @@
     "time": "5:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kelly Medina",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -19299,7 +19244,7 @@
     "time": "6:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kelly Medina",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -19453,7 +19398,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
+    "instructor": "Bethany Rumore",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -19574,7 +19519,7 @@
     "time": "7:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Kelly Medina",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -19607,7 +19552,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
+    "instructor": "Bethany Rumore",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
