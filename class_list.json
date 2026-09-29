@@ -2658,7 +2658,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -2823,7 +2823,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -3131,7 +3131,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 33
   },
   {
@@ -7399,7 +7399,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
