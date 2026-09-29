@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book56144",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book56643",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book54782",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book61146",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 10,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book77579",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book67045",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book70091",
     "date": "2026-09-30",
     "time": "7:45 PM",
@@ -2108,7 +2042,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2867,7 +2801,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -3901,7 +3835,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 32
   },
   {
@@ -4035,6 +3969,17 @@
     "location": "Marrickville",
     "remaining_spots": 30,
     "capacity": 36
+  },
+  {
+    "booking_id": "103book85098",
+    "date": "2026-10-02",
+    "time": "10:30 AM",
+    "name": "Pump\u2019d",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Elizabeth Topfer",
+    "location": "Marrickville",
+    "remaining_spots": 26,
+    "capacity": 26
   },
   {
     "booking_id": "107book67669",
@@ -4583,7 +4528,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
