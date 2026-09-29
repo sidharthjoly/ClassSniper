@@ -601,7 +601,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -1866,7 +1866,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 38
   },
   {
@@ -2966,7 +2966,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 34
   },
   {
@@ -3318,7 +3318,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 32
   },
   {
@@ -3417,7 +3417,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 35,
+    "remaining_spots": 32,
     "capacity": 36
   },
   {
@@ -3428,7 +3428,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
