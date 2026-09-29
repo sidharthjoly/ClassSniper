@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68260",
-    "date": "2026-10-01",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41821",
     "date": "2026-10-01",
     "time": "6:00 AM",
@@ -2526,7 +2515,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -4418,7 +4407,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
