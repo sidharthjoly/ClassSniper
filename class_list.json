@@ -117,7 +117,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
@@ -2361,7 +2361,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -2922,7 +2922,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -3109,7 +3109,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
@@ -3384,7 +3384,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -3516,7 +3516,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
