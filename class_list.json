@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book32568",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book54835",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Limitless",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book82916",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Shannon Campradt",
-    "location": "Marrickville",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book42091",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book69984",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amber Yan",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book41777",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book36871",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book42466",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book66939",
-    "date": "2026-09-30",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book41248",
     "date": "2026-09-30",
     "time": "6:45 PM",
@@ -4286,7 +4187,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -4704,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
