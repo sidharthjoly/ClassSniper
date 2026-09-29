@@ -337,7 +337,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -579,7 +579,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 11,
     "capacity": 38
   },
   {
@@ -1932,7 +1932,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -2317,7 +2317,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -4198,7 +4198,7 @@
     "class_type": "Mat Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -4649,7 +4649,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 34
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 34
   },
   {
