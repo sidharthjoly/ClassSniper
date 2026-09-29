@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book64209",
-    "date": "2026-10-01",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58165",
-    "date": "2026-10-01",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book71519",
     "date": "2026-10-01",
     "time": "2:00 PM",
@@ -3450,7 +3428,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -3494,7 +3472,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 18
   },
   {
