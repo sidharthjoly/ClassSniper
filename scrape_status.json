@@ -1,13 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-09-30T01:34:26.329129+10:00",
-  "class_count": 1316,
+  "scraped_at": "2026-09-30T01:36:04.557503+10:00",
+  "class_count": 1818,
   "centers_total": 10,
-  "centers_failed": [
-    "Newtown",
-    "North Sydney"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
