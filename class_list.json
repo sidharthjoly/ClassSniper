@@ -1,126 +1,5 @@
 [
   {
-    "booking_id": "105book34652",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Reggeaton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 9,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book40779",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book55724",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book53466",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book41621",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36612",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book38159",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49169",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book83457",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "BodyBlast",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 27
-  },
-  {
-    "booking_id": "101book64729",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book64622",
-    "date": "2026-09-30",
-    "time": "6:00 PM",
-    "name": "Dynamic Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Ariel Comeau",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book48351",
     "date": "2026-09-30",
     "time": "6:15 PM",
@@ -3263,7 +3142,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -3890,7 +3769,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 23
   },
   {
@@ -4033,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -4110,7 +3989,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -4627,7 +4506,7 @@
     "class_type": "Reformer Series",
     "instructor": "Neave Welch",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -4693,7 +4572,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -4759,7 +4638,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
