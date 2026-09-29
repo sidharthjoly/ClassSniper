@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book71519",
-    "date": "2026-10-01",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39371",
-    "date": "2026-10-01",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book68893",
-    "date": "2026-10-01",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64831",
     "date": "2026-10-01",
     "time": "2:15 PM",
@@ -3406,7 +3373,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -3494,7 +3461,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
@@ -3527,7 +3494,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
@@ -3593,7 +3560,7 @@
     "class_type": "Creche",
     "instructor": "Medina Sadiki",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 5,
     "capacity": 8
   },
   {
@@ -3615,7 +3582,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -3648,7 +3615,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 25,
     "capacity": 34
   },
   {
