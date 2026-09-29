@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book56125",
-    "date": "2026-10-01",
-    "time": "2:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58009",
-    "date": "2026-10-01",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 13,
-    "capacity": 15
-  },
-  {
     "booking_id": "104book39163",
     "date": "2026-10-01",
     "time": "3:00 PM",
@@ -403,7 +381,7 @@
     "class_type": "S&C Series",
     "instructor": "Nathan Newman",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 28
   },
   {
@@ -2207,7 +2185,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -3450,7 +3428,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 32
   },
   {
@@ -3461,7 +3439,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 26
   },
   {
@@ -3604,7 +3582,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 34
   },
   {
@@ -3681,7 +3659,7 @@
     "class_type": "Barre Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 20,
     "capacity": 23
   },
   {
@@ -3703,7 +3681,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
@@ -3714,7 +3692,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
