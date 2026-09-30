@@ -205,7 +205,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 2,
     "capacity": 32
   },
   {
@@ -1646,7 +1646,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -3263,7 +3263,7 @@
     "class_type": "Yoga Series",
     "instructor": "Daniel Konieczny",
     "location": "Merrylands",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
@@ -3868,7 +3868,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
