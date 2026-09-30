@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book67363",
-    "date": "2026-10-02",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book71331",
-    "date": "2026-10-02",
-    "time": "9:45 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Neave Welch",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45073",
     "date": "2026-10-02",
     "time": "10:00 AM",
