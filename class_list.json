@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book71225",
-    "date": "2026-10-02",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44812",
     "date": "2026-10-02",
     "time": "6:00 AM",
