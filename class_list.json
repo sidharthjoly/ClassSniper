@@ -348,7 +348,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1360,7 +1360,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -1712,7 +1712,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -2625,7 +2625,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
