@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book47278",
-    "date": "2026-10-02",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 9,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book71437",
-    "date": "2026-10-02",
-    "time": "6:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44344",
     "date": "2026-10-02",
     "time": "7:00 AM",
