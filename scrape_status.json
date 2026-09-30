@@ -1,10 +1,12 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-10-01T04:44:23.642577+10:00",
-  "class_count": 1572,
+  "scraped_at": "2026-10-01T04:45:37.047565+10:00",
+  "class_count": 1571,
   "centers_total": 10,
-  "centers_failed": [],
+  "centers_failed": [
+    "Chatswood"
+  ],
   "contract_breaks": {},
   "unmapped_locations": []
 }
