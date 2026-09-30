@@ -2152,7 +2152,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 22
   },
   {
@@ -4466,17 +4466,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "101book74348",
-    "date": "2026-10-04",
-    "time": "3:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book73204",
     "date": "2026-10-04",
     "time": "3:30 PM",
@@ -4504,21 +4493,10 @@
     "time": "4:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
+    "instructor": "Jessy Franks",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "101book73981",
-    "date": "2026-10-04",
-    "time": "4:00 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "106book48717",
@@ -4537,7 +4515,7 @@
     "time": "5:15 PM",
     "name": "Yoga: Restore & Sound",
     "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
+    "instructor": "Jessy Franks",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -5406,7 +5384,7 @@
     "time": "5:00 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
+    "instructor": "Eleni Vlahos",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -5454,17 +5432,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "106book38893",
-    "date": "2026-10-05",
-    "time": "5:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book58576",
@@ -5516,7 +5483,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
+    "instructor": "Eleni Vlahos",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -5604,7 +5571,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
+    "instructor": "Eleni Vlahos",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -7678,17 +7645,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book40917",
-    "date": "2026-10-06",
-    "time": "5:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
-  },
-  {
     "booking_id": "104book50654",
     "date": "2026-10-06",
     "time": "5:00 PM",
@@ -7709,17 +7665,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "107book100439",
-    "date": "2026-10-06",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "107book50196",
@@ -7975,17 +7920,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "106book40707",
-    "date": "2026-10-06",
-    "time": "6:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
-  },
-  {
     "booking_id": "106book54783",
     "date": "2026-10-06",
     "time": "6:00 PM",
@@ -8237,17 +8171,6 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "106book40812",
-    "date": "2026-10-06",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kayla Job",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
   },
   {
     "booking_id": "104book36208",
@@ -10923,17 +10846,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book69985",
-    "date": "2026-10-07",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amber Yan",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "104book36872",
     "date": "2026-10-07",
     "time": "6:30 PM",
@@ -11097,17 +11009,6 @@
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
-  },
-  {
-    "booking_id": "106book70040",
-    "date": "2026-10-07",
-    "time": "7:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amber Yan",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "107book49634",
