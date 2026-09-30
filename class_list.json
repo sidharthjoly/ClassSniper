@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book47950",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book40885",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book71074",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book82916",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book49241",
     "date": "2026-10-02",
     "time": "1:10 PM",
