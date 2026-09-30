@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book45125",
-    "date": "2026-10-02",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 2,
-    "capacity": 38
-  },
-  {
-    "booking_id": "101book77150",
-    "date": "2026-10-02",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book71962",
-    "date": "2026-10-02",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book74008",
     "date": "2026-10-02",
     "time": "8:45 AM",
@@ -2009,7 +1976,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 21
   },
   {
