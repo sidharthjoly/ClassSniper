@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book77863",
-    "date": "2026-10-02",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book59130",
     "date": "2026-10-02",
     "time": "5:30 AM",
@@ -3351,7 +3340,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
