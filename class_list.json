@@ -1294,7 +1294,7 @@
     "class_type": "Yoga Series",
     "instructor": "Victoire de Polignac",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 34
   },
   {
@@ -4312,17 +4312,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book68668",
-    "date": "2026-10-04",
-    "time": "12:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Yigit Keskin",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book73669",
     "date": "2026-10-04",
     "time": "12:00 PM",
@@ -4376,17 +4365,6 @@
     "location": "Surry Hills",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "103book68721",
-    "date": "2026-10-04",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Yigit Keskin",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "107book90608",
@@ -17380,17 +17358,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book81982",
-    "date": "2026-10-10",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book80693",
     "date": "2026-10-10",
     "time": "11:30 AM",
@@ -17400,6 +17367,17 @@
     "location": "Marrickville",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "103book85115",
+    "date": "2026-10-10",
+    "time": "11:30 AM",
+    "name": "Yoga: Empower",
+    "class_type": "Yoga Series",
+    "instructor": "Megan Leung",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "106book50014",
