@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book58321",
-    "date": "2026-10-02",
-    "time": "4:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book70401",
-    "date": "2026-10-02",
-    "time": "4:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book60278",
     "date": "2026-10-02",
     "time": "4:30 PM",
@@ -2196,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -2273,7 +2251,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
