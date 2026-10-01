@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book61479",
-    "date": "2026-10-03",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book36993",
-    "date": "2026-10-03",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book72827",
     "date": "2026-10-03",
     "time": "3:30 PM",
@@ -843,7 +821,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -997,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
