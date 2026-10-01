@@ -1514,7 +1514,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -2163,7 +2163,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -5069,17 +5069,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book100611",
-    "date": "2026-10-06",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "103book53622",
@@ -8811,10 +8800,10 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book66183",
+    "booking_id": "105book71632",
     "date": "2026-10-07",
     "time": "7:45 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
@@ -14228,7 +14217,7 @@
     "time": "8:00 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -14525,7 +14514,7 @@
     "time": "9:00 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -14811,7 +14800,7 @@
     "time": "10:00 AM",
     "name": "Hour of Power",
     "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -15112,17 +15101,6 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "103book80693",
-    "date": "2026-10-10",
-    "time": "11:30 AM",
-    "name": "Burlesque (Heels Optional)",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "103book85115",
