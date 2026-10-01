@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book43262",
-    "date": "2026-10-03",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book25575",
-    "date": "2026-10-03",
-    "time": "12:15 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book72602",
-    "date": "2026-10-03",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book46227",
     "date": "2026-10-03",
     "time": "12:30 PM",
@@ -964,7 +931,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
