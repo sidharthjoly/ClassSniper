@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book72233",
-    "date": "2026-10-03",
-    "time": "1:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 24,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book45438",
     "date": "2026-10-03",
     "time": "1:30 PM",
