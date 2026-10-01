@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book71805",
-    "date": "2026-10-02",
-    "time": "7:15 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Marie de Bella",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book45803",
     "date": "2026-10-03",
     "time": "7:00 AM",
@@ -1338,7 +1327,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 9,
     "capacity": 32
   },
   {
@@ -1932,7 +1921,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
