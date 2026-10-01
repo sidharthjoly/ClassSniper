@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book45803",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book46304",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "One Run Marrickville",
-    "class_type": "One Run",
-    "instructor": "Joey Dalisay",
-    "location": "Marrickville",
-    "remaining_spots": 50,
-    "capacity": 50
-  },
-  {
-    "booking_id": "103book61581",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Inge Schmidt",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book61951",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Blackout",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book63421",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book49279",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book48866",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Areeba Talpur",
-    "location": "Merrylands",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book42010",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book53722",
-    "date": "2026-10-03",
-    "time": "7:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book61271",
     "date": "2026-10-03",
     "time": "7:15 AM",
@@ -799,7 +700,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 38
   },
   {
