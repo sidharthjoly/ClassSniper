@@ -337,7 +337,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 38
   },
   {
@@ -777,7 +777,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
@@ -799,7 +799,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -810,7 +810,7 @@
     "class_type": "Mat Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 23
   },
   {
@@ -865,7 +865,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -876,7 +876,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
@@ -931,7 +931,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 34
   },
   {
