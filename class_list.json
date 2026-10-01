@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book44604",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book60750",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Marrickville",
-    "remaining_spots": 30,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book72479",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39993",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
-    "location": "Newtown",
-    "remaining_spots": 30,
-    "capacity": 32
-  },
-  {
     "booking_id": "101book70809",
     "date": "2026-10-02",
     "time": "6:05 PM",
@@ -1364,6 +1320,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "103book80692",
+    "date": "2026-10-03",
+    "time": "11:30 AM",
+    "name": "Burlesque (Heels Optional)",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 23
+  },
+  {
     "booking_id": "106book50013",
     "date": "2026-10-03",
     "time": "11:30 AM",
@@ -2196,7 +2163,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
