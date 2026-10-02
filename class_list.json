@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book30368",
-    "date": "2026-10-04",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book64349",
-    "date": "2026-10-04",
-    "time": "10:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 35
-  },
-  {
-    "booking_id": "107book73152",
-    "date": "2026-10-04",
-    "time": "10:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book47196",
     "date": "2026-10-04",
     "time": "10:30 AM",
