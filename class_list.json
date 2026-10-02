@@ -1239,7 +1239,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1250,7 +1250,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
@@ -1272,7 +1272,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -1415,7 +1415,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -1426,7 +1426,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
@@ -1448,7 +1448,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
