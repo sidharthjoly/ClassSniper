@@ -3575,17 +3575,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "103book51958",
-    "date": "2026-10-06",
-    "time": "4:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book67830",
     "date": "2026-10-06",
     "time": "4:30 PM",
@@ -3804,28 +3793,6 @@
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
-  },
-  {
-    "booking_id": "103book51640",
-    "date": "2026-10-06",
-    "time": "5:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book64214",
-    "date": "2026-10-06",
-    "time": "5:30 PM",
-    "name": "Blackout",
-    "class_type": "Spin Series",
-    "instructor": "Andrew Lloyd",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book39423",
@@ -4092,17 +4059,6 @@
     "capacity": 35
   },
   {
-    "booking_id": "103book52117",
-    "date": "2026-10-06",
-    "time": "6:30 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book39158",
     "date": "2026-10-06",
     "time": "6:30 PM",
@@ -4310,17 +4266,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book52011",
-    "date": "2026-10-06",
-    "time": "7:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book54979",
@@ -7271,17 +7216,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "106book70145",
-    "date": "2026-10-08",
-    "time": "6:00 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book45664",
     "date": "2026-10-08",
     "time": "6:00 AM",
@@ -7577,17 +7511,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "106book70290",
-    "date": "2026-10-08",
-    "time": "7:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "104book38367",
@@ -8281,17 +8204,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "106book70450",
-    "date": "2026-10-08",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "104book39320",
@@ -9328,17 +9240,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "107book65781",
-    "date": "2026-10-08",
-    "time": "5:30 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Emmy Drew",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book43811",
     "date": "2026-10-08",
     "time": "5:30 PM",
@@ -9645,17 +9546,6 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
-  },
-  {
-    "booking_id": "107book65994",
-    "date": "2026-10-08",
-    "time": "6:30 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Emmy Drew",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book69839",
@@ -11865,8 +11755,8 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "107book53354",
@@ -11964,8 +11854,8 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "101book71128",
@@ -12107,8 +11997,8 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "101book70810",
@@ -12382,8 +12272,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45856",
@@ -12668,8 +12558,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45962",
@@ -12842,7 +12732,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Gianna Petracic",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -12965,8 +12855,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book73144",
@@ -13128,7 +13018,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Gianna Petracic",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13240,8 +13130,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book61571",
@@ -13381,7 +13271,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Gianna Petracic",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13471,8 +13361,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book49702",
@@ -13614,8 +13504,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book61847",
@@ -13649,17 +13539,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book55362",
-    "date": "2026-10-10",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "107book108896",
@@ -13713,8 +13592,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book61743",
@@ -13737,17 +13616,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book55310",
-    "date": "2026-10-10",
-    "time": "2:00 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "104book44898",
@@ -13779,8 +13647,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book61480",
@@ -14054,8 +13922,8 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book31060",
@@ -14197,8 +14065,8 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book30838",
@@ -14340,8 +14208,8 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "107book82499",
@@ -14406,8 +14274,8 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book73615",
