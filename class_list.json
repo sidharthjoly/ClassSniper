@@ -557,7 +557,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -7909,17 +7909,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book71415",
-    "date": "2026-10-08",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book42637",
     "date": "2026-10-08",
     "time": "9:00 AM",
@@ -10481,6 +10470,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book85751",
+    "date": "2026-10-09",
+    "time": "8:00 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Marrickville",
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "106book73613",
@@ -13330,6 +13330,17 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "103book86049",
+    "date": "2026-10-10",
+    "time": "11:30 AM",
+    "name": "Burlesque (Heels Optional)",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Marrickville",
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "103book85115",
