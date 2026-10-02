@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book73564",
-    "date": "2026-10-04",
-    "time": "1:30 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 25
-  },
-  {
     "booking_id": "107book94328",
     "date": "2026-10-04",
     "time": "2:00 PM",
@@ -876,7 +865,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1569,7 +1558,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
@@ -1668,7 +1657,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -1800,7 +1789,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
@@ -1822,7 +1811,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
