@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book73204",
-    "date": "2026-10-04",
-    "time": "3:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book47144",
     "date": "2026-10-04",
     "time": "4:00 PM",
