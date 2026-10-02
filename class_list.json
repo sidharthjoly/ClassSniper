@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55411",
-    "date": "2026-10-03",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book73309",
     "date": "2026-10-04",
     "time": "8:00 AM",
@@ -1118,7 +1107,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 32,
     "capacity": 36
   },
   {
@@ -1140,7 +1129,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
