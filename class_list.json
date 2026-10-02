@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book44000",
-    "date": "2026-10-04",
-    "time": "2:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 17,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book47248",
     "date": "2026-10-04",
     "time": "3:00 PM",
@@ -1327,7 +1316,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -1899,7 +1888,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -1910,7 +1899,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
