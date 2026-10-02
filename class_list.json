@@ -1096,7 +1096,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
@@ -1129,7 +1129,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -1472,6 +1472,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "104book62311",
+    "date": "2026-10-05",
+    "time": "5:30 PM",
+    "name": "Fiesta",
+    "class_type": "Dance Series",
+    "instructor": "Maria Camila Silva Lopez",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book58576",
