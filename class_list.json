@@ -524,7 +524,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1195,7 +1195,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
