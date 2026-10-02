@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book73878",
-    "date": "2026-10-04",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book82498",
     "date": "2026-10-04",
     "time": "11:15 AM",
@@ -1085,7 +1074,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
