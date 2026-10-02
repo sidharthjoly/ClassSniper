@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book43844",
-    "date": "2026-10-04",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book73564",
     "date": "2026-10-04",
     "time": "1:30 PM",
@@ -1745,7 +1734,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 21,
     "capacity": 30
   },
   {
