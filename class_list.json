@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book100427",
-    "date": "2026-10-05",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book60152",
-    "date": "2026-10-05",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book37617",
     "date": "2026-10-05",
     "time": "10:00 AM",
