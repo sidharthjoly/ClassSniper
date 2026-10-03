@@ -3164,7 +3164,7 @@
     "class_type": "S&C Series",
     "instructor": "Matthew Gardner",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -6655,6 +6655,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "105book71839",
+    "date": "2026-10-08",
+    "time": "6:15 AM",
+    "name": "Squad",
+    "class_type": "Spin Series",
+    "instructor": "Elizabeth Topfer",
+    "location": "Haymarket",
+    "remaining_spots": 35,
+    "capacity": 35
+  },
+  {
     "booking_id": "103book57378",
     "date": "2026-10-08",
     "time": "6:15 AM",
@@ -6952,17 +6963,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book29453",
-    "date": "2026-10-08",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book56249",
     "date": "2026-10-08",
     "time": "7:15 AM",
@@ -7203,17 +7203,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book57295",
-    "date": "2026-10-08",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book71487",
@@ -9432,7 +9421,7 @@
     "time": "6:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "James Wood",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -9740,7 +9729,7 @@
     "time": "7:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "James Wood",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
