@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book68328",
-    "date": "2026-10-05",
-    "time": "11:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book49725",
-    "date": "2026-10-05",
-    "time": "11:00 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Marrickville",
-    "remaining_spots": 4,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book38369",
-    "date": "2026-10-05",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book34755",
-    "date": "2026-10-05",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book58763",
     "date": "2026-10-05",
     "time": "11:15 AM",
@@ -1789,7 +1745,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
