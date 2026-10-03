@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book60890",
-    "date": "2026-10-05",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book32087",
     "date": "2026-10-05",
     "time": "7:00 AM",
