@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book48717",
-    "date": "2026-10-04",
-    "time": "4:30 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 34
-  },
-  {
     "booking_id": "107book55885",
     "date": "2026-10-04",
     "time": "5:15 PM",
@@ -843,7 +832,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -898,7 +887,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
