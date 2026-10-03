@@ -1,3 +1,6 @@
-playwright
+# Pinned: the version decides which Chromium build `playwright install`
+# downloads, so leaving it open swaps the browser under the strike path
+# whenever a release lands. Bump it on purpose.
+playwright==1.63.0
 pytz
 requests
