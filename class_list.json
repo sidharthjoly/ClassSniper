@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book35662",
-    "date": "2026-10-05",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book60890",
     "date": "2026-10-05",
     "time": "6:45 AM",
@@ -458,7 +447,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
