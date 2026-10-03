@@ -34,9 +34,9 @@ jobs:
     # six hours, and every tick queued behind it is cancelled. It has to clear
     # the longest legitimate run, which is a strike: the striker starts waiting
     # up to 15 minutes before a window opens and sleeps to T+2s inside the job.
-    # Add the slowest install seen (11 minutes on an uncached Oct 1 run), a
-    # browser fallback where every Playwright wait runs to its timeout (~12
-    # minutes), and the state/commit retries, and the worst case is about 50
+    # Add the slowest install seen (nearly 9 minutes on an uncached Oct 1 run),
+    # a browser fallback where every Playwright wait runs to its timeout (~12
+    # minutes), and the state/commit retries, and the worst case is under 50
     # minutes. A normal strike run is about 17.
     timeout-minutes: 60
     steps:
@@ -55,7 +55,7 @@ jobs:
           echo "key=playwright-${ImageOS:-$RUNNER_OS}-$RUNNER_ARCH-${version:-unpinned}" >> "$GITHUB_OUTPUT"
       - name: Cache Playwright Browsers
         # ~300 MiB of Chromium used to come down from Playwright's CDN on every
-        # run, and on a bad day that took 5-11 minutes — long enough to make a
+        # run, and on a bad day that took 2-9 minutes — long enough to make a
         # strike late. `playwright install chromium` below still runs: it's a
         # no-op when the cache restored the browser, and a normal download when
         # it didn't. A restore stuck past 2 minutes is abandoned for the same
