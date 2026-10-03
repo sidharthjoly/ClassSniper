@@ -31,9 +31,9 @@ jobs:
     # move it on purpose, after a run has proved the new one, not on GitHub's date.
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
       - name: Install Dependencies
@@ -96,7 +96,7 @@ jobs:
           done
       - name: Upload Debug Screenshot
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: debug-screenshots
           path: |
