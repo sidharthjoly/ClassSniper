@@ -30,6 +30,15 @@ jobs:
     # The browser install and Python 3.11 are only known to work on this image;
     # move it on purpose, after a run has proved the new one, not on GitHub's date.
     runs-on: ubuntu-24.04
+    # Without this a hung step holds the concurrency group for GitHub's default
+    # six hours, and every tick queued behind it is cancelled. It has to clear
+    # the longest legitimate run, which is a strike: the striker starts waiting
+    # up to 15 minutes before a window opens and sleeps to T+2s inside the job.
+    # Add the slowest install seen (11 minutes on an uncached Oct 1 run), a
+    # browser fallback where every Playwright wait runs to its timeout (~12
+    # minutes), and the state/commit retries, and the worst case is about 50
+    # minutes. A normal strike run is about 17.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v7
       - name: Setup Python
