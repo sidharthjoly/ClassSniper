@@ -876,7 +876,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2823,7 +2823,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -3120,7 +3120,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3131,7 +3131,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -3538,7 +3538,7 @@
     "class_type": "Dance Series",
     "instructor": "Lauren Buck",
     "location": "Haymarket",
-    "remaining_spots": 37,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
