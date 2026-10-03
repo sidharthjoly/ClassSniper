@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book58763",
-    "date": "2026-10-05",
-    "time": "11:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book62947",
     "date": "2026-10-05",
     "time": "11:30 AM",
@@ -73,7 +62,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 22
   },
   {
