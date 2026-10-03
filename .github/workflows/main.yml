@@ -36,6 +36,27 @@ jobs:
         uses: actions/setup-python@v7
         with:
           python-version: '3.11'
+      - name: Resolve Browser Cache Key
+        id: browser-cache-key
+        # The pinned Playwright version decides which Chromium build gets
+        # installed, and the image decides what it runs against, so a bump to
+        # either starts a fresh cache instead of restoring the wrong browser.
+        run: |
+          version=$(sed -n 's/^playwright==//p' requirements.txt)
+          echo "key=playwright-${ImageOS:-$RUNNER_OS}-$RUNNER_ARCH-${version:-unpinned}" >> "$GITHUB_OUTPUT"
+      - name: Cache Playwright Browsers
+        # ~300 MiB of Chromium used to come down from Playwright's CDN on every
+        # run, and on a bad day that took 5-11 minutes — long enough to make a
+        # strike late. `playwright install chromium` below still runs: it's a
+        # no-op when the cache restored the browser, and a normal download when
+        # it didn't. A restore stuck past 2 minutes is abandoned for the same
+        # reason, rather than the default 10.
+        uses: actions/cache@v6
+        env:
+          SEGMENT_DOWNLOAD_TIMEOUT_MINS: 2
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ steps.browser-cache-key.outputs.key }}
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
