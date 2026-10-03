@@ -26,7 +26,10 @@ concurrency:
 
 jobs:
   check_and_book:
-    runs-on: ubuntu-latest
+    # Pinned rather than ubuntu-latest, which moves to Ubuntu 26 from 2026-10-19.
+    # The browser install and Python 3.11 are only known to work on this image;
+    # move it on purpose, after a run has proved the new one, not on GitHub's date.
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - name: Setup Python
