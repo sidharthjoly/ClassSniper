@@ -108,8 +108,13 @@ jobs:
           # worker's database, because this repo is public.
           git add class_list.json scrape_status.json
           git commit -m "Update class list" || echo "No changes"
+          pushed=
           for i in 1 2 3 4 5; do
-            git push && break
+            if git push; then
+              pushed=1
+              break
+            fi
+            [ "$i" -lt 5 ] || break
             # Rebasing used to go here, and it could not work: scrape_status.json
             # carries a timestamp so every run rewrites it, which makes any push
             # race a guaranteed conflict on the same lines, and the rebase
@@ -124,6 +129,13 @@ jobs:
             git add class_list.json scrape_status.json
             git commit -m "Update class list" || echo "No changes"
           done
+          # Five rejections in a row isn't a race any more. The loop used to end
+          # on the `|| echo` above and report success with nothing pushed, and
+          # the heartbeat going amber fifteen minutes later was the only sign.
+          if [ -z "$pushed" ]; then
+            echo "::error::Could not push the class list after 5 attempts."
+            exit 1
+          fi
       - name: Upload Debug Screenshot
         if: always()
         uses: actions/upload-artifact@v7
