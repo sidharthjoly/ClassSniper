@@ -403,7 +403,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -623,7 +623,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 28
   },
   {
@@ -4286,7 +4286,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
@@ -4473,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
