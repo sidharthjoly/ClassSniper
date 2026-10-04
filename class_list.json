@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book50571",
-    "date": "2026-10-05",
-    "time": "7:30 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book34284",
-    "date": "2026-10-05",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book39317",
     "date": "2026-10-06",
     "time": "5:15 AM",
@@ -1052,7 +1030,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Marrickville",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 26
   },
   {
@@ -1349,7 +1327,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -1778,7 +1756,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lauren Buck",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
@@ -2526,7 +2504,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -5351,7 +5329,7 @@
     "time": "7:15 PM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Shane Collard",
+    "instructor": "Elizabeth Chun",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
