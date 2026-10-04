@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book68193",
-    "date": "2026-10-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book73225",
-    "date": "2026-10-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book35073",
-    "date": "2026-10-06",
-    "time": "12:30 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 26,
-    "capacity": 28
-  },
-  {
     "booking_id": "106book78599",
     "date": "2026-10-06",
     "time": "1:00 PM",
@@ -566,7 +533,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Paulo Lole",
     "location": "Merrylands",
     "remaining_spots": 29,
     "capacity": 30
@@ -830,7 +797,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Paulo Lole",
     "location": "Merrylands",
     "remaining_spots": 25,
     "capacity": 30
@@ -4154,7 +4121,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
