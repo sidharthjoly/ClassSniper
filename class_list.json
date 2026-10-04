@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book50052",
-    "date": "2026-10-05",
-    "time": "6:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book33598",
-    "date": "2026-10-05",
-    "time": "6:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "101book59441",
-    "date": "2026-10-05",
-    "time": "6:15 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book59132",
-    "date": "2026-10-05",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "104book34337",
     "date": "2026-10-05",
     "time": "6:30 PM",
@@ -2196,7 +2152,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 21
   },
   {
@@ -2493,7 +2449,7 @@
     "class_type": "S&C Series",
     "instructor": "Matthew Gardner",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -3428,7 +3384,7 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 34
   },
   {
