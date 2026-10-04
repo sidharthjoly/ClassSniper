@@ -2999,7 +2999,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 40
   },
   {
@@ -4583,7 +4583,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -5034,7 +5034,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
