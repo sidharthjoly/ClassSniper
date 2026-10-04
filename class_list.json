@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39317",
-    "date": "2026-10-06",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49936",
     "date": "2026-10-06",
     "time": "5:30 AM",
@@ -4616,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
