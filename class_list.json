@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "104book34337",
-    "date": "2026-10-05",
-    "time": "6:30 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book100605",
-    "date": "2026-10-05",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book67234",
     "date": "2026-10-05",
     "time": "6:45 PM",
@@ -359,7 +337,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 35
   },
   {
@@ -3263,7 +3241,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -3274,7 +3252,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 35
   },
   {
