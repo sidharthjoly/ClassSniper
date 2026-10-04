@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book49936",
-    "date": "2026-10-06",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book100431",
-    "date": "2026-10-06",
-    "time": "5:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book71423",
-    "date": "2026-10-06",
-    "time": "5:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 36,
-    "capacity": 40
-  },
-  {
     "booking_id": "106book40109",
     "date": "2026-10-06",
     "time": "5:45 AM",
@@ -4759,7 +4726,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -5188,7 +5155,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 18
   },
   {
