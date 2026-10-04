@@ -1349,7 +1349,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -2878,7 +2878,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -4627,7 +4627,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -5023,7 +5023,7 @@
     "class_type": "Mat Series",
     "instructor": "Elaina Lentini",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 36
   },
   {
@@ -15372,7 +15372,7 @@
     "time": "7:15 PM",
     "name": "Gunshow",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Flyn Woodward",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
