@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book63804",
-    "date": "2026-10-06",
-    "time": "7:15 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book40532",
-    "date": "2026-10-06",
-    "time": "7:15 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book53273",
-    "date": "2026-10-06",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book47162",
-    "date": "2026-10-06",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book61414",
-    "date": "2026-10-06",
-    "time": "7:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book67339",
     "date": "2026-10-06",
     "time": "7:30 PM",
@@ -271,7 +216,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 33
   },
   {
@@ -634,7 +579,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2889,7 +2834,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3516,7 +3461,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -4132,7 +4077,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4517,7 +4462,7 @@
     "class_type": "S&C Series",
     "instructor": "Stephanie Conlin",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
