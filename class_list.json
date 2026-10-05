@@ -3219,7 +3219,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hayley van Stom",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -3417,7 +3417,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
@@ -3681,7 +3681,7 @@
     "class_type": "Barre Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
