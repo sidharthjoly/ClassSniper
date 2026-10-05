@@ -590,7 +590,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 38
   },
   {
@@ -733,7 +733,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
@@ -4957,7 +4957,7 @@
     "class_type": "Dance Series",
     "instructor": "Peta Sternaras",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -5549,7 +5549,7 @@
     "time": "6:00 AM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
+    "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -5780,7 +5780,7 @@
     "time": "6:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
+    "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
@@ -6022,7 +6022,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
+    "instructor": "Hanna Sadek",
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
