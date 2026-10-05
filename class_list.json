@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book56197",
-    "date": "2026-10-07",
-    "time": "4:30 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book67152",
-    "date": "2026-10-07",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book41041",
     "date": "2026-10-07",
     "time": "4:45 PM",
@@ -1030,7 +1008,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Topfer",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
@@ -3305,7 +3283,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
+    "instructor": "Jessica Caetano",
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 15
@@ -3395,7 +3373,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -3459,7 +3437,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
+    "instructor": "Jessica Caetano",
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 15
@@ -4275,7 +4253,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
