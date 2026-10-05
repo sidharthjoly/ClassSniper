@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51127",
-    "date": "2026-10-07",
-    "time": "7:40 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book63462",
     "date": "2026-10-07",
     "time": "8:00 AM",
