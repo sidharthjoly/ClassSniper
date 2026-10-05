@@ -1052,7 +1052,7 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
@@ -4603,7 +4603,7 @@
     "time": "4:10 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Eva Baonza",
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 38
@@ -4680,7 +4680,7 @@
     "time": "5:00 PM",
     "name": "BodyBurn",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Eva Baonza",
     "location": "Haymarket",
     "remaining_spots": 34,
     "capacity": 38
@@ -5001,7 +5001,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 33
   },
   {
@@ -5320,7 +5320,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
