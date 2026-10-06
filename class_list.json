@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book41249",
-    "date": "2026-10-07",
-    "time": "6:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book55883",
-    "date": "2026-10-07",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book61652",
-    "date": "2026-10-07",
-    "time": "6:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 10,
-    "capacity": 21
-  },
-  {
     "booking_id": "105book40622",
     "date": "2026-10-07",
     "time": "7:00 PM",
@@ -2559,7 +2526,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
@@ -2834,7 +2801,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -4242,7 +4209,7 @@
     "class_type": "Mat Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
@@ -4462,7 +4429,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
