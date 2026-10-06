@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68261",
-    "date": "2026-10-08",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book42950",
     "date": "2026-10-08",
     "time": "6:00 AM",
@@ -4726,7 +4715,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
