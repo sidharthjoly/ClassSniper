@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book71487",
-    "date": "2026-10-08",
-    "time": "8:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book65836",
-    "date": "2026-10-08",
-    "time": "8:15 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "North Sydney",
-    "remaining_spots": 5,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book69525",
-    "date": "2026-10-08",
-    "time": "8:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book68314",
-    "date": "2026-10-08",
-    "time": "8:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book58765",
     "date": "2026-10-08",
     "time": "8:30 AM",
