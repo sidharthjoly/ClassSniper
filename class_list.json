@@ -1470,7 +1470,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
@@ -1668,7 +1668,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 38
   },
   {
@@ -2064,7 +2064,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -2185,7 +2185,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -2559,7 +2559,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
@@ -3802,7 +3802,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
@@ -3912,7 +3912,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
