@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68028",
-    "date": "2026-10-08",
-    "time": "4:15 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book58270",
     "date": "2026-10-08",
     "time": "4:30 PM",
@@ -1360,7 +1349,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 36
   },
   {
@@ -2889,7 +2878,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
@@ -3879,7 +3868,7 @@
     "class_type": "Mat Series",
     "instructor": "Sarah Goring",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
@@ -3890,7 +3879,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 40
   },
   {
@@ -3912,7 +3901,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 17,
     "capacity": 34
   },
   {
@@ -3945,7 +3934,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 38
   },
   {
@@ -4110,7 +4099,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
