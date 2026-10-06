@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book57954",
-    "date": "2026-10-08",
-    "time": "9:30 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 26
-  },
-  {
-    "booking_id": "104book38477",
-    "date": "2026-10-08",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book77887",
-    "date": "2026-10-08",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book56961",
     "date": "2026-10-08",
     "time": "9:45 AM",
@@ -843,7 +810,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
