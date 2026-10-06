@@ -832,7 +832,7 @@
     "class_type": "Creche",
     "instructor": "Shova Rana",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 8
   },
   {
@@ -2438,7 +2438,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 40
   },
   {
@@ -2504,7 +2504,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 32
   },
   {
@@ -4374,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -4396,7 +4396,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
