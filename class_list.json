@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book100456",
-    "date": "2026-10-08",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book56126",
     "date": "2026-10-08",
     "time": "2:30 PM",
@@ -3307,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -3648,7 +3637,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -3670,7 +3659,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 34
   },
   {
@@ -3703,7 +3692,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
