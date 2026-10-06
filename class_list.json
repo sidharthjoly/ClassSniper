@@ -843,7 +843,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 4
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 23
   },
   {
