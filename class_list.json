@@ -106,7 +106,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Marrickville",
-    "remaining_spots": 30,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -194,7 +194,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3428,7 +3428,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 28
   },
   {
