@@ -3065,7 +3065,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill, Laura Pailleux-Hanon",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3538,7 +3538,7 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
