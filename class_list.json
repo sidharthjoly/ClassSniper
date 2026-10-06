@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41926",
-    "date": "2026-10-08",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 38
-  },
-  {
     "booking_id": "105book56023",
     "date": "2026-10-08",
     "time": "11:30 AM",
@@ -3296,7 +3285,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -3307,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 32
   },
   {
