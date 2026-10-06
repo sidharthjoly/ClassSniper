@@ -3340,7 +3340,7 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 23
   },
   {
@@ -3505,7 +3505,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -10138,7 +10138,7 @@
     "class_type": "One Run",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 50,
+    "remaining_spots": 49,
     "capacity": 50
   },
   {
