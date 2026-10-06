@@ -3351,7 +3351,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -4042,7 +4042,7 @@
     "time": "11:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 9,
     "capacity": 15
@@ -4295,7 +4295,7 @@
     "time": "12:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 15
@@ -4449,7 +4449,7 @@
     "time": "1:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 2,
     "capacity": 15
@@ -4957,7 +4957,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
@@ -6603,7 +6603,7 @@
     "booking_id": "107book72094",
     "date": "2026-10-10",
     "time": "4:00 PM",
-    "name": "Infrared Yoga",
+    "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "North Sydney",
@@ -6825,7 +6825,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -6968,7 +6968,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7111,7 +7111,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7177,7 +7177,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -7661,7 +7661,7 @@
     "time": "6:30 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -7969,7 +7969,7 @@
     "time": "7:30 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -8055,7 +8055,7 @@
     "booking_id": "107book70148",
     "date": "2026-10-12",
     "time": "8:00 AM",
-    "name": "Infrared Pilates",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
@@ -8134,7 +8134,7 @@
     "time": "8:30 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -8299,7 +8299,7 @@
     "time": "9:30 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
@@ -8891,7 +8891,7 @@
     "booking_id": "107book59386",
     "date": "2026-10-12",
     "time": "1:00 PM",
-    "name": "Infrared Pilates",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
@@ -10255,7 +10255,7 @@
     "booking_id": "107book73669",
     "date": "2026-10-13",
     "time": "6:00 AM",
-    "name": "Infrared Yoga",
+    "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
@@ -11520,7 +11520,7 @@
     "booking_id": "107book62168",
     "date": "2026-10-13",
     "time": "12:00 PM",
-    "name": "Infrared Pilates",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Simon Corfield",
     "location": "North Sydney",
@@ -11663,7 +11663,7 @@
     "booking_id": "107book62224",
     "date": "2026-10-13",
     "time": "1:00 PM",
-    "name": "Infrared Pilates",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Simon Corfield",
     "location": "North Sydney",
@@ -19728,7 +19728,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Aly Turska",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -19805,7 +19805,7 @@
     "time": "4:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Aly Turska",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -19948,7 +19948,7 @@
     "time": "5:00 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Chelsea Bayntun",
+    "instructor": "Aly Turska",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
