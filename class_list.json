@@ -2339,7 +2339,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2647,7 +2647,7 @@
     "class_type": "Dance Series",
     "instructor": "Dante Creek",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Dance Series",
     "instructor": "Maria Camila Silva Lopez",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
