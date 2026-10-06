@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book57274",
-    "date": "2026-10-08",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book41010",
     "date": "2026-10-08",
     "time": "11:00 AM",
