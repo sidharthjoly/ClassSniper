@@ -3527,7 +3527,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
@@ -3747,7 +3747,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -5032,7 +5032,7 @@
     "time": "7:00 AM",
     "name": "Unity",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Paulo Lole",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -5252,7 +5252,7 @@
     "time": "8:00 AM",
     "name": "Unity",
     "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
+    "instructor": "Paulo Lole",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -6374,7 +6374,7 @@
     "time": "12:30 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
+    "instructor": "Eva Baonza",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -6473,7 +6473,7 @@
     "time": "1:30 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
+    "instructor": "Eva Baonza",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -8151,17 +8151,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "106book67181",
-    "date": "2026-10-12",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book37320",
     "date": "2026-10-12",
     "time": "9:00 AM",
@@ -9476,7 +9465,7 @@
     "time": "5:30 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -9784,7 +9773,7 @@
     "time": "6:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -10059,7 +10048,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -10811,17 +10800,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "106book68401",
-    "date": "2026-10-13",
-    "time": "8:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "106book37097",
@@ -15400,17 +15378,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "106book61148",
-    "date": "2026-10-14",
-    "time": "7:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "106book77581",
     "date": "2026-10-14",
     "time": "7:30 PM",
@@ -16621,17 +16588,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "106book45457",
-    "date": "2026-10-15",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book23578",
     "date": "2026-10-15",
     "time": "11:00 AM",
@@ -17572,7 +17528,7 @@
     "time": "6:00 PM",
     "name": "Commercial Dance Choreography",
     "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
+    "instructor": "Ahlex Leyva",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -17858,7 +17814,7 @@
     "time": "7:00 PM",
     "name": "Heels",
     "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
+    "instructor": "Ahlex Leyva",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -18106,17 +18062,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "106book73713",
-    "date": "2026-10-16",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "101book71227",
     "date": "2026-10-16",
     "time": "5:50 AM",
@@ -18313,17 +18258,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "106book73812",
-    "date": "2026-10-16",
-    "time": "6:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "104book39789",
@@ -20084,17 +20018,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "103book73895",
-    "date": "2026-10-16",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 26
   },
   {
     "booking_id": "106book34975",
