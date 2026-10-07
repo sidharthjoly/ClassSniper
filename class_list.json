@@ -843,7 +843,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
@@ -1811,7 +1811,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -2009,7 +2009,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2955,7 +2955,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 35
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
