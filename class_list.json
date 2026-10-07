@@ -1789,7 +1789,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -9515,17 +9515,6 @@
     "capacity": 40
   },
   {
-    "booking_id": "107book103582",
-    "date": "2026-10-13",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book110492",
     "date": "2026-10-13",
     "time": "5:30 PM",
@@ -9533,7 +9522,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -9801,17 +9790,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book103887",
-    "date": "2026-10-13",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book110630",
     "date": "2026-10-13",
     "time": "6:30 PM",
@@ -9819,7 +9797,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -10032,17 +10010,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "107book103992",
-    "date": "2026-10-13",
-    "time": "7:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book110723",
     "date": "2026-10-13",
     "time": "7:30 PM",
@@ -10050,7 +10017,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 24,
     "capacity": 24
   },
   {
@@ -13706,6 +13673,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "101book68682",
+    "date": "2026-10-15",
+    "time": "9:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book68997",
     "date": "2026-10-15",
     "time": "9:45 AM",
@@ -13871,7 +13849,7 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book68682",
+    "booking_id": "101book69156",
     "date": "2026-10-15",
     "time": "10:30 AM",
     "name": "Reformer: Signature",
@@ -14012,17 +13990,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book69156",
-    "date": "2026-10-15",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
   },
   {
     "booking_id": "101book69050",
@@ -16751,6 +16718,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "107book110625",
+    "date": "2026-10-16",
+    "time": "12:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "101book70774",
