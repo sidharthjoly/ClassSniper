@@ -2977,7 +2977,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 28
   },
   {
@@ -2999,7 +2999,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -3362,7 +3362,7 @@
     "class_type": "Dance Series",
     "instructor": "Whyan Chen",
     "location": "Haymarket",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
