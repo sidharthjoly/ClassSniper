@@ -1723,7 +1723,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -2240,7 +2240,7 @@
     "class_type": "S&C Series",
     "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -3395,7 +3395,7 @@
     "class_type": "Fight Series",
     "instructor": "John Purnell",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
