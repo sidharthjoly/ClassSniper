@@ -3714,7 +3714,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -9526,6 +9526,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book110492",
+    "date": "2026-10-13",
+    "time": "5:30 PM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "101book63550",
     "date": "2026-10-13",
     "time": "5:30 PM",
@@ -9801,6 +9812,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book110630",
+    "date": "2026-10-13",
+    "time": "6:30 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book41781",
     "date": "2026-10-13",
     "time": "6:30 PM",
@@ -10018,6 +10040,17 @@
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
     "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "107book110723",
+    "date": "2026-10-13",
+    "time": "7:30 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -14569,7 +14602,7 @@
     "time": "5:00 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
+    "instructor": "Marcus Parkin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -14822,7 +14855,7 @@
     "time": "6:00 PM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
+    "instructor": "Marcus Parkin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -15130,7 +15163,7 @@
     "time": "7:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
+    "instructor": "Marcus Parkin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
