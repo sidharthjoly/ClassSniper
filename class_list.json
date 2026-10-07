@@ -469,7 +469,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3021,7 +3021,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 22
   },
   {
@@ -3362,7 +3362,7 @@
     "class_type": "Dance Series",
     "instructor": "Whyan Chen",
     "location": "Haymarket",
-    "remaining_spots": 37,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
