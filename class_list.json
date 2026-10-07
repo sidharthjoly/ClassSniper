@@ -1195,7 +1195,7 @@
     "class_type": "Spin Series",
     "instructor": "Frances Lee",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 40
   },
   {
@@ -1261,7 +1261,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
@@ -2383,7 +2383,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
