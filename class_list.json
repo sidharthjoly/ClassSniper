@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49452",
-    "date": "2026-10-09",
-    "time": "12:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book48806",
     "date": "2026-10-09",
     "time": "12:15 PM",
