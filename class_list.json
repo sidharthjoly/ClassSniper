@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59651",
-    "date": "2026-10-09",
-    "time": "3:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book68638",
     "date": "2026-10-09",
     "time": "4:00 PM",
@@ -2339,7 +2328,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -2350,7 +2339,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -2372,7 +2361,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
