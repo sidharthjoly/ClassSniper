@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book60538",
-    "date": "2026-10-09",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book77253",
-    "date": "2026-10-09",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book108436",
     "date": "2026-10-09",
     "time": "9:45 AM",
