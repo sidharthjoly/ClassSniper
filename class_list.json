@@ -2948,6 +2948,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book111402",
+    "date": "2026-10-12",
+    "time": "7:30 AM",
+    "name": "Surge",
+    "class_type": "Spin Series",
+    "instructor": "Eisha Liyanage",
+    "location": "North Sydney",
+    "remaining_spots": 40,
+    "capacity": 40
+  },
+  {
     "booking_id": "101book60999",
     "date": "2026-10-12",
     "time": "7:30 AM",
@@ -14564,17 +14575,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "107book42081",
-    "date": "2026-10-16",
-    "time": "12:30 PM",
-    "name": "Surge.",
-    "class_type": "Spin Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 40,
-    "capacity": 40
-  },
-  {
     "booking_id": "107book107282",
     "date": "2026-10-16",
     "time": "12:30 PM",
@@ -16582,7 +16582,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Abigail Rose",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -16709,14 +16709,14 @@
     "capacity": 23
   },
   {
-    "booking_id": "104book42433",
+    "booking_id": "104book62999",
     "date": "2026-10-17",
     "time": "1:00 PM",
-    "name": "Reformer: Strong",
+    "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -16791,7 +16791,7 @@
     "time": "2:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Abigail Rose",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -16857,7 +16857,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Sophia Rambaldini",
+    "instructor": "Abigail Rose",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
