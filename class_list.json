@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book49702",
-    "date": "2026-10-10",
-    "time": "11:45 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book42067",
-    "date": "2026-10-10",
-    "time": "11:45 AM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book56922",
     "date": "2026-10-10",
     "time": "12:00 PM",
