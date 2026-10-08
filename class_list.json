@@ -414,7 +414,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1525,7 +1525,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -1701,7 +1701,7 @@
     "class_type": "Harmony Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 34
   },
   {
@@ -1954,7 +1954,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
