@@ -4174,7 +4174,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -4482,7 +4482,7 @@
     "time": "5:30 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -4790,7 +4790,7 @@
     "time": "6:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -5065,7 +5065,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -6858,7 +6858,7 @@
     "time": "4:00 PM",
     "name": "Power Pilates",
     "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -7023,7 +7023,7 @@
     "time": "5:00 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Phoebe Thomson",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -7480,17 +7480,6 @@
     "capacity": 35
   },
   {
-    "booking_id": "103book52118",
-    "date": "2026-10-13",
-    "time": "6:30 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book39159",
     "date": "2026-10-13",
     "time": "6:30 PM",
@@ -7698,17 +7687,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book52012",
-    "date": "2026-10-13",
-    "time": "7:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "106book54980",
@@ -9196,6 +9174,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book111633",
+    "date": "2026-10-14",
+    "time": "12:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Jessie Dyer",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book49686",
     "date": "2026-10-14",
     "time": "12:00 PM",
@@ -9348,6 +9337,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book111634",
+    "date": "2026-10-14",
+    "time": "1:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Jessie Dyer",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "101book67402",
@@ -13183,7 +13183,7 @@
     "time": "6:00 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill, Laura Pailleux-Hanon",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -13957,17 +13957,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "106book57625",
-    "date": "2026-10-16",
-    "time": "9:15 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Viola Jokudu",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "103book60539",
