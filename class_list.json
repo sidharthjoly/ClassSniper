@@ -623,7 +623,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 35
   },
   {
@@ -645,7 +645,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 38
   },
   {
@@ -1283,7 +1283,7 @@
     "class_type": "Mat Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -1371,7 +1371,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 34
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -2196,7 +2196,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -2240,7 +2240,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -2328,7 +2328,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
