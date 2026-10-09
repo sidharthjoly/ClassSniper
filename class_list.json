@@ -184,7 +184,7 @@
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 20
+    "capacity": 19
   },
   {
     "booking_id": "106book31060",
@@ -327,7 +327,7 @@
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 20
+    "capacity": 19
   },
   {
     "booking_id": "106book30838",
@@ -470,7 +470,7 @@
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 20
+    "capacity": 19
   },
   {
     "booking_id": "107book82499",
@@ -536,7 +536,7 @@
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 20
+    "capacity": 19
   },
   {
     "booking_id": "101book73615",
@@ -788,8 +788,8 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
+    "remaining_spots": 1,
+    "capacity": 19
   },
   {
     "booking_id": "105book37409",
@@ -1064,7 +1064,7 @@
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
     "remaining_spots": 0,
-    "capacity": 20
+    "capacity": 19
   },
   {
     "booking_id": "107book59336",
@@ -1327,8 +1327,8 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 20
+    "remaining_spots": 6,
+    "capacity": 19
   },
   {
     "booking_id": "101book60311",
@@ -1459,8 +1459,8 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 20
+    "remaining_spots": 0,
+    "capacity": 19
   },
   {
     "booking_id": "104book34705",
@@ -1613,8 +1613,8 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 20
+    "remaining_spots": 12,
+    "capacity": 19
   },
   {
     "booking_id": "106book38947",
@@ -1679,8 +1679,8 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 20
+    "remaining_spots": 18,
+    "capacity": 19
   },
   {
     "booking_id": "105book37112",
@@ -1844,8 +1844,8 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 20
+    "remaining_spots": 14,
+    "capacity": 19
   },
   {
     "booking_id": "103book49570",
@@ -2009,8 +2009,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 20
+    "remaining_spots": 15,
+    "capacity": 19
   },
   {
     "booking_id": "105book37566",
@@ -2284,8 +2284,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 20
+    "remaining_spots": 17,
+    "capacity": 19
   },
   {
     "booking_id": "105book47778",
@@ -2383,8 +2383,8 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 20
+    "remaining_spots": 18,
+    "capacity": 19
   },
   {
     "booking_id": "105book63053",
@@ -2482,8 +2482,8 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 19,
+    "capacity": 19
   },
   {
     "booking_id": "103book49466",
@@ -2559,8 +2559,8 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 19,
+    "capacity": 19
   },
   {
     "booking_id": "105book36956",
@@ -2823,8 +2823,8 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 19,
+    "capacity": 19
   },
   {
     "booking_id": "101book58709",
@@ -3054,8 +3054,8 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 19,
+    "capacity": 19
   },
   {
     "booking_id": "105book32390",
@@ -3274,8 +3274,8 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 19,
+    "capacity": 19
   },
   {
     "booking_id": "106book64244",
