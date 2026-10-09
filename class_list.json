@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book65474",
-    "date": "2026-10-11",
-    "time": "7:00 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 31
-  },
-  {
     "booking_id": "106book73310",
     "date": "2026-10-11",
     "time": "8:00 AM",
@@ -2658,7 +2647,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3373,7 +3362,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 23,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
