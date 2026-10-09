@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book64502",
-    "date": "2026-10-11",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book46832",
-    "date": "2026-10-11",
-    "time": "9:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book46884",
     "date": "2026-10-11",
     "time": "9:30 AM",
