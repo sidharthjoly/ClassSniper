@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book30838",
-    "date": "2026-10-11",
-    "time": "10:10 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book30369",
     "date": "2026-10-11",
     "time": "10:15 AM",
