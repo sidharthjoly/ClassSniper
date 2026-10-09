@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55412",
-    "date": "2026-10-10",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book65474",
     "date": "2026-10-11",
     "time": "7:00 AM",
@@ -601,7 +590,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ivan Iglesias Garcia",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 23
   },
   {
@@ -1833,7 +1822,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
