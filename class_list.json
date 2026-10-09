@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book31060",
-    "date": "2026-10-11",
-    "time": "9:10 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book64502",
     "date": "2026-10-11",
     "time": "9:15 AM",
@@ -2031,7 +2020,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
