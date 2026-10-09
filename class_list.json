@@ -3142,7 +3142,7 @@
     "class_type": "Spin Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 40
   },
   {
@@ -3531,12 +3531,12 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book52546",
+    "booking_id": "103book87826",
     "date": "2026-10-13",
     "time": "6:00 AM",
-    "name": "Limitless",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -3861,12 +3861,12 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book52599",
+    "booking_id": "103book87931",
     "date": "2026-10-13",
     "time": "7:00 AM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -4004,12 +4004,12 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book64185",
+    "booking_id": "101book94479",
     "date": "2026-10-13",
     "time": "7:15 AM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Angela Aho",
+    "name": "Strong",
+    "class_type": "S&C Series",
+    "instructor": "Enif Alvarez",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -4147,17 +4147,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book62813",
-    "date": "2026-10-13",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book49990",
     "date": "2026-10-13",
     "time": "8:00 AM",
@@ -4167,6 +4156,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book87671",
+    "date": "2026-10-13",
+    "time": "8:00 AM",
+    "name": "Strong",
+    "class_type": "S&C Series",
+    "instructor": "Jorge Garcia Rodriguez",
+    "location": "Marrickville",
+    "remaining_spots": 26,
+    "capacity": 26
   },
   {
     "booking_id": "106book37097",
@@ -10631,7 +10631,7 @@
     "time": "5:00 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "George Malouf",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -10884,7 +10884,7 @@
     "time": "6:00 PM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "George Malouf",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -11192,7 +11192,7 @@
     "time": "7:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "George Malouf",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -11467,7 +11467,7 @@
     "time": "6:00 AM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Honor Mills",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -11753,7 +11753,7 @@
     "time": "7:00 AM",
     "name": "Strong",
     "class_type": "S&C Series",
-    "instructor": "Honor Mills",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -12028,7 +12028,7 @@
     "time": "8:00 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Honor Mills",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -12314,7 +12314,7 @@
     "time": "9:30 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Honor Mills",
+    "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -12472,17 +12472,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "103book58920",
-    "date": "2026-10-16",
-    "time": "10:30 AM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 26
   },
   {
     "booking_id": "103book80185",
@@ -13222,17 +13211,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "107book53355",
-    "date": "2026-10-16",
-    "time": "4:30 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book107387",
     "date": "2026-10-16",
     "time": "4:30 PM",
@@ -13396,17 +13374,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "107book53512",
-    "date": "2026-10-16",
-    "time": "5:30 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Alyssa Liem",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "107book86015",
@@ -16544,6 +16511,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "107book112296",
+    "date": "2026-10-19",
+    "time": "7:30 AM",
+    "name": "Surge",
+    "class_type": "Spin Series",
+    "instructor": "Eisha Liyanage",
+    "location": "North Sydney",
+    "remaining_spots": 40,
+    "capacity": 40
+  },
+  {
     "booking_id": "107book101833",
     "date": "2026-10-19",
     "time": "7:30 AM",
@@ -17059,6 +17037,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "103book88037",
+    "date": "2026-10-19",
+    "time": "10:30 AM",
+    "name": "Pump\u2019d",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Elizabeth Topfer",
+    "location": "Marrickville",
+    "remaining_spots": 26,
+    "capacity": 26
   },
   {
     "booking_id": "104book34810",
