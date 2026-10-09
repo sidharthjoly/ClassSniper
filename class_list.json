@@ -238,7 +238,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 32
   },
   {
@@ -700,7 +700,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sophia Rambaldini",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 19
   },
   {
@@ -733,7 +733,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -1074,7 +1074,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 32
   },
   {
@@ -3318,7 +3318,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill, James Wood",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
