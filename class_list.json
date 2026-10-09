@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book46675",
-    "date": "2026-10-11",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book65260",
-    "date": "2026-10-11",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43637",
-    "date": "2026-10-11",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book69236",
-    "date": "2026-10-11",
-    "time": "8:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "North Sydney",
-    "remaining_spots": 40,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book74132",
-    "date": "2026-10-11",
-    "time": "8:30 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Molly Williams",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "106book61862",
     "date": "2026-10-11",
     "time": "8:45 AM",
@@ -2988,7 +2933,7 @@
     "class_type": "S&C Series",
     "instructor": "Sean Grosvenor",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
