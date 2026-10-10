@@ -2394,7 +2394,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
@@ -2779,7 +2779,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 34
   },
   {
