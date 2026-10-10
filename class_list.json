@@ -964,7 +964,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -1239,7 +1239,7 @@
     "class_type": "S&C Series",
     "instructor": "Zoe Downing",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -3153,7 +3153,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -5243,7 +5243,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -5375,7 +5375,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -8712,6 +8712,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book88152",
+    "date": "2026-10-15",
+    "time": "8:00 AM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Nikki Erdos",
+    "location": "Marrickville",
+    "remaining_spots": 26,
+    "capacity": 26
+  },
+  {
     "booking_id": "106book80422",
     "date": "2026-10-15",
     "time": "8:00 AM",
@@ -10659,17 +10670,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "106book77865",
-    "date": "2026-10-16",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book59132",
     "date": "2026-10-16",
     "time": "5:30 AM",
@@ -10763,7 +10763,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -11049,7 +11049,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -12540,6 +12540,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "106book82318",
+    "date": "2026-10-16",
+    "time": "5:00 PM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Mary Mikhail",
+    "location": "Merrylands",
+    "remaining_spots": 0,
+    "capacity": 33
+  },
+  {
     "booking_id": "104book40157",
     "date": "2026-10-16",
     "time": "5:00 PM",
@@ -12692,6 +12703,17 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "106book82570",
+    "date": "2026-10-16",
+    "time": "6:00 PM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Mary Mikhail",
+    "location": "Merrylands",
+    "remaining_spots": 0,
+    "capacity": 33
   },
   {
     "booking_id": "106book72481",
