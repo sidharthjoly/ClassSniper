@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book52068",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Barre HIIT",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book51189",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book78216",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book50144",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 14,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book64358",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book63072",
-    "date": "2026-10-13",
-    "time": "8:15 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 26
-  },
-  {
     "booking_id": "107book103267",
     "date": "2026-10-13",
     "time": "8:30 AM",
@@ -458,7 +392,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 22
   },
   {
@@ -3043,7 +2977,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 33
   },
   {
