@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book54806",
-    "date": "2026-10-13",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book52708",
-    "date": "2026-10-13",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 34,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book53888",
-    "date": "2026-10-13",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Marrickville",
-    "remaining_spots": 4,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book103477",
-    "date": "2026-10-13",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63707",
-    "date": "2026-10-13",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book38460",
     "date": "2026-10-13",
     "time": "12:00 PM",
@@ -4077,7 +4022,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -4099,7 +4044,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
