@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book36033",
-    "date": "2026-10-13",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sarah Goring",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book62012",
-    "date": "2026-10-13",
-    "time": "12:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book63972",
-    "date": "2026-10-13",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book68194",
     "date": "2026-10-13",
     "time": "12:30 PM",
@@ -4000,7 +3967,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -4077,7 +4044,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -4088,7 +4055,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
