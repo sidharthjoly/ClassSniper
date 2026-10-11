@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book40110",
-    "date": "2026-10-13",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book70919",
-    "date": "2026-10-13",
-    "time": "5:45 AM",
-    "name": "One Run North Sydney",
-    "class_type": "One Run",
-    "instructor": "Jay Haydock",
-    "location": "North Sydney",
-    "remaining_spots": 47,
-    "capacity": 50
-  },
-  {
     "booking_id": "101book64305",
     "date": "2026-10-13",
     "time": "5:50 AM",
@@ -1019,7 +997,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
