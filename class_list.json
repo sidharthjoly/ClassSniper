@@ -381,7 +381,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -975,7 +975,7 @@
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -1140,7 +1140,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -2350,7 +2350,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 35
   },
   {
@@ -3505,7 +3505,7 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 34
   },
   {
@@ -3846,7 +3846,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
