@@ -2698,7 +2698,7 @@
     "booking_id": "107book63428",
     "date": "2026-10-15",
     "time": "5:30 AM",
-    "name": "The Zone.",
+    "name": "Squad",
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
@@ -4473,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
