@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49348",
-    "date": "2026-10-14",
-    "time": "12:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book40102",
     "date": "2026-10-14",
     "time": "12:15 PM",
@@ -3890,7 +3879,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 33
   },
   {
