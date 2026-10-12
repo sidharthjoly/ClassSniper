@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book40726",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 2,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book40613",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book41141",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book42684",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book24199",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book23704",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 8
-  },
-  {
-    "booking_id": "104book37797",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book111633",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Jessie Dyer",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book49686",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Patrick Fox",
-    "location": "North Sydney",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book65738",
-    "date": "2026-10-14",
-    "time": "12:00 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 34
-  },
-  {
     "booking_id": "101book49348",
     "date": "2026-10-14",
     "time": "12:10 PM",
@@ -2427,7 +2317,7 @@
     "class_type": "Mat Series",
     "instructor": "Tess Williams",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -2999,7 +2889,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
@@ -3813,7 +3703,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -3923,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -3967,7 +3857,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
@@ -3978,7 +3868,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
@@ -4022,7 +3912,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 26,
     "capacity": 28
   },
   {
@@ -4033,7 +3923,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4044,7 +3934,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
