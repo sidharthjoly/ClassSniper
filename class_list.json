@@ -1910,7 +1910,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -3549,7 +3549,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 8
   },
   {
@@ -3560,7 +3560,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
