@@ -5133,7 +5133,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -5243,7 +5243,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -7194,17 +7194,6 @@
     "capacity": 38
   },
   {
-    "booking_id": "103book59028",
-    "date": "2026-10-16",
-    "time": "5:30 PM",
-    "name": "Reggaeton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book34975",
     "date": "2026-10-16",
     "time": "5:30 PM",
@@ -7324,17 +7313,6 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "103book59392",
-    "date": "2026-10-16",
-    "time": "6:30 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book35275",
@@ -17292,17 +17270,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "105book34655",
-    "date": "2026-10-21",
-    "time": "6:00 PM",
-    "name": "Reggeaton",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "103book55727",
     "date": "2026-10-21",
     "time": "6:00 PM",
@@ -17598,17 +17565,6 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "105book34498",
-    "date": "2026-10-21",
-    "time": "7:00 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Maria Camila Silva Lopez",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "106book41676",
