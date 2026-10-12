@@ -1767,7 +1767,7 @@
     "class_type": "Reformer Series",
     "instructor": "Chelsea Bayntun",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2240,7 +2240,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 33
   },
   {
@@ -4473,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -4484,7 +4484,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -5087,7 +5087,7 @@
     "time": "7:00 PM",
     "name": "Heels",
     "class_type": "Dance Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Kristine Gimenez",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
