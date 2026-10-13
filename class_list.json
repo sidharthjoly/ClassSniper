@@ -3428,7 +3428,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 26
   },
   {
@@ -3439,7 +3439,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
@@ -3659,7 +3659,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 33
   },
   {
