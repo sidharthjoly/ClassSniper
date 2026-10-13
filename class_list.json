@@ -1,126 +1,5 @@
 [
   {
-    "booking_id": "105book40154",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bella Molloy-Van de Klundert",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book39971",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book55154",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book56593",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book40971",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36152",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Coti Cibils",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book38109",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book63798",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book49118",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Taniesha Walker",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66045",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Ariel Comeau",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 25
-  },
-  {
-    "booking_id": "101book64679",
-    "date": "2026-10-14",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book29191",
     "date": "2026-10-14",
     "time": "5:15 PM",
@@ -1844,7 +1723,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -2922,7 +2801,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 23
   },
   {
@@ -3186,7 +3065,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -3494,7 +3373,7 @@
     "class_type": "Mat Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
@@ -4418,7 +4297,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
