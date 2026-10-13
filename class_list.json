@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68262",
-    "date": "2026-10-15",
-    "time": "5:50 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41823",
     "date": "2026-10-15",
     "time": "6:00 AM",
