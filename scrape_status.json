@@ -1,12 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-10-14T02:36:23.945857+11:00",
-  "class_count": 1589,
+  "scraped_at": "2026-10-14T02:37:21.275628+11:00",
+  "class_count": 1799,
   "centers_total": 10,
-  "centers_failed": [
-    "Newtown"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
