@@ -3274,7 +3274,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
@@ -3384,7 +3384,7 @@
     "class_type": "Creche",
     "instructor": "Medina Sadiki",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -3461,7 +3461,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 34
   },
   {
