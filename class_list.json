@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book59893",
-    "date": "2026-10-14",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 35
-  },
-  {
-    "booking_id": "107book49635",
-    "date": "2026-10-14",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Joey Bowling",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67294",
-    "date": "2026-10-14",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book54784",
     "date": "2026-10-14",
     "time": "7:30 PM",
@@ -1635,7 +1602,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 34
   },
   {
@@ -4176,7 +4143,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -4286,7 +4253,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
