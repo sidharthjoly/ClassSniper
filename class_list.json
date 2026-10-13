@@ -106,7 +106,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -4715,7 +4715,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Marrickville",
-    "remaining_spots": 32,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -11495,6 +11495,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "106book83203",
+    "date": "2026-10-20",
+    "time": "6:00 PM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Bridget Surdich",
+    "location": "Merrylands",
+    "remaining_spots": 33,
+    "capacity": 33
+  },
+  {
     "booking_id": "104book50761",
     "date": "2026-10-20",
     "time": "6:00 PM",
@@ -11691,6 +11702,17 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
+  },
+  {
+    "booking_id": "106book83308",
+    "date": "2026-10-20",
+    "time": "7:00 PM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Bridget Surdich",
+    "location": "Merrylands",
+    "remaining_spots": 33,
+    "capacity": 33
   },
   {
     "booking_id": "104book36210",
