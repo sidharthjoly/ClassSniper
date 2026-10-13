@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book44780",
-    "date": "2026-10-15",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book57536",
     "date": "2026-10-15",
     "time": "5:30 AM",
@@ -4737,7 +4726,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
