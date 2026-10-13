@@ -194,7 +194,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -1536,7 +1536,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 34
   },
   {
@@ -1800,7 +1800,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -4517,7 +4517,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -7425,17 +7425,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "106book38003",
-    "date": "2026-10-19",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "106book39054",
     "date": "2026-10-19",
     "time": "6:45 AM",
@@ -7632,17 +7621,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "106book66772",
-    "date": "2026-10-19",
-    "time": "7:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "104book34549",
@@ -8589,17 +8567,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "106book38214",
-    "date": "2026-10-19",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "105book63054",
@@ -12815,17 +12782,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "105book41355",
-    "date": "2026-10-21",
-    "time": "10:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book39365",
     "date": "2026-10-21",
     "time": "10:00 AM",
@@ -14144,6 +14100,17 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "106book82993",
+    "date": "2026-10-21",
+    "time": "7:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Maria Sahyoun",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "107book105103",
