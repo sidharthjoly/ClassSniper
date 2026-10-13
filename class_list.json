@@ -414,7 +414,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -755,7 +755,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -832,7 +832,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -3527,7 +3527,7 @@
     "class_type": "Barre Series",
     "instructor": "Sarah Goring",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -3538,7 +3538,7 @@
     "class_type": "Spin Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 40
   },
   {
