@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book67631",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book42083",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book57118",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 35,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book39217",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book89259",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book69103",
-    "date": "2026-10-15",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41979",
     "date": "2026-10-15",
     "time": "4:10 PM",
@@ -513,7 +447,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1690,7 +1624,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 18
   },
   {
@@ -2471,7 +2405,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -3109,7 +3043,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 33
   },
   {
@@ -3142,7 +3076,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3483,7 +3417,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 22
   },
   {
@@ -3868,7 +3802,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -3879,7 +3813,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
@@ -3912,7 +3846,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
@@ -3978,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -3989,7 +3923,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -4000,7 +3934,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
