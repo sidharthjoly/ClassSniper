@@ -667,7 +667,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 28
   },
   {
@@ -1360,7 +1360,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -3692,7 +3692,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
