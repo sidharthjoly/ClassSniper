@@ -42,9 +42,16 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Setup Python
+        # The browser cache below doesn't cover pip: the 48 MB Playwright wheel
+        # still came from PyPI every run, and on Oct 14 that alone took over six
+        # minutes. Caching pip's downloads keys on requirements.txt, so a version
+        # bump fetches fresh. Same 2-minute cap on a stuck restore as the browsers.
         uses: actions/setup-python@v7
+        env:
+          SEGMENT_DOWNLOAD_TIMEOUT_MINS: 2
         with:
           python-version: '3.11'
+          cache: 'pip'
       - name: Resolve Browser Cache Key
         id: browser-cache-key
         # The pinned Playwright version decides which Chromium build gets
