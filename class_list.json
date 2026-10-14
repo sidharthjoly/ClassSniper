@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59600",
-    "date": "2026-10-16",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book89497",
-    "date": "2026-10-16",
-    "time": "10:45 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book40489",
     "date": "2026-10-16",
     "time": "11:00 AM",
