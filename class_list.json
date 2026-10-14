@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59132",
-    "date": "2026-10-16",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106637",
-    "date": "2026-10-16",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book46098",
     "date": "2026-10-16",
     "time": "5:45 AM",
