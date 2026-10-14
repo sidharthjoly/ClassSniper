@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book44710",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 3,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book80365",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book59444",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book39841",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book107177",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book71386",
-    "date": "2026-10-16",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book44968",
     "date": "2026-10-16",
     "time": "12:00 PM",
@@ -1998,7 +1932,7 @@
     "class_type": "Dance Series",
     "instructor": "Whyan Chen",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
