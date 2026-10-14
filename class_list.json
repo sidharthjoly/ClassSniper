@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41770",
-    "date": "2026-10-15",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59132",
     "date": "2026-10-16",
     "time": "5:30 AM",
@@ -3153,7 +3142,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3549,7 +3538,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -3648,7 +3637,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
