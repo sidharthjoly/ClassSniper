@@ -865,7 +865,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 22
   },
   {
@@ -997,7 +997,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -4587,6 +4587,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book100234",
+    "date": "2026-10-19",
+    "time": "5:45 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book37269",
     "date": "2026-10-19",
     "time": "6:00 AM",
@@ -4818,6 +4829,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book100326",
+    "date": "2026-10-19",
+    "time": "6:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "106book39054",
     "date": "2026-10-19",
     "time": "6:45 AM",
@@ -4981,6 +5003,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "101book100045",
+    "date": "2026-10-19",
+    "time": "7:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "101book59029",
@@ -5214,6 +5247,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book100420",
+    "date": "2026-10-19",
+    "time": "8:30 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Zennah Chaudri",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "107book59441",
     "date": "2026-10-19",
     "time": "8:40 AM",
@@ -5322,6 +5366,17 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book100512",
+    "date": "2026-10-19",
+    "time": "9:20 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Zennah Chaudri",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "103book49259",
@@ -5478,6 +5533,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book100604",
+    "date": "2026-10-19",
+    "time": "10:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Zennah Chaudri",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "103book88037",
     "date": "2026-10-19",
     "time": "10:30 AM",
@@ -5619,6 +5685,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book100696",
+    "date": "2026-10-19",
+    "time": "11:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book62949",
@@ -5808,6 +5885,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "101book100788",
+    "date": "2026-10-19",
+    "time": "12:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book59081",
     "date": "2026-10-19",
     "time": "12:15 PM",
@@ -5918,6 +6006,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book100137",
+    "date": "2026-10-19",
+    "time": "1:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book58870",
     "date": "2026-10-19",
     "time": "1:15 PM",
@@ -5982,6 +6081,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book101029",
+    "date": "2026-10-19",
+    "time": "3:45 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Montana Cominos",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book37515",
@@ -6092,6 +6202,17 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "101book101121",
+    "date": "2026-10-19",
+    "time": "4:45 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Montana Cominos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book36957",
@@ -6369,6 +6490,17 @@
     "capacity": 22
   },
   {
+    "booking_id": "101book100880",
+    "date": "2026-10-19",
+    "time": "5:45 PM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Montana Cominos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book37061",
     "date": "2026-10-19",
     "time": "6:00 PM",
@@ -6639,6 +6771,17 @@
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "101book101213",
+    "date": "2026-10-19",
+    "time": "6:35 PM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Montana Cominos",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -6974,6 +7117,17 @@
     "capacity": 50
   },
   {
+    "booking_id": "101book100972",
+    "date": "2026-10-20",
+    "time": "5:45 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book39550",
     "date": "2026-10-20",
     "time": "6:00 AM",
@@ -7238,6 +7392,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "101book101305",
+    "date": "2026-10-20",
+    "time": "6:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book64415",
     "date": "2026-10-20",
     "time": "6:30 AM",
@@ -7445,6 +7610,17 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book101397",
+    "date": "2026-10-20",
+    "time": "7:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "101book64186",
@@ -7667,6 +7843,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book101464",
+    "date": "2026-10-20",
+    "time": "8:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book63073",
     "date": "2026-10-20",
     "time": "8:15 AM",
@@ -7821,6 +8008,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book101556",
+    "date": "2026-10-20",
+    "time": "9:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Simon Corfield",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "103book54575",
     "date": "2026-10-20",
     "time": "9:30 AM",
@@ -7942,6 +8140,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book101940",
+    "date": "2026-10-20",
+    "time": "10:15 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Abigail Rose",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "103book49832",
     "date": "2026-10-20",
     "time": "10:30 AM",
@@ -8036,6 +8245,17 @@
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Mia Hamilton",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "101book102032",
+    "date": "2026-10-20",
+    "time": "11:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -8250,6 +8470,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book102124",
+    "date": "2026-10-20",
+    "time": "12:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Abigail Rose",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book68195",
     "date": "2026-10-20",
     "time": "12:30 PM",
@@ -8360,6 +8591,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book101689",
+    "date": "2026-10-20",
+    "time": "1:15 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Abigail Rose",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book63392",
     "date": "2026-10-20",
     "time": "1:30 PM",
@@ -8424,6 +8666,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book101781",
+    "date": "2026-10-20",
+    "time": "3:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book38196",
@@ -8567,6 +8820,17 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "101book102473",
+    "date": "2026-10-20",
+    "time": "4:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book38353",
@@ -8822,6 +9086,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "101book102565",
+    "date": "2026-10-20",
+    "time": "5:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "105book38090",
     "date": "2026-10-20",
     "time": "6:00 PM",
@@ -9037,6 +9312,17 @@
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "101book102216",
+    "date": "2026-10-20",
+    "time": "6:35 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -10587,7 +10873,7 @@
     "time": "12:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Carlos Oliveira",
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
@@ -11585,7 +11871,7 @@
   {
     "booking_id": "101book68263",
     "date": "2026-10-22",
-    "time": "5:50 AM",
+    "time": "5:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
@@ -11880,6 +12166,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "101book68525",
+    "date": "2026-10-22",
+    "time": "6:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jordanna Chapman",
+    "location": "Surry Hills",
+    "remaining_spots": 19,
+    "capacity": 20
+  },
+  {
     "booking_id": "106book45614",
     "date": "2026-10-22",
     "time": "6:45 AM",
@@ -11889,17 +12186,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "101book68525",
-    "date": "2026-10-22",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 20
   },
   {
     "booking_id": "105book42587",
@@ -12078,6 +12364,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book80025",
+    "date": "2026-10-22",
+    "time": "7:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Jordanna Chapman",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "105book33377",
     "date": "2026-10-22",
     "time": "7:30 AM",
@@ -12153,17 +12450,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "101book80025",
-    "date": "2026-10-22",
-    "time": "7:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book42535",
@@ -12441,17 +12727,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book68630",
-    "date": "2026-10-22",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book57015",
     "date": "2026-10-22",
     "time": "9:15 AM",
@@ -12472,6 +12747,17 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book68630",
+    "date": "2026-10-22",
+    "time": "9:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jordanna Chapman",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book99228",
@@ -12527,17 +12813,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "101book68998",
-    "date": "2026-10-22",
-    "time": "9:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book64107",
@@ -12661,6 +12936,17 @@
     "capacity": 33
   },
   {
+    "booking_id": "101book69051",
+    "date": "2026-10-22",
+    "time": "10:15 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "104book38531",
     "date": "2026-10-22",
     "time": "10:30 AM",
@@ -12681,17 +12967,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book68738",
-    "date": "2026-10-22",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "101book69157",
@@ -12793,6 +13068,17 @@
     "capacity": 38
   },
   {
+    "booking_id": "101book68788",
+    "date": "2026-10-22",
+    "time": "11:15 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "105book56025",
     "date": "2026-10-22",
     "time": "11:30 AM",
@@ -12835,17 +13121,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book69051",
-    "date": "2026-10-22",
-    "time": "11:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book42188",
@@ -12991,7 +13266,7 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book68788",
+    "booking_id": "101book68948",
     "date": "2026-10-22",
     "time": "12:15 PM",
     "name": "Reformer: Signature",
@@ -13090,17 +13365,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book68948",
-    "date": "2026-10-22",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book65944",
     "date": "2026-10-22",
     "time": "1:15 PM",
@@ -13132,6 +13396,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book99550",
+    "date": "2026-10-22",
+    "time": "1:15 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book64212",
@@ -13191,7 +13466,7 @@
   {
     "booking_id": "101book68896",
     "date": "2026-10-22",
-    "time": "2:00 PM",
+    "time": "2:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
@@ -13233,17 +13508,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book68841",
-    "date": "2026-10-22",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book56751",
     "date": "2026-10-22",
     "time": "3:30 PM",
@@ -13253,6 +13517,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book99642",
+    "date": "2026-10-22",
+    "time": "3:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book42084",
@@ -13295,17 +13570,6 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book69104",
-    "date": "2026-10-22",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
   },
@@ -13387,15 +13651,15 @@
     "capacity": 24
   },
   {
-    "booking_id": "101book68136",
+    "booking_id": "101book99321",
     "date": "2026-10-22",
     "time": "4:45 PM",
-    "name": "Reformer: Signature",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
+    "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book43198",
@@ -13629,17 +13893,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book69894",
-    "date": "2026-10-22",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book42483",
     "date": "2026-10-22",
     "time": "5:45 PM",
@@ -13660,6 +13913,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "101book99813",
+    "date": "2026-10-22",
+    "time": "5:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Alison Bruton",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book34195",
@@ -13816,17 +14080,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "101book69947",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book42135",
     "date": "2026-10-22",
     "time": "6:30 PM",
@@ -13921,6 +14174,17 @@
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "101book99738",
+    "date": "2026-10-22",
+    "time": "6:35 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -14025,17 +14289,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "101book69368",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book54300",
     "date": "2026-10-22",
     "time": "7:15 PM",
@@ -14078,6 +14331,17 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book99906",
+    "date": "2026-10-22",
+    "time": "7:20 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Rashmi Kulkarni",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "103book78112",
