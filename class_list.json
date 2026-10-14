@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book42134",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 25,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book64680",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book58710",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book54625",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 23
-  },
-  {
-    "booking_id": "106book44727",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "104book30807",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 4,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book43371",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "North Sydney",
-    "remaining_spots": 23,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book106427",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book69840",
-    "date": "2026-10-15",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book55678",
     "date": "2026-10-15",
     "time": "6:45 PM",
@@ -3263,7 +3164,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 34
   },
   {
@@ -3461,7 +3362,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 28
   },
   {
@@ -3824,7 +3725,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -3868,7 +3769,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
