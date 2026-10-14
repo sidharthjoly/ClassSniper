@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book64039",
-    "date": "2026-10-15",
-    "time": "7:20 PM",
-    "name": "Yoga: Restore & Sound",
-    "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book58815",
     "date": "2026-10-15",
     "time": "7:30 PM",
@@ -3593,7 +3582,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
