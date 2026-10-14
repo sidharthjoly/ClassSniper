@@ -216,7 +216,7 @@
     "class_type": "Mat Series",
     "instructor": "Danielle Panayi",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 38
   },
   {
@@ -1393,7 +1393,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 34
   },
   {
@@ -1613,7 +1613,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -2526,7 +2526,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
@@ -3201,17 +3201,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "105book19574",
-    "date": "2026-10-17",
-    "time": "11:00 AM",
-    "name": "One Coach Academy",
-    "class_type": "OneCoach",
-    "instructor": "OP Staff",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book70032",
     "date": "2026-10-17",
     "time": "11:00 AM",
@@ -3560,7 +3549,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -17411,17 +17400,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "105book19575",
-    "date": "2026-10-24",
-    "time": "11:00 AM",
-    "name": "One Coach Academy",
-    "class_type": "OneCoach",
-    "instructor": "OP Staff",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book72324",
