@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book82017",
-    "date": "2026-10-17",
-    "time": "4:30 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book72882",
-    "date": "2026-10-17",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book55413",
     "date": "2026-10-17",
     "time": "5:00 PM",
@@ -293,7 +271,7 @@
     "class_type": "Spin Series",
     "instructor": "Alexandra Doddridge",
     "location": "North Sydney",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 40
   },
   {
@@ -942,7 +920,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -1140,7 +1118,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -1294,7 +1272,7 @@
     "class_type": "Spin Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 40
   },
   {
@@ -1349,7 +1327,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -2128,7 +2106,7 @@
     "time": "12:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Kelly Medina",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -2271,7 +2249,7 @@
     "time": "1:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Kelly Medina",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
