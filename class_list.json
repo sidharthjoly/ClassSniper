@@ -172,7 +172,7 @@
     "class_type": "Spin Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 40
   },
   {
@@ -1723,7 +1723,7 @@
     "class_type": "Harmony Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 34
   },
   {
@@ -1954,7 +1954,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
@@ -2350,7 +2350,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
