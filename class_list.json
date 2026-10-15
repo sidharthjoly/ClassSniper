@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book70811",
-    "date": "2026-10-16",
-    "time": "6:05 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book60490",
     "date": "2026-10-16",
     "time": "6:15 PM",
@@ -2141,7 +2130,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
