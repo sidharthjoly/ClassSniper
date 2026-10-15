@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book70864",
-    "date": "2026-10-16",
-    "time": "5:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book44606",
     "date": "2026-10-16",
     "time": "6:00 PM",
@@ -1008,7 +997,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -1547,7 +1536,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
@@ -1657,7 +1646,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 38
   },
   {
@@ -2207,7 +2196,7 @@
     "class_type": "Mat Series",
     "instructor": "Joe Jackson",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 38
   },
   {
@@ -2295,7 +2284,7 @@
     "class_type": "Mat Series",
     "instructor": "Joe Jackson",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 34,
     "capacity": 38
   },
   {
