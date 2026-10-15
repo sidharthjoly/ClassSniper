@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book107597",
-    "date": "2026-10-16",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book45805",
     "date": "2026-10-17",
     "time": "7:00 AM",
@@ -1448,7 +1437,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ivan Iglesias Garcia",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -2185,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
