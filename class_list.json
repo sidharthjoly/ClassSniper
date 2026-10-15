@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book72122",
-    "date": "2026-10-17",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book72936",
-    "date": "2026-10-17",
-    "time": "2:30 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book61481",
     "date": "2026-10-17",
     "time": "3:00 PM",
@@ -1470,7 +1448,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
