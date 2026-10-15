@@ -1228,7 +1228,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -1382,7 +1382,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
@@ -2141,7 +2141,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -2273,7 +2273,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -4953,7 +4953,7 @@
     "booking_id": "103book50573",
     "date": "2026-10-19",
     "time": "7:30 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
@@ -7089,7 +7089,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Luke Lavender",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -7353,7 +7353,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Luke Lavender",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -11946,6 +11946,17 @@
     "capacity": 38
   },
   {
+    "booking_id": "104book64571",
+    "date": "2026-10-22",
+    "time": "4:15 PM",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Anton Anton",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "101book68030",
     "date": "2026-10-22",
     "time": "4:15 PM",
@@ -12133,6 +12144,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "104book64863",
+    "date": "2026-10-22",
+    "time": "5:15 PM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Anton Anton",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "107book65733",
     "date": "2026-10-22",
     "time": "5:15 PM",
@@ -12204,7 +12226,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Luke Lavender",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -12334,7 +12356,7 @@
     "booking_id": "103book58555",
     "date": "2026-10-22",
     "time": "6:00 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
@@ -12375,17 +12397,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book55159",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book64198",
     "date": "2026-10-22",
     "time": "6:00 PM",
@@ -12406,6 +12417,17 @@
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
+  },
+  {
+    "booking_id": "104book55159",
+    "date": "2026-10-22",
+    "time": "6:15 PM",
+    "name": "YogaBeats",
+    "class_type": "Yoga Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "107book65576",
@@ -12490,7 +12512,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Luke Lavender",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -12617,17 +12639,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book55059",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "104book38958",
     "date": "2026-10-22",
     "time": "7:00 PM",
@@ -12661,6 +12672,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "104book55059",
+    "date": "2026-10-22",
+    "time": "7:15 PM",
+    "name": "Burlesque",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "107book66051",
     "date": "2026-10-22",
     "time": "7:15 PM",
@@ -12686,7 +12708,7 @@
     "booking_id": "107book64040",
     "date": "2026-10-22",
     "time": "7:20 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
@@ -14897,7 +14919,7 @@
     "booking_id": "103book60805",
     "date": "2026-10-23",
     "time": "7:00 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Marrickville",
@@ -16228,7 +16250,7 @@
     "booking_id": "104book42069",
     "date": "2026-10-24",
     "time": "11:45 AM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Chanel Leaudais",
     "location": "Newtown",
@@ -16459,7 +16481,7 @@
     "booking_id": "104book44900",
     "date": "2026-10-24",
     "time": "2:15 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Newtown",
@@ -16580,7 +16602,7 @@
     "booking_id": "107book55414",
     "date": "2026-10-24",
     "time": "5:00 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "North Sydney",
@@ -17152,7 +17174,7 @@
     "booking_id": "103book85635",
     "date": "2026-10-25",
     "time": "1:00 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
@@ -17306,7 +17328,7 @@
     "booking_id": "107book55888",
     "date": "2026-10-25",
     "time": "5:15 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
