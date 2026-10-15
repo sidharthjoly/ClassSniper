@@ -1591,7 +1591,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -2273,7 +2273,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -2607,6 +2607,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book106649",
+    "date": "2026-10-19",
+    "time": "6:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Vanessa Liu",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book35664",
     "date": "2026-10-19",
     "time": "6:30 AM",
@@ -2871,6 +2882,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book106650",
+    "date": "2026-10-19",
+    "time": "7:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Vanessa Liu",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book59029",
     "date": "2026-10-19",
     "time": "7:15 AM",
@@ -3069,6 +3091,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "101book106930",
+    "date": "2026-10-19",
+    "time": "8:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Vanessa Liu",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "104book34706",
     "date": "2026-10-19",
     "time": "8:30 AM",
@@ -3107,7 +3140,7 @@
     "time": "8:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -3223,12 +3256,23 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book106651",
+    "date": "2026-10-19",
+    "time": "9:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Vanessa Liu",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book100512",
     "date": "2026-10-19",
     "time": "9:20 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -3393,7 +3437,7 @@
     "time": "10:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
+    "instructor": "Abigail Rose",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -3529,6 +3573,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "101book104170",
+    "date": "2026-10-19",
+    "time": "11:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "101book58765",
@@ -3738,6 +3793,17 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
+  },
+  {
+    "booking_id": "101book104462",
+    "date": "2026-10-19",
+    "time": "12:15 PM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "101book100788",
@@ -4015,6 +4081,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "101book104311",
+    "date": "2026-10-19",
+    "time": "4:15 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Tim Fiorentino",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book34759",
     "date": "2026-10-19",
     "time": "4:30 PM",
@@ -4246,6 +4323,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "101book104603",
+    "date": "2026-10-19",
+    "time": "5:15 PM",
+    "name": "Yoga: Origins",
+    "class_type": "Yoga Series",
+    "instructor": "Tim Fiorentino",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book32469",
     "date": "2026-10-19",
     "time": "5:30 PM",
@@ -4464,6 +4552,17 @@
     "location": "Surry Hills",
     "remaining_spots": 25,
     "capacity": 25
+  },
+  {
+    "booking_id": "101book104695",
+    "date": "2026-10-19",
+    "time": "6:05 PM",
+    "name": "Breathwork: Deep Calm (Evening)",
+    "class_type": "Harmony Series",
+    "instructor": "Lauren Wainer",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book28280",
@@ -4805,6 +4904,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book104554",
+    "date": "2026-10-19",
+    "time": "7:15 PM",
+    "name": "Sound Healing",
+    "class_type": "Harmony Series",
+    "instructor": "Lihini Rose",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book50628",
@@ -5181,6 +5291,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book104846",
+    "date": "2026-10-20",
+    "time": "6:15 AM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book31667",
     "date": "2026-10-20",
     "time": "6:30 AM",
@@ -5478,6 +5599,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book104938",
+    "date": "2026-10-20",
+    "time": "7:15 AM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book64186",
     "date": "2026-10-20",
     "time": "7:15 AM",
@@ -5698,6 +5830,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book105030",
+    "date": "2026-10-20",
+    "time": "8:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eleni Vlahos",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book101464",
     "date": "2026-10-20",
     "time": "8:15 AM",
@@ -5872,6 +6015,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "101book104787",
+    "date": "2026-10-20",
+    "time": "9:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Julieanne Nicolas",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book54575",
@@ -6105,6 +6259,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book105281",
+    "date": "2026-10-20",
+    "time": "11:15 AM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book102032",
     "date": "2026-10-20",
     "time": "11:15 AM",
@@ -6325,6 +6490,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book105373",
+    "date": "2026-10-20",
+    "time": "12:15 PM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book102124",
     "date": "2026-10-20",
     "time": "12:15 PM",
@@ -6455,6 +6631,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "101book105527",
+    "date": "2026-10-20",
+    "time": "1:15 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book63392",
@@ -6609,6 +6796,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book106191",
+    "date": "2026-10-20",
+    "time": "4:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book51960",
@@ -6829,6 +7027,17 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book106295",
+    "date": "2026-10-20",
+    "time": "5:15 PM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "101book59763",
@@ -7117,6 +7326,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book106545",
+    "date": "2026-10-20",
+    "time": "6:15 PM",
+    "name": "Yoga: Empower",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Patterson",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book31867",
     "date": "2026-10-20",
     "time": "6:30 PM",
@@ -7304,6 +7524,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book106837",
+    "date": "2026-10-20",
+    "time": "7:15 PM",
+    "name": "Yoga: Restore",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Patterson",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book61416",
     "date": "2026-10-20",
     "time": "7:15 PM",
@@ -7412,6 +7643,17 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book102659",
+    "date": "2026-10-21",
+    "time": "5:45 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book27984",
@@ -7623,6 +7865,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book105619",
+    "date": "2026-10-21",
+    "time": "6:15 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Mackenzie Sengotta",
+    "location": "Surry Hills",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "105book40207",
     "date": "2026-10-21",
     "time": "6:30 AM",
@@ -7700,17 +7953,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book65156",
-    "date": "2026-10-21",
-    "time": "6:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book43409",
     "date": "2026-10-21",
     "time": "6:45 AM",
@@ -7731,6 +7973,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "101book102751",
+    "date": "2026-10-21",
+    "time": "6:45 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "107book51549",
@@ -7898,6 +8151,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book105681",
+    "date": "2026-10-21",
+    "time": "7:15 AM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Mackenzie Sengotta",
+    "location": "Surry Hills",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "101book66836",
     "date": "2026-10-21",
     "time": "7:15 AM",
@@ -7986,15 +8250,15 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book65477",
+    "booking_id": "101book102313",
     "date": "2026-10-21",
     "time": "7:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
     "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "107book51129",
@@ -8129,6 +8393,28 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book103005",
+    "date": "2026-10-21",
+    "time": "8:15 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "101book105846",
+    "date": "2026-10-21",
+    "time": "8:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Mackenzie Sengotta",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book67453",
     "date": "2026-10-21",
     "time": "8:15 AM",
@@ -8171,17 +8457,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "101book65209",
-    "date": "2026-10-21",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book51179",
@@ -8283,6 +8558,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book103097",
+    "date": "2026-10-21",
+    "time": "9:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Isabelle Ward",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "106book64872",
     "date": "2026-10-21",
     "time": "9:15 AM",
@@ -8292,6 +8578,17 @@
     "location": "Merrylands",
     "remaining_spots": 31,
     "capacity": 31
+  },
+  {
+    "booking_id": "101book105743",
+    "date": "2026-10-21",
+    "time": "9:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Jasmin Salmon",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book55829",
@@ -8314,6 +8611,17 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "101book103196",
+    "date": "2026-10-21",
+    "time": "9:45 AM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book40674",
@@ -8437,6 +8745,17 @@
     "capacity": 35
   },
   {
+    "booking_id": "101book106005",
+    "date": "2026-10-21",
+    "time": "10:15 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Jasmin Salmon",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book77472",
     "date": "2026-10-21",
     "time": "10:30 AM",
@@ -8457,6 +8776,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book102881",
+    "date": "2026-10-21",
+    "time": "10:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "103book75145",
@@ -8547,6 +8877,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "101book105908",
+    "date": "2026-10-21",
+    "time": "11:15 AM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book41407",
     "date": "2026-10-21",
     "time": "11:30 AM",
@@ -8567,6 +8908,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book103288",
+    "date": "2026-10-21",
+    "time": "11:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book40727",
@@ -8690,6 +9042,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book106067",
+    "date": "2026-10-21",
+    "time": "12:15 PM",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book65315",
     "date": "2026-10-21",
     "time": "12:15 PM",
@@ -8699,6 +9062,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book102973",
+    "date": "2026-10-21",
+    "time": "12:15 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book69925",
@@ -8767,6 +9141,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "101book103465",
+    "date": "2026-10-21",
+    "time": "1:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Jaclyn Bogdanovic",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
     "booking_id": "101book49139",
     "date": "2026-10-21",
     "time": "1:10 PM",
@@ -8809,6 +9194,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book105970",
+    "date": "2026-10-21",
+    "time": "1:15 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Luka Cubrilo",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book64002",
@@ -8888,6 +9284,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "101book103557",
+    "date": "2026-10-21",
+    "time": "3:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
+  },
+  {
+    "booking_id": "105book73371",
+    "date": "2026-10-21",
+    "time": "4:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Vanessa Liu",
+    "location": "Haymarket",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "105book39815",
     "date": "2026-10-21",
     "time": "4:00 PM",
@@ -8954,6 +9372,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book106129",
+    "date": "2026-10-21",
+    "time": "4:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Kristen Marconi",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book65789",
     "date": "2026-10-21",
     "time": "4:15 PM",
@@ -8985,6 +9414,28 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "105book73440",
+    "date": "2026-10-21",
+    "time": "4:45 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Vanessa Liu",
+    "location": "Haymarket",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
+    "booking_id": "101book103649",
+    "date": "2026-10-21",
+    "time": "4:45 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book39972",
@@ -9152,6 +9603,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book106233",
+    "date": "2026-10-21",
+    "time": "5:15 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Elaina Lentini",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book65684",
     "date": "2026-10-21",
     "time": "5:15 PM",
@@ -9249,6 +9711,17 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "101book103741",
+    "date": "2026-10-21",
+    "time": "5:45 PM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book40782",
@@ -9405,6 +9878,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book106387",
+    "date": "2026-10-21",
+    "time": "6:15 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Elaina Lentini",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book32571",
     "date": "2026-10-21",
     "time": "6:30 PM",
@@ -9491,6 +9975,17 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
+  },
+  {
+    "booking_id": "101book103380",
+    "date": "2026-10-21",
+    "time": "6:35 PM",
+    "name": "Reformer: Jump Board (Lower Body)",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 18,
+    "capacity": 18
   },
   {
     "booking_id": "105book41251",
@@ -9601,6 +10096,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book106483",
+    "date": "2026-10-21",
+    "time": "7:15 PM",
+    "name": "Breathwork: Deep Calm (Evening)",
+    "class_type": "Harmony Series",
+    "instructor": "Lauren Wainer",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book54785",
@@ -9911,6 +10417,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book67713",
+    "date": "2026-10-22",
+    "time": "6:15 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Surry Hills",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "101book98936",
     "date": "2026-10-22",
     "time": "6:15 AM",
@@ -10008,17 +10525,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "101book67713",
-    "date": "2026-10-22",
-    "time": "6:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book68525",
@@ -10219,6 +10725,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book68083",
+    "date": "2026-10-22",
+    "time": "7:15 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Surry Hills",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "101book80025",
     "date": "2026-10-22",
     "time": "7:15 AM",
@@ -10283,17 +10800,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book68083",
-    "date": "2026-10-22",
-    "time": "7:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book68423",
@@ -11456,7 +11962,7 @@
     "time": "4:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
+    "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -12197,17 +12703,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "103book78112",
-    "date": "2026-10-22",
-    "time": "7:30 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Dante Creek",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book58816",
@@ -16074,7 +16569,7 @@
     "booking_id": "101book96037",
     "date": "2026-10-24",
     "time": "4:30 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
@@ -16393,7 +16888,7 @@
     "booking_id": "101book96236",
     "date": "2026-10-25",
     "time": "10:00 AM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
@@ -16789,7 +17284,7 @@
     "booking_id": "101book96160",
     "date": "2026-10-25",
     "time": "4:00 PM",
-    "name": "Yoga: Restore & Sound",
+    "name": "Yoga: Restore",
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
