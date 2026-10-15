@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book61572",
-    "date": "2026-10-17",
-    "time": "10:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 21
-  },
-  {
     "booking_id": "105book70032",
     "date": "2026-10-17",
     "time": "11:00 AM",
