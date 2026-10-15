@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book61481",
-    "date": "2026-10-17",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book36995",
-    "date": "2026-10-17",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book108112",
-    "date": "2026-10-17",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book72829",
     "date": "2026-10-17",
     "time": "3:30 PM",
@@ -73,7 +40,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -755,7 +722,7 @@
     "class_type": "Mat Series",
     "instructor": "Asami Iwasaki",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
@@ -1404,7 +1371,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 23
   },
   {
@@ -1602,7 +1569,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
@@ -1613,7 +1580,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
