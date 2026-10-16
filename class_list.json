@@ -326,7 +326,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2020,7 +2020,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -2856,7 +2856,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -3329,7 +3329,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3549,7 +3549,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
