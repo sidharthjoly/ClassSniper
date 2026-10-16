@@ -161,7 +161,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -2471,7 +2471,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -2999,7 +2999,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -3648,7 +3648,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
