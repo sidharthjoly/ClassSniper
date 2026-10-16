@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book30767",
-    "date": "2026-10-18",
-    "time": "8:10 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book46676",
     "date": "2026-10-18",
     "time": "8:30 AM",
