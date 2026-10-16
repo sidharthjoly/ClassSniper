@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book74247",
-    "date": "2026-10-18",
-    "time": "9:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book69415",
     "date": "2026-10-18",
     "time": "10:00 AM",
@@ -2823,7 +2812,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
