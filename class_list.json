@@ -722,7 +722,7 @@
     "class_type": "Mat Series",
     "instructor": "Vanessa Liu",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
@@ -887,7 +887,7 @@
     "class_type": "Mat Series",
     "instructor": "Vanessa Liu",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
