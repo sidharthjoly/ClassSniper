@@ -40,7 +40,7 @@
     "class_type": "Harmony Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 34
   },
   {
@@ -711,7 +711,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -1294,7 +1294,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
