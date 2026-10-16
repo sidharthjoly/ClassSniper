@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book43846",
-    "date": "2026-10-18",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Ivan Iglesias Garcia",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book73566",
     "date": "2026-10-18",
     "time": "1:30 PM",
@@ -997,7 +986,7 @@
     "class_type": "Mat Series",
     "instructor": "Vanessa Liu",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 36
   },
   {
@@ -3307,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
@@ -3318,7 +3307,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
