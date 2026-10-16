@@ -1591,7 +1591,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 26
   },
   {
@@ -1756,7 +1756,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
@@ -2097,7 +2097,7 @@
     "class_type": "Yoga Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
@@ -4301,9 +4301,9 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book104787",
+    "booking_id": "101book107059",
     "date": "2026-10-20",
-    "time": "9:15 AM",
+    "time": "9:20 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
@@ -7892,7 +7892,7 @@
     "time": "5:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -8167,7 +8167,7 @@
     "time": "6:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -10967,15 +10967,15 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book68475",
+    "booking_id": "101book106689",
     "date": "2026-10-22",
     "time": "7:15 PM",
-    "name": "Mat Pilates",
+    "name": "Infrared Pilates",
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 34
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "107book64040",
@@ -16305,7 +16305,7 @@
     "booking_id": "101book104220",
     "date": "2026-10-26",
     "time": "8:15 AM",
-    "name": "Infrared Pilates",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
