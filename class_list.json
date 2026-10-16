@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book46676",
-    "date": "2026-10-18",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book65261",
-    "date": "2026-10-18",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43638",
-    "date": "2026-10-18",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book69237",
-    "date": "2026-10-18",
-    "time": "8:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 36,
-    "capacity": 40
-  },
-  {
     "booking_id": "106book61863",
     "date": "2026-10-18",
     "time": "8:45 AM",
