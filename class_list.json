@@ -638,17 +638,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book73206",
-    "date": "2026-10-18",
-    "time": "3:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book47146",
     "date": "2026-10-18",
     "time": "4:00 PM",
@@ -679,17 +668,6 @@
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
     "remaining_spots": 4,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book48719",
-    "date": "2026-10-18",
-    "time": "4:30 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Asami Iwasaki",
-    "location": "Merrylands",
-    "remaining_spots": 34,
     "capacity": 34
   },
   {
@@ -3188,17 +3166,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book33442",
-    "date": "2026-10-19",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book58912",
