@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book85917",
-    "date": "2026-10-18",
-    "time": "12:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 23,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book73671",
-    "date": "2026-10-18",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book73616",
     "date": "2026-10-18",
     "time": "12:15 PM",
