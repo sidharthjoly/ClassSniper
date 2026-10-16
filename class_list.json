@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book73311",
-    "date": "2026-10-18",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book43481",
-    "date": "2026-10-18",
-    "time": "8:00 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book73828",
-    "date": "2026-10-18",
-    "time": "8:00 AM",
-    "name": "Meditation Soundscape",
-    "class_type": "Harmony Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book30767",
     "date": "2026-10-18",
     "time": "8:10 AM",
