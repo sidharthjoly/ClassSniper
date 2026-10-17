@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39054",
-    "date": "2026-10-19",
-    "time": "6:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book59337",
     "date": "2026-10-19",
     "time": "6:50 AM",
@@ -2339,7 +2328,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
