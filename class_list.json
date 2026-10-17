@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55887",
-    "date": "2026-10-18",
-    "time": "5:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book37588",
     "date": "2026-10-19",
     "time": "5:00 AM",
