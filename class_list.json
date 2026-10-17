@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book38948",
-    "date": "2026-10-19",
-    "time": "9:15 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book106651",
-    "date": "2026-10-19",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book100512",
     "date": "2026-10-19",
     "time": "9:20 AM",
