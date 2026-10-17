@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book38582",
-    "date": "2026-10-19",
-    "time": "5:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book100234",
-    "date": "2026-10-19",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book37269",
     "date": "2026-10-19",
     "time": "6:00 AM",
@@ -5045,7 +5023,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
