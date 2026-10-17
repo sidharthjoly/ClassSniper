@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book63159",
-    "date": "2026-10-19",
-    "time": "4:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 10,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book101121",
-    "date": "2026-10-19",
-    "time": "4:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book36957",
     "date": "2026-10-19",
     "time": "5:00 PM",
@@ -216,7 +194,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -1085,7 +1063,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
@@ -4517,7 +4495,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 4
   },
   {
