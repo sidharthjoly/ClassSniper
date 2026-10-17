@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book100512",
-    "date": "2026-10-19",
-    "time": "9:20 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book49259",
     "date": "2026-10-19",
     "time": "9:30 AM",
