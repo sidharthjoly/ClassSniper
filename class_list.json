@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book37588",
-    "date": "2026-10-19",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book63292",
     "date": "2026-10-19",
     "time": "5:15 AM",
@@ -4374,7 +4363,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
