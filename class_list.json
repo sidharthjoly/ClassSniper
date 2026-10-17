@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101029",
-    "date": "2026-10-19",
-    "time": "3:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book37515",
     "date": "2026-10-19",
     "time": "4:00 PM",
@@ -1305,7 +1294,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 38
   },
   {
@@ -2735,7 +2724,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
