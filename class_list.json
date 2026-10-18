@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book107059",
-    "date": "2026-10-20",
-    "time": "9:20 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Julieanne Nicolas",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book54575",
     "date": "2026-10-20",
     "time": "9:30 AM",
