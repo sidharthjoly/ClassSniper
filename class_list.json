@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book40111",
-    "date": "2026-10-20",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 5,
-    "capacity": 22
-  },
-  {
-    "booking_id": "107book70920",
-    "date": "2026-10-20",
-    "time": "5:45 AM",
-    "name": "One Run North Sydney",
-    "class_type": "One Run",
-    "instructor": "Jay Haydock",
-    "location": "North Sydney",
-    "remaining_spots": 45,
-    "capacity": 50
-  },
-  {
-    "booking_id": "101book100972",
-    "date": "2026-10-20",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39550",
     "date": "2026-10-20",
     "time": "6:00 AM",
@@ -4935,7 +4902,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
