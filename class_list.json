@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book49761",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book51910",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book64157",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 32,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book51977",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book50308",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book101397",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book104938",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book64186",
-    "date": "2026-10-20",
-    "time": "7:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Carlos Oliveira",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book58126",
     "date": "2026-10-20",
     "time": "7:30 AM",
@@ -3637,7 +3549,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -3901,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
