@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book103268",
-    "date": "2026-10-20",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63657",
-    "date": "2026-10-20",
-    "time": "8:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39709",
     "date": "2026-10-20",
     "time": "9:00 AM",
