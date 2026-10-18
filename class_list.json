@@ -1261,7 +1261,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -4594,7 +4594,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -9399,7 +9399,7 @@
     "time": "2:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -9432,7 +9432,7 @@
     "time": "3:30 PM",
     "name": "Reformer: Athletic",
     "class_type": "Reformer Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -9509,7 +9509,7 @@
     "time": "4:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Amelia Gartner",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -10103,7 +10103,7 @@
     "time": "8:00 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -10400,7 +10400,7 @@
     "time": "9:00 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joe Jackson",
+    "instructor": "Samantha Smolens",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
