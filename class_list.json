@@ -2152,7 +2152,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -3395,7 +3395,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 36
   },
   {
@@ -7951,17 +7951,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book53201",
-    "date": "2026-10-23",
-    "time": "6:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book96971",
