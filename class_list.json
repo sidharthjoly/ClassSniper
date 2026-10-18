@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101940",
-    "date": "2026-10-20",
-    "time": "10:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49832",
     "date": "2026-10-20",
     "time": "10:30 AM",
