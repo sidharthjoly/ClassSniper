@@ -1041,7 +1041,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -1261,7 +1261,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -1635,7 +1635,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -3912,7 +3912,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -4506,7 +4506,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
@@ -4781,7 +4781,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 27
   },
   {
