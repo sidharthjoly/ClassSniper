@@ -1019,7 +1019,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -1107,7 +1107,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -3945,7 +3945,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -3956,7 +3956,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -4044,7 +4044,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
