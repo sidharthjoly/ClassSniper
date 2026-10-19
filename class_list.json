@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book38998",
-    "date": "2026-10-21",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book49795",
-    "date": "2026-10-21",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 22,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67506",
-    "date": "2026-10-21",
-    "time": "1:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book105970",
-    "date": "2026-10-21",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 26,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book64002",
     "date": "2026-10-21",
     "time": "1:30 PM",
@@ -1085,7 +1041,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -1965,7 +1921,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -3637,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3758,7 +3714,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -3824,7 +3780,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
@@ -3890,7 +3846,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
@@ -3967,7 +3923,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 26
   },
   {
@@ -4044,7 +4000,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 31,
     "capacity": 35
   },
   {
@@ -4055,7 +4011,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -4088,7 +4044,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
@@ -4099,7 +4055,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -4110,7 +4066,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
@@ -4121,7 +4077,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 34,
     "capacity": 36
   },
   {
