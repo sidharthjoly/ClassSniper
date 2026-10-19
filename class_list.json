@@ -84,7 +84,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -8662,7 +8662,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Shannon Hsu",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -8761,7 +8761,7 @@
     "time": "1:00 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Shannon Hsu",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -8849,7 +8849,7 @@
     "time": "2:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Shannon Hsu",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -8904,7 +8904,7 @@
     "time": "3:00 PM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Shannon Hsu",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -19283,17 +19283,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book57120",
-    "date": "2026-10-29",
-    "time": "4:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "104book39219",
     "date": "2026-10-29",
     "time": "4:00 PM",
@@ -19426,12 +19415,12 @@
     "capacity": 38
   },
   {
-    "booking_id": "103book56356",
+    "booking_id": "103book89609",
     "date": "2026-10-29",
     "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Michael Roache",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Bethany Rumore",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -19712,6 +19701,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89836",
+    "date": "2026-10-29",
+    "time": "6:00 PM",
+    "name": "Mat Pilates Origins",
+    "class_type": "Mat Series",
+    "instructor": "Bethany Rumore",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book89912",
     "date": "2026-10-29",
     "time": "6:00 PM",
@@ -19732,17 +19732,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book58556",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "106book44139",
