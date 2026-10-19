@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book42789",
-    "date": "2026-10-21",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book37590",
-    "date": "2026-10-21",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book113628",
-    "date": "2026-10-21",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book103465",
-    "date": "2026-10-21",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "101book49139",
     "date": "2026-10-21",
     "time": "1:10 PM",
@@ -3736,7 +3692,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 5,
     "capacity": 32
   },
   {
@@ -3791,7 +3747,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -3879,7 +3835,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 26
   },
   {
@@ -3989,7 +3945,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 3,
     "capacity": 32
   },
   {
@@ -4011,7 +3967,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -4066,7 +4022,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4077,7 +4033,7 @@
     "class_type": "Mat Series",
     "instructor": "Emmy Drew",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -4088,7 +4044,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
