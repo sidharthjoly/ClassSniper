@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book55829",
-    "date": "2026-10-21",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Carlos Oliveira",
-    "location": "Marrickville",
-    "remaining_spots": 6,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book76974",
-    "date": "2026-10-21",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 25,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book103196",
     "date": "2026-10-21",
     "time": "9:45 AM",
@@ -4033,7 +4011,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
