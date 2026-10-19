@@ -579,7 +579,7 @@
     "class_type": "S&C Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -1822,7 +1822,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3329,7 +3329,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -4781,7 +4781,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
