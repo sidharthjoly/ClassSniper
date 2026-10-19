@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book63464",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book39917",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book55519",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book56039",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book42217",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book51005",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book36506",
-    "date": "2026-10-21",
-    "time": "8:00 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 28
-  },
-  {
     "booking_id": "105book70795",
     "date": "2026-10-21",
     "time": "8:15 AM",
@@ -997,7 +920,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
