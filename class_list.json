@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book77472",
-    "date": "2026-10-21",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book56486",
-    "date": "2026-10-21",
-    "time": "10:30 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Carlos Oliveira",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book102881",
-    "date": "2026-10-21",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book75145",
     "date": "2026-10-21",
     "time": "10:45 AM",
@@ -3186,7 +3153,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 36
   },
   {
