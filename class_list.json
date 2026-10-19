@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book64872",
-    "date": "2026-10-21",
-    "time": "9:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 31
-  },
-  {
-    "booking_id": "101book105743",
-    "date": "2026-10-21",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Jasmin Salmon",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book55829",
     "date": "2026-10-21",
     "time": "9:30 AM",
