@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book67341",
-    "date": "2026-10-20",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book54981",
-    "date": "2026-10-20",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Areeba Talpur",
-    "location": "Merrylands",
-    "remaining_spots": 1,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book110724",
-    "date": "2026-10-20",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63392",
-    "date": "2026-10-20",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39285",
     "date": "2026-10-20",
     "time": "7:45 PM",
@@ -2445,7 +2401,7 @@
     "booking_id": "105book41251",
     "date": "2026-10-21",
     "time": "6:45 PM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Haymarket",
@@ -3384,7 +3340,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 36
   },
   {
@@ -4697,6 +4653,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "107book114680",
+    "date": "2026-10-22",
+    "time": "5:30 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book105923",
     "date": "2026-10-22",
     "time": "5:30 PM",
@@ -4970,6 +4937,17 @@
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
+  },
+  {
+    "booking_id": "107book114565",
+    "date": "2026-10-22",
+    "time": "6:30 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "107book43372",
