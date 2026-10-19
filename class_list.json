@@ -458,7 +458,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
@@ -1903,17 +1903,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book36153",
-    "date": "2026-10-21",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joe Jackson",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book63799",
     "date": "2026-10-21",
     "time": "5:00 PM",
@@ -2165,17 +2154,6 @@
     "location": "Merrylands",
     "remaining_spots": 5,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book36615",
-    "date": "2026-10-21",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joe Jackson",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "104book38162",
@@ -4286,7 +4264,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 27,
     "capacity": 32
   },
   {
@@ -4297,7 +4275,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
