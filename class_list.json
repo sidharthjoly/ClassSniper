@@ -678,7 +678,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -2284,7 +2284,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 26
   },
   {
@@ -2669,7 +2669,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 22
   },
   {
@@ -4352,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -4363,7 +4363,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -4693,7 +4693,7 @@
     "class_type": "Dance Series",
     "instructor": "Peta Sternaras",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -5012,7 +5012,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
@@ -5067,7 +5067,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -5324,6 +5324,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book114857",
+    "date": "2026-10-23",
+    "time": "6:00 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "103book59861",
     "date": "2026-10-23",
     "time": "6:15 AM",
@@ -5564,6 +5575,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book114948",
+    "date": "2026-10-23",
+    "time": "7:00 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "107book52987",
@@ -5839,6 +5861,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "107book115039",
+    "date": "2026-10-23",
+    "time": "8:00 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book66902",
@@ -6930,17 +6963,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "103book60281",
-    "date": "2026-10-23",
-    "time": "4:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book71872",
     "date": "2026-10-23",
     "time": "4:30 PM",
@@ -7093,6 +7115,17 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
+  },
+  {
+    "booking_id": "103book60281",
+    "date": "2026-10-23",
+    "time": "5:30 PM",
+    "name": "Squad",
+    "class_type": "Spin Series",
+    "instructor": "Evie Bird",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book34976",
@@ -7474,7 +7507,7 @@
     "time": "7:30 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Ellie Chan",
+    "instructor": "Emmy Drew",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -7749,7 +7782,7 @@
     "time": "8:30 AM",
     "name": "BodyBurn",
     "class_type": "Mat Series",
-    "instructor": "Ellie Chan",
+    "instructor": "Emmy Drew",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -13436,7 +13469,7 @@
     "time": "10:15 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Amelia Gartner",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -13546,7 +13579,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mia Hamilton",
+    "instructor": "Mily Ochoa",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13568,7 +13601,7 @@
     "time": "11:15 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Amelia Gartner",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13744,7 +13777,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mia Hamilton",
+    "instructor": "Mily Ochoa",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13788,7 +13821,7 @@
     "time": "12:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Amelia Gartner",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13920,7 +13953,7 @@
     "time": "1:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
+    "instructor": "Amelia Gartner",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -14008,7 +14041,7 @@
     "time": "3:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -14173,7 +14206,7 @@
     "time": "4:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -14448,7 +14481,7 @@
     "time": "5:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -14690,7 +14723,7 @@
     "time": "6:35 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Aly Turska",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -17484,7 +17517,7 @@
     "time": "7:30 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Danielle Panayi",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
@@ -19239,6 +19272,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89514",
+    "date": "2026-10-29",
+    "time": "4:00 PM",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "103book57120",
     "date": "2026-10-29",
     "time": "4:00 PM",
@@ -19288,7 +19332,7 @@
     "time": "4:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -19393,12 +19437,12 @@
     "capacity": 36
   },
   {
-    "booking_id": "103book56912",
+    "booking_id": "103book89672",
     "date": "2026-10-29",
     "time": "5:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
@@ -19591,6 +19635,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "107book114681",
+    "date": "2026-10-29",
+    "time": "5:30 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "101book70001",
     "date": "2026-10-29",
     "time": "5:30 PM",
@@ -19657,6 +19712,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89912",
+    "date": "2026-10-29",
+    "time": "6:00 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "103book58117",
     "date": "2026-10-29",
     "time": "6:00 PM",
@@ -19666,17 +19732,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book57433",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book58556",
@@ -19866,6 +19921,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book114566",
+    "date": "2026-10-29",
+    "time": "6:30 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Emmy Drew",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book43373",
     "date": "2026-10-29",
     "time": "6:30 PM",
@@ -20025,7 +20091,7 @@
     "time": "7:15 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
+    "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
