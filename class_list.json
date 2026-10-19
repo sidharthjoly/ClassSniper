@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book38143",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book34602",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Lauren Buck",
-    "location": "Haymarket",
-    "remaining_spots": 22,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book83308",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36210",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49387",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "North Sydney",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book40534",
     "date": "2026-10-20",
     "time": "7:15 PM",
@@ -1492,7 +1437,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -3769,7 +3714,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3857,7 +3802,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4143,7 +4088,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "North Sydney",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
