@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book41928",
-    "date": "2026-10-22",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 38
-  },
-  {
-    "booking_id": "101book68788",
-    "date": "2026-10-22",
-    "time": "11:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book56025",
     "date": "2026-10-22",
     "time": "11:30 AM",
