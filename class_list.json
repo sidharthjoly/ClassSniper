@@ -1228,7 +1228,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -4264,7 +4264,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -6325,6 +6325,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "107book115319",
+    "date": "2026-10-24",
+    "time": "4:00 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Patterson",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book108218",
     "date": "2026-10-24",
     "time": "4:00 PM",
@@ -6334,17 +6345,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "107book72096",
-    "date": "2026-10-24",
-    "time": "4:00 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book95523",
