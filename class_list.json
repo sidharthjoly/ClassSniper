@@ -2709,7 +2709,7 @@
     "booking_id": "104book55159",
     "date": "2026-10-22",
     "time": "6:15 PM",
-    "name": "YogaBeats",
+    "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
@@ -3373,7 +3373,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -3593,7 +3593,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 36
   },
   {
@@ -4033,7 +4033,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 32
   },
   {
@@ -4341,7 +4341,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -4827,17 +4827,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book39738",
-    "date": "2026-10-23",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "104book40732",
