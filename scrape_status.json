@@ -1,12 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-10-21T06:58:23.615275+11:00",
+  "scraped_at": "2026-10-21T06:59:20.593641+11:00",
   "class_count": 1809,
   "centers_total": 10,
-  "centers_failed": [
-    "Zetland"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
