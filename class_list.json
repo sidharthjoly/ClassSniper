@@ -2816,6 +2816,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book115615",
+    "date": "2026-10-23",
+    "time": "6:15 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Marcus Parkin",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "101book96971",
     "date": "2026-10-23",
     "time": "6:15 AM",
@@ -4704,7 +4715,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
