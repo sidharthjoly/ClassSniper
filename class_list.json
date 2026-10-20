@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book64571",
-    "date": "2026-10-22",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book68030",
-    "date": "2026-10-22",
-    "time": "4:15 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book89260",
-    "date": "2026-10-22",
-    "time": "4:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book58272",
     "date": "2026-10-22",
     "time": "4:30 PM",
@@ -3956,7 +3923,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
