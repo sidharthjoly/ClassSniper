@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book48704",
-    "date": "2026-10-23",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 29,
-    "capacity": 38
-  },
-  {
-    "booking_id": "101book98241",
-    "date": "2026-10-23",
-    "time": "11:15 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book97192",
-    "date": "2026-10-23",
-    "time": "11:15 AM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book44711",
     "date": "2026-10-23",
     "time": "11:30 AM",
