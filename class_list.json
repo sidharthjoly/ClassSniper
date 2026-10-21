@@ -3894,17 +3894,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "107book55835",
-    "date": "2026-10-25",
-    "time": "9:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book55940",
     "date": "2026-10-25",
     "time": "9:00 AM",
@@ -4024,17 +4013,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "107book56047",
-    "date": "2026-10-25",
-    "time": "10:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book96480",
@@ -16934,7 +16912,7 @@
     "time": "5:30 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Ellie Chan",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -17044,7 +17022,7 @@
     "time": "6:30 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Ellie Chan",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
