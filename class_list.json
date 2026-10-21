@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book97130",
-    "date": "2026-10-23",
-    "time": "10:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book98054",
-    "date": "2026-10-23",
-    "time": "10:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book80186",
     "date": "2026-10-23",
     "time": "10:30 AM",
