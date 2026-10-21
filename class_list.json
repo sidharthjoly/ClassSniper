@@ -865,7 +865,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 5,
     "capacity": 8
   },
   {
@@ -1019,7 +1019,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 3,
     "capacity": 8
   },
   {
@@ -3296,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 32
   },
   {
