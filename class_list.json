@@ -920,7 +920,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 38
   },
   {
@@ -1613,7 +1613,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
