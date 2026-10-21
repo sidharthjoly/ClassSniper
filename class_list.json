@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59653",
-    "date": "2026-10-23",
-    "time": "3:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book98564",
     "date": "2026-10-23",
     "time": "3:45 PM",
@@ -161,7 +150,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 26,
     "capacity": 33
   },
   {
@@ -2262,7 +2251,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -2273,7 +2262,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
