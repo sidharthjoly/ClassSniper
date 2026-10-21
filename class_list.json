@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book29291",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "104book55159",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book65576",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book68213",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book69633",
-    "date": "2026-10-22",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book42135",
     "date": "2026-10-22",
     "time": "6:30 PM",
@@ -1844,7 +1789,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -1987,7 +1932,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -3208,7 +3153,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 28
   },
   {
@@ -3296,7 +3241,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -3461,7 +3406,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
@@ -3472,7 +3417,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 28
   },
   {
@@ -3857,7 +3802,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 34,
     "capacity": 36
   },
   {
