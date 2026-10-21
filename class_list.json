@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book28953",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book67085",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 6,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book70662",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 14,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book64863",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book65733",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67607",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book67980",
-    "date": "2026-10-22",
-    "time": "5:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book43039",
     "date": "2026-10-22",
     "time": "5:30 PM",
@@ -3747,7 +3670,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -3879,7 +3802,7 @@
     "class_type": "Dance Series",
     "instructor": "Whyan Chen",
     "location": "Haymarket",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 38
   },
   {
@@ -4000,7 +3923,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
@@ -4033,7 +3956,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
