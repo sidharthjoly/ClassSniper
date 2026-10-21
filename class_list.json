@@ -1063,7 +1063,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 33
   },
   {
@@ -1591,7 +1591,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -2647,7 +2647,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -3923,8 +3923,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book31062",
@@ -4044,8 +4044,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 18
+    "remaining_spots": 18,
+    "capacity": 20
   },
   {
     "booking_id": "101book96236",
@@ -4187,8 +4187,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "107book82501",
@@ -4264,8 +4264,8 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book96099",
@@ -9977,7 +9977,7 @@
     "capacity": 26
   },
   {
-    "booking_id": "101book105620",
+    "booking_id": "101book108030",
     "date": "2026-10-28",
     "time": "6:15 AM",
     "name": "Power Pilates",
@@ -10263,7 +10263,7 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book105682",
+    "booking_id": "101book107965",
     "date": "2026-10-28",
     "time": "7:15 AM",
     "name": "BodySculpt",
@@ -11775,7 +11775,7 @@
     "time": "5:30 PM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
+    "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -12039,7 +12039,7 @@
     "time": "6:30 PM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
+    "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -15000,8 +15000,8 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45181",
@@ -15242,8 +15242,8 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book85641",
@@ -15704,8 +15704,8 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book97069",
@@ -15880,8 +15880,8 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book60541",
@@ -16056,8 +16056,8 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book80187",
@@ -16188,8 +16188,8 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book44712",
@@ -16397,8 +16397,8 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book70511",
@@ -16617,8 +16617,8 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book59498",
@@ -16672,8 +16672,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book44868",
@@ -16771,8 +16771,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45233",
@@ -16947,8 +16947,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book44608",
@@ -17068,8 +17068,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book44504",
@@ -17585,8 +17585,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45965",
@@ -17831,6 +17831,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "101book95653",
+    "date": "2026-10-31",
+    "time": "9:15 AM",
+    "name": "Yoga: Empower",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book63980",
     "date": "2026-10-31",
     "time": "9:30 AM",
@@ -17893,19 +17904,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book95653",
-    "date": "2026-10-31",
-    "time": "9:30 AM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45912",
@@ -18168,8 +18168,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book84070",
@@ -18399,8 +18399,8 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book49705",
@@ -18619,8 +18619,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book61746",
@@ -18674,8 +18674,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book61483",
@@ -18762,8 +18762,8 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book96038",
