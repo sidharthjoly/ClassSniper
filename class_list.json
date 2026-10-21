@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49244",
-    "date": "2026-10-23",
-    "time": "1:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book53463",
     "date": "2026-10-23",
     "time": "1:15 PM",
@@ -535,7 +524,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -1261,7 +1250,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
