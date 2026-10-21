@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book47953",
-    "date": "2026-10-23",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book40888",
-    "date": "2026-10-23",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book71077",
-    "date": "2026-10-23",
-    "time": "1:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 18
-  },
-  {
     "booking_id": "101book49244",
     "date": "2026-10-23",
     "time": "1:10 PM",
