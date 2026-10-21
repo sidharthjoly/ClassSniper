@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "107book53463",
-    "date": "2026-10-23",
-    "time": "1:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book98178",
-    "date": "2026-10-23",
-    "time": "1:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book97619",
-    "date": "2026-10-23",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book69739",
-    "date": "2026-10-23",
-    "time": "1:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Carlos Oliveira",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book56455",
     "date": "2026-10-23",
     "time": "1:30 PM",
