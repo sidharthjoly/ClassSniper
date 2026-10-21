@@ -8932,17 +8932,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book33973",
-    "date": "2026-10-27",
-    "time": "4:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book63603",
     "date": "2026-10-27",
     "time": "4:30 PM",
@@ -9040,6 +9029,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "104book33973",
+    "date": "2026-10-27",
+    "time": "5:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "107book50199",
@@ -9185,17 +9185,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "104book35238",
-    "date": "2026-10-27",
-    "time": "5:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book110494",
     "date": "2026-10-27",
     "time": "5:30 PM",
@@ -9326,6 +9315,17 @@
     "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 21
+  },
+  {
+    "booking_id": "104book35238",
+    "date": "2026-10-27",
+    "time": "6:00 PM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "104book50762",
