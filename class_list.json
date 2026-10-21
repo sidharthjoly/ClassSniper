@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book98440",
-    "date": "2026-10-23",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59497",
     "date": "2026-10-23",
     "time": "2:30 PM",
