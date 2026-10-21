@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book60540",
-    "date": "2026-10-23",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book77255",
-    "date": "2026-10-23",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book45076",
     "date": "2026-10-23",
     "time": "10:00 AM",
