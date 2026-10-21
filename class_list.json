@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book34195",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book42689",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book58116",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book57432",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book58555",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 25,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book44138",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book70767",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book38906",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book64198",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book29291",
     "date": "2026-10-22",
     "time": "6:15 PM",
@@ -1547,7 +1448,7 @@
     "class_type": "Mat Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 34
   },
   {
@@ -2735,7 +2636,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -3637,7 +3538,7 @@
     "class_type": "Mat Series",
     "instructor": "Chanel Leaudais",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -3813,7 +3714,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -3824,7 +3725,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
@@ -3868,7 +3769,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
@@ -3912,7 +3813,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
