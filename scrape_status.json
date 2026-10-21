@@ -1,10 +1,16 @@
 {
-  "result": "ok",
-  "detail": null,
-  "scraped_at": "2026-10-22T02:08:23.133065+11:00",
-  "class_count": 1706,
+  "result": "refused",
+  "detail": "Refusing to overwrite class_list.json: scraped only 822 classes against 1706 already on file. Keeping the old list \u2014 check whether the sessions API changed shape or a fetch half-failed.",
+  "scraped_at": "2026-10-22T02:09:20.216465+11:00",
+  "class_count": 822,
   "centers_total": 10,
-  "centers_failed": [],
+  "centers_failed": [
+    "Bunker",
+    "Merrylands",
+    "Surry Hills",
+    "Chatswood",
+    "North Sydney"
+  ],
   "contract_breaks": {},
   "unmapped_locations": []
 }
