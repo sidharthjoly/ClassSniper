@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book30269",
-    "date": "2026-10-24",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book61118",
-    "date": "2026-10-24",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book43317",
     "date": "2026-10-24",
     "time": "8:30 AM",
