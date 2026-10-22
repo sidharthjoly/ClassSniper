@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book61291",
-    "date": "2026-10-23",
-    "time": "5:30 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "George Hoad",
-    "location": "Haymarket",
-    "remaining_spots": 26,
-    "capacity": 38
-  },
-  {
-    "booking_id": "103book60281",
-    "date": "2026-10-23",
-    "time": "5:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book34976",
-    "date": "2026-10-23",
-    "time": "5:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book106953",
-    "date": "2026-10-23",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book86016",
-    "date": "2026-10-23",
-    "time": "5:30 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book98689",
     "date": "2026-10-23",
     "time": "5:45 PM",
@@ -271,7 +216,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 26
   },
   {
@@ -1745,7 +1690,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -1778,7 +1723,7 @@
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 36
   },
   {
@@ -2042,7 +1987,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -2284,7 +2229,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -2306,7 +2251,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
