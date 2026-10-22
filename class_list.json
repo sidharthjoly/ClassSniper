@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book60648",
-    "date": "2026-10-23",
-    "time": "5:15 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 4,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book71977",
-    "date": "2026-10-23",
-    "time": "5:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book71130",
-    "date": "2026-10-23",
-    "time": "5:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book97743",
-    "date": "2026-10-23",
-    "time": "5:15 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book61291",
     "date": "2026-10-23",
     "time": "5:30 PM",
