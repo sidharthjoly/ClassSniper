@@ -689,7 +689,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1833,7 +1833,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 21
   },
   {
@@ -1932,7 +1932,7 @@
     "class_type": "Yoga Series",
     "instructor": "Victoire de Polignac",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -2306,7 +2306,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -2535,7 +2535,7 @@
     "time": "6:15 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Tan Hutton",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -2794,12 +2794,12 @@
     "capacity": 22
   },
   {
-    "booking_id": "101book106950",
+    "booking_id": "101book108468",
     "date": "2026-10-26",
     "time": "7:15 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Tan Hutton",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -3019,7 +3019,7 @@
     "time": "8:15 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Tan Hutton",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -3184,7 +3184,7 @@
     "time": "9:15 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
+    "instructor": "Tan Hutton",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -6710,6 +6710,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "101book108315",
+    "date": "2026-10-27",
+    "time": "4:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Kristen Marconi",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book62262",
     "date": "2026-10-27",
     "time": "4:15 PM",
@@ -6719,17 +6730,6 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "101book106192",
-    "date": "2026-10-27",
-    "time": "4:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "103book51961",
@@ -6952,17 +6952,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book106296",
-    "date": "2026-10-27",
-    "time": "5:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book59764",
     "date": "2026-10-27",
     "time": "5:15 PM",
@@ -6972,6 +6961,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book108560",
+    "date": "2026-10-27",
+    "time": "5:15 PM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Kristen Marconi",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book31589",
@@ -9251,6 +9251,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book108851",
+    "date": "2026-10-28",
+    "time": "3:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book55938",
     "date": "2026-10-28",
     "time": "3:30 PM",
@@ -9350,17 +9361,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book106130",
-    "date": "2026-10-28",
-    "time": "4:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book65790",
     "date": "2026-10-28",
     "time": "4:15 PM",
@@ -9370,6 +9370,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book108606",
+    "date": "2026-10-28",
+    "time": "4:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book56200",
@@ -12127,7 +12138,7 @@
     "time": "5:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Marcus Parkin",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12413,7 +12424,7 @@
     "time": "6:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Marcus Parkin",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12677,7 +12688,7 @@
     "time": "7:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Marcus Parkin",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -16351,7 +16362,7 @@
     "time": "12:30 PM",
     "name": "YogaBeats",
     "class_type": "Yoga Series",
-    "instructor": "Hailey Ng",
+    "instructor": "Alicia Quinn",
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
