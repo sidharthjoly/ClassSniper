@@ -2306,7 +2306,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -12037,8 +12037,8 @@
     "booking_id": "103book89609",
     "date": "2026-10-29",
     "time": "5:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
     "remaining_spots": 36,
