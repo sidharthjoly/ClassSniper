@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book95325",
-    "date": "2026-10-24",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book95775",
-    "date": "2026-10-24",
-    "time": "3:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 36
-  },
-  {
     "booking_id": "107book115319",
     "date": "2026-10-24",
     "time": "4:00 PM",
@@ -1129,7 +1107,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -1701,7 +1679,7 @@
     "class_type": "Barre Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
