@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book107598",
-    "date": "2026-10-23",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book45806",
     "date": "2026-10-24",
     "time": "7:00 AM",
@@ -1877,7 +1866,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 36
   },
   {
