@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book85635",
-    "date": "2026-10-25",
-    "time": "1:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book108323",
-    "date": "2026-10-25",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book43847",
     "date": "2026-10-25",
     "time": "1:15 PM",
@@ -238,7 +216,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -766,7 +744,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3010,7 +2988,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -3032,7 +3010,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
@@ -3054,7 +3032,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -3175,7 +3153,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -3219,7 +3197,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -3252,7 +3230,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -3274,7 +3252,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -3285,7 +3263,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
