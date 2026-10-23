@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book30768",
-    "date": "2026-10-25",
-    "time": "8:10 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book46677",
     "date": "2026-10-25",
     "time": "8:30 AM",
@@ -3054,7 +3043,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
