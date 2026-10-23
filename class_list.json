@@ -18,7 +18,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 21
   },
   {
@@ -106,7 +106,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 21
   },
   {
@@ -1914,12 +1914,12 @@
     "capacity": 18
   },
   {
-    "booking_id": "101book104171",
+    "booking_id": "101book109206",
     "date": "2026-10-26",
     "time": "11:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "name": "Infrared Yoga",
+    "class_type": "Yoga Series",
+    "instructor": "Victoire de Polignac",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
