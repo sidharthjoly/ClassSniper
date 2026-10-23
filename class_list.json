@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book65879",
-    "date": "2026-10-25",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43743",
-    "date": "2026-10-25",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book74091",
-    "date": "2026-10-25",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 23
-  },
-  {
     "booking_id": "103book85635",
     "date": "2026-10-25",
     "time": "1:00 PM",
@@ -2977,7 +2944,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -3065,7 +3032,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -3098,7 +3065,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 35
   },
   {
@@ -3153,7 +3120,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
