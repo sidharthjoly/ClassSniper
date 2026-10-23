@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book69416",
-    "date": "2026-10-25",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book96480",
-    "date": "2026-10-25",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book96236",
-    "date": "2026-10-25",
-    "time": "10:00 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "106book30840",
     "date": "2026-10-25",
     "time": "10:10 AM",
@@ -2636,7 +2603,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
