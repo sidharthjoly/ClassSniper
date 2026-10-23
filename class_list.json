@@ -1019,7 +1019,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -2735,7 +2735,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -2889,7 +2889,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -2922,7 +2922,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -2933,7 +2933,7 @@
     "class_type": "S&C Series",
     "instructor": "Sean Grosvenor",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 20,
     "capacity": 26
   },
   {
