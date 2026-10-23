@@ -469,7 +469,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -546,7 +546,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
