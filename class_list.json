@@ -1437,7 +1437,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -7029,17 +7029,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "106book68928",
-    "date": "2026-10-28",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book41989",
     "date": "2026-10-28",
     "time": "10:00 AM",
@@ -12567,7 +12556,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Patrick Fox",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -17792,7 +17781,7 @@
     "time": "6:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Kelly Medina",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -18111,7 +18100,7 @@
     "time": "7:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Kelly Medina",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
