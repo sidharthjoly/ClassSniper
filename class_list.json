@@ -480,7 +480,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -3318,7 +3318,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -6303,10 +6303,10 @@
     "capacity": 30
   },
   {
-    "booking_id": "106book69463",
+    "booking_id": "106book84359",
     "date": "2026-10-28",
     "time": "6:45 AM",
-    "name": "Reformer: Origins",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
@@ -13293,7 +13293,7 @@
     "time": "6:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
+    "instructor": "Shannon Hsu",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -13348,7 +13348,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
+    "instructor": "Shannon Hsu",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
