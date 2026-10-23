@@ -579,7 +579,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 25
   },
   {
@@ -1195,7 +1195,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 36
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
