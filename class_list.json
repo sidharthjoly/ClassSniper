@@ -1712,7 +1712,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
@@ -2878,7 +2878,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
@@ -4341,7 +4341,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
@@ -4451,7 +4451,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kate Vose",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
@@ -4627,7 +4627,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -4781,7 +4781,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -4979,7 +4979,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -6231,7 +6231,7 @@
     "time": "9:30 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -6385,7 +6385,7 @@
     "time": "10:30 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
+    "instructor": "Kristen Marconi",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -13431,17 +13431,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book45650",
-    "date": "2026-10-31",
-    "time": "10:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "105book45702",
     "date": "2026-10-31",
     "time": "10:00 AM",
@@ -16351,7 +16340,7 @@
     "time": "12:00 PM",
     "name": "Force Test: Squat Day",
     "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
+    "instructor": "Patrick Fox",
     "location": "North Sydney",
     "remaining_spots": 26,
     "capacity": 26
@@ -18980,7 +18969,7 @@
     "time": "12:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
