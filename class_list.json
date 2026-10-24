@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book35769",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 31,
-    "capacity": 38
-  },
-  {
-    "booking_id": "104book33760",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book59705",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 4,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book90807",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "North Sydney",
-    "remaining_spots": 34,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book59082",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 17,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book104463",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
-    "location": "Surry Hills",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book100789",
-    "date": "2026-10-26",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book36802",
     "date": "2026-10-26",
     "time": "12:30 PM",
@@ -3131,7 +3054,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
@@ -4033,7 +3956,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -4088,7 +4011,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -4099,7 +4022,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
