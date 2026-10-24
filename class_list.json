@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book37589",
-    "date": "2026-10-26",
-    "time": "5:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Caroline Der Garabedian",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 33
-  },
-  {
     "booking_id": "103book63293",
     "date": "2026-10-26",
     "time": "5:15 AM",
@@ -370,7 +359,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -634,7 +623,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -2999,7 +2988,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joanne Afiatini",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 21
   },
   {
@@ -3054,7 +3043,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -3318,7 +3307,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 26
   },
   {
@@ -4429,7 +4418,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -5056,7 +5045,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 32
   },
   {
