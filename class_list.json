@@ -1866,7 +1866,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -6699,17 +6699,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "105book69926",
-    "date": "2026-10-28",
-    "time": "12:30 PM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book41096",
     "date": "2026-10-28",
     "time": "12:30 PM",
@@ -6752,6 +6741,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "105book69926",
+    "date": "2026-10-28",
+    "time": "1:00 PM",
+    "name": "Upper Force",
+    "class_type": "S&C Series",
+    "instructor": "Marcus Parkin",
+    "location": "Haymarket",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book42790",
@@ -16439,7 +16439,7 @@
     "time": "12:30 PM",
     "name": "Force Test: Squat Day",
     "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
+    "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -17231,7 +17231,7 @@
     "time": "6:30 PM",
     "name": "Force Test: Bench Press",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Killian Bolster",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -18115,17 +18115,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "106book64159",
-    "date": "2026-11-03",
-    "time": "7:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "106book51979",
