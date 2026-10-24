@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book47780",
-    "date": "2026-10-26",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book59811",
-    "date": "2026-10-26",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 22,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book58871",
-    "date": "2026-10-26",
-    "time": "1:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book100138",
-    "date": "2026-10-26",
-    "time": "1:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book36643",
     "date": "2026-10-26",
     "time": "1:30 PM",
@@ -2262,7 +2218,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
@@ -3901,7 +3857,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -3945,7 +3901,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4088,7 +4044,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
@@ -4132,7 +4088,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4253,7 +4209,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
