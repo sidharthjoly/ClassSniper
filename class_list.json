@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "101book58766",
-    "date": "2026-10-26",
-    "time": "11:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book100697",
-    "date": "2026-10-26",
-    "time": "11:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book109206",
-    "date": "2026-10-26",
-    "time": "11:15 AM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
-    "location": "Surry Hills",
-    "remaining_spots": 34,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book62950",
     "date": "2026-10-26",
     "time": "11:30 AM",
