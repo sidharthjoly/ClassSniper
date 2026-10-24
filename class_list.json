@@ -2592,7 +2592,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2658,7 +2658,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 23,
     "capacity": 26
   },
   {
@@ -4264,7 +4264,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lauren Buck",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
