@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book38949",
-    "date": "2026-10-26",
-    "time": "9:15 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book104079",
-    "date": "2026-10-26",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book100513",
     "date": "2026-10-26",
     "time": "9:20 AM",
@@ -722,7 +700,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
