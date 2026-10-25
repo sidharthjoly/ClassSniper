@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39320",
-    "date": "2026-10-27",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49939",
     "date": "2026-10-27",
     "time": "5:30 AM",
@@ -843,7 +832,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -4033,7 +4022,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 38
   },
   {
