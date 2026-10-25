@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book36226",
-    "date": "2026-10-26",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book39320",
     "date": "2026-10-27",
     "time": "5:15 AM",
@@ -1789,7 +1778,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 36
   },
   {
@@ -3252,7 +3241,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 40
   },
   {
