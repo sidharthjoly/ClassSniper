@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49833",
-    "date": "2026-10-27",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book103374",
-    "date": "2026-10-27",
-    "time": "10:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 20,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book53572",
     "date": "2026-10-27",
     "time": "10:45 AM",
