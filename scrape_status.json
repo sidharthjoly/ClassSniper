@@ -1,12 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-10-26T04:37:21.301108+11:00",
-  "class_count": 1645,
+  "scraped_at": "2026-10-26T04:38:19.553592+11:00",
+  "class_count": 1967,
   "centers_total": 10,
-  "centers_failed": [
-    "Haymarket"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
