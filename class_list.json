@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book62783",
-    "date": "2026-10-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book67237",
-    "date": "2026-10-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book38841",
-    "date": "2026-10-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 21
-  },
-  {
     "booking_id": "105book34550",
     "date": "2026-10-26",
     "time": "7:00 PM",
@@ -2845,7 +2812,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 21
   },
   {
