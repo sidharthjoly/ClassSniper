@@ -1382,7 +1382,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -3505,7 +3505,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 26
   },
   {
@@ -4110,7 +4110,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
@@ -4121,7 +4121,7 @@
     "class_type": "Creche",
     "instructor": "Athena Nikolopoulos",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 4
   },
   {
