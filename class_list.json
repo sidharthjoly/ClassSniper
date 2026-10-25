@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book49939",
-    "date": "2026-10-27",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book71426",
-    "date": "2026-10-27",
-    "time": "5:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 37,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book102554",
-    "date": "2026-10-27",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
     "booking_id": "106book40112",
     "date": "2026-10-27",
     "time": "5:45 AM",
