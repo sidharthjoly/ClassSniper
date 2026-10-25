@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "106book64246",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 31
-  },
-  {
-    "booking_id": "106book74211",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book33443",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book58913",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book58924",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Sean Grosvenor",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book104555",
-    "date": "2026-10-26",
-    "time": "7:15 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 10,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book50732",
     "date": "2026-10-26",
     "time": "7:30 PM",
@@ -4374,7 +4308,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
