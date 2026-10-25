@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book39214",
-    "date": "2026-10-27",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book78042",
-    "date": "2026-10-27",
-    "time": "9:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book101557",
-    "date": "2026-10-27",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book54576",
     "date": "2026-10-27",
     "time": "9:30 AM",
