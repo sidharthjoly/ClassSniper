@@ -1701,7 +1701,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 36
   },
   {
@@ -1844,7 +1844,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2548,7 +2548,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -4330,7 +4330,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
