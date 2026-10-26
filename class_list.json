@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book38007",
-    "date": "2026-10-28",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book108851",
     "date": "2026-10-28",
     "time": "3:15 PM",
@@ -568,7 +557,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 23
   },
   {
@@ -2812,7 +2801,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
@@ -2909,7 +2898,7 @@
     "time": "5:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 8,
     "capacity": 30
@@ -3195,7 +3184,7 @@
     "time": "6:15 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 7,
     "capacity": 30
@@ -3725,7 +3714,7 @@
     "class_type": "Mat Series",
     "instructor": "Emmy Drew",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
@@ -4385,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -4429,7 +4418,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -4473,7 +4462,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
