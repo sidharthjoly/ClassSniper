@@ -2724,7 +2724,7 @@
     "class_type": "S&C Series",
     "instructor": "Killian Bolster",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hayley van Stom",
     "location": "North Sydney",
-    "remaining_spots": 26,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4396,7 +4396,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -4856,7 +4856,7 @@
     "time": "4:10 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Matthew Carney",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -4966,7 +4966,7 @@
     "time": "5:00 PM",
     "name": "BodyBurn",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Matthew Carney",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
