@@ -4792,7 +4792,7 @@
     "class_type": "Mat Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -4880,7 +4880,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -15213,17 +15213,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "106book64657",
-    "date": "2026-11-04",
-    "time": "6:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "101book67103",
     "date": "2026-11-04",
     "time": "6:15 AM",
@@ -15937,17 +15926,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "106book64874",
-    "date": "2026-11-04",
-    "time": "9:15 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "101book105745",
@@ -17576,6 +17554,17 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "106book82995",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Maria Sahyoun",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "107book113896",
