@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book34603",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Lauren Buck",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book38144",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 32
-  },
-  {
-    "booking_id": "106book83309",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book36211",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book49388",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book63807",
     "date": "2026-10-27",
     "time": "7:15 PM",
@@ -3402,7 +3347,7 @@
     "booking_id": "107book105409",
     "date": "2026-10-29",
     "time": "7:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
@@ -3571,7 +3516,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -3589,7 +3534,7 @@
     "booking_id": "107book105644",
     "date": "2026-10-29",
     "time": "8:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
