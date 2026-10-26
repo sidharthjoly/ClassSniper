@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book103197",
-    "date": "2026-10-28",
-    "time": "9:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book40675",
     "date": "2026-10-28",
     "time": "10:00 AM",
