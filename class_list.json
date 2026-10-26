@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book63807",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 3,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book40535",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book53276",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 5,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book47165",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book61417",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Surry Hills",
-    "remaining_spots": 24,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book106838",
-    "date": "2026-10-27",
-    "time": "7:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book90396",
     "date": "2026-10-27",
     "time": "7:30 PM",
@@ -73,7 +7,7 @@
     "class_type": "Dance Series",
     "instructor": "Dante Creek",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -1316,7 +1250,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 18
   },
   {
@@ -1525,7 +1459,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -1723,7 +1657,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -1855,7 +1789,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -1932,7 +1866,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "North Sydney",
-    "remaining_spots": 29,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -4176,7 +4110,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Bryony France",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -4198,7 +4132,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4319,7 +4253,7 @@
     "class_type": "S&C Series",
     "instructor": "Stephanie Conlin",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
