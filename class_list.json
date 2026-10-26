@@ -172,7 +172,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 28
   },
   {
@@ -1426,7 +1426,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
@@ -1525,7 +1525,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1679,7 +1679,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -2596,6 +2596,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "106book82994",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Maria Sahyoun",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
+  },
+  {
     "booking_id": "107book113895",
     "date": "2026-10-28",
     "time": "7:30 PM",
@@ -2625,7 +2636,7 @@
     "class_type": "S&C Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -4110,7 +4121,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
@@ -4370,7 +4381,7 @@
     "booking_id": "105book41981",
     "date": "2026-10-29",
     "time": "4:10 PM",
-    "name": "BodySculpt",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Matthew Carney",
     "location": "Haymarket",
@@ -4480,7 +4491,7 @@
     "booking_id": "105book40572",
     "date": "2026-10-29",
     "time": "5:00 PM",
-    "name": "BodyBurn",
+    "name": "Mat Pilates",
     "class_type": "Mat Series",
     "instructor": "Matthew Carney",
     "location": "Haymarket",
