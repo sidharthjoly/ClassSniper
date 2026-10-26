@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book51180",
-    "date": "2026-10-28",
-    "time": "8:40 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book42634",
     "date": "2026-10-28",
     "time": "8:45 AM",
