@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book105909",
-    "date": "2026-10-28",
-    "time": "11:15 AM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 17,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book41408",
     "date": "2026-10-28",
     "time": "11:30 AM",
