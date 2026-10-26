@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book31868",
-    "date": "2026-10-27",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book39161",
-    "date": "2026-10-27",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book41783",
-    "date": "2026-10-27",
-    "time": "6:30 PM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "North Sydney",
-    "remaining_spots": 34,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book110632",
-    "date": "2026-10-27",
-    "time": "6:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63496",
-    "date": "2026-10-27",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "101book102217",
     "date": "2026-10-27",
     "time": "6:35 PM",
@@ -2878,7 +2823,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
