@@ -491,7 +491,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2152,7 +2152,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -2735,7 +2735,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -4275,7 +4275,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
