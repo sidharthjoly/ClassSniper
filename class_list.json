@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book56200",
-    "date": "2026-10-28",
-    "time": "4:30 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book104624",
-    "date": "2026-10-28",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book73441",
     "date": "2026-10-28",
     "time": "4:45 PM",
@@ -414,7 +392,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 27
   },
   {
@@ -2491,7 +2469,7 @@
     "time": "3:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
+    "instructor": "Shannon Hsu",
     "location": "Surry Hills",
     "remaining_spots": 11,
     "capacity": 18
@@ -3505,7 +3483,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -4242,7 +4220,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
