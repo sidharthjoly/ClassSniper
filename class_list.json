@@ -887,7 +887,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 22
   },
   {
@@ -1987,7 +1987,7 @@
     "class_type": "Fight Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 26
   },
   {
@@ -3384,7 +3384,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -4132,7 +4132,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -8497,7 +8497,7 @@
     "time": "12:15 PM",
     "name": "Infrared Yoga",
     "class_type": "Yoga Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Patricia Aguilar",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -8728,7 +8728,7 @@
     "time": "4:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Kelly Medina",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -8860,7 +8860,7 @@
     "time": "5:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Kelly Medina",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -9773,7 +9773,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Stephanie Conlin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -10070,7 +10070,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Stephanie Conlin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -10345,7 +10345,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
+    "instructor": "Stephanie Conlin",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -10648,6 +10648,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "101book107061",
+    "date": "2026-11-03",
+    "time": "9:20 AM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Julieanne Nicolas",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book54577",
     "date": "2026-11-03",
     "time": "9:30 AM",
@@ -10657,17 +10668,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "101book107061",
-    "date": "2026-11-03",
-    "time": "9:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Julieanne Nicolas",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book63289",
@@ -13975,7 +13975,7 @@
     "time": "3:15 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -14085,7 +14085,7 @@
     "time": "4:15 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -16124,6 +16124,17 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "101book109160",
+    "date": "2026-11-05",
+    "time": "11:00 AM",
+    "name": "Corporate Yoga Class | Edstart",
+    "class_type": "Events",
+    "instructor": "Kristy Hocking",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "105book41930",
