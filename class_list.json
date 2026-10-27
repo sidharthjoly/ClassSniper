@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book68264",
-    "date": "2026-10-29",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book42953",
     "date": "2026-10-29",
     "time": "6:00 AM",
@@ -3956,7 +3945,7 @@
     "class_type": "Mat Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
