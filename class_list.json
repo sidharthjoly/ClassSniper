@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book71635",
-    "date": "2026-10-28",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book44782",
     "date": "2026-10-29",
     "time": "5:15 AM",
@@ -1415,7 +1404,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
