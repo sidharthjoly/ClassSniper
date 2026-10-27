@@ -975,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 18
   },
   {
@@ -1008,7 +1008,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 32
   },
   {
@@ -2955,7 +2955,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3934,7 +3934,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
@@ -4169,17 +4169,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "101book98179",
-    "date": "2026-10-30",
-    "time": "1:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book97620",
     "date": "2026-10-30",
     "time": "1:15 PM",
@@ -4224,17 +4213,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "101book98441",
-    "date": "2026-10-30",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59498",
     "date": "2026-10-30",
     "time": "2:30 PM",
@@ -4277,17 +4255,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "101book98565",
-    "date": "2026-10-30",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book44868",
@@ -4376,17 +4343,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book98628",
-    "date": "2026-10-30",
-    "time": "4:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book45233",
@@ -4662,17 +4618,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book98752",
-    "date": "2026-10-30",
-    "time": "6:40 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "105book44504",
