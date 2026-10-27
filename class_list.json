@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book56026",
-    "date": "2026-10-29",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58221",
-    "date": "2026-10-29",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book57068",
-    "date": "2026-10-29",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 28,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book105749",
-    "date": "2026-10-29",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 10,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book42189",
     "date": "2026-10-29",
     "time": "12:00 PM",
