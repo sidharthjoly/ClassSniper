@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book54786",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Pump\u2019d",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book56647",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 25,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book56148",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book77583",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 33,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book82994",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book113895",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book71635",
     "date": "2026-10-28",
     "time": "7:45 PM",
@@ -359,7 +293,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 35
   },
   {
@@ -3175,7 +3109,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -3934,7 +3868,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 36
   },
   {
