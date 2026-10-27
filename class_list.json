@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book64572",
-    "date": "2026-10-29",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book89261",
-    "date": "2026-10-29",
-    "time": "4:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book68031",
-    "date": "2026-10-29",
-    "time": "4:15 PM",
-    "name": "Fight Club",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book58273",
     "date": "2026-10-29",
     "time": "4:30 PM",
@@ -2526,7 +2493,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
@@ -3461,7 +3428,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
@@ -3857,7 +3824,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -3890,7 +3857,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 35
   },
   {
@@ -3901,7 +3868,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 28
   },
   {
@@ -3912,7 +3879,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
