@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41981",
-    "date": "2026-10-29",
-    "time": "4:10 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Matthew Carney",
-    "location": "Haymarket",
-    "remaining_spots": 23,
-    "capacity": 38
-  },
-  {
     "booking_id": "104book64572",
     "date": "2026-10-29",
     "time": "4:15 PM",
@@ -95,7 +84,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -3648,7 +3637,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 28
   },
   {
