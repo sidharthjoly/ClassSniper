@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book57016",
-    "date": "2026-10-29",
-    "time": "9:15 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book44835",
-    "date": "2026-10-29",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book99229",
-    "date": "2026-10-29",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book68631",
-    "date": "2026-10-29",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book57957",
     "date": "2026-10-29",
     "time": "9:30 AM",
