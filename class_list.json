@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book57277",
-    "date": "2026-10-29",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book40498",
     "date": "2026-10-29",
     "time": "11:00 AM",
