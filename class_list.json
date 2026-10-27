@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book45615",
-    "date": "2026-10-29",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amber Yan",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book42588",
     "date": "2026-10-29",
     "time": "7:00 AM",
