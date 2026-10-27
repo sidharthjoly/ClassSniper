@@ -4213,6 +4213,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "101book98179",
+    "date": "2026-10-30",
+    "time": "1:30 PM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Lily Cole",
+    "location": "Surry Hills",
+    "remaining_spots": 14,
+    "capacity": 20
+  },
+  {
     "booking_id": "103book59498",
     "date": "2026-10-30",
     "time": "2:30 PM",
@@ -4222,6 +4233,17 @@
     "location": "Marrickville",
     "remaining_spots": 14,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book98441",
+    "date": "2026-10-30",
+    "time": "2:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Lily Cole",
+    "location": "Surry Hills",
+    "remaining_spots": 19,
+    "capacity": 20
   },
   {
     "booking_id": "105book68547",
@@ -4255,6 +4277,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "101book98565",
+    "date": "2026-10-30",
+    "time": "3:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book44868",
@@ -4343,6 +4376,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "101book98628",
+    "date": "2026-10-30",
+    "time": "4:30 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Carlos Gallo",
+    "location": "Surry Hills",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "105book45233",
