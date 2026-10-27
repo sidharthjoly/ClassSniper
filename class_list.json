@@ -975,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -4242,7 +4242,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -5056,7 +5056,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Merrylands",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 33
   },
   {
