@@ -3153,7 +3153,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 38
   },
   {
@@ -3230,7 +3230,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3560,7 +3560,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 23
   },
   {
@@ -4176,7 +4176,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -5687,17 +5687,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book60962",
-    "date": "2026-10-31",
-    "time": "10:30 AM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book60018",
     "date": "2026-10-31",
     "time": "10:30 AM",
@@ -5890,7 +5879,7 @@
     "time": "11:15 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
+    "instructor": "Eisha Liyanage",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -5927,17 +5916,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "103book86052",
-    "date": "2026-10-31",
-    "time": "11:30 AM",
-    "name": "Burlesque (Heels Optional)",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "106book50017",
@@ -6048,17 +6026,6 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "103book72172",
-    "date": "2026-10-31",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book55900",
@@ -12413,7 +12380,7 @@
     "time": "6:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12589,7 +12556,7 @@
     "time": "6:50 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12864,7 +12831,7 @@
     "time": "7:40 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -13062,7 +13029,7 @@
     "time": "8:40 AM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Taniesha Walker",
+    "instructor": "Matt Bull",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -16566,6 +16533,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89515",
+    "date": "2026-11-05",
+    "time": "4:00 PM",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "104book39220",
     "date": "2026-11-05",
     "time": "4:00 PM",
@@ -16698,12 +16676,12 @@
     "capacity": 32
   },
   {
-    "booking_id": "103book56913",
+    "booking_id": "103book89673",
     "date": "2026-11-05",
     "time": "5:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 20
@@ -16993,6 +16971,17 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "103book89913",
+    "date": "2026-11-05",
+    "time": "6:00 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book58118",
@@ -18815,7 +18804,7 @@
     "time": "12:15 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
+    "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -18958,7 +18947,7 @@
     "time": "1:15 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
+    "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
