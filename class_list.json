@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book34196",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book42690",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book89836",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Mat Pilates Origins",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 17,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book89912",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book58117",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book44139",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book70768",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book38907",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book64199",
-    "date": "2026-10-29",
-    "time": "6:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book29292",
     "date": "2026-10-29",
     "time": "6:15 PM",
@@ -2922,7 +2823,7 @@
     "class_type": "S&C Series",
     "instructor": "Molly Williams",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -2966,7 +2867,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 36
   },
   {
@@ -3571,7 +3472,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 22
   },
   {
@@ -3604,7 +3505,7 @@
     "class_type": "Dance Series",
     "instructor": "Whyan Chen",
     "location": "Haymarket",
-    "remaining_spots": 37,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
@@ -3692,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -3747,7 +3648,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
@@ -3835,7 +3736,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
