@@ -700,7 +700,7 @@
     "class_type": "Mat Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 36
   },
   {
@@ -1943,7 +1943,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Marrickville",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -2427,7 +2427,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 36
   },
   {
@@ -4004,17 +4004,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book47200",
-    "date": "2026-11-01",
-    "time": "10:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "103book65776",
     "date": "2026-11-01",
     "time": "10:30 AM",
@@ -4101,17 +4090,6 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "105book46992",
-    "date": "2026-11-01",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book66082",
@@ -5538,7 +5516,7 @@
     "time": "11:15 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -5714,7 +5692,7 @@
     "time": "12:15 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -5868,7 +5846,7 @@
     "time": "1:15 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
@@ -11229,17 +11207,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "101book108852",
-    "date": "2026-11-04",
-    "time": "3:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "103book55939",
