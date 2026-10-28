@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book45129",
-    "date": "2026-10-30",
-    "time": "8:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book106369",
-    "date": "2026-10-30",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book77154",
-    "date": "2026-10-30",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book74012",
     "date": "2026-10-30",
     "time": "8:45 AM",
