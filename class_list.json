@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41772",
-    "date": "2026-10-29",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59134",
     "date": "2026-10-30",
     "time": "5:30 AM",
@@ -1536,7 +1525,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 26
   },
   {
@@ -2271,7 +2260,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -2493,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -2557,7 +2546,7 @@
     "time": "8:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 18
@@ -2746,7 +2735,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 35
   },
   {
@@ -3241,7 +3230,7 @@
     "class_type": "S&C Series",
     "instructor": "Nathan Newman",
     "location": "Newtown",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 28
   },
   {
