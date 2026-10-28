@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book97296",
-    "date": "2026-10-30",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book60541",
     "date": "2026-10-30",
     "time": "9:30 AM",
