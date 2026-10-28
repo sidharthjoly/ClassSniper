@@ -7,7 +7,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -568,7 +568,7 @@
     "class_type": "Spin Series",
     "instructor": "Allegra Sadnick",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 26,
     "capacity": 35
   },
   {
@@ -2185,7 +2185,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 30
   },
   {
