@@ -139,7 +139,7 @@
     "class_type": "S&C Series",
     "instructor": "Billy Thornhill",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -425,7 +425,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 35
   },
   {
@@ -2196,7 +2196,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -3483,7 +3483,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
