@@ -546,7 +546,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 23
   },
   {
@@ -1624,7 +1624,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -2284,7 +2284,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 38
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
@@ -3428,7 +3428,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -3516,7 +3516,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kelly Newton",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
