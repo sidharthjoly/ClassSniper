@@ -205,7 +205,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -1998,7 +1998,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -2856,7 +2856,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
