@@ -3527,7 +3527,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -3806,17 +3806,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "101book96420",
-    "date": "2026-11-01",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book31063",
     "date": "2026-11-01",
     "time": "9:10 AM",
@@ -3936,17 +3925,6 @@
     "location": "Surry Hills",
     "remaining_spots": 35,
     "capacity": 36
-  },
-  {
-    "booking_id": "101book96481",
-    "date": "2026-11-01",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 18
   },
   {
     "booking_id": "106book30841",
@@ -4796,10 +4774,10 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book67214",
+    "booking_id": "106book85436",
     "date": "2026-11-02",
     "time": "7:15 AM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
@@ -4961,10 +4939,10 @@
     "capacity": 26
   },
   {
-    "booking_id": "106book67319",
+    "booking_id": "106book85526",
     "date": "2026-11-02",
     "time": "8:00 AM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
@@ -10015,7 +9993,7 @@
     "time": "7:15 AM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -10257,7 +10235,7 @@
     "time": "8:15 AM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -10516,10 +10494,10 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book41357",
+    "booking_id": "105book76836",
     "date": "2026-11-04",
     "time": "10:00 AM",
-    "name": "Reformer: Athletic",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
@@ -12276,6 +12254,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "107book117101",
+    "date": "2026-11-05",
+    "time": "6:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Simon Corfield",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book64729",
     "date": "2026-11-05",
     "time": "6:00 AM",
@@ -12446,7 +12435,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Athletic",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Mily Ochoa",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -12560,6 +12549,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book117263",
+    "date": "2026-11-05",
+    "time": "7:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Simon Corfield",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 30
   },
   {
     "booking_id": "107book64888",
@@ -12721,7 +12721,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Mily Ochoa",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -12897,7 +12897,7 @@
     "time": "8:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Mily Ochoa",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -13442,17 +13442,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "106book71179",
-    "date": "2026-11-05",
-    "time": "12:00 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book24215",
     "date": "2026-11-05",
     "time": "12:00 PM",
@@ -13484,6 +13473,17 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
+  },
+  {
+    "booking_id": "106book85286",
+    "date": "2026-11-05",
+    "time": "12:00 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Wood",
+    "location": "Merrylands",
+    "remaining_spots": 22,
+    "capacity": 22
   },
   {
     "booking_id": "104book39272",
@@ -14014,15 +14014,15 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book73418",
+    "booking_id": "107book117377",
     "date": "2026-11-05",
     "time": "5:00 PM",
-    "name": "Force Test: Conditioning Challenge",
+    "name": "Athletica",
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 26,
-    "capacity": 26
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "105book28955",
@@ -16142,7 +16142,7 @@
     "time": "12:30 PM",
     "name": "Force Test: Deadlift Day",
     "class_type": "S&C Series",
-    "instructor": "James Wood",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -17781,7 +17781,7 @@
     "time": "10:00 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Monica Faundez",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -18067,7 +18067,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
+    "instructor": "Monica Faundez",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
