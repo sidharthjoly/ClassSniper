@@ -150,7 +150,7 @@
     "class_type": "One Run",
     "instructor": "Matty Mccormick",
     "location": "Merrylands",
-    "remaining_spots": 50,
+    "remaining_spots": 49,
     "capacity": 50
   },
   {
@@ -1547,7 +1547,7 @@
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -1580,7 +1580,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 21
   },
   {
