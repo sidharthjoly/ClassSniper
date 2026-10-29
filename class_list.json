@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book46179",
-    "date": "2026-10-31",
-    "time": "11:30 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 4,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book85118",
-    "date": "2026-10-31",
-    "time": "11:30 AM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book50017",
-    "date": "2026-10-31",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 22
-  },
-  {
     "booking_id": "106book49705",
     "date": "2026-10-31",
     "time": "11:45 AM",
@@ -1074,7 +1041,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
