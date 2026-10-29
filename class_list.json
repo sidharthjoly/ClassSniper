@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book43370",
-    "date": "2026-10-31",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book60018",
-    "date": "2026-10-31",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Megan Leung",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book49965",
-    "date": "2026-10-31",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 2,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book42383",
-    "date": "2026-10-31",
-    "time": "10:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book84070",
     "date": "2026-10-31",
     "time": "10:45 AM",
