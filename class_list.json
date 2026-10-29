@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book84070",
-    "date": "2026-10-31",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 21
-  },
-  {
     "booking_id": "105book70034",
     "date": "2026-10-31",
     "time": "11:00 AM",
