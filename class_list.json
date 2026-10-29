@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book107599",
-    "date": "2026-10-30",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book45807",
     "date": "2026-10-31",
     "time": "7:00 AM",
@@ -2042,7 +2031,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
