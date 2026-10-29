@@ -1470,7 +1470,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -1822,7 +1822,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 36
   },
   {
@@ -1921,7 +1921,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 21
   },
   {
@@ -11247,7 +11247,7 @@
     "time": "11:00 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Victoire de Polignac",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -11434,7 +11434,7 @@
     "time": "12:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Victoire de Polignac",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -16940,7 +16940,7 @@
     "capacity": 35
   },
   {
-    "booking_id": "107book73157",
+    "booking_id": "107book110150",
     "date": "2026-11-08",
     "time": "10:15 AM",
     "name": "Yoga: Flowstate",
