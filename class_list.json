@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book61746",
-    "date": "2026-10-31",
-    "time": "2:00 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book41649",
-    "date": "2026-10-31",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book107659",
-    "date": "2026-10-31",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Coti Cibils",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book44901",
     "date": "2026-10-31",
     "time": "2:15 PM",
@@ -436,7 +403,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -854,7 +821,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -898,7 +865,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
@@ -1052,7 +1019,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 36
   },
   {
@@ -1129,7 +1096,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 23
   },
   {
@@ -1338,7 +1305,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -1415,7 +1382,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -1448,7 +1415,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -1492,7 +1459,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
@@ -1503,7 +1470,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
