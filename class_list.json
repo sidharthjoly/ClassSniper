@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book108219",
-    "date": "2026-10-31",
-    "time": "4:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Coti Cibils",
-    "location": "North Sydney",
-    "remaining_spots": 9,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book115320",
-    "date": "2026-10-31",
-    "time": "4:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 5,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book95524",
     "date": "2026-10-31",
     "time": "4:30 PM",
@@ -1382,7 +1360,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -1646,7 +1624,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
@@ -1679,7 +1657,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
@@ -1701,7 +1679,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 4,
     "capacity": 8
   },
   {
