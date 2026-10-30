@@ -1250,7 +1250,7 @@
     "class_type": "Mat Series",
     "instructor": "Becki Baldwin",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -1888,7 +1888,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -2141,7 +2141,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -5166,7 +5166,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
