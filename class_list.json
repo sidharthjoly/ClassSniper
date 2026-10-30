@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55415",
-    "date": "2026-10-31",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book65477",
     "date": "2026-11-01",
     "time": "7:00 AM",
@@ -1734,7 +1723,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 26
   },
   {
@@ -1789,7 +1778,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
