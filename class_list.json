@@ -253,6 +253,17 @@
     "capacity": 40
   },
   {
+    "booking_id": "101book96237",
+    "date": "2026-11-01",
+    "time": "9:45 AM",
+    "name": "Yoga: Restore",
+    "class_type": "Yoga Series",
+    "instructor": "Shannon Hsu",
+    "location": "Surry Hills",
+    "remaining_spots": 0,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book69417",
     "date": "2026-11-01",
     "time": "10:00 AM",
@@ -273,17 +284,6 @@
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
-  },
-  {
-    "booking_id": "101book96237",
-    "date": "2026-11-01",
-    "time": "10:00 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
   },
   {
     "booking_id": "106book30841",
@@ -612,7 +612,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
@@ -645,7 +645,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
