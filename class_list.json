@@ -700,7 +700,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sara Craighead",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -1096,7 +1096,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2218,7 +2218,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
