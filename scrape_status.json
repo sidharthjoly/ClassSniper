@@ -1,15 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-01T03:34:22.698896+11:00",
-  "class_count": 1470,
+  "scraped_at": "2026-11-01T03:35:21.008363+11:00",
+  "class_count": 2106,
   "centers_total": 10,
-  "centers_failed": [
-    "Rockdale",
-    "Bunker",
-    "Haymarket",
-    "North Sydney"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
