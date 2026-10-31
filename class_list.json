@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book107557",
-    "date": "2026-11-02",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mari Hooper",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book37517",
     "date": "2026-11-02",
     "time": "4:00 PM",
@@ -1261,7 +1250,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 35
   },
   {
@@ -3263,7 +3252,7 @@
     "class_type": "S&C Series",
     "instructor": "Matthew Gardner",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
