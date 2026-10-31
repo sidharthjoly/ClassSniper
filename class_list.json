@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49469",
-    "date": "2026-11-02",
-    "time": "4:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book104313",
-    "date": "2026-11-02",
-    "time": "4:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book34761",
     "date": "2026-11-02",
     "time": "4:30 PM",
@@ -1492,7 +1470,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 38
   },
   {
@@ -2141,7 +2119,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 18
   },
   {
@@ -3967,7 +3945,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 28
   },
   {
