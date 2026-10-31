@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book55349",
-    "date": "2026-11-02",
-    "time": "6:45 AM",
-    "name": "Force Test: Squat Day",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book59339",
     "date": "2026-11-02",
     "time": "6:50 AM",
@@ -4869,7 +4858,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
