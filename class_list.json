@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book38584",
-    "date": "2026-11-02",
-    "time": "5:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book100236",
-    "date": "2026-11-02",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book37412",
     "date": "2026-11-02",
     "time": "6:00 AM",
@@ -3219,7 +3197,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 32
   },
   {
