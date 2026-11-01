@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book54577",
-    "date": "2026-11-03",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book63289",
     "date": "2026-11-03",
     "time": "10:00 AM",
