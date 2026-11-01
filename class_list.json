@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book54809",
-    "date": "2026-11-03",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book53891",
-    "date": "2026-11-03",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Ivan Barrios",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book52711",
-    "date": "2026-11-03",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 32,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book103480",
-    "date": "2026-11-03",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book38463",
     "date": "2026-11-03",
     "time": "12:00 PM",
@@ -3021,7 +2977,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -3978,7 +3934,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
