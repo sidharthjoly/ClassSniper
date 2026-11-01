@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "106book74212",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book64247",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Noor Yaghi",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 31
-  },
-  {
-    "booking_id": "104book33444",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book58914",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book58925",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Sean Grosvenor",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book104556",
-    "date": "2026-11-02",
-    "time": "7:15 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book50630",
     "date": "2026-11-02",
     "time": "7:30 PM",
@@ -1591,7 +1525,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -3043,7 +2977,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 23
   },
   {
@@ -3758,7 +3692,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 32
   },
   {
@@ -3890,7 +3824,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
