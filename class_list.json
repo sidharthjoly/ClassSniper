@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book62263",
-    "date": "2026-11-03",
-    "time": "4:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book108316",
-    "date": "2026-11-03",
-    "time": "4:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book54474",
     "date": "2026-11-03",
     "time": "4:30 PM",
@@ -3989,7 +3967,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
@@ -4396,7 +4374,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
