@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101942",
-    "date": "2026-11-03",
-    "time": "10:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49834",
     "date": "2026-11-03",
     "time": "10:30 AM",
