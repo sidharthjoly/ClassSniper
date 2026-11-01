@@ -183,7 +183,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
@@ -546,7 +546,7 @@
     "class_type": "Fight Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 26
   },
   {
@@ -2251,7 +2251,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 28
   },
   {
@@ -2658,7 +2658,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 32
   },
   {
