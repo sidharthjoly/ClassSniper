@@ -172,7 +172,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -1129,7 +1129,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -1580,7 +1580,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -1866,7 +1866,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -2350,7 +2350,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -3945,7 +3945,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
