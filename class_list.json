@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39321",
-    "date": "2026-11-03",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49940",
     "date": "2026-11-03",
     "time": "5:30 AM",
@@ -392,7 +381,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -2449,7 +2438,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
@@ -4077,7 +4066,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4374,7 +4363,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
@@ -4440,7 +4429,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 38
   },
   {
