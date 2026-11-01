@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101783",
-    "date": "2026-11-03",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book67936",
     "date": "2026-11-03",
     "time": "4:00 PM",
@@ -623,7 +612,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 36
   },
   {
@@ -4363,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
