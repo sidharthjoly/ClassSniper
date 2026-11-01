@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book77776",
-    "date": "2026-11-03",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book101783",
     "date": "2026-11-03",
     "time": "3:45 PM",
@@ -1778,7 +1767,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -3659,7 +3648,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 33
   },
   {
