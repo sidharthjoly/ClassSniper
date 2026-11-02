@@ -1426,7 +1426,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -1844,7 +1844,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
