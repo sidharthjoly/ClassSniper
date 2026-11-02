@@ -117,7 +117,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -183,7 +183,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -216,7 +216,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 38
   },
   {
@@ -1019,7 +1019,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -3626,7 +3626,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -3780,7 +3780,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -3835,7 +3835,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 38
   },
   {
@@ -4099,7 +4099,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 26
   },
   {
