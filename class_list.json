@@ -4658,7 +4658,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 28,
     "capacity": 30
@@ -4944,7 +4944,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -5001,7 +5001,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -5100,7 +5100,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
