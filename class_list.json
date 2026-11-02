@@ -425,7 +425,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 36
   },
   {
@@ -8103,7 +8103,7 @@
     "class_type": "Events",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 100,
+    "remaining_spots": 34,
     "capacity": 34
   },
   {
@@ -8112,10 +8112,10 @@
     "time": "9:30 AM",
     "name": "Zetland Opening | Unity Team Workout X Red Bull",
     "class_type": "Events",
-    "instructor": "Flyn Woodward",
+    "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book2",
@@ -8308,12 +8308,12 @@
     "booking_id": "108book213",
     "date": "2026-11-07",
     "time": "10:00 AM",
-    "name": "Zetland Opening |Pulse X Muscle Republic",
+    "name": "Zetland Opening | Pulse X Muscle Republic",
     "class_type": "Events",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 1,
+    "capacity": 1
   },
   {
     "booking_id": "105book30065",
@@ -8409,10 +8409,10 @@
     "time": "10:30 AM",
     "name": "Zetland Opening | Unity Team Workout",
     "class_type": "Events",
-    "instructor": "Flyn Woodward",
+    "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book302",
@@ -9977,17 +9977,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book362",
-    "date": "2026-11-09",
-    "time": "5:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book38585",
     "date": "2026-11-09",
     "time": "5:45 AM",
@@ -10129,6 +10118,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book362",
+    "date": "2026-11-09",
+    "time": "6:00 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book112",
@@ -10285,6 +10285,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "108book26676",
+    "date": "2026-11-09",
+    "time": "6:30 AM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Aaron Fiveash",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book305",
     "date": "2026-11-09",
     "time": "6:30 AM",
@@ -10294,17 +10305,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book156",
-    "date": "2026-11-09",
-    "time": "6:30 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "108book330",
@@ -10472,6 +10472,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book156",
+    "date": "2026-11-09",
+    "time": "7:00 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book76517",
     "date": "2026-11-09",
     "time": "7:15 AM",
@@ -10626,6 +10637,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "108book26677",
+    "date": "2026-11-09",
+    "time": "7:30 AM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Aaron Fiveash",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book306",
     "date": "2026-11-09",
     "time": "7:30 AM",
@@ -10635,17 +10657,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book364",
-    "date": "2026-11-09",
-    "time": "7:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "107book59498",
@@ -11462,6 +11473,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "108book26513",
+    "date": "2026-11-09",
+    "time": "12:00 PM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Aaron Fiveash",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book131",
     "date": "2026-11-09",
     "time": "12:00 PM",
@@ -12237,7 +12259,7 @@
     "time": "5:30 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
+    "instructor": "Kelly Medina",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -12463,6 +12485,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book349",
+    "date": "2026-11-09",
+    "time": "6:15 PM",
+    "name": "Upper Force",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book21344",
     "date": "2026-11-09",
     "time": "6:15 PM",
@@ -12578,7 +12611,7 @@
     "time": "6:30 PM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
+    "instructor": "Kelly Medina",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -12793,6 +12826,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book26406",
+    "date": "2026-11-09",
+    "time": "7:15 PM",
+    "name": "Upper Force",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "103book50631",
     "date": "2026-11-09",
     "time": "7:30 PM",
@@ -12886,7 +12930,7 @@
     "time": "7:30 PM",
     "name": "Upper Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
+    "instructor": "Kelly Medina",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -12945,17 +12989,6 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
-  },
-  {
-    "booking_id": "108book160",
-    "date": "2026-11-10",
-    "time": "5:30 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book40114",
@@ -13099,6 +13132,17 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book373",
+    "date": "2026-11-10",
+    "time": "6:00 AM",
+    "name": "Upper Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book50079",
@@ -13299,23 +13343,12 @@
     "capacity": 18
   },
   {
-    "booking_id": "108book373",
-    "date": "2026-11-10",
-    "time": "6:30 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book333",
     "date": "2026-11-10",
     "time": "6:30 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Kristy Hocking",
     "location": "Zetland",
     "remaining_spots": 34,
     "capacity": 34
@@ -13486,6 +13519,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "108book162",
+    "date": "2026-11-10",
+    "time": "7:00 AM",
+    "name": "Upper Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book49764",
     "date": "2026-11-10",
     "time": "7:15 AM",
@@ -13640,23 +13684,12 @@
     "capacity": 18
   },
   {
-    "booking_id": "108book162",
-    "date": "2026-11-10",
-    "time": "7:30 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book334",
     "date": "2026-11-10",
     "time": "7:30 AM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Kristy Hocking",
     "location": "Zetland",
     "remaining_spots": 36,
     "capacity": 36
@@ -14611,9 +14644,9 @@
     "booking_id": "108book163",
     "date": "2026-11-10",
     "time": "12:15 PM",
-    "name": "Lower Build",
+    "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Stephanie Conlin",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -14736,8 +14769,8 @@
     "class_type": "Events",
     "instructor": "Jordan Lewis",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 25,
+    "capacity": 25
   },
   {
     "booking_id": "108book21441",
@@ -14806,12 +14839,12 @@
     "capacity": 36
   },
   {
-    "booking_id": "108book374",
+    "booking_id": "108book26678",
     "date": "2026-11-10",
     "time": "1:15 PM",
-    "name": "Total Build",
+    "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Stephanie Conlin",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -15187,8 +15220,8 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "105book39394",
@@ -15506,8 +15539,8 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "107book94639",
@@ -15939,17 +15972,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book378",
-    "date": "2026-11-11",
-    "time": "5:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book100",
     "date": "2026-11-11",
     "time": "5:30 AM",
@@ -16148,6 +16170,17 @@
     "capacity": 50
   },
   {
+    "booking_id": "108book379",
+    "date": "2026-11-11",
+    "time": "6:00 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book122",
     "date": "2026-11-11",
     "time": "6:00 AM",
@@ -16300,17 +16333,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book379",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "108book134",
@@ -17728,8 +17750,8 @@
     "class_type": "Events",
     "instructor": "Angela Aho",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 25,
+    "capacity": 25
   },
   {
     "booking_id": "101book49142",
@@ -18227,6 +18249,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book26679",
+    "date": "2026-11-11",
+    "time": "5:15 PM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "105book32876",
     "date": "2026-11-11",
     "time": "5:30 PM",
@@ -18315,6 +18348,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book165",
+    "date": "2026-11-11",
+    "time": "5:30 PM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Maeve O'Keeffe",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book209",
     "date": "2026-11-11",
     "time": "5:30 PM",
@@ -18322,19 +18366,8 @@
     "class_type": "Events",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
-  },
-  {
-    "booking_id": "108book164",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "105book40890",
@@ -18546,6 +18579,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book26680",
+    "date": "2026-11-11",
+    "time": "6:15 PM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "105book32574",
     "date": "2026-11-11",
     "time": "6:30 PM",
@@ -18645,6 +18689,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book26681",
+    "date": "2026-11-11",
+    "time": "6:30 PM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Maeve O'Keeffe",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book391",
     "date": "2026-11-11",
     "time": "6:30 PM",
@@ -18654,17 +18709,6 @@
     "location": "Zetland",
     "remaining_spots": 100,
     "capacity": 100
-  },
-  {
-    "booking_id": "108book384",
-    "date": "2026-11-11",
-    "time": "6:30 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book103383",
@@ -18718,8 +18762,8 @@
     "class_type": "Events",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "105book40627",
@@ -18821,6 +18865,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book26515",
+    "date": "2026-11-11",
+    "time": "7:15 PM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "103book56150",
     "date": "2026-11-11",
     "time": "7:30 PM",
@@ -18887,12 +18942,12 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book165",
+    "booking_id": "108book164",
     "date": "2026-11-11",
     "time": "7:30 PM",
-    "name": "Total Build",
+    "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "OP Staff",
+    "instructor": "Maeve O'Keeffe",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -18962,17 +19017,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book166",
-    "date": "2026-11-12",
-    "time": "5:30 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book68266",
@@ -19105,6 +19149,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book167",
+    "date": "2026-11-12",
+    "time": "6:00 AM",
+    "name": "Lower Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book127",
@@ -19327,17 +19382,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "108book167",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book148",
     "date": "2026-11-12",
     "time": "6:30 AM",
@@ -19487,6 +19531,17 @@
     "name": "Sub60 | Hybrid",
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
+    "booking_id": "108book168",
+    "date": "2026-11-12",
+    "time": "7:00 AM",
+    "name": "Upper Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Tara McCarthy",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -19677,17 +19732,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book168",
-    "date": "2026-11-12",
-    "time": "7:30 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "105book42538",
@@ -20746,17 +20790,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "108book169",
-    "date": "2026-11-12",
-    "time": "1:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book64215",
     "date": "2026-11-12",
     "time": "1:30 PM",
@@ -21072,8 +21105,8 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "105book28956",
@@ -21266,7 +21299,7 @@
     "booking_id": "108book385",
     "date": "2026-11-12",
     "time": "5:30 PM",
-    "name": "Pulse",
+    "name": "Lower Build",
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
@@ -21413,8 +21446,8 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "105book29294",
@@ -21596,7 +21629,7 @@
     "booking_id": "108book170",
     "date": "2026-11-12",
     "time": "6:30 PM",
-    "name": "Pulse",
+    "name": "Total Build",
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
@@ -21871,7 +21904,7 @@
     "booking_id": "108book386",
     "date": "2026-11-12",
     "time": "7:30 PM",
-    "name": "Total Build",
+    "name": "Upper Build",
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
