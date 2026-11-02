@@ -425,7 +425,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -4231,7 +4231,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -5089,7 +5089,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 33
   },
   {
@@ -8092,8 +8092,8 @@
     "class_type": "Events",
     "instructor": "Joey Curcio",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book293",
@@ -8104,7 +8104,7 @@
     "instructor": "Eva Baonza",
     "location": "Zetland",
     "remaining_spots": 100,
-    "capacity": 100
+    "capacity": 34
   },
   {
     "booking_id": "108book14",
@@ -9324,8 +9324,8 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book346",
@@ -12144,6 +12144,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25675",
+    "date": "2026-11-09",
+    "time": "5:15 PM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Laura Pailleux-Hanon",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book57048",
     "date": "2026-11-09",
     "time": "5:30 PM",
@@ -13464,6 +13475,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25248",
+    "date": "2026-11-10",
+    "time": "7:00 AM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book49764",
     "date": "2026-11-10",
     "time": "7:15 AM",
@@ -14509,6 +14531,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25247",
+    "date": "2026-11-10",
+    "time": "12:00 PM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book351",
     "date": "2026-11-10",
     "time": "12:00 PM",
@@ -15143,8 +15176,8 @@
     "class_type": "Events",
     "instructor": "OP Staff",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 25,
+    "capacity": 25
   },
   {
     "booking_id": "108book208",
@@ -19448,6 +19481,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25859",
+    "date": "2026-11-12",
+    "time": "7:00 AM",
+    "name": "Sub60 | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "103book78986",
     "date": "2026-11-12",
     "time": "7:15 AM",
@@ -20493,6 +20537,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25783",
+    "date": "2026-11-12",
+    "time": "12:00 PM",
+    "name": "Sub60 | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book40470",
     "date": "2026-11-12",
     "time": "12:15 PM",
@@ -20623,6 +20678,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "108book25784",
+    "date": "2026-11-12",
+    "time": "1:00 PM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book342",
@@ -21327,6 +21393,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book26195",
+    "date": "2026-11-12",
+    "time": "6:00 PM",
+    "name": "Sub60 | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "James Wood",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book84",
