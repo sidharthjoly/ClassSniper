@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book64214",
-    "date": "2026-11-05",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 9,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58170",
-    "date": "2026-11-05",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106160",
-    "date": "2026-11-05",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book71524",
     "date": "2026-11-05",
     "time": "2:00 PM",
@@ -3219,7 +3186,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
@@ -3230,7 +3197,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
@@ -3285,7 +3252,7 @@
     "class_type": "Mat Series",
     "instructor": "Ellie Chan",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -3296,7 +3263,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -20885,7 +20852,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
