@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book45616",
-    "date": "2026-11-05",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book40417",
     "date": "2026-11-05",
     "time": "7:00 AM",
