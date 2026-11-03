@@ -3186,7 +3186,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 28
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -3516,7 +3516,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
@@ -3644,7 +3644,7 @@
     "booking_id": "108book206",
     "date": "2026-11-07",
     "time": "9:30 AM",
-    "name": "Zetland Opening | Reformer Signature X MoveActive",
+    "name": "Reformer Signature X MoveActive | Zetland Opening",
     "class_type": "Events",
     "instructor": "Joey Curcio",
     "location": "Zetland",
@@ -3666,7 +3666,7 @@
     "booking_id": "108book29532",
     "date": "2026-11-07",
     "time": "9:30 AM",
-    "name": "Zetland Opening | Racepace - MSCR X Luthri",
+    "name": "Racepace - MSCR X Luthri | Zetland Opening ",
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
@@ -3912,14 +3912,14 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
     "booking_id": "108book29533",
     "date": "2026-11-07",
     "time": "10:15 AM",
-    "name": "Zetland Opening | Sub60 - MSCR X Luthri",
+    "name": "Sub60 - MSCR X Luthri | Zetland Opening ",
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
@@ -3934,7 +3934,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3956,7 +3956,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -4011,7 +4011,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessie Dyer",
     "location": "Zetland",
-    "remaining_spots": 7,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -4205,7 +4205,7 @@
     "booking_id": "108book29656",
     "date": "2026-11-07",
     "time": "11:15 AM",
-    "name": "Zetland Opening | Crew Relay X NIKE",
+    "name": "Crew Relay X NIKE | Zetland Opening ",
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
@@ -4425,7 +4425,7 @@
     "booking_id": "108book29534",
     "date": "2026-11-07",
     "time": "12:30 PM",
-    "name": "Zetland Opening | Rhythm For Athleticism Workshop",
+    "name": "Rhythm For Athleticism Workshop | Zetland Opening",
     "class_type": "Events",
     "instructor": "Oliver Hobbs",
     "location": "Zetland",
@@ -20291,7 +20291,7 @@
     "class_type": "Events",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
