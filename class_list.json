@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book40469",
-    "date": "2026-11-05",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 29,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book65891",
-    "date": "2026-11-05",
-    "time": "12:15 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Bryony France",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67768",
-    "date": "2026-11-05",
-    "time": "12:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book68950",
-    "date": "2026-11-05",
-    "time": "12:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book69582",
-    "date": "2026-11-05",
-    "time": "12:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 26
-  },
-  {
     "booking_id": "105book55366",
     "date": "2026-11-05",
     "time": "12:30 PM",
@@ -634,7 +579,7 @@
     "class_type": "S&C Series",
     "instructor": "Nathan Newman",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 28
   },
   {
@@ -953,7 +898,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 40
   },
   {
