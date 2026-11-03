@@ -3351,7 +3351,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 36
   },
   {
@@ -3747,7 +3747,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Events",
     "instructor": "Joey Curcio",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
