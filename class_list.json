@@ -1096,7 +1096,7 @@
     "class_type": "Mat Series",
     "instructor": "Emmy Drew",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
@@ -3373,7 +3373,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -3670,7 +3670,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
