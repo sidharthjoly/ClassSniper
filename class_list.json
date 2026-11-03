@@ -5489,6 +5489,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "108book29532",
+    "date": "2026-11-07",
+    "time": "9:30 AM",
+    "name": "Zetland Opening | Racepace - MSCR X Luthri",
+    "class_type": "Events",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "108book14",
     "date": "2026-11-07",
     "time": "9:30 AM",
@@ -5727,6 +5738,17 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
+    "booking_id": "108book29533",
+    "date": "2026-11-07",
+    "time": "10:15 AM",
+    "name": "Zetland Opening | Sub60 - MSCR X Luthri",
+    "class_type": "Events",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
   },
@@ -6006,6 +6028,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book29656",
+    "date": "2026-11-07",
+    "time": "11:15 AM",
+    "name": "Zetland Opening | Crew Relay X NIKE",
+    "class_type": "Events",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 21,
+    "capacity": 21
+  },
+  {
     "booking_id": "105book46180",
     "date": "2026-11-07",
     "time": "11:30 AM",
@@ -6224,6 +6257,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "108book29534",
+    "date": "2026-11-07",
+    "time": "12:30 PM",
+    "name": "Zetland Opening | Rhythm For Athleticism Workshop",
+    "class_type": "Events",
+    "instructor": "Oliver Hobbs",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "108book303",
@@ -7953,6 +7997,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book29535",
+    "date": "2026-11-09",
+    "time": "7:15 AM",
+    "name": "Zetland Opening | Race Pace X Pace Athletic",
+    "class_type": "Events",
+    "instructor": "Jennifer Irvine",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "105book35718",
     "date": "2026-11-09",
     "time": "7:30 AM",
@@ -9458,6 +9513,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book119420",
+    "date": "2026-11-09",
+    "time": "5:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Kristy Hocking",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book332",
@@ -12694,6 +12760,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book144",
+    "date": "2026-11-10",
+    "time": "5:15 PM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jose Da Rocha",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "105book31591",
     "date": "2026-11-10",
     "time": "5:30 PM",
@@ -12936,6 +13013,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book21346",
+    "date": "2026-11-10",
+    "time": "6:00 PM",
+    "name": "Sub60 | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book11",
     "date": "2026-11-10",
     "time": "6:00 PM",
@@ -13011,6 +13099,17 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "108book352",
+    "date": "2026-11-10",
+    "time": "6:15 PM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jose Da Rocha",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "105book31870",
@@ -13264,6 +13363,28 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "108book29536",
+    "date": "2026-11-10",
+    "time": "7:15 PM",
+    "name": "Zetland Opening | Race Pace X Pace Athletic",
+    "class_type": "Events",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
+    "booking_id": "108book353",
+    "date": "2026-11-10",
+    "time": "7:15 PM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jose Da Rocha",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "103book90398",
@@ -13638,6 +13759,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "108book29537",
+    "date": "2026-11-11",
+    "time": "6:15 AM",
+    "name": "Zetland Opening | Race Pace X Pace Athletic",
+    "class_type": "Events",
+    "instructor": "James Wood",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "105book40210",
@@ -15092,6 +15224,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book29657",
+    "date": "2026-11-11",
+    "time": "12:45 PM",
+    "name": "Zetland Opening | The Art of Tempo Running",
+    "class_type": "Events",
+    "instructor": "Jennifer Irvine",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "106book42792",
     "date": "2026-11-11",
     "time": "1:00 PM",
@@ -15561,8 +15704,8 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "105book29195",
@@ -15781,8 +15924,8 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "105book40785",
@@ -16089,8 +16232,8 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "101book103383",
@@ -18553,7 +18696,7 @@
     "class_type": "Barre Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 23,
     "capacity": 23
   },
   {
@@ -18588,6 +18731,17 @@
     "location": "Surry Hills",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "108book29538",
+    "date": "2026-11-12",
+    "time": "5:15 PM",
+    "name": "Zetland Opening | Race Pace X Pace Athletic",
+    "class_type": "Events",
+    "instructor": "James Wood",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "108book357",
@@ -19809,6 +19963,17 @@
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "108book29539",
+    "date": "2026-11-13",
+    "time": "7:00 AM",
+    "name": "Zetland Opening | Race Pace X Pace Athletic",
+    "class_type": "Events",
+    "instructor": "Olivia Parker",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "105book66600",
@@ -21556,8 +21721,8 @@
     "class_type": "Events",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 100,
-    "capacity": 100
+    "remaining_spots": 15,
+    "capacity": 15
   },
   {
     "booking_id": "108book174",
