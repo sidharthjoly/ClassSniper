@@ -4594,7 +4594,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 30,
     "capacity": 33
   },
   {
@@ -4649,7 +4649,7 @@
     "class_type": "Mat Series",
     "instructor": "Amber Libert\u00e9",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -5511,17 +5511,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book45651",
-    "date": "2026-11-07",
-    "time": "10:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "105book45703",
     "date": "2026-11-07",
     "time": "10:00 AM",
@@ -5709,6 +5698,17 @@
     "capacity": 35
   },
   {
+    "booking_id": "105book45651",
+    "date": "2026-11-07",
+    "time": "10:15 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Marcus Parkin",
+    "location": "Haymarket",
+    "remaining_spots": 32,
+    "capacity": 32
+  },
+  {
     "booking_id": "104book41699",
     "date": "2026-11-07",
     "time": "10:15 AM",
@@ -5839,17 +5839,6 @@
     "location": "Zetland",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "105book75788",
-    "date": "2026-11-07",
-    "time": "11:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "103book41242",
@@ -5984,6 +5973,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "105book75788",
+    "date": "2026-11-07",
+    "time": "11:15 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Marcus Parkin",
+    "location": "Haymarket",
+    "remaining_spots": 32,
+    "capacity": 32
+  },
+  {
     "booking_id": "104book41857",
     "date": "2026-11-07",
     "time": "11:15 AM",
@@ -6083,17 +6083,6 @@
     "capacity": 23
   },
   {
-    "booking_id": "105book75893",
-    "date": "2026-11-07",
-    "time": "12:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "106book56926",
     "date": "2026-11-07",
     "time": "12:00 PM",
@@ -6171,6 +6160,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "105book75893",
+    "date": "2026-11-07",
+    "time": "12:15 PM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Marcus Parkin",
+    "location": "Haymarket",
+    "remaining_spots": 32,
+    "capacity": 32
+  },
+  {
     "booking_id": "104book25580",
     "date": "2026-11-07",
     "time": "12:15 PM",
@@ -6213,17 +6213,6 @@
     "location": "Haymarket",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "103book72173",
-    "date": "2026-11-07",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book55901",
@@ -6567,6 +6556,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book29773",
+    "date": "2026-11-08",
+    "time": "8:00 AM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Kristy Hocking",
+    "location": "Zetland",
+    "remaining_spots": 34,
+    "capacity": 34
+  },
+  {
     "booking_id": "106book30770",
     "date": "2026-11-08",
     "time": "8:10 AM",
@@ -6719,6 +6719,17 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book29547",
+    "date": "2026-11-08",
+    "time": "9:00 AM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Kristy Hocking",
+    "location": "Zetland",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "106book31064",
@@ -6994,6 +7005,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "108book29774",
+    "date": "2026-11-08",
+    "time": "10:30 AM",
+    "name": "Sound Healing",
+    "class_type": "Harmony Series",
+    "instructor": "Lihini Rose",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book64960",
@@ -12606,17 +12628,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "105book39394",
-    "date": "2026-11-10",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "103book54634",
     "date": "2026-11-10",
     "time": "5:15 PM",
@@ -12644,7 +12655,7 @@
     "time": "5:15 PM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Jack Bowen",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -12758,6 +12769,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "108book375",
+    "date": "2026-11-10",
+    "time": "5:30 PM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book98",
@@ -12936,17 +12958,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "105book65105",
-    "date": "2026-11-10",
-    "time": "6:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
-  },
-  {
     "booking_id": "106book41043",
     "date": "2026-11-10",
     "time": "6:15 PM",
@@ -12963,7 +12974,7 @@
     "time": "6:15 PM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Jack Bowen",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -13055,6 +13066,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "108book376",
+    "date": "2026-11-10",
+    "time": "6:30 PM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book99",
@@ -13203,9 +13225,9 @@
     "booking_id": "104book53278",
     "date": "2026-11-10",
     "time": "7:15 PM",
-    "name": "Gunshow",
+    "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
+    "instructor": "Jack Bowen",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -13491,7 +13513,7 @@
     "time": "6:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Shaylen Griffith",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -13865,7 +13887,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Shaylen Griffith",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -13880,6 +13902,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book380",
+    "date": "2026-11-11",
+    "time": "7:00 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Jonathon Balzanelli",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book324",
@@ -13902,17 +13935,6 @@
     "location": "Zetland",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "105book70693",
-    "date": "2026-11-11",
-    "time": "7:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book55002",
@@ -14168,12 +14190,12 @@
     "capacity": 28
   },
   {
-    "booking_id": "104book51008",
+    "booking_id": "104book67608",
     "date": "2026-11-11",
     "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Shaylen Griffith",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -14188,17 +14210,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "105book70798",
-    "date": "2026-11-11",
-    "time": "8:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 35,
-    "capacity": 35
   },
   {
     "booking_id": "103book54687",
@@ -14393,7 +14404,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
+    "instructor": "Shaylen Griffith",
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
@@ -15741,17 +15752,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "108book209",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Zetland Opening | Healing Harmony",
-    "class_type": "Events",
-    "instructor": "Shannon Hsu",
-    "location": "Zetland",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "105book40890",
     "date": "2026-11-11",
     "time": "5:45 PM",
@@ -16135,17 +16135,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "108book294",
-    "date": "2026-11-11",
-    "time": "6:45 PM",
-    "name": "Zetland Opening | Healing Harmony",
-    "class_type": "Events",
-    "instructor": "Shannon Hsu",
-    "location": "Zetland",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "105book40627",
@@ -17754,6 +17743,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "108book29668",
+    "date": "2026-11-12",
+    "time": "11:15 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book56028",
     "date": "2026-11-12",
     "time": "11:30 AM",
@@ -18315,6 +18315,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89516",
+    "date": "2026-11-12",
+    "time": "4:00 PM",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "104book39221",
     "date": "2026-11-12",
     "time": "4:00 PM",
@@ -18447,6 +18458,28 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book89674",
+    "date": "2026-11-12",
+    "time": "5:00 PM",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
+    "booking_id": "103book92107",
+    "date": "2026-11-12",
+    "time": "5:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Bethany Rumore",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "106book44089",
     "date": "2026-11-12",
     "time": "5:00 PM",
@@ -18478,17 +18511,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book295",
-    "date": "2026-11-12",
-    "time": "5:00 PM",
-    "name": "Zetland Opening | Candlelight Yoga",
-    "class_type": "Events",
-    "instructor": "Luka Cubrilo",
-    "location": "Zetland",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "105book28956",
@@ -18524,15 +18546,15 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book64866",
+    "booking_id": "104book67439",
     "date": "2026-11-12",
     "time": "5:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
+    "name": "Barre Signature",
+    "class_type": "Barre Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 0,
+    "capacity": 23
   },
   {
     "booking_id": "107book65736",
@@ -18678,15 +18700,15 @@
     "capacity": 18
   },
   {
-    "booking_id": "108book385",
+    "booking_id": "108book29775",
     "date": "2026-11-12",
     "time": "5:30 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
+    "name": "Zetand Opening | Pulse X Wanderlust",
+    "class_type": "Events",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
+    "remaining_spots": 100,
+    "capacity": 100
   },
   {
     "booking_id": "108book314",
@@ -18755,6 +18777,17 @@
     "capacity": 38
   },
   {
+    "booking_id": "103book91814",
+    "date": "2026-11-12",
+    "time": "6:00 PM",
+    "name": "Mat Pilates Origins",
+    "class_type": "Mat Series",
+    "instructor": "Bethany Rumore",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book58119",
     "date": "2026-11-12",
     "time": "6:00 PM",
@@ -18819,17 +18852,6 @@
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "108book84",
-    "date": "2026-11-12",
-    "time": "6:00 PM",
-    "name": "Zetland Opening | Candlelight Yoga",
-    "class_type": "Events",
-    "instructor": "Luka Cubrilo",
-    "location": "Zetland",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "105book29294",
