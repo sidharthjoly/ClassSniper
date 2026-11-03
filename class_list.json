@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book56027",
-    "date": "2026-11-05",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58222",
-    "date": "2026-11-05",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Marrickville",
-    "remaining_spots": 4,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book57069",
-    "date": "2026-11-05",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book105750",
-    "date": "2026-11-05",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book42190",
     "date": "2026-11-05",
     "time": "12:00 PM",
@@ -3109,7 +3065,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 21
   },
   {
