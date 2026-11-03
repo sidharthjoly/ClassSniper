@@ -887,7 +887,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -4121,7 +4121,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -4605,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
@@ -4671,7 +4671,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 32
   },
   {
