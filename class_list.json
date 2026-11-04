@@ -2031,7 +2031,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -3571,7 +3571,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -10721,7 +10721,7 @@
     "class_type": "Events",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
