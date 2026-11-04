@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book74421",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 13,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book59343",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book59863",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book53203",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book70055",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book96973",
-    "date": "2026-11-06",
-    "time": "6:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book45026",
     "date": "2026-11-06",
     "time": "6:30 AM",
@@ -469,7 +403,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 22
   },
   {
@@ -3703,7 +3637,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
