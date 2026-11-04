@@ -920,7 +920,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2559,7 +2559,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 38
   },
   {
@@ -19477,7 +19477,7 @@
     "class_type": "Events",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
