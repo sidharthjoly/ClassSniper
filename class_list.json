@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book54302",
-    "date": "2026-11-05",
-    "time": "7:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book55061",
-    "date": "2026-11-05",
-    "time": "7:15 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book66053",
-    "date": "2026-11-05",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book106691",
-    "date": "2026-11-05",
-    "time": "7:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "107book64042",
     "date": "2026-11-05",
     "time": "7:20 PM",
@@ -1371,7 +1327,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -1591,7 +1547,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -1668,7 +1624,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
@@ -3329,7 +3285,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3362,7 +3318,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 19,
     "capacity": 34
   },
   {
@@ -3472,7 +3428,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
