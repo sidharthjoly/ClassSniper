@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book40504",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book41031",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book48463",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book23594",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book24089",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
-  },
-  {
-    "booking_id": "104book40838",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book48706",
     "date": "2026-11-06",
     "time": "11:15 AM",
@@ -1074,7 +1008,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 36
   },
   {
