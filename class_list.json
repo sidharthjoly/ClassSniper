@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book40573",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 22,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book43200",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book89673",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book92106",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 22,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book44088",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book39428",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book117377",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book28955",
     "date": "2026-11-05",
     "time": "5:15 PM",
@@ -876,7 +799,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 33
   },
   {
@@ -2548,7 +2471,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 32
   },
   {
@@ -3560,7 +3483,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -3604,7 +3527,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -3725,7 +3648,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -4099,7 +4022,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -4110,7 +4033,7 @@
     "class_type": "Mat Series",
     "instructor": "Amber Libert\u00e9",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -4132,7 +4055,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -4143,7 +4066,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -20610,7 +20533,7 @@
     "class_type": "Events",
     "instructor": "Montana Cominos",
     "location": "Zetland",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
