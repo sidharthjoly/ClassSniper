@@ -821,7 +821,7 @@
     "class_type": "S&C Series",
     "instructor": "Asia Harris",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -964,7 +964,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 35
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 38
   },
   {
@@ -1393,7 +1393,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 21
   },
   {
@@ -8037,7 +8037,7 @@
     "class_type": "Events",
     "instructor": "Jordan Lewis",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 25
   },
   {
@@ -8477,7 +8477,7 @@
     "class_type": "Events",
     "instructor": "OP Staff",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 21,
     "capacity": 25
   },
   {
