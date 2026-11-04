@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book74013",
-    "date": "2026-11-06",
-    "time": "8:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book44453",
     "date": "2026-11-06",
     "time": "9:00 AM",
@@ -799,7 +788,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -2999,7 +2988,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
