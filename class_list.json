@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book56457",
-    "date": "2026-11-06",
-    "time": "1:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book59759",
-    "date": "2026-11-06",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106850",
-    "date": "2026-11-06",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book98180",
-    "date": "2026-11-06",
-    "time": "1:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 10,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book59499",
     "date": "2026-11-06",
     "time": "2:30 PM",
@@ -1734,7 +1690,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -2365,6 +2321,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "108book30401",
+    "date": "2026-11-08",
+    "time": "7:30 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Colleen Antony",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book92",
     "date": "2026-11-08",
     "time": "7:45 AM",
@@ -2473,6 +2440,17 @@
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
+  },
+  {
+    "booking_id": "108book29801",
+    "date": "2026-11-08",
+    "time": "8:30 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Colleen Antony",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book61866",
