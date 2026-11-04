@@ -2229,7 +2229,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -2570,7 +2570,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 35
   },
   {
@@ -8653,7 +8653,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 34
   },
   {
