@@ -128,7 +128,7 @@
     "class_type": "Reformer Series",
     "instructor": "Melissa Passe-De Silva",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 36
   },
   {
@@ -3076,7 +3076,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 32
   },
   {
@@ -3263,7 +3263,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -19455,7 +19455,7 @@
     "class_type": "Events",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 22,
     "capacity": 25
   },
   {
@@ -19796,7 +19796,7 @@
     "class_type": "Events",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 25
   },
   {
@@ -19928,7 +19928,7 @@
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 21
   },
   {
