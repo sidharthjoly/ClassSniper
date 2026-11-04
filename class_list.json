@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book55952",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book49292",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Force Test: Deadlift Day",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book59967",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book53070",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40209",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 7,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book107285",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book71079",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 18
-  },
-  {
     "booking_id": "106book47955",
     "date": "2026-11-06",
     "time": "1:00 PM",
@@ -2460,7 +2383,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -3956,7 +3879,7 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
