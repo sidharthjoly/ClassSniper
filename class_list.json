@@ -1481,7 +1481,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2174,7 +2174,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -2900,7 +2900,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 35
   },
   {
@@ -3043,7 +3043,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -3109,7 +3109,7 @@
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 18
   },
   {
