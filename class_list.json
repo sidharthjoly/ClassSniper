@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book41773",
-    "date": "2026-11-05",
-    "time": "7:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59135",
     "date": "2026-11-06",
     "time": "5:30 AM",
@@ -3120,7 +3109,7 @@
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 30
   },
   {
@@ -19785,7 +19774,7 @@
     "class_type": "Events",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
