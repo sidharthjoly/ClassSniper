@@ -2669,7 +2669,7 @@
     "class_type": "Fight Series",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 31
   },
   {
@@ -2702,7 +2702,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
@@ -10039,7 +10039,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 34
   },
   {
