@@ -1228,7 +1228,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -1965,7 +1965,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 36
   },
   {
@@ -2031,7 +2031,7 @@
     "class_type": "Harmony Series",
     "instructor": "Sobia Salim",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -3362,7 +3362,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 36
   },
   {
@@ -18619,7 +18619,7 @@
     "class_type": "Events",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
