@@ -1551,17 +1551,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book56573",
-    "date": "2026-11-09",
-    "time": "6:00 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "108book362",
     "date": "2026-11-09",
     "time": "6:00 AM",
@@ -1870,17 +1859,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "107book56160",
-    "date": "2026-11-09",
-    "time": "7:00 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book70100",
     "date": "2026-11-09",
     "time": "7:00 AM",
@@ -2165,17 +2143,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book56108",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "107book70152",
@@ -2880,17 +2847,6 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "107book56518",
-    "date": "2026-11-09",
-    "time": "12:00 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Patrick Fox",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "101book86542",
