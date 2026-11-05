@@ -29,7 +29,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 26
   },
   {
@@ -51,7 +51,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -282,7 +282,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 21
   },
   {
@@ -2119,7 +2119,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 36
   },
   {
@@ -2251,7 +2251,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -2449,7 +2449,7 @@
     "class_type": "Reformer Series",
     "instructor": "Leng Taecharattanawanit",
     "location": "Zetland",
-    "remaining_spots": 3,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -2471,7 +2471,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -2515,7 +2515,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
