@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book61956",
-    "date": "2026-11-07",
-    "time": "6:45 AM",
-    "name": "Blackout",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book45808",
     "date": "2026-11-07",
     "time": "7:00 AM",
@@ -1294,7 +1283,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
