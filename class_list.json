@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "104book42071",
-    "date": "2026-11-07",
-    "time": "11:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 23
-  },
-  {
     "booking_id": "106book56926",
     "date": "2026-11-07",
     "time": "12:00 PM",
