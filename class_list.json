@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book329",
-    "date": "2026-11-07",
-    "time": "1:10 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "101book95854",
     "date": "2026-11-07",
     "time": "1:15 PM",
@@ -1030,7 +1019,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
