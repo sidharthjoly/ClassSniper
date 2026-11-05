@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book45234",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book68362",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book85827",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book82321",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 24,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book40160",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40630",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book60650",
     "date": "2026-11-06",
     "time": "5:15 PM",
@@ -2680,7 +2614,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 34,
     "capacity": 36
   },
   {
@@ -2691,7 +2625,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 14,
     "capacity": 18
   },
   {
@@ -20346,7 +20280,7 @@
     "class_type": "Events",
     "instructor": "Marie de Bella",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 34
   }
 ]
