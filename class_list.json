@@ -2581,7 +2581,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -2592,7 +2592,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
@@ -17365,7 +17365,7 @@
     "class_type": "Events",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 25
   },
   {
