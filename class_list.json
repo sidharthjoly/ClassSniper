@@ -744,7 +744,7 @@
     "class_type": "Events",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 34
   },
   {
@@ -2075,7 +2075,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 21
   },
   {
