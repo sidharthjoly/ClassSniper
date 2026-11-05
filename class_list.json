@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book84071",
-    "date": "2026-11-07",
-    "time": "10:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 21
-  },
-  {
-    "booking_id": "108book130",
-    "date": "2026-11-07",
-    "time": "10:45 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book41242",
     "date": "2026-11-07",
     "time": "11:00 AM",
