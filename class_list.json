@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book95777",
-    "date": "2026-11-07",
-    "time": "3:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
-    "location": "Surry Hills",
-    "remaining_spots": 24,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book95327",
-    "date": "2026-11-07",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book108220",
     "date": "2026-11-07",
     "time": "4:00 PM",
@@ -964,7 +942,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -1162,7 +1140,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -1965,7 +1943,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
