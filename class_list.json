@@ -132,17 +132,6 @@
     "capacity": 35
   },
   {
-    "booking_id": "106book84691",
-    "date": "2026-11-07",
-    "time": "7:30 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book76943",
     "date": "2026-11-07",
     "time": "7:30 AM",
@@ -405,17 +394,6 @@
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 24
-  },
-  {
-    "booking_id": "106book80993",
-    "date": "2026-11-07",
-    "time": "8:30 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "106book72799",
@@ -715,17 +693,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "106book49493",
-    "date": "2026-11-07",
-    "time": "9:30 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book73104",
     "date": "2026-11-07",
     "time": "9:30 AM",
@@ -777,7 +744,7 @@
     "class_type": "Events",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
