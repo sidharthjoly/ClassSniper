@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book73314",
-    "date": "2026-11-08",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 2,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book65529",
-    "date": "2026-11-08",
-    "time": "8:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book95916",
-    "date": "2026-11-08",
-    "time": "8:00 AM",
-    "name": "Meditation Soundscape",
-    "class_type": "Harmony Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book29773",
-    "date": "2026-11-08",
-    "time": "8:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "Zetland",
-    "remaining_spots": 6,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book30770",
     "date": "2026-11-08",
     "time": "8:10 AM",
