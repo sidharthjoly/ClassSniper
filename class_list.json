@@ -667,7 +667,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 23
   },
   {
@@ -777,7 +777,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "S&C Series",
     "instructor": "Sean Grosvenor",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -3593,7 +3593,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3791,7 +3791,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -6409,7 +6409,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 34
   },
   {
@@ -11242,17 +11242,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book41931",
-    "date": "2026-11-12",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Carlos Gallo",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "101book68791",
     "date": "2026-11-12",
     "time": "11:15 AM",
@@ -11647,6 +11636,17 @@
     "location": "Zetland",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "105book41931",
+    "date": "2026-11-12",
+    "time": "1:15 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Carlos Gallo",
+    "location": "Haymarket",
+    "remaining_spots": 38,
+    "capacity": 38
   },
   {
     "booking_id": "107book65947",
@@ -12239,8 +12239,8 @@
     "class_type": "Events",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 85,
-    "capacity": 100
+    "remaining_spots": 15,
+    "capacity": 30
   },
   {
     "booking_id": "108book314",
@@ -16896,6 +16896,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "107book110111",
+    "date": "2026-11-14",
+    "time": "12:00 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "108book21",
     "date": "2026-11-14",
     "time": "12:00 PM",
@@ -17026,6 +17037,17 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
+  },
+  {
+    "booking_id": "107book110307",
+    "date": "2026-11-14",
+    "time": "1:00 PM",
+    "name": "Reformer: Athletic",
+    "class_type": "Reformer Series",
+    "instructor": "Sarah Biordi",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book218",
@@ -17259,6 +17281,17 @@
     "capacity": 31
   },
   {
+    "booking_id": "108book29802",
+    "date": "2026-11-15",
+    "time": "7:30 AM",
+    "name": "Pulse",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Colleen Antony",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "106book73315",
     "date": "2026-11-15",
     "time": "8:00 AM",
@@ -17367,6 +17400,17 @@
     "location": "Zetland",
     "remaining_spots": 0,
     "capacity": 0
+  },
+  {
+    "booking_id": "108book29907",
+    "date": "2026-11-15",
+    "time": "8:30 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Colleen Antony",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book61867",
