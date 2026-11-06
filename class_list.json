@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book61866",
-    "date": "2026-11-08",
-    "time": "8:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book95977",
-    "date": "2026-11-08",
-    "time": "8:45 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book69521",
     "date": "2026-11-08",
     "time": "9:00 AM",
