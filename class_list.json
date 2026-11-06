@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book96238",
-    "date": "2026-11-08",
-    "time": "9:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book69418",
     "date": "2026-11-08",
     "time": "10:00 AM",
