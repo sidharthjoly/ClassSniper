@@ -359,7 +359,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 25
   },
   {
@@ -689,7 +689,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 29,
+    "remaining_spots": 30,
     "capacity": 34
   },
   {
@@ -3076,7 +3076,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -3692,7 +3692,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 23
   },
   {
@@ -4088,7 +4088,7 @@
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
     "location": "Surry Hills",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
