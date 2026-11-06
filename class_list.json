@@ -5890,7 +5890,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Matthew Carney",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -6077,7 +6077,7 @@
     "time": "5:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Matthew Carney",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -6319,7 +6319,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Matthew Carney",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -6594,7 +6594,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Matthew Carney",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -6781,7 +6781,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
+    "instructor": "Matthew Carney",
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
@@ -9108,17 +9108,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "106book64980",
-    "date": "2026-11-11",
-    "time": "5:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
-  },
-  {
     "booking_id": "107book49588",
     "date": "2026-11-11",
     "time": "5:15 PM",
@@ -9436,17 +9425,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book65085",
-    "date": "2026-11-11",
-    "time": "6:15 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "107book49743",
@@ -15471,7 +15449,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -15642,10 +15620,10 @@
     "capacity": 32
   },
   {
-    "booking_id": "103book72474",
+    "booking_id": "103book93659",
     "date": "2026-11-14",
     "time": "8:00 AM",
-    "name": "Reformer: Signature",
+    "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
@@ -15691,7 +15669,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -16005,10 +15983,10 @@
     "capacity": 8
   },
   {
-    "booking_id": "103book72228",
+    "booking_id": "103book93747",
     "date": "2026-11-14",
     "time": "9:00 AM",
-    "name": "Reformer: Signature",
+    "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
@@ -16087,7 +16065,7 @@
     "time": "9:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -16346,6 +16324,17 @@
     "capacity": 4
   },
   {
+    "booking_id": "103book93394",
+    "date": "2026-11-14",
+    "time": "10:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Angie Shen",
+    "location": "Marrickville",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "103book61901",
     "date": "2026-11-14",
     "time": "10:00 AM",
@@ -16355,17 +16344,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "103book72573",
-    "date": "2026-11-14",
-    "time": "10:00 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Angie Shen",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "103book41217",
@@ -16621,6 +16599,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "103book94082",
+    "date": "2026-11-14",
+    "time": "11:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Angie Shen",
+    "location": "Marrickville",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "103book61015",
     "date": "2026-11-14",
     "time": "11:00 AM",
@@ -16641,17 +16630,6 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "103book72327",
-    "date": "2026-11-14",
-    "time": "11:00 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Angie Shen",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "103book41243",
