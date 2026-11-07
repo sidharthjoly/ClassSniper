@@ -38,7 +38,7 @@
     "time": "5:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
@@ -282,7 +282,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 22
   },
   {
@@ -302,7 +302,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 1,
     "capacity": 24
@@ -643,7 +643,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
@@ -841,7 +841,7 @@
     "time": "8:30 AM",
     "name": "Reformer: Strong",
     "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
+    "instructor": "Karen Kwang",
     "location": "North Sydney",
     "remaining_spots": 16,
     "capacity": 24
@@ -1536,7 +1536,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Zetland",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -3153,7 +3153,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -22931,7 +22931,7 @@
     "class_type": "Events",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 36
   },
   {
