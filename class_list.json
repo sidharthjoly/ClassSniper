@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book36161",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book62847",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Haymarket",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book50523",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book85527",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 18,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book33550",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 26,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book34396",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book70152",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book114",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Zetland",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book48846",
     "date": "2026-11-09",
     "time": "8:10 AM",
@@ -2152,7 +2064,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 36
   },
   {
@@ -3340,7 +3252,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 18
   },
   {
@@ -4682,7 +4594,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
