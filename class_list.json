@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book63295",
-    "date": "2026-11-09",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49158",
     "date": "2026-11-09",
     "time": "5:30 AM",
@@ -5078,7 +5067,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
