@@ -2174,7 +2174,7 @@
     "class_type": "S&C Series",
     "instructor": "Sean Grosvenor",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
@@ -2526,7 +2526,7 @@
     "class_type": "Apex Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -4594,7 +4594,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -8565,7 +8565,7 @@
     "class_type": "Events",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 34
   },
   {
