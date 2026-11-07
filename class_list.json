@@ -95,7 +95,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -1305,7 +1305,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -4649,7 +4649,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4704,7 +4704,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 28
   },
   {
