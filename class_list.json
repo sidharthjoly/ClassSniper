@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book34762",
-    "date": "2026-11-09",
-    "time": "4:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 18,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book102451",
-    "date": "2026-11-09",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book59553",
-    "date": "2026-11-09",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book63162",
     "date": "2026-11-09",
     "time": "4:45 PM",
@@ -502,7 +469,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -986,7 +953,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -2680,7 +2647,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 18
   },
   {
@@ -4418,7 +4385,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 25,
     "capacity": 40
   },
   {
@@ -4605,7 +4572,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Newtown",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
