@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book100515",
-    "date": "2026-11-09",
-    "time": "9:20 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 4,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book50946",
     "date": "2026-11-09",
     "time": "9:30 AM",
