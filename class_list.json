@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book21343",
-    "date": "2026-11-09",
-    "time": "12:45 PM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book67425",
     "date": "2026-11-09",
     "time": "1:00 PM",
