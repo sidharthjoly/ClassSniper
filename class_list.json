@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book38951",
-    "date": "2026-11-09",
-    "time": "9:15 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book104081",
-    "date": "2026-11-09",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book21341",
-    "date": "2026-11-09",
-    "time": "9:15 AM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book100515",
     "date": "2026-11-09",
     "time": "9:20 AM",
