@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book76517",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Grace Clark",
-    "location": "Haymarket",
-    "remaining_spots": 28,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book85437",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book100048",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book106952",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book59032",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book29535",
-    "date": "2026-11-09",
-    "time": "7:15 AM",
-    "name": "Race Pace X Pace Athletic | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book35718",
     "date": "2026-11-09",
     "time": "7:30 AM",
@@ -4561,7 +4495,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
