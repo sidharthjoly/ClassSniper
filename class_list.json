@@ -656,7 +656,7 @@
     "class_type": "Fight Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 26
   },
   {
@@ -2372,7 +2372,7 @@
     "class_type": "Spin Series",
     "instructor": "Andrew Lloyd",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -5309,7 +5309,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -5870,7 +5870,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -9201,7 +9201,7 @@
     "time": "6:00 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Honor Mills",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -9531,7 +9531,7 @@
     "time": "7:00 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Honor Mills",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -9872,7 +9872,7 @@
     "time": "8:00 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Honor Mills",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10609,7 +10609,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Killian Bolster",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
