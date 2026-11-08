@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book39322",
-    "date": "2026-11-10",
-    "time": "5:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book49941",
     "date": "2026-11-10",
     "time": "5:30 AM",
@@ -3824,7 +3813,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 25
   },
   {
