@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book108317",
-    "date": "2026-11-10",
-    "time": "4:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 12,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book62264",
-    "date": "2026-11-10",
-    "time": "4:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book51963",
     "date": "2026-11-10",
     "time": "4:30 PM",
@@ -4176,7 +4154,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Tara McCarthy",
     "location": "Zetland",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
