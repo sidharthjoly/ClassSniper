@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book104698",
-    "date": "2026-11-09",
-    "time": "6:05 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book50057",
     "date": "2026-11-09",
     "time": "6:15 PM",
@@ -84,7 +73,7 @@
     "class_type": "Apex Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 7,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4880,7 +4869,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -4990,7 +4979,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
@@ -5034,7 +5023,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
