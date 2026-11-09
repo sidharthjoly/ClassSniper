@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book29657",
-    "date": "2026-11-11",
-    "time": "12:45 PM",
-    "name": "The Art of Tempo Running | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book42792",
     "date": "2026-11-11",
     "time": "1:00 PM",
@@ -1272,7 +1261,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3285,7 +3274,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
@@ -4330,7 +4319,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -4484,7 +4473,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 36
   },
   {
