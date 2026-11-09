@@ -2636,7 +2636,7 @@
     "class_type": "S&C Series",
     "instructor": "James Wood",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -3516,7 +3516,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 32
   },
   {
@@ -5012,7 +5012,7 @@
     "class_type": "Barre Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 23
   },
   {
@@ -7084,6 +7084,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "104book68857",
+    "date": "2026-11-13",
+    "time": "9:30 AM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Jessy Franks",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "101book77258",
     "date": "2026-11-13",
     "time": "9:30 AM",
@@ -7293,6 +7304,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "104book68945",
+    "date": "2026-11-13",
+    "time": "10:30 AM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Franks",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "107book107076",
     "date": "2026-11-13",
     "time": "10:30 AM",
@@ -7388,7 +7410,7 @@
     "class_type": "Events",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -7419,7 +7441,7 @@
     "time": "11:15 AM",
     "name": "Infrared Yoga",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Ana Lievano",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -7456,17 +7478,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book39845",
-    "date": "2026-11-13",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book107181",
@@ -7672,7 +7683,7 @@
     "time": "12:15 PM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Ana Lievano",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -7733,17 +7744,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book53071",
-    "date": "2026-11-13",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "104book40210",
     "date": "2026-11-13",
     "time": "12:30 PM",
@@ -7799,15 +7799,15 @@
     "capacity": 20
   },
   {
-    "booking_id": "108book345",
+    "booking_id": "108book31585",
     "date": "2026-11-13",
     "time": "1:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "108book8",
@@ -7848,7 +7848,7 @@
     "time": "1:15 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Ana Lievano",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -8613,17 +8613,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book42016",
-    "date": "2026-11-14",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book53728",
     "date": "2026-11-14",
     "time": "7:00 AM",
@@ -8732,6 +8721,17 @@
     "location": "Merrylands",
     "remaining_spots": 50,
     "capacity": 50
+  },
+  {
+    "booking_id": "104book68506",
+    "date": "2026-11-14",
+    "time": "7:30 AM",
+    "name": "Newtown's Fittest",
+    "class_type": "Events",
+    "instructor": "OP Staff",
+    "location": "Newtown",
+    "remaining_spots": 35,
+    "capacity": 36
   },
   {
     "booking_id": "101book95077",
@@ -8875,17 +8875,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book41963",
-    "date": "2026-11-14",
-    "time": "8:00 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "104book42489",
@@ -9339,17 +9328,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book41805",
-    "date": "2026-11-14",
-    "time": "9:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book68616",
     "date": "2026-11-14",
     "time": "9:15 AM",
@@ -9403,17 +9381,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "106book49494",
-    "date": "2026-11-14",
-    "time": "9:30 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "104book42177",
@@ -13579,7 +13546,7 @@
     "time": "5:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Killian Bolster",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -13909,7 +13876,7 @@
     "time": "6:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Killian Bolster",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -14646,7 +14613,7 @@
     "time": "6:30 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "James Wood",
+    "instructor": "Aaron Fiveash",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -15009,7 +14976,7 @@
     "time": "7:30 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "James Wood",
+    "instructor": "Aaron Fiveash",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -17919,10 +17886,10 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book37698",
+    "booking_id": "104book68551",
     "date": "2026-11-18",
     "time": "7:00 AM",
-    "name": "Reformer: Origins",
+    "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Newtown",
@@ -19563,7 +19530,7 @@
     "time": "5:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
+    "instructor": "Bethany Rumore",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -19904,7 +19871,7 @@
     "time": "6:15 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Elaina Lentini",
+    "instructor": "Bethany Rumore",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
