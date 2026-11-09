@@ -2812,7 +2812,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 7,
     "capacity": 25
   },
   {
@@ -3153,7 +3153,7 @@
     "class_type": "Events",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -3714,7 +3714,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 33
   },
   {
@@ -4440,7 +4440,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -5034,7 +5034,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -7696,7 +7696,7 @@
     "class_type": "Events",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
