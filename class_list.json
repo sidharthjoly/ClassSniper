@@ -370,7 +370,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 40
   },
   {
@@ -4605,7 +4605,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -5078,7 +5078,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -5111,7 +5111,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 32
   },
   {
@@ -5155,7 +5155,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 16,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
