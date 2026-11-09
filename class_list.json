@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49352",
-    "date": "2026-11-11",
-    "time": "12:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book40106",
     "date": "2026-11-11",
     "time": "12:15 PM",
@@ -986,7 +975,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -1668,7 +1657,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 36
   },
   {
@@ -4572,7 +4561,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 27,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
