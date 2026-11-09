@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book40210",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 17,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book32694",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book42272",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 5,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book36460",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book109332",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book41978",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 40
-  },
-  {
-    "booking_id": "101book66104",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book145",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book101",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book134",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Zetland",
-    "remaining_spots": 13,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book84361",
     "date": "2026-11-11",
     "time": "6:45 AM",
@@ -3923,7 +3813,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
