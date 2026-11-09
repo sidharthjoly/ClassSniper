@@ -1052,7 +1052,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -1063,7 +1063,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 40
   },
   {
@@ -2999,7 +2999,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 18,
     "capacity": 35
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -4154,7 +4154,7 @@
     "class_type": "Spin Series",
     "instructor": "Allegra Sadnick",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -4484,7 +4484,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
