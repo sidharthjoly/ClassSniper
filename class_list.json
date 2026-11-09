@@ -2746,7 +2746,7 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -2834,7 +2834,7 @@
     "class_type": "Harmony Series",
     "instructor": "Daniel Augustine",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -5353,7 +5353,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "North Sydney",
-    "remaining_spots": 40,
+    "remaining_spots": 39,
     "capacity": 40
   },
   {
@@ -5760,7 +5760,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -6002,7 +6002,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -8257,7 +8257,7 @@
     "class_type": "Events",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
