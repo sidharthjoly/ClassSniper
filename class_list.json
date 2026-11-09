@@ -513,7 +513,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -6508,7 +6508,7 @@
     "class_type": "Events",
     "instructor": "Olivia Parker",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
