@@ -1261,7 +1261,7 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
@@ -2042,7 +2042,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -2504,7 +2504,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -8233,7 +8233,7 @@
     "time": "5:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -8387,7 +8387,7 @@
     "time": "6:05 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
+    "instructor": "Simon Corfield",
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
@@ -9614,6 +9614,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "106book56822",
+    "date": "2026-11-14",
+    "time": "10:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Danielle Panayi",
+    "location": "Merrylands",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "104book41700",
     "date": "2026-11-14",
     "time": "10:15 AM",
@@ -9790,17 +9801,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "106book56822",
-    "date": "2026-11-14",
-    "time": "11:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "104book42333",
     "date": "2026-11-14",
     "time": "11:00 AM",
@@ -9865,6 +9865,17 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
+  },
+  {
+    "booking_id": "106book56927",
+    "date": "2026-11-14",
+    "time": "11:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Danielle Panayi",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "104book41858",
@@ -9964,17 +9975,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "106book56927",
-    "date": "2026-11-14",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "104book42229",
@@ -12945,6 +12945,17 @@
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "105book78731",
+    "date": "2026-11-16",
+    "time": "12:30 PM",
+    "name": "Reformer: Strong",
+    "class_type": "Reformer Series",
+    "instructor": "Shaylen Griffith",
+    "location": "Haymarket",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "103book49679",
@@ -21527,6 +21538,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "108book29669",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "name": "Total Build",
+    "class_type": "Pulse & Build Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 29,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book281",
     "date": "2026-11-19",
     "time": "11:00 AM",
@@ -21547,17 +21569,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "108book29669",
-    "date": "2026-11-19",
-    "time": "11:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 29,
-    "capacity": 30
   },
   {
     "booking_id": "105book56029",
