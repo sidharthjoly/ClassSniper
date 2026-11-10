@@ -1646,7 +1646,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Bryony France",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -2603,7 +2603,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -19411,7 +19411,7 @@
     "class_type": "Events",
     "instructor": "Emanuele Troise",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 25
   },
   {
@@ -22414,7 +22414,7 @@
     "class_type": "Events",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 36
   },
   {
