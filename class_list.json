@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book103383",
-    "date": "2026-11-11",
-    "time": "6:35 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book41254",
     "date": "2026-11-11",
     "time": "6:45 PM",
@@ -821,7 +810,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Tara McCarthy",
     "location": "Zetland",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 30
   },
   {
@@ -1206,7 +1195,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -2108,7 +2097,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
