@@ -392,7 +392,7 @@
     "class_type": "Events",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -997,7 +997,7 @@
     "class_type": "Apex Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 15
   },
   {
@@ -1800,7 +1800,7 @@
     "class_type": "Spin Series",
     "instructor": "Monique Cheng",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 35
   },
   {
@@ -3802,7 +3802,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 28,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
