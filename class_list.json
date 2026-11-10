@@ -2933,7 +2933,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -3021,7 +3021,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
@@ -3758,7 +3758,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -3901,7 +3901,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 36
   },
   {
@@ -12699,7 +12699,7 @@
     "time": "11:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
@@ -12930,7 +12930,7 @@
     "time": "12:00 PM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
@@ -13128,7 +13128,7 @@
     "time": "1:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
+    "instructor": "Amelia Gartner",
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
@@ -17358,17 +17358,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "103book58614",
-    "date": "2026-11-19",
-    "time": "6:00 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Evie Bird",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book58876",
     "date": "2026-11-19",
     "time": "6:00 AM",
@@ -17730,17 +17719,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "103book58509",
-    "date": "2026-11-19",
-    "time": "7:00 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Allegra Sadnick",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book91138",
