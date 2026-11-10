@@ -1,126 +1,5 @@
 [
   {
-    "booking_id": "105book41879",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book33279",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "106book71075",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39637",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book42570",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 29,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book105341",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book67564",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book68528",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book107",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Zetland",
-    "remaining_spots": 3,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book23825",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Zetland",
-    "remaining_spots": 19,
-    "capacity": 34
-  },
-  {
-    "booking_id": "108book148",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book45617",
     "date": "2026-11-12",
     "time": "6:45 AM",
@@ -1756,7 +1635,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
