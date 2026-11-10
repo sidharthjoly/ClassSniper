@@ -3296,7 +3296,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 38
   },
   {
@@ -4693,7 +4693,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -10466,7 +10466,7 @@
     "time": "5:15 PM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
+    "instructor": "Mily Ochoa",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -10708,7 +10708,7 @@
     "time": "6:00 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
+    "instructor": "Mily Ochoa",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -11027,7 +11027,7 @@
     "time": "6:45 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
+    "instructor": "Mily Ochoa",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -11258,7 +11258,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
+    "instructor": "Mily Ochoa",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -14276,17 +14276,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book90399",
-    "date": "2026-11-17",
-    "time": "7:30 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Dante Creek",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book54985",
@@ -19611,6 +19600,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book89915",
+    "date": "2026-11-19",
+    "time": "6:00 PM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Michael Roache",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "103book91815",
