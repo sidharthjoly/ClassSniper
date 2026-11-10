@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book29195",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book32876",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "James Wood",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 30
-  },
-  {
-    "booking_id": "103book56545",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book41464",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book43307",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
-    "booking_id": "104book36562",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book42374",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Mark Brinker",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book105001",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book105",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Celeste Rametta",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book165",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Maeve O'Keeffe",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book40890",
     "date": "2026-11-11",
     "time": "5:45 PM",
@@ -1481,7 +1371,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -1657,7 +1547,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -1734,7 +1624,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -4077,7 +3967,7 @@
     "class_type": "Reformer Series",
     "instructor": "Maria Sahyoun",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 22
   },
   {
@@ -4847,7 +4737,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 32
   },
   {
@@ -4902,7 +4792,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
