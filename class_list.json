@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book56131",
-    "date": "2026-11-12",
-    "time": "2:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 11,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58015",
-    "date": "2026-11-12",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
     "booking_id": "104book39169",
     "date": "2026-11-12",
     "time": "3:00 PM",
@@ -1008,7 +986,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -1646,7 +1624,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2273,7 +2251,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -3241,7 +3219,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -3450,7 +3428,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Marrickville",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -3604,7 +3582,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -4154,7 +4132,7 @@
     "class_type": "Barre Series",
     "instructor": "Sarah Goring",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 18,
     "capacity": 23
   },
   {
@@ -4165,7 +4143,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
