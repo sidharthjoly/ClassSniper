@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book45617",
-    "date": "2026-11-12",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book42590",
     "date": "2026-11-12",
     "time": "7:00 AM",
