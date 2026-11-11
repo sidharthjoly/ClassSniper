@@ -2205,7 +2205,7 @@
     "time": "5:15 PM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Jessy Patterson",
     "location": "Surry Hills",
     "remaining_spots": 13,
     "capacity": 36
@@ -2315,7 +2315,7 @@
     "time": "6:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
+    "instructor": "Anton Anton",
     "location": "Marrickville",
     "remaining_spots": 32,
     "capacity": 36
@@ -2370,7 +2370,7 @@
     "time": "6:15 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Jessy Patterson",
     "location": "Surry Hills",
     "remaining_spots": 0,
     "capacity": 36
@@ -2469,7 +2469,7 @@
     "time": "7:00 PM",
     "name": "Yoga: Restore",
     "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
+    "instructor": "Anton Anton",
     "location": "Marrickville",
     "remaining_spots": 23,
     "capacity": 36
@@ -4077,7 +4077,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -4231,7 +4231,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -4253,7 +4253,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
