@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book59136",
-    "date": "2026-11-13",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106641",
-    "date": "2026-11-13",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 6,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book46102",
     "date": "2026-11-13",
     "time": "5:45 AM",
@@ -3318,7 +3296,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 36
   },
   {
@@ -4308,7 +4286,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
