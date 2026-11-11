@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59604",
-    "date": "2026-11-13",
-    "time": "10:45 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book41036",
     "date": "2026-11-13",
     "time": "11:00 AM",
