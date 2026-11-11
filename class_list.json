@@ -271,7 +271,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 18
   },
   {
@@ -1250,7 +1250,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 17,
     "capacity": 33
   },
   {
@@ -2163,7 +2163,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -2559,7 +2559,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
@@ -2570,7 +2570,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "Surry Hills",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
