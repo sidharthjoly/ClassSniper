@@ -425,7 +425,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vivien Nguyen",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 21
   },
   {
@@ -469,7 +469,7 @@
     "class_type": "Events",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 34
   },
   {
@@ -1404,7 +1404,7 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 36
   },
   {
