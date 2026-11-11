@@ -2284,7 +2284,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2636,7 +2636,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -2724,7 +2724,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 38
   },
   {
@@ -4143,7 +4143,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Haymarket",
-    "remaining_spots": 37,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
@@ -12976,7 +12976,7 @@
     "class_type": "Events",
     "instructor": "Angela Aho",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 25
   },
   {
