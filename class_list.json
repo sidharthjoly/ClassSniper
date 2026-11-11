@@ -3131,7 +3131,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 30
   },
   {
@@ -3945,7 +3945,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 26
   },
   {
@@ -3989,7 +3989,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 32
   },
   {
@@ -14032,7 +14032,7 @@
     "class_type": "Events",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 36
   },
   {
