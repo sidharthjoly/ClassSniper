@@ -1,126 +1,5 @@
 [
   {
-    "booking_id": "105book44246",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "James Wood",
-    "location": "Haymarket",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book44922",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 38
-  },
-  {
-    "booking_id": "106book47752",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39897",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book109954",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "The Zone",
-    "class_type": "Spin Series",
-    "instructor": "Monique Cheng",
-    "location": "North Sydney",
-    "remaining_spots": 21,
-    "capacity": 35
-  },
-  {
-    "booking_id": "107book106746",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book77054",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book151",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 7,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book137",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Zetland",
-    "remaining_spots": 17,
-    "capacity": 34
-  },
-  {
-    "booking_id": "108book80",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Plump It Up Pilates | Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Tamar Hirschberg",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book4",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Plump It Up Pilates | Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Natasia Phimister",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book45340",
     "date": "2026-11-13",
     "time": "8:00 AM",
@@ -3637,7 +3516,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
