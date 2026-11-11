@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book71875",
-    "date": "2026-11-13",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book107391",
-    "date": "2026-11-13",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book292",
-    "date": "2026-11-13",
-    "time": "4:30 PM",
-    "name": "Plump It Up Pilates | Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Leng Taecharattanawanit",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book98630",
     "date": "2026-11-13",
     "time": "4:45 PM",
@@ -2152,7 +2119,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -2669,7 +2636,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -2680,7 +2647,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -2746,7 +2713,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -2757,7 +2724,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -2768,7 +2735,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
@@ -2812,7 +2779,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 36,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
