@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book61485",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book36999",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Abigail Rose",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book108116",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book95778",
     "date": "2026-11-14",
     "time": "3:30 PM",
@@ -1404,7 +1371,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -1525,7 +1492,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
@@ -1580,7 +1547,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 36
   },
   {
@@ -1844,7 +1811,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -1976,7 +1943,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 15
   },
   {
