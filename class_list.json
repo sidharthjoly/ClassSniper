@@ -73,7 +73,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -4334,17 +4334,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "108book21555",
-    "date": "2026-11-16",
-    "time": "12:00 PM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book35772",
     "date": "2026-11-16",
     "time": "12:15 PM",
@@ -4488,6 +4477,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book21660",
+    "date": "2026-11-16",
+    "time": "12:30 PM",
+    "name": "Race Pace | Run Only",
+    "class_type": "Apex Series",
+    "instructor": "Jennifer Irvine",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "108book23",
     "date": "2026-11-16",
     "time": "12:30 PM",
@@ -4497,17 +4497,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book21660",
-    "date": "2026-11-16",
-    "time": "12:45 PM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "106book67426",
@@ -5918,6 +5907,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book35750",
+    "date": "2026-11-17",
+    "time": "5:30 AM",
+    "name": "Race Pace | Run Only",
+    "class_type": "Apex Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "106book40115",
     "date": "2026-11-17",
     "time": "5:45 AM",
@@ -6556,6 +6556,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "106book51194",
+    "date": "2026-11-17",
+    "time": "7:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Kayla Stanton",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
+  },
+  {
     "booking_id": "104book35453",
     "date": "2026-11-17",
     "time": "7:30 AM",
@@ -6732,17 +6743,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book51194",
-    "date": "2026-11-17",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "107book78221",
     "date": "2026-11-17",
     "time": "8:15 AM",
@@ -6785,6 +6785,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "106book40327",
+    "date": "2026-11-17",
+    "time": "8:30 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Kayla Stanton",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
   },
   {
     "booking_id": "107book103272",
@@ -6886,17 +6897,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "106book40327",
-    "date": "2026-11-17",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "106book28132",
     "date": "2026-11-17",
     "time": "9:00 AM",
@@ -6996,6 +6996,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "106book67796",
+    "date": "2026-11-17",
+    "time": "9:30 AM",
+    "name": "Reformer: Sculpt",
+    "class_type": "Reformer Series",
+    "instructor": "Kayla Stanton",
+    "location": "Merrylands",
+    "remaining_spots": 21,
+    "capacity": 21
+  },
+  {
     "booking_id": "101book113063",
     "date": "2026-11-17",
     "time": "9:30 AM",
@@ -7093,17 +7104,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "106book67796",
-    "date": "2026-11-17",
-    "time": "10:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
   },
   {
     "booking_id": "104book35188",
@@ -8079,7 +8079,7 @@
     "time": "5:00 PM",
     "name": "Yoga: Flowstate",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -8398,7 +8398,7 @@
     "time": "6:00 PM",
     "name": "Yoga: Empower",
     "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
+    "instructor": "Nick Gross",
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
@@ -8796,7 +8796,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 32,
     "capacity": 32
   },
   {
@@ -9067,8 +9067,8 @@
     "booking_id": "103book76464",
     "date": "2026-11-18",
     "time": "6:00 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
     "remaining_spots": 36,
@@ -15378,17 +15378,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "108book29665",
-    "date": "2026-11-20",
-    "time": "7:00 AM",
-    "name": "Race Pace X Pace Athletic | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Olivia Parker",
-    "location": "Zetland",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
     "booking_id": "108book299",
     "date": "2026-11-20",
     "time": "7:00 AM",
@@ -15475,6 +15464,17 @@
     "location": "Surry Hills",
     "remaining_spots": 19,
     "capacity": 20
+  },
+  {
+    "booking_id": "108book29665",
+    "date": "2026-11-20",
+    "time": "7:15 AM",
+    "name": "Race Pace X Pace Athletic | Zetland Opening ",
+    "class_type": "Events",
+    "instructor": "Olivia Parker",
+    "location": "Zetland",
+    "remaining_spots": 10,
+    "capacity": 15
   },
   {
     "booking_id": "105book44247",
@@ -16309,7 +16309,7 @@
     "class_type": "Mat Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 30,
     "capacity": 30
   },
   {
@@ -17343,17 +17343,6 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book42017",
-    "date": "2026-11-21",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
   },
@@ -17546,17 +17535,6 @@
   },
   {
     "booking_id": "104book69553",
-    "date": "2026-11-21",
-    "time": "8:00 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book41964",
     "date": "2026-11-21",
     "time": "8:00 AM",
     "name": "Hour of Power",
