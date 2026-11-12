@@ -73,7 +73,7 @@
     "class_type": "Reformer Series",
     "instructor": "Areeba Talpur",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -1481,7 +1481,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -4180,6 +4180,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book238",
+    "date": "2026-11-16",
+    "time": "11:30 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Lilly Williams",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book22",
     "date": "2026-11-16",
     "time": "11:30 AM",
@@ -4321,17 +4332,6 @@
     "location": "Zetland",
     "remaining_spots": 25,
     "capacity": 25
-  },
-  {
-    "booking_id": "108book238",
-    "date": "2026-11-16",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lilly Williams",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "108book21555",
@@ -4477,6 +4477,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book39",
+    "date": "2026-11-16",
+    "time": "12:30 PM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Lilly Williams",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book23",
     "date": "2026-11-16",
     "time": "12:30 PM",
@@ -4552,17 +4563,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book39",
-    "date": "2026-11-16",
-    "time": "1:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Lilly Williams",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book47783",
@@ -4939,6 +4939,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book120318",
+    "date": "2026-11-16",
+    "time": "5:00 PM",
+    "name": "Upper Force",
+    "class_type": "S&C Series",
+    "instructor": "Killian Bolster",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "107book119421",
     "date": "2026-11-16",
     "time": "5:00 PM",
@@ -5278,6 +5289,17 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "107book120478",
+    "date": "2026-11-16",
+    "time": "6:00 PM",
+    "name": "Upper Force",
+    "class_type": "S&C Series",
+    "instructor": "Killian Bolster",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "107book116209",
@@ -5973,17 +5995,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "106book67691",
-    "date": "2026-11-17",
-    "time": "6:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book40432",
     "date": "2026-11-17",
     "time": "6:00 AM",
@@ -6022,7 +6033,7 @@
     "time": "6:00 AM",
     "name": "Infrared Yoga",
     "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
+    "instructor": "Kristy Hocking",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -6180,6 +6191,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book67531",
+    "date": "2026-11-17",
+    "time": "6:30 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Kayla Stanton",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "104book35347",
@@ -6358,17 +6380,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "106book67531",
-    "date": "2026-11-17",
-    "time": "7:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "104book35503",
     "date": "2026-11-17",
     "time": "7:00 AM",
@@ -6407,7 +6418,7 @@
     "time": "7:00 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
+    "instructor": "Kristy Hocking",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -7315,6 +7326,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book47",
+    "date": "2026-11-17",
+    "time": "11:30 AM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Tess Williams",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book25",
     "date": "2026-11-17",
     "time": "11:30 AM",
@@ -7480,17 +7502,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book47",
-    "date": "2026-11-17",
-    "time": "12:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tess Williams",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "108book1076",
     "date": "2026-11-17",
     "time": "12:00 PM",
@@ -7612,6 +7623,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book245",
+    "date": "2026-11-17",
+    "time": "12:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Tess Williams",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book224",
     "date": "2026-11-17",
     "time": "12:30 PM",
@@ -7698,17 +7720,6 @@
     "location": "Zetland",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "108book245",
-    "date": "2026-11-17",
-    "time": "1:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tess Williams",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book35880",
@@ -8778,15 +8789,15 @@
     "capacity": 36
   },
   {
-    "booking_id": "106book40538",
+    "booking_id": "104book67538",
     "date": "2026-11-17",
     "time": "7:15 PM",
-    "name": "Fiesta",
-    "class_type": "Dance Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jack Bowen",
+    "location": "Newtown",
+    "remaining_spots": 0,
+    "capacity": 32
   },
   {
     "booking_id": "107book47168",
@@ -9249,17 +9260,6 @@
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "106book42273",
-    "date": "2026-11-18",
-    "time": "6:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "104book36461",
@@ -10285,6 +10285,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "108book48",
+    "date": "2026-11-18",
+    "time": "11:30 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Bronte Carrington",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book232",
     "date": "2026-11-18",
     "time": "11:30 AM",
@@ -10371,17 +10382,6 @@
     "location": "Zetland",
     "remaining_spots": 25,
     "capacity": 25
-  },
-  {
-    "booking_id": "108book48",
-    "date": "2026-11-18",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "108book24739",
@@ -10527,6 +10527,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book49",
+    "date": "2026-11-18",
+    "time": "12:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Bronte Carrington",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book26",
     "date": "2026-11-18",
     "time": "12:30 PM",
@@ -10580,17 +10591,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "108book49",
-    "date": "2026-11-18",
-    "time": "1:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "108book69",
@@ -10725,6 +10725,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "104book69342",
+    "date": "2026-11-18",
+    "time": "2:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Tamar Hirschberg",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "105book41307",
     "date": "2026-11-18",
     "time": "2:30 PM",
@@ -10745,6 +10756,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "104book69151",
+    "date": "2026-11-18",
+    "time": "3:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Tamar Hirschberg",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "101book108854",
@@ -11812,6 +11834,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book94670",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "name": "Commercial Dance Choreography",
+    "class_type": "Dance Series",
+    "instructor": "Shannon Campradt",
+    "location": "Marrickville",
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book77586",
@@ -13233,6 +13266,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book258",
+    "date": "2026-11-19",
+    "time": "11:30 AM",
+    "name": "Ritual",
+    "class_type": "Mat Series",
+    "instructor": "Jessy Franks",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book42192",
     "date": "2026-11-19",
     "time": "12:00 PM",
@@ -13341,17 +13385,6 @@
     "location": "Zetland",
     "remaining_spots": 29,
     "capacity": 30
-  },
-  {
-    "booking_id": "108book258",
-    "date": "2026-11-19",
-    "time": "12:00 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Jessy Franks",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book40471",
@@ -13464,6 +13497,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book54",
+    "date": "2026-11-19",
+    "time": "12:40 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Jessy Franks",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "106book45202",
     "date": "2026-11-19",
     "time": "1:00 PM",
@@ -13506,17 +13550,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book54",
-    "date": "2026-11-19",
-    "time": "1:10 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book41932",
@@ -13645,7 +13678,7 @@
     "time": "2:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
+    "instructor": "Shannon Hsu",
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
@@ -14960,17 +14993,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "106book46660",
-    "date": "2026-11-20",
-    "time": "6:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jen Tran",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "104book40053",
     "date": "2026-11-20",
     "time": "6:00 AM",
@@ -16236,6 +16258,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book266",
+    "date": "2026-11-20",
+    "time": "11:30 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "105book44973",
     "date": "2026-11-20",
     "time": "12:00 PM",
@@ -16269,6 +16302,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "107book121601",
+    "date": "2026-11-20",
+    "time": "12:00 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Nikki Rubbi-Clarke",
+    "location": "North Sydney",
+    "remaining_spots": 0,
+    "capacity": 30
+  },
+  {
     "booking_id": "101book109890",
     "date": "2026-11-20",
     "time": "12:00 PM",
@@ -16278,17 +16322,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "108book266",
-    "date": "2026-11-20",
-    "time": "12:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "108book23720",
@@ -16467,6 +16500,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book59",
+    "date": "2026-11-20",
+    "time": "12:30 PM",
+    "name": "Yoga: Origins",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book23615",
     "date": "2026-11-20",
     "time": "12:45 PM",
@@ -16498,17 +16542,6 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book59",
-    "date": "2026-11-20",
-    "time": "1:00 PM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "101book49248",
@@ -17303,6 +17336,17 @@
     "capacity": 33
   },
   {
+    "booking_id": "104book69448",
+    "date": "2026-11-21",
+    "time": "7:00 AM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Enif Alvarez",
+    "location": "Newtown",
+    "remaining_spots": 0,
+    "capacity": 32
+  },
+  {
     "booking_id": "104book42017",
     "date": "2026-11-21",
     "time": "7:00 AM",
@@ -17312,17 +17356,6 @@
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "107book53729",
-    "date": "2026-11-21",
-    "time": "7:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "108book3300",
@@ -17512,6 +17545,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "104book69553",
+    "date": "2026-11-21",
+    "time": "8:00 AM",
+    "name": "Hour of Power",
+    "class_type": "S&C Series",
+    "instructor": "Enif Alvarez",
+    "location": "Newtown",
+    "remaining_spots": 0,
+    "capacity": 28
+  },
+  {
     "booking_id": "104book41964",
     "date": "2026-11-21",
     "time": "8:00 AM",
@@ -17532,17 +17576,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book53622",
-    "date": "2026-11-21",
-    "time": "8:00 AM",
-    "name": "Unity",
-    "class_type": "S&C Series",
-    "instructor": "Asia Harris",
-    "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "107book43003",
@@ -17653,6 +17686,17 @@
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "107book121518",
+    "date": "2026-11-21",
+    "time": "8:15 AM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Killian Bolster",
+    "location": "North Sydney",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "105book43321",
@@ -19415,6 +19459,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book74095",
+    "date": "2026-11-22",
+    "time": "10:30 AM",
+    "name": "YogaBeats",
+    "class_type": "Yoga Series",
+    "instructor": "Alicia Quinn",
+    "location": "Surry Hills",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "108book62",
     "date": "2026-11-22",
     "time": "10:30 AM",
@@ -19492,6 +19547,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "101book73571",
+    "date": "2026-11-22",
+    "time": "11:30 AM",
+    "name": "Burlesque",
+    "class_type": "Dance Series",
+    "instructor": "Alicia Quinn",
+    "location": "Surry Hills",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "103book85922",
     "date": "2026-11-22",
     "time": "12:00 PM",
@@ -19558,17 +19624,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "101book74095",
-    "date": "2026-11-22",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book108327",
     "date": "2026-11-22",
     "time": "1:00 PM",
@@ -19622,17 +19677,6 @@
     "location": "Newtown",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "101book73571",
-    "date": "2026-11-22",
-    "time": "1:30 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 25,
-    "capacity": 25
   },
   {
     "booking_id": "107book107767",
