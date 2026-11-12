@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book45235",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book68363",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book85828",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 22,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book82322",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book40161",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40631",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 4,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book139",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Zetland",
-    "remaining_spots": 18,
-    "capacity": 34
-  },
-  {
     "booking_id": "103book60651",
     "date": "2026-11-13",
     "time": "5:15 PM",
@@ -1580,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -1778,7 +1701,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -2636,7 +2559,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2790,7 +2713,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
