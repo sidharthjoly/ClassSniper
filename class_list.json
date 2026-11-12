@@ -40,7 +40,7 @@
     "class_type": "Fight Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 31
   },
   {
@@ -1096,7 +1096,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
@@ -2130,7 +2130,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 8
   },
   {
