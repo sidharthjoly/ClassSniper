@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book95526",
-    "date": "2026-11-14",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book96040",
-    "date": "2026-11-14",
-    "time": "4:30 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Laila Nawsheen",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 36
-  },
-  {
     "booking_id": "107book55417",
     "date": "2026-11-14",
     "time": "5:00 PM",
@@ -1107,7 +1085,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
@@ -2196,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
