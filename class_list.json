@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "103book60651",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book71980",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book71133",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book97746",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book24019",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Running the HYROX Workshop | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 7,
-    "capacity": 15
-  },
-  {
-    "booking_id": "108book174",
-    "date": "2026-11-13",
-    "time": "5:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Zetland",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book61294",
     "date": "2026-11-13",
     "time": "5:30 PM",
@@ -2713,7 +2647,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
