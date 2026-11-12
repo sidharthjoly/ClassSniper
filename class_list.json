@@ -2750,6 +2750,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book35234",
+    "date": "2026-11-16",
+    "time": "5:30 AM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Aaron Fiveash",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "106book38586",
     "date": "2026-11-16",
     "time": "5:45 AM",
@@ -5907,6 +5918,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "108book35453",
+    "date": "2026-11-17",
+    "time": "5:30 AM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Jay Haydock",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book35750",
     "date": "2026-11-17",
     "time": "5:30 AM",
@@ -8965,6 +8987,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book35339",
+    "date": "2026-11-18",
+    "time": "5:30 AM",
+    "name": "Lower Force",
+    "class_type": "S&C Series",
+    "instructor": "Aaron Fiveash",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
+  },
+  {
     "booking_id": "108book228",
     "date": "2026-11-18",
     "time": "5:30 AM",
@@ -11883,7 +11916,7 @@
     "booking_id": "108book32934",
     "date": "2026-11-18",
     "time": "7:30 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
+    "name": "Reformer: Strong",
     "class_type": "Reformer Series",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
@@ -11955,6 +11988,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book35644",
+    "date": "2026-11-19",
+    "time": "5:30 AM",
+    "name": "Athletica",
+    "class_type": "S&C Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 25,
+    "capacity": 25
   },
   {
     "booking_id": "108book235",
