@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book60494",
-    "date": "2026-11-13",
-    "time": "6:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book97808",
-    "date": "2026-11-13",
-    "time": "6:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book85",
-    "date": "2026-11-13",
-    "time": "6:15 PM",
-    "name": "Candlelight Reiki & Sound Bath | Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Lihini Rose",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 34
-  },
-  {
-    "booking_id": "108book21449",
-    "date": "2026-11-13",
-    "time": "6:15 PM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book175",
-    "date": "2026-11-13",
-    "time": "6:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Zetland",
-    "remaining_spots": 12,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book35279",
     "date": "2026-11-13",
     "time": "6:30 PM",
@@ -2570,7 +2515,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2603,7 +2548,7 @@
     "class_type": "Mat Series",
     "instructor": "Amber Libert\u00e9",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
