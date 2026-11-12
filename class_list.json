@@ -1085,7 +1085,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -1184,7 +1184,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -2086,7 +2086,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 25
   },
   {
