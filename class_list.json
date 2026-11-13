@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55417",
-    "date": "2026-11-14",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book65479",
     "date": "2026-11-15",
     "time": "7:00 AM",
@@ -843,7 +832,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -1470,7 +1459,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -2031,7 +2020,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 32
   },
   {
@@ -2284,7 +2273,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
