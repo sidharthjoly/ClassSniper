@@ -667,7 +667,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
@@ -1129,7 +1129,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -1580,7 +1580,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -2174,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -2614,7 +2614,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
@@ -3571,7 +3571,7 @@
     "class_type": "Apex Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -3956,7 +3956,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 36
   },
   {
@@ -6583,7 +6583,7 @@
     "time": "6:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -6891,7 +6891,7 @@
     "time": "7:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Bridget Surdich",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
@@ -8756,17 +8756,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book23916",
-    "date": "2026-11-18",
-    "time": "1:00 PM",
-    "name": "Glute Training for Women Workshop| Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Angela Aho",
-    "location": "Zetland",
-    "remaining_spots": 5,
-    "capacity": 25
-  },
-  {
     "booking_id": "101book49143",
     "date": "2026-11-18",
     "time": "1:10 PM",
@@ -8820,6 +8809,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "108book23916",
+    "date": "2026-11-18",
+    "time": "1:15 PM",
+    "name": "Glute Training for Women Workshop| Zetland Opening",
+    "class_type": "Events",
+    "instructor": "Angela Aho",
+    "location": "Zetland",
+    "remaining_spots": 5,
+    "capacity": 25
   },
   {
     "booking_id": "108book6301",
@@ -11979,10 +11979,10 @@
     "capacity": 23
   },
   {
-    "booking_id": "101book68034",
+    "booking_id": "101book67611",
     "date": "2026-11-19",
     "time": "4:15 PM",
-    "name": "Fight Club",
+    "name": "Fighting Fit",
     "class_type": "Fight Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
@@ -12221,11 +12221,11 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book67611",
+    "booking_id": "101book114210",
     "date": "2026-11-19",
     "time": "5:15 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
+    "name": "Athletica",
+    "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
     "remaining_spots": 26,
@@ -14300,6 +14300,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "106book87747",
+    "date": "2026-11-20",
+    "time": "11:00 AM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Kat Morrison",
+    "location": "Merrylands",
+    "remaining_spots": 22,
+    "capacity": 22
+  },
+  {
     "booking_id": "104book69233",
     "date": "2026-11-20",
     "time": "11:00 AM",
@@ -15653,15 +15664,15 @@
     "capacity": 33
   },
   {
-    "booking_id": "106book62137",
+    "booking_id": "106book56823",
     "date": "2026-11-21",
     "time": "8:00 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book72696",
@@ -15961,17 +15972,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book55469",
-    "date": "2026-11-21",
-    "time": "9:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
-  },
-  {
     "booking_id": "106book80320",
     "date": "2026-11-21",
     "time": "9:00 AM",
@@ -16003,6 +16003,17 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
+  },
+  {
+    "booking_id": "106book56928",
+    "date": "2026-11-21",
+    "time": "9:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Danielle Panayi",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "104book42282",
@@ -16379,17 +16390,6 @@
     "capacity": 35
   },
   {
-    "booking_id": "106book56823",
-    "date": "2026-11-21",
-    "time": "10:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "104book41701",
     "date": "2026-11-21",
     "time": "10:15 AM",
@@ -16575,17 +16575,6 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
-  },
-  {
-    "booking_id": "106book56928",
-    "date": "2026-11-21",
-    "time": "11:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 34,
-    "capacity": 34
   },
   {
     "booking_id": "104book41859",
