@@ -1602,7 +1602,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 25
   },
   {
@@ -3417,7 +3417,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 33
   },
   {
@@ -3505,7 +3505,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -3802,7 +3802,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
