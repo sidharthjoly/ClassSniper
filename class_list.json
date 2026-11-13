@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book82504",
-    "date": "2026-11-15",
-    "time": "11:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Victoire de Polignac",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book46994",
     "date": "2026-11-15",
     "time": "11:30 AM",
