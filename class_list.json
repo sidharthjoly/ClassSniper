@@ -1899,7 +1899,7 @@
     "class_type": "Creche",
     "instructor": "Cristina Valdes",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 8
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -5881,7 +5881,7 @@
     "class_type": "Events",
     "instructor": "Jordan Lewis",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 25
   },
   {
