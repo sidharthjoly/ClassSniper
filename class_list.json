@@ -1129,7 +1129,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
@@ -2009,7 +2009,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -8818,7 +8818,7 @@
     "class_type": "Events",
     "instructor": "Angela Aho",
     "location": "Zetland",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 25
   },
   {
