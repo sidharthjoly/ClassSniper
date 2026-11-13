@@ -1382,7 +1382,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3076,7 +3076,7 @@
     "class_type": "Reformer Series",
     "instructor": "Robynne Henry",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
