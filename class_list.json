@@ -480,7 +480,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -491,7 +491,7 @@
     "class_type": "Yoga Series",
     "instructor": "Daniel Konieczny",
     "location": "Merrylands",
-    "remaining_spots": 32,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
@@ -1107,7 +1107,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 26
   },
   {
@@ -2317,7 +2317,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
