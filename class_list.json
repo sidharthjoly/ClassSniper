@@ -293,7 +293,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -2845,7 +2845,7 @@
     "class_type": "Reformer Series",
     "instructor": "Karen Kwang",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -3241,7 +3241,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 25
   },
   {
@@ -13295,7 +13295,7 @@
     "class_type": "Events",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
