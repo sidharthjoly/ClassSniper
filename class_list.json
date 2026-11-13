@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book65882",
-    "date": "2026-11-15",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book43746",
-    "date": "2026-11-15",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book74094",
-    "date": "2026-11-15",
-    "time": "12:30 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Surry Hills",
-    "remaining_spots": 6,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book108326",
     "date": "2026-11-15",
     "time": "1:00 PM",
@@ -3560,7 +3527,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 28
   },
   {
@@ -3758,7 +3725,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -3846,7 +3813,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 25
   },
   {
