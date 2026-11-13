@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book29802",
-    "date": "2026-11-15",
-    "time": "7:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book73315",
     "date": "2026-11-15",
     "time": "8:00 AM",
