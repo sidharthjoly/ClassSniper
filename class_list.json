@@ -5687,17 +5687,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "108book25464",
-    "date": "2026-11-17",
-    "time": "12:00 PM",
-    "name": "Double Down | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book36038",
     "date": "2026-11-17",
     "time": "12:15 PM",
@@ -5808,6 +5797,17 @@
     "capacity": 36
   },
   {
+    "booking_id": "108book25464",
+    "date": "2026-11-17",
+    "time": "12:30 PM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Flyn Woodward",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book224",
     "date": "2026-11-17",
     "time": "12:30 PM",
@@ -5883,17 +5883,6 @@
     "location": "Zetland",
     "remaining_spots": 17,
     "capacity": 25
-  },
-  {
-    "booking_id": "108book22385",
-    "date": "2026-11-17",
-    "time": "1:00 PM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "105book35880",
@@ -8052,10 +8041,10 @@
     "capacity": 26
   },
   {
-    "booking_id": "105book69821",
+    "booking_id": "105book79588",
     "date": "2026-11-18",
     "time": "8:30 AM",
-    "name": "Mat Pilates",
+    "name": "Ritual",
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
@@ -8959,7 +8948,7 @@
     "time": "3:15 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Bethany Rumore",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -9080,7 +9069,7 @@
     "time": "4:15 PM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
+    "instructor": "Bethany Rumore",
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
@@ -10956,6 +10945,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book36539",
+    "date": "2026-11-19",
+    "time": "8:00 AM",
+    "name": "Double Down | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Stephanie Conlin",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "103book71493",
     "date": "2026-11-19",
     "time": "8:15 AM",
@@ -11168,7 +11168,7 @@
     "booking_id": "108book23195",
     "date": "2026-11-19",
     "time": "9:15 AM",
-    "name": "Heartbreak | Run Only",
+    "name": "Double Down | Hybrid",
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
@@ -11572,17 +11572,6 @@
     "capacity": 25
   },
   {
-    "booking_id": "108book25785",
-    "date": "2026-11-19",
-    "time": "12:00 PM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book40471",
     "date": "2026-11-19",
     "time": "12:15 PM",
@@ -11682,6 +11671,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book25785",
+    "date": "2026-11-19",
+    "time": "12:30 PM",
+    "name": "Sub60 | Hybrid",
+    "class_type": "Apex Series",
+    "instructor": "Tara McCarthy",
+    "location": "Zetland",
+    "remaining_spots": 29,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book31",
     "date": "2026-11-19",
     "time": "12:30 PM",
@@ -11724,17 +11724,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "108book26090",
-    "date": "2026-11-19",
-    "time": "1:00 PM",
-    "name": "Double Down | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "108book74",
@@ -12336,7 +12325,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -12699,7 +12688,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Randy Strickland",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -14355,6 +14344,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "108book23720",
+    "date": "2026-11-20",
+    "time": "11:00 AM",
+    "name": "Race Pace | Run Only",
+    "class_type": "Apex Series",
+    "instructor": "Jennifer Irvine",
+    "location": "Zetland",
+    "remaining_spots": 15,
+    "capacity": 15
+  },
+  {
     "booking_id": "108book283",
     "date": "2026-11-20",
     "time": "11:00 AM",
@@ -14520,17 +14520,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "108book23720",
-    "date": "2026-11-20",
-    "time": "12:00 PM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "108book2631",
     "date": "2026-11-20",
     "time": "12:00 PM",
@@ -14562,17 +14551,6 @@
     "location": "Surry Hills",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "105book48812",
-    "date": "2026-11-20",
-    "time": "12:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "107book53310",
@@ -14705,17 +14683,6 @@
     "location": "Zetland",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "108book23615",
-    "date": "2026-11-20",
-    "time": "12:45 PM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
   },
   {
     "booking_id": "104book40892",
@@ -15196,7 +15163,7 @@
     "time": "5:30 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -15372,7 +15339,7 @@
     "time": "6:30 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -15935,8 +15902,8 @@
     "class_type": "Events",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 21
+    "remaining_spots": 8,
+    "capacity": 30
   },
   {
     "booking_id": "108book247",
