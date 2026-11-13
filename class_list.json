@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book96239",
-    "date": "2026-11-15",
-    "time": "9:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book256",
-    "date": "2026-11-15",
-    "time": "9:45 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Celeste Rametta",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book69419",
     "date": "2026-11-15",
     "time": "10:00 AM",
