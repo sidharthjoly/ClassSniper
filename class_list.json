@@ -1261,8 +1261,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 36
+    "remaining_spots": 24,
+    "capacity": 30
   },
   {
     "booking_id": "106book39058",
@@ -1591,8 +1591,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 32,
-    "capacity": 36
+    "remaining_spots": 26,
+    "capacity": 30
   },
   {
     "booking_id": "108book27031",
@@ -1800,8 +1800,8 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "Zetland",
-    "remaining_spots": 26,
-    "capacity": 36
+    "remaining_spots": 20,
+    "capacity": 30
   },
   {
     "booking_id": "108book260",
@@ -2350,8 +2350,8 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Zetland",
-    "remaining_spots": 35,
-    "capacity": 36
+    "remaining_spots": 29,
+    "capacity": 30
   },
   {
     "booking_id": "108book22",
@@ -2372,7 +2372,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 32
   },
   {
@@ -2482,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -2493,7 +2493,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 25
   },
   {
@@ -2636,8 +2636,8 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book21660",
@@ -3131,8 +3131,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book64061",
@@ -3483,8 +3483,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book58",
