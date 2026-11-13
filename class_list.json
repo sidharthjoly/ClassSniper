@@ -1932,7 +1932,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 36
   },
   {
@@ -2955,7 +2955,7 @@
     "class_type": "Mat Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 38
   },
   {
@@ -4473,8 +4473,8 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book466",
@@ -4825,8 +4825,8 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book39501",
@@ -5507,8 +5507,8 @@
     "class_type": "Yoga Series",
     "instructor": "Tess Williams",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book25",
@@ -5793,8 +5793,8 @@
     "class_type": "Mat Series",
     "instructor": "Tess Williams",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book25464",
@@ -6246,17 +6246,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book64466",
-    "date": "2026-11-17",
-    "time": "5:00 PM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Bridget Surdich",
-    "location": "Merrylands",
-    "remaining_spots": 31,
-    "capacity": 31
   },
   {
     "booking_id": "104book33976",
@@ -7509,8 +7498,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book230",
@@ -7872,8 +7861,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book274",
@@ -8080,17 +8069,6 @@
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book32582",
-    "date": "2026-11-18",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
@@ -8466,8 +8444,8 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book232",
@@ -8708,8 +8686,8 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book26",
@@ -8981,7 +8959,7 @@
     "time": "4:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -9157,7 +9135,7 @@
     "time": "5:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -9509,7 +9487,7 @@
     "time": "6:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -9872,7 +9850,7 @@
     "time": "7:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 31,
     "capacity": 32
@@ -10501,8 +10479,8 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book70",
@@ -10842,8 +10820,8 @@
     "class_type": "Yoga Series",
     "instructor": "Hailey Ng",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book236",
@@ -11469,8 +11447,8 @@
     "class_type": "Mat Series",
     "instructor": "Jessy Franks",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book42192",
@@ -11700,8 +11678,8 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book45202",
@@ -12173,8 +12151,8 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 12,
-    "capacity": 36
+    "remaining_spots": 6,
+    "capacity": 30
   },
   {
     "booking_id": "108book34421",
@@ -13427,8 +13405,8 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book46156",
@@ -13757,8 +13735,8 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book42",
@@ -14021,8 +13999,8 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book74015",
@@ -14461,8 +14439,8 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book44973",
@@ -14681,8 +14659,8 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "104book40892",
@@ -15792,8 +15770,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book30273",
@@ -16100,8 +16078,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book30169",
@@ -16749,8 +16727,8 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book75895",
@@ -16892,8 +16870,8 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "101book95856",
@@ -17332,8 +17310,8 @@
     "class_type": "Mat Series",
     "instructor": "Ana Lievano",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book31066",
@@ -17618,8 +17596,8 @@
     "class_type": "Harmony Series",
     "instructor": "Lihini Rose",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "103book64962",
@@ -17937,8 +17915,8 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "107book55892",
@@ -17949,6 +17927,17 @@
     "instructor": "Katie Jay",
     "location": "North Sydney",
     "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
+    "booking_id": "108book36211",
+    "date": "2026-11-22",
+    "time": "6:00 PM",
+    "name": "Candlelight Breathwork | Zetland Opening",
+    "class_type": "Events",
+    "instructor": "Marie de Bella",
+    "location": "Zetland",
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -18179,8 +18168,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book3147",
@@ -18531,8 +18520,8 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book76519",
@@ -18916,8 +18905,8 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book8550",
@@ -19356,8 +19345,8 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book37572",
@@ -19598,8 +19587,8 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book21661",
@@ -20060,8 +20049,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "106book67082",
@@ -20401,8 +20390,8 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book9491",
