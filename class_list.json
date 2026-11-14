@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book49159",
-    "date": "2026-11-16",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book101628",
-    "date": "2026-11-16",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Celeste Rametta",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book217",
-    "date": "2026-11-16",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book35234",
-    "date": "2026-11-16",
-    "time": "5:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Zetland",
-    "remaining_spots": 6,
-    "capacity": 25
-  },
-  {
     "booking_id": "106book38586",
     "date": "2026-11-16",
     "time": "5:45 AM",
@@ -4627,7 +4583,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tess Williams",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -6079,7 +6035,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
