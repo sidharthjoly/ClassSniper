@@ -238,7 +238,7 @@
     "class_type": "Reformer Series",
     "instructor": "Celeste Rametta",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -722,7 +722,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 22
   },
   {
@@ -3252,7 +3252,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 28
   },
   {
@@ -5848,7 +5848,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
