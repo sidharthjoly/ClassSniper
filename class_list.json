@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book76518",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Grace Clark",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book48899",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book85438",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book100049",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book106953",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book59033",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book29664",
-    "date": "2026-11-16",
-    "time": "7:15 AM",
-    "name": "Race Pace X Pace Athletic | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book32194",
     "date": "2026-11-16",
     "time": "7:30 AM",
@@ -5078,7 +5001,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
