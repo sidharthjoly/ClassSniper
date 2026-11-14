@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "105book75357",
-    "date": "2026-11-16",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book49419",
     "date": "2026-11-16",
     "time": "3:30 PM",
@@ -821,7 +810,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Franks",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -2174,7 +2163,7 @@
     "class_type": "Mat Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
@@ -3428,7 +3417,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -4198,7 +4187,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -5199,7 +5188,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -5232,7 +5221,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
