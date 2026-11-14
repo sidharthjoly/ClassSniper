@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book38586",
-    "date": "2026-11-16",
-    "time": "5:45 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book100238",
-    "date": "2026-11-16",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book33778",
-    "date": "2026-11-16",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book37414",
     "date": "2026-11-16",
     "time": "6:00 AM",
@@ -1338,7 +1305,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -4946,7 +4913,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
