@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book104223",
-    "date": "2026-11-16",
-    "time": "8:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "104book34710",
     "date": "2026-11-16",
     "time": "8:30 AM",
@@ -3208,7 +3197,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
