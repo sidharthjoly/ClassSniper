@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book63163",
-    "date": "2026-11-16",
-    "time": "4:45 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Haymarket",
-    "remaining_spots": 3,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book101125",
-    "date": "2026-11-16",
-    "time": "4:45 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mari Hooper",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book36961",
     "date": "2026-11-16",
     "time": "5:00 PM",
@@ -766,7 +744,7 @@
     "class_type": "Dance Series",
     "instructor": "Kristine Gimenez",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
@@ -1602,7 +1580,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 30
   },
   {
@@ -5067,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -6475,7 +6453,7 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -6783,7 +6761,7 @@
     "class_type": "Events",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
