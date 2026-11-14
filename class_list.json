@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book49419",
-    "date": "2026-11-16",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 5,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book107559",
     "date": "2026-11-16",
     "time": "3:45 PM",
@@ -1118,7 +1107,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -1481,7 +1470,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
@@ -4847,7 +4836,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
@@ -4880,7 +4869,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 23
   },
   {
@@ -4946,7 +4935,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -5254,7 +5243,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5342,7 +5331,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
