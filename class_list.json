@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book100516",
-    "date": "2026-11-16",
-    "time": "9:20 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book50947",
     "date": "2026-11-16",
     "time": "9:30 AM",
@@ -3989,7 +3978,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
