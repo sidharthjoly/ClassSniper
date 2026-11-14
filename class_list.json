@@ -502,7 +502,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3318,7 +3318,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 26
   },
   {
@@ -5276,7 +5276,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -5551,7 +5551,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
@@ -6178,7 +6178,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -6369,15 +6369,15 @@
     "capacity": 26
   },
   {
-    "booking_id": "103book76464",
+    "booking_id": "103book94595",
     "date": "2026-11-18",
     "time": "6:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "106book41202",
@@ -14036,15 +14036,15 @@
     "capacity": 24
   },
   {
-    "booking_id": "103book85536",
+    "booking_id": "103book94883",
     "date": "2026-11-20",
     "time": "4:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
+    "remaining_spots": 20,
+    "capacity": 20
   },
   {
     "booking_id": "104book40736",
@@ -21285,6 +21285,17 @@
     "capacity": 23
   },
   {
+    "booking_id": "103book49837",
+    "date": "2026-11-24",
+    "time": "10:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Lily Cole",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book101945",
     "date": "2026-11-24",
     "time": "10:15 AM",
@@ -21294,17 +21305,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "103book49837",
-    "date": "2026-11-24",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "107book103378",
@@ -21415,17 +21415,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book52714",
-    "date": "2026-11-24",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "107book103483",
