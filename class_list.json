@@ -414,7 +414,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Zetland",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
@@ -1657,7 +1657,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -5276,7 +5276,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -5320,7 +5320,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
