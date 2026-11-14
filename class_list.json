@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book59341",
-    "date": "2026-11-16",
-    "time": "6:50 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book62543",
     "date": "2026-11-16",
     "time": "7:00 AM",
@@ -1030,7 +1019,7 @@
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 36
   },
   {
