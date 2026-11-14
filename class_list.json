@@ -4374,7 +4374,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -5496,7 +5496,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 28
   },
   {
@@ -6101,7 +6101,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "North Sydney",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -9916,7 +9916,7 @@
     "time": "7:30 AM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
+    "instructor": "Mia Callander",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -10147,7 +10147,7 @@
     "time": "8:30 AM",
     "name": "Reformer: Jump Board (Lower Body)",
     "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
+    "instructor": "Mia Callander",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
