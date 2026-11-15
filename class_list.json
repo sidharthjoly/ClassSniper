@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book107659",
-    "date": "2026-11-16",
-    "time": "6:35 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mari Hooper",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book62786",
     "date": "2026-11-16",
     "time": "6:45 PM",
@@ -2955,7 +2944,7 @@
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -3274,7 +3263,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 36
   },
   {
