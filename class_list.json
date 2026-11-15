@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book49942",
-    "date": "2026-11-17",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book71429",
-    "date": "2026-11-17",
-    "time": "5:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 36,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book102557",
-    "date": "2026-11-17",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book35453",
-    "date": "2026-11-17",
-    "time": "5:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book35750",
-    "date": "2026-11-17",
-    "time": "5:30 AM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book40115",
     "date": "2026-11-17",
     "time": "5:45 AM",
@@ -2845,7 +2790,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 33
   },
   {
@@ -4165,7 +4110,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -5122,7 +5067,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 33
   },
   {
@@ -5474,7 +5419,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 33
   },
   {
