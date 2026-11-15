@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book38200",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Karol Karg",
-    "location": "Haymarket",
-    "remaining_spots": 1,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book66407",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Zennah Chaudri",
-    "location": "Haymarket",
-    "remaining_spots": 30,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book67938",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 2,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book49889",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35627",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book60826",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 23,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book34053",
-    "date": "2026-11-17",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Zetland",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book108318",
     "date": "2026-11-17",
     "time": "4:15 PM",
@@ -513,7 +436,7 @@
     "class_type": "Dance Series",
     "instructor": "Whitney Bertrand",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 38
   },
   {
@@ -1734,7 +1657,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 38
   },
   {
@@ -2079,6 +2002,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book96287",
+    "date": "2026-11-18",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 3,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book55471",
     "date": "2026-11-18",
     "time": "9:00 AM",
@@ -2207,7 +2141,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 32
   },
   {
@@ -2220,6 +2154,17 @@
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book96611",
+    "date": "2026-11-18",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 3,
+    "capacity": 4
   },
   {
     "booking_id": "106book41992",
@@ -2251,7 +2196,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 8
   },
   {
@@ -2352,6 +2297,17 @@
     "location": "Marrickville",
     "remaining_spots": 3,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book94797",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 2,
+    "capacity": 4
   },
   {
     "booking_id": "106book89431",
@@ -2495,6 +2451,17 @@
     "location": "Haymarket",
     "remaining_spots": 12,
     "capacity": 32
+  },
+  {
+    "booking_id": "103book96449",
+    "date": "2026-11-18",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book84510",
@@ -3164,7 +3131,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -3813,7 +3780,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
@@ -3824,7 +3791,7 @@
     "class_type": "Reformer Series",
     "instructor": "Celeste Rametta",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -4825,7 +4792,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -5115,6 +5082,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book96288",
+    "date": "2026-11-19",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book70561",
     "date": "2026-11-19",
     "time": "9:00 AM",
@@ -5280,6 +5258,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book96612",
+    "date": "2026-11-19",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book57593",
     "date": "2026-11-19",
     "time": "10:00 AM",
@@ -5287,7 +5276,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
@@ -5410,6 +5399,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book94798",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book89247",
@@ -5575,6 +5575,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book96450",
+    "date": "2026-11-19",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book90241",
