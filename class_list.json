@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book54579",
-    "date": "2026-11-17",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Marrickville",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book67796",
-    "date": "2026-11-17",
-    "time": "9:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book113063",
-    "date": "2026-11-17",
-    "time": "9:30 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Julieanne Nicolas",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book63291",
     "date": "2026-11-17",
     "time": "10:00 AM",
