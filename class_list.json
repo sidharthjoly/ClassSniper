@@ -359,7 +359,7 @@
     "class_type": "Mat Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -2053,7 +2053,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -2110,6 +2110,17 @@
     "location": "Merrylands",
     "remaining_spots": 3,
     "capacity": 4
+  },
+  {
+    "booking_id": "106book89787",
+    "date": "2026-11-18",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "104book37542",
@@ -2244,6 +2255,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "106book89949",
+    "date": "2026-11-18",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book90498",
     "date": "2026-11-18",
     "time": "10:00 AM",
@@ -2341,6 +2363,17 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 15
+  },
+  {
+    "booking_id": "106book89431",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "106book69886",
@@ -2506,6 +2539,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book89593",
+    "date": "2026-11-18",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "104book37802",
@@ -4000,7 +4044,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 26
   },
   {
@@ -4396,7 +4440,7 @@
     "class_type": "S&C Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 35
   },
   {
@@ -4561,7 +4605,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 26
   },
   {
@@ -4572,7 +4616,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Marrickville",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 15
   },
   {
@@ -4726,7 +4770,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -5104,6 +5148,17 @@
     "capacity": 4
   },
   {
+    "booking_id": "106book89788",
+    "date": "2026-11-19",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "104book39066",
     "date": "2026-11-19",
     "time": "9:00 AM",
@@ -5269,6 +5324,17 @@
     "capacity": 4
   },
   {
+    "booking_id": "106book89950",
+    "date": "2026-11-19",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "104book39326",
     "date": "2026-11-19",
     "time": "10:00 AM",
@@ -5366,6 +5432,17 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
+  },
+  {
+    "booking_id": "106book89432",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "104book39118",
@@ -5542,6 +5619,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book89594",
+    "date": "2026-11-19",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Chloe Burns",
+    "location": "Merrylands",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "104book39274",
@@ -6299,7 +6387,7 @@
     "class_type": "Events",
     "instructor": "Emanuele Troise",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 25
   },
   {
