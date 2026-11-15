@@ -722,7 +722,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 12,
     "capacity": 23
   },
   {
@@ -953,7 +953,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -5727,7 +5727,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
