@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book105285",
-    "date": "2026-11-17",
-    "time": "11:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book102036",
-    "date": "2026-11-17",
-    "time": "11:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 7,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book54811",
     "date": "2026-11-17",
     "time": "11:30 AM",
@@ -1965,7 +1943,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 38
   },
   {
