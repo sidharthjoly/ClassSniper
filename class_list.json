@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book54476",
-    "date": "2026-11-17",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book51964",
-    "date": "2026-11-17",
-    "time": "4:30 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "John Purnell",
-    "location": "Marrickville",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
-    "booking_id": "106book67836",
-    "date": "2026-11-17",
-    "time": "4:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 21
-  },
-  {
-    "booking_id": "101book63606",
-    "date": "2026-11-17",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book33085",
-    "date": "2026-11-17",
-    "time": "4:30 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Zetland",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book39236",
     "date": "2026-11-17",
     "time": "4:45 PM",
@@ -73,7 +18,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 18
   },
   {
@@ -2537,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
