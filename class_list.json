@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book50080",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Haymarket",
-    "remaining_spots": 19,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book51702",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book53946",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Marrickville",
-    "remaining_spots": 26,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book52448",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book39111",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 28,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book49288",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book62318",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Angela Aho",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book104850",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book27397",
-    "date": "2026-11-17",
-    "time": "6:15 AM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book31671",
     "date": "2026-11-17",
     "time": "6:30 AM",
@@ -4693,7 +4594,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -10523,7 +10424,7 @@
     "class_type": "Events",
     "instructor": "Emanuele Troise",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
