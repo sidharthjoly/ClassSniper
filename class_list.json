@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book103377",
-    "date": "2026-11-17",
-    "time": "10:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "North Sydney",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book53575",
     "date": "2026-11-17",
     "time": "10:45 AM",
