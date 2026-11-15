@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49836",
-    "date": "2026-11-17",
-    "time": "10:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book101944",
-    "date": "2026-11-17",
-    "time": "10:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book103377",
     "date": "2026-11-17",
     "time": "10:30 AM",
@@ -3582,7 +3560,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
