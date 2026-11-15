@@ -2244,6 +2244,17 @@
     "capacity": 34
   },
   {
+    "booking_id": "106book90498",
+    "date": "2026-11-18",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "104book37490",
     "date": "2026-11-18",
     "time": "10:00 AM",
@@ -2341,6 +2352,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book89246",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book37906",
@@ -2462,6 +2484,17 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "106book90240",
+    "date": "2026-11-18",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book42689",
@@ -5225,6 +5258,17 @@
     "capacity": 22
   },
   {
+    "booking_id": "106book90499",
+    "date": "2026-11-19",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "104book39326",
     "date": "2026-11-19",
     "time": "10:00 AM",
@@ -5311,6 +5355,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "106book89247",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book39118",
@@ -5454,6 +5509,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "106book90241",
+    "date": "2026-11-19",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book44038",
