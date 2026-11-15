@@ -139,7 +139,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -997,7 +997,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3549,7 +3549,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 26
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 25
   },
   {
@@ -4154,7 +4154,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -4891,7 +4891,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Surry Hills",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 36
   },
   {
@@ -5045,7 +5045,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "North Sydney",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
