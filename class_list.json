@@ -788,7 +788,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 33
   },
   {
@@ -821,7 +821,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1580,7 +1580,7 @@
     "class_type": "Apex Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -2002,6 +2002,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95102",
+    "date": "2026-11-18",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book96287",
     "date": "2026-11-18",
     "time": "9:00 AM",
@@ -2167,6 +2178,17 @@
     "capacity": 4
   },
   {
+    "booking_id": "103book95264",
+    "date": "2026-11-18",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 7,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book41992",
     "date": "2026-11-18",
     "time": "10:00 AM",
@@ -2297,6 +2319,17 @@
     "location": "Marrickville",
     "remaining_spots": 3,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book95458",
+    "date": "2026-11-18",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "103book94797",
@@ -2462,6 +2495,17 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 4
+  },
+  {
+    "booking_id": "103book95652",
+    "date": "2026-11-18",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "106book84510",
@@ -2735,7 +2779,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Wood",
     "location": "Merrylands",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 22
   },
   {
@@ -4594,7 +4638,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 32
   },
   {
@@ -4660,7 +4704,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5071,6 +5115,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95103",
+    "date": "2026-11-19",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 7,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book57332",
     "date": "2026-11-19",
     "time": "9:00 AM",
@@ -5122,7 +5177,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 8
   },
   {
@@ -5280,6 +5335,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book95265",
+    "date": "2026-11-19",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book70801",
     "date": "2026-11-19",
     "time": "10:00 AM",
@@ -5309,7 +5375,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 8,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -5410,6 +5476,17 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 4
+  },
+  {
+    "booking_id": "103book95459",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "106book89247",
@@ -5575,6 +5652,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book95653",
+    "date": "2026-11-19",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "103book96450",
