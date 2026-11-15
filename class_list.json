@@ -2416,7 +2416,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Biordi",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3109,7 +3109,7 @@
     "class_type": "S&C Series",
     "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -3846,7 +3846,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -5364,7 +5364,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 23,
     "capacity": 40
   },
   {
