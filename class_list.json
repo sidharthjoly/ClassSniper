@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book39236",
-    "date": "2026-11-17",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book102477",
-    "date": "2026-11-17",
-    "time": "4:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book38357",
     "date": "2026-11-17",
     "time": "5:00 PM",
@@ -799,7 +777,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 36
   },
   {
@@ -2482,7 +2460,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -4935,7 +4913,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Joey Bowling",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
