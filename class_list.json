@@ -1470,7 +1470,7 @@
     "class_type": "Events",
     "instructor": "Angela Aho",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 25
   },
   {
@@ -3505,7 +3505,7 @@
     "class_type": "Reformer Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
