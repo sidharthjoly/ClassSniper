@@ -810,7 +810,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -1503,7 +1503,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 32
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "Mat Series",
     "instructor": "Simon Corfield",
     "location": "North Sydney",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 30
   },
   {
