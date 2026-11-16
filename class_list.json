@@ -3197,7 +3197,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 25
   },
   {
@@ -3912,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -4748,7 +4748,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -5540,7 +5540,7 @@
     "class_type": "Spin Series",
     "instructor": "Evie Bird",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
@@ -5815,7 +5815,7 @@
     "class_type": "Yoga Series",
     "instructor": "Alicia Quinn",
     "location": "Newtown",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 23
   },
   {
@@ -6090,7 +6090,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
