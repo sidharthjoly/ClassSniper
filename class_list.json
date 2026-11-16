@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book29543",
-    "date": "2026-11-18",
-    "time": "12:45 PM",
-    "name": "Zetland Opening | The Art of Tempo Running",
-    "class_type": "Events",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 11,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book42793",
     "date": "2026-11-18",
     "time": "1:00 PM",
@@ -2757,7 +2746,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -4583,7 +4572,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 32
   },
   {
@@ -4682,7 +4671,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
