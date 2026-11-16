@@ -1888,7 +1888,7 @@
     "class_type": "S&C Series",
     "instructor": "Stephanie Conlin",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 26
   },
   {
@@ -3043,7 +3043,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -3054,7 +3054,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 30,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -4264,7 +4264,7 @@
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -5265,7 +5265,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -5452,7 +5452,7 @@
     "class_type": "Barre Series",
     "instructor": "Anton Anton",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 23
   },
   {
