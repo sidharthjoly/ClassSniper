@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book49143",
-    "date": "2026-11-18",
-    "time": "1:10 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book40002",
     "date": "2026-11-18",
     "time": "1:15 PM",
@@ -4506,7 +4495,7 @@
     "class_type": "Reformer Series",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -4902,7 +4891,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 32
   },
   {
