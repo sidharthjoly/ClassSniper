@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book94640",
-    "date": "2026-11-17",
-    "time": "6:05 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book41044",
     "date": "2026-11-17",
     "time": "6:15 PM",
@@ -2724,7 +2713,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 25
   },
   {
@@ -3736,7 +3725,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 26,
+    "remaining_spots": 24,
     "capacity": 32
   },
   {
@@ -13713,7 +13702,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 21
   },
   {
