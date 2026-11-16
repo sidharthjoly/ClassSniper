@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book55941",
-    "date": "2026-11-18",
-    "time": "3:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book103561",
     "date": "2026-11-18",
     "time": "3:45 PM",
@@ -5056,7 +5045,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 28
   },
   {
