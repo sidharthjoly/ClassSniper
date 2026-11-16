@@ -51,7 +51,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1602,7 +1602,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
@@ -1635,7 +1635,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Surry Hills",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 23
   },
   {
@@ -2933,7 +2933,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -3032,7 +3032,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 25
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 38
   },
   {
@@ -5320,7 +5320,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 32
   },
   {
@@ -5617,7 +5617,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -5683,7 +5683,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 13,
     "capacity": 32
   },
   {
@@ -5694,7 +5694,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -5749,7 +5749,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -5760,7 +5760,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -5771,7 +5771,7 @@
     "class_type": "Apex Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -5793,7 +5793,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
