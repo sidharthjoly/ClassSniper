@@ -1404,7 +1404,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1437,7 +1437,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -1976,7 +1976,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -2438,7 +2438,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -3131,7 +3131,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Maeve O'Keeffe",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -3208,7 +3208,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -3296,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 33
   },
   {
@@ -4748,7 +4748,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 20
   },
   {
@@ -5263,7 +5263,7 @@
     "time": "4:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
+    "instructor": "Shannon Hsu",
     "location": "North Sydney",
     "remaining_spots": 5,
     "capacity": 24
@@ -5593,7 +5593,7 @@
     "time": "5:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Nikki Rubbi-Clarke",
+    "instructor": "Shannon Hsu",
     "location": "North Sydney",
     "remaining_spots": 0,
     "capacity": 24
@@ -5782,7 +5782,7 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -5991,7 +5991,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
@@ -6057,7 +6057,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "George Malouf",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -6079,7 +6079,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -6167,7 +6167,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "North Sydney",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -7293,6 +7293,28 @@
     "capacity": 20
   },
   {
+    "booking_id": "103book96289",
+    "date": "2026-11-20",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95104",
+    "date": "2026-11-20",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book28731",
     "date": "2026-11-20",
     "time": "9:00 AM",
@@ -7414,6 +7436,28 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95266",
+    "date": "2026-11-20",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96613",
+    "date": "2026-11-20",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book59241",
     "date": "2026-11-20",
     "time": "10:00 AM",
@@ -7467,6 +7511,17 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
+  },
+  {
+    "booking_id": "106book90500",
+    "date": "2026-11-20",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book40944",
@@ -7544,6 +7599,39 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book94799",
+    "date": "2026-11-20",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95460",
+    "date": "2026-11-20",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "106book89248",
+    "date": "2026-11-20",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book87747",
@@ -7709,6 +7797,39 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
+  },
+  {
+    "booking_id": "103book96451",
+    "date": "2026-11-20",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95654",
+    "date": "2026-11-20",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "106book90242",
+    "date": "2026-11-20",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book40372",
@@ -8596,7 +8717,7 @@
     "time": "6:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -8640,7 +8761,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
+    "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -8739,7 +8860,7 @@
     "time": "7:00 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Nikki Erdos",
     "location": "Newtown",
     "remaining_spots": 32,
     "capacity": 32
@@ -8877,6 +8998,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book96191",
+    "date": "2026-11-21",
+    "time": "8:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Mya Arrones",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book61535",
     "date": "2026-11-21",
     "time": "8:00 AM",
@@ -8886,6 +9018,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "103book95846",
+    "date": "2026-11-21",
+    "time": "8:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Casey Taylor",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
   },
   {
     "booking_id": "103book93660",
@@ -8921,6 +9064,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "106book90208",
+    "date": "2026-11-21",
+    "time": "8:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book72696",
     "date": "2026-11-21",
     "time": "8:00 AM",
@@ -8937,7 +9091,7 @@
     "time": "8:00 AM",
     "name": "Hour of Power",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Nikki Erdos",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -9185,6 +9339,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book95426",
+    "date": "2026-11-21",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Casey Taylor",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book93748",
     "date": "2026-11-21",
     "time": "9:00 AM",
@@ -9218,6 +9383,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "103book96159",
+    "date": "2026-11-21",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Mya Arrones",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book80320",
     "date": "2026-11-21",
     "time": "9:00 AM",
@@ -9238,6 +9414,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "106book90402",
+    "date": "2026-11-21",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book49185",
@@ -9366,7 +9553,7 @@
     "time": "9:15 AM",
     "name": "Badass",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Nikki Erdos",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -9504,6 +9691,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "103book95620",
+    "date": "2026-11-21",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Casey Taylor",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book64791",
     "date": "2026-11-21",
     "time": "10:00 AM",
@@ -9526,6 +9724,17 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book96223",
+    "date": "2026-11-21",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Mya Arrones",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book49916",
     "date": "2026-11-21",
     "time": "10:00 AM",
@@ -9535,6 +9744,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "106book90466",
+    "date": "2026-11-21",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book42542",
@@ -9641,7 +9861,7 @@
     "time": "10:15 AM",
     "name": "Gunshow",
     "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
+    "instructor": "Nikki Erdos",
     "location": "Newtown",
     "remaining_spots": 28,
     "capacity": 28
@@ -9735,6 +9955,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "103book95814",
+    "date": "2026-11-21",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Casey Taylor",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book61016",
     "date": "2026-11-21",
     "time": "11:00 AM",
@@ -9746,6 +9977,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book96255",
+    "date": "2026-11-21",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Mya Arrones",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book94083",
     "date": "2026-11-21",
     "time": "11:00 AM",
@@ -9755,6 +9997,17 @@
     "location": "Marrickville",
     "remaining_spots": 14,
     "capacity": 15
+  },
+  {
+    "booking_id": "106book90434",
+    "date": "2026-11-21",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book42334",
@@ -12177,6 +12430,28 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95105",
+    "date": "2026-11-23",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96290",
+    "date": "2026-11-23",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book48744",
     "date": "2026-11-23",
     "time": "9:00 AM",
@@ -12342,6 +12617,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book96614",
+    "date": "2026-11-23",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95267",
+    "date": "2026-11-23",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book63172",
     "date": "2026-11-23",
     "time": "10:00 AM",
@@ -12362,6 +12659,17 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
+  },
+  {
+    "booking_id": "106book90501",
+    "date": "2026-11-23",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book51880",
@@ -12441,6 +12749,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book94800",
+    "date": "2026-11-23",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95461",
+    "date": "2026-11-23",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book49732",
     "date": "2026-11-23",
     "time": "11:00 AM",
@@ -12450,6 +12780,17 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "106book89249",
+    "date": "2026-11-23",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book38376",
@@ -12595,6 +12936,28 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book95655",
+    "date": "2026-11-23",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96452",
+    "date": "2026-11-23",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book38165",
     "date": "2026-11-23",
     "time": "12:00 PM",
@@ -12604,6 +12967,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book90243",
+    "date": "2026-11-23",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book45590",
@@ -13002,6 +13376,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "104book70164",
+    "date": "2026-11-23",
+    "time": "3:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Melissa Passe-De Silva",
+    "location": "Newtown",
+    "remaining_spots": 20,
+    "capacity": 20
+  },
+  {
     "booking_id": "103book49420",
     "date": "2026-11-23",
     "time": "3:30 PM",
@@ -13121,6 +13506,17 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
+  },
+  {
+    "booking_id": "104book70077",
+    "date": "2026-11-23",
+    "time": "4:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Melissa Passe-De Silva",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
   },
   {
     "booking_id": "107book102453",
@@ -13277,17 +13673,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book12230",
-    "date": "2026-11-23",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book67082",
     "date": "2026-11-23",
     "time": "5:15 PM",
@@ -13431,6 +13816,17 @@
     "capacity": 30
   },
   {
+    "booking_id": "104book70266",
+    "date": "2026-11-23",
+    "time": "5:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Melissa Passe-De Silva",
+    "location": "Newtown",
+    "remaining_spots": 23,
+    "capacity": 23
+  },
+  {
     "booking_id": "107book57953",
     "date": "2026-11-23",
     "time": "5:30 PM",
@@ -13462,6 +13858,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "108book12230",
+    "date": "2026-11-23",
+    "time": "5:30 PM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book4567",
@@ -13616,17 +14023,6 @@
     "location": "Surry Hills",
     "remaining_spots": 25,
     "capacity": 25
-  },
-  {
-    "booking_id": "108book12431",
-    "date": "2026-11-23",
-    "time": "6:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "108book9491",
@@ -13825,6 +14221,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "108book12431",
+    "date": "2026-11-23",
+    "time": "6:30 PM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book4646",
@@ -15202,6 +15609,28 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95106",
+    "date": "2026-11-24",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96291",
+    "date": "2026-11-24",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "103book71592",
     "date": "2026-11-24",
     "time": "9:00 AM",
@@ -15345,6 +15774,28 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book96615",
+    "date": "2026-11-24",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95268",
+    "date": "2026-11-24",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book53523",
     "date": "2026-11-24",
     "time": "10:00 AM",
@@ -15354,6 +15805,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "106book90502",
+    "date": "2026-11-24",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book40609",
@@ -15433,6 +15895,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book96001",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95462",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book76569",
     "date": "2026-11-24",
     "time": "11:00 AM",
@@ -15442,6 +15926,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book89250",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book35734",
@@ -15576,6 +16071,28 @@
     "capacity": 26
   },
   {
+    "booking_id": "103book96453",
+    "date": "2026-11-24",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95656",
+    "date": "2026-11-24",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "106book40872",
     "date": "2026-11-24",
     "time": "12:00 PM",
@@ -15585,6 +16102,17 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
+  },
+  {
+    "booking_id": "106book90244",
+    "date": "2026-11-24",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book39692",
@@ -16280,17 +16808,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "108book16662",
-    "date": "2026-11-24",
-    "time": "5:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "103book54636",
     "date": "2026-11-24",
     "time": "5:15 PM",
@@ -16467,6 +16984,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book16662",
+    "date": "2026-11-24",
+    "time": "5:30 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "105book39025",
     "date": "2026-11-24",
     "time": "5:45 PM",
@@ -16597,17 +17125,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "108book16825",
-    "date": "2026-11-24",
-    "time": "6:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "108book11309",
@@ -16773,6 +17290,17 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book16825",
+    "date": "2026-11-24",
+    "time": "6:30 PM",
+    "name": "Yoga: Yin & Calm",
+    "class_type": "Yoga Series",
+    "instructor": "Kim Hoffenberg",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book5571",
@@ -16993,6 +17521,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book96854",
+    "date": "2026-11-24",
+    "time": "7:30 PM",
+    "name": "Hip Hop",
+    "class_type": "Dance Series",
+    "instructor": "Dante Creek",
+    "location": "Marrickville",
+    "remaining_spots": 0,
+    "capacity": 20
   },
   {
     "booking_id": "106book54986",
@@ -18117,6 +18656,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book95107",
+    "date": "2026-11-25",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96292",
+    "date": "2026-11-25",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book28823",
     "date": "2026-11-25",
     "time": "9:00 AM",
@@ -18227,6 +18788,17 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book95269",
+    "date": "2026-11-25",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book55368",
     "date": "2026-11-25",
     "time": "10:00 AM",
@@ -18236,6 +18808,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book96616",
+    "date": "2026-11-25",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book68932",
@@ -18258,6 +18841,17 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
+  },
+  {
+    "booking_id": "106book90503",
+    "date": "2026-11-25",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book37491",
@@ -18348,6 +18942,28 @@
     "capacity": 15
   },
   {
+    "booking_id": "103book95463",
+    "date": "2026-11-25",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "103book96002",
+    "date": "2026-11-25",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
     "booking_id": "106book69887",
     "date": "2026-11-25",
     "time": "11:00 AM",
@@ -18357,6 +18973,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book89251",
+    "date": "2026-11-25",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book37907",
@@ -18467,6 +19094,39 @@
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
+  },
+  {
+    "booking_id": "103book96454",
+    "date": "2026-11-25",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95657",
+    "date": "2026-11-25",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "106book90245",
+    "date": "2026-11-25",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book84511",
@@ -19921,17 +20581,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "108book31319",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book27503",
     "date": "2026-11-25",
     "time": "7:15 PM",
@@ -20051,6 +20700,17 @@
     "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "108book31319",
+    "date": "2026-11-25",
+    "time": "7:30 PM",
+    "name": "Sound Healing",
+    "class_type": "Harmony Series",
+    "instructor": "Lihini Rose",
+    "location": "Zetland",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "105book71639",
@@ -21065,6 +21725,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book95108",
+    "date": "2026-11-26",
+    "time": "9:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book57333",
     "date": "2026-11-26",
     "time": "9:00 AM",
@@ -21074,6 +21745,17 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book96293",
+    "date": "2026-11-26",
+    "time": "9:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book70562",
@@ -21219,6 +21901,28 @@
     "capacity": 24
   },
   {
+    "booking_id": "103book96617",
+    "date": "2026-11-26",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95270",
+    "date": "2026-11-26",
+    "time": "10:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book57594",
     "date": "2026-11-26",
     "time": "10:00 AM",
@@ -21239,6 +21943,17 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
+  },
+  {
+    "booking_id": "106book90504",
+    "date": "2026-11-26",
+    "time": "10:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book39327",
@@ -21327,6 +22042,39 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "103book96003",
+    "date": "2026-11-26",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95464",
+    "date": "2026-11-26",
+    "time": "11:00 AM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
+    "booking_id": "106book89252",
+    "date": "2026-11-26",
+    "time": "11:00 AM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "104book39119",
@@ -21472,6 +22220,28 @@
     "capacity": 32
   },
   {
+    "booking_id": "103book96455",
+    "date": "2026-11-26",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Athena Nikolopoulos",
+    "location": "Marrickville",
+    "remaining_spots": 4,
+    "capacity": 4
+  },
+  {
+    "booking_id": "103book95658",
+    "date": "2026-11-26",
+    "time": "12:00 PM",
+    "name": "Creche (18 months - 12 years)",
+    "class_type": "Creche",
+    "instructor": "Shova Rana",
+    "location": "Marrickville",
+    "remaining_spots": 8,
+    "capacity": 8
+  },
+  {
     "booking_id": "103book58401",
     "date": "2026-11-26",
     "time": "12:00 PM",
@@ -21481,6 +22251,17 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "106book90246",
+    "date": "2026-11-26",
+    "time": "12:00 PM",
+    "name": "Creche (6 weeks to 18 months)",
+    "class_type": "Creche",
+    "instructor": "Georgia Dame",
+    "location": "Merrylands",
+    "remaining_spots": 4,
+    "capacity": 4
   },
   {
     "booking_id": "106book44039",
@@ -22495,6 +23276,17 @@
     "capacity": 21
   },
   {
+    "booking_id": "106book90677",
+    "date": "2026-11-26",
+    "time": "6:00 PM",
+    "name": "Yoga: Flowstate",
+    "class_type": "Yoga Series",
+    "instructor": "Jen Tran",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
+  },
+  {
     "booking_id": "106book44143",
     "date": "2026-11-26",
     "time": "6:00 PM",
@@ -22867,6 +23659,17 @@
     "location": "Zetland",
     "remaining_spots": 15,
     "capacity": 15
+  },
+  {
+    "booking_id": "106book90850",
+    "date": "2026-11-26",
+    "time": "7:10 PM",
+    "name": "Yoga: Yin & Calm",
+    "class_type": "Yoga Series",
+    "instructor": "Jen Tran",
+    "location": "Merrylands",
+    "remaining_spots": 34,
+    "capacity": 34
   },
   {
     "booking_id": "106book54305",
