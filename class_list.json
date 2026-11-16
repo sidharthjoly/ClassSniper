@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book64170",
-    "date": "2026-11-18",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book55107",
     "date": "2026-11-18",
     "time": "5:30 AM",
@@ -1162,7 +1151,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -1690,7 +1679,7 @@
     "class_type": "Fight Series",
     "instructor": "Stephanie Conlin",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 26
   },
   {
@@ -4539,7 +4528,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Newtown",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -5782,7 +5771,7 @@
     "class_type": "Events",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 36
   },
   {
