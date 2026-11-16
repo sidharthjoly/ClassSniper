@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book39921",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book63468",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book56043",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 26
-  },
-  {
-    "booking_id": "103book55523",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book42221",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book36510",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book67609",
-    "date": "2026-11-18",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book54688",
     "date": "2026-11-18",
     "time": "8:15 AM",
@@ -5375,7 +5298,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
