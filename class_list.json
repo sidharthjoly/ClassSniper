@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "106book41044",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book35132",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book47404",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "George Malouf",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book106549",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book61632",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Matthew Gardner",
-    "location": "Surry Hills",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book1286",
-    "date": "2026-11-17",
-    "time": "6:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 25
-  },
-  {
     "booking_id": "105book31871",
     "date": "2026-11-17",
     "time": "6:30 PM",
@@ -3978,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -4330,7 +4264,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 32
   },
   {
@@ -5210,7 +5144,7 @@
     "class_type": "Mat Series",
     "instructor": "Carlos Gallo",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
