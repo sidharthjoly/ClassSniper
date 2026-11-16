@@ -5023,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -8512,6 +8512,17 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
+  },
+  {
+    "booking_id": "108book24020",
+    "date": "2026-11-20",
+    "time": "5:15 PM",
+    "name": "Running The HYROX Workshop | Zetland Opening",
+    "class_type": "Events",
+    "instructor": "Jay Haydock",
+    "location": "Zetland",
+    "remaining_spots": 4,
+    "capacity": 15
   },
   {
     "booking_id": "108book7830",
@@ -14758,8 +14769,8 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 25,
-    "capacity": 25
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "106book40116",
