@@ -1052,7 +1052,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -4319,7 +4319,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 15,
     "capacity": 32
   },
   {
@@ -5826,7 +5826,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -5980,7 +5980,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
@@ -5991,7 +5991,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Zetland",
-    "remaining_spots": 19,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -6101,7 +6101,7 @@
     "class_type": "Apex Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -8466,7 +8466,7 @@
     "class_type": "Events",
     "instructor": "Benjamin Young, Mark Brinker",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
