@@ -392,7 +392,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3054,7 +3054,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
@@ -4528,7 +4528,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -5056,7 +5056,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
