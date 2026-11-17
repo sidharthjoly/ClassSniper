@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book68267",
-    "date": "2026-11-19",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book33878",
-    "date": "2026-11-19",
-    "time": "5:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Tamar Hirschberg",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book42956",
     "date": "2026-11-19",
     "time": "6:00 AM",
