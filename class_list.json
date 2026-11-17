@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book64216",
-    "date": "2026-11-19",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58172",
-    "date": "2026-11-19",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106162",
-    "date": "2026-11-19",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book32",
-    "date": "2026-11-19",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Zetland",
-    "remaining_spots": 23,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book71526",
     "date": "2026-11-19",
     "time": "2:00 PM",
@@ -3956,7 +3912,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -3967,7 +3923,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
