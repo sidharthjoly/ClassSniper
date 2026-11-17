@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book56029",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 5,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book58224",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book57071",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book105752",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book30",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Zetland",
-    "remaining_spots": 8,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book258",
-    "date": "2026-11-19",
-    "time": "11:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Jessy Franks",
-    "location": "Zetland",
-    "remaining_spots": 21,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book42192",
     "date": "2026-11-19",
     "time": "12:00 PM",
@@ -2988,7 +2922,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
