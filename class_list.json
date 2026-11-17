@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book71526",
-    "date": "2026-11-19",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 19,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39378",
-    "date": "2026-11-19",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book68900",
     "date": "2026-11-19",
     "time": "2:15 PM",
@@ -2009,7 +1987,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 28
   },
   {
@@ -2053,7 +2031,7 @@
     "class_type": "Events",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
@@ -3395,7 +3373,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -3769,7 +3747,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 32
   },
   {
@@ -3945,7 +3923,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 38,
+    "remaining_spots": 37,
     "capacity": 38
   },
   {
@@ -3956,7 +3934,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 17,
     "capacity": 32
   },
   {
@@ -4000,7 +3978,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 9,
     "capacity": 15
   },
   {
@@ -4066,7 +4044,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 25,
     "capacity": 28
   },
   {
@@ -4077,7 +4055,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 5,
     "capacity": 20
   },
   {
@@ -4088,7 +4066,7 @@
     "class_type": "Spin Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 40,
+    "remaining_spots": 22,
     "capacity": 40
   },
   {
@@ -4099,7 +4077,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
@@ -4110,7 +4088,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
@@ -4121,7 +4099,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 29,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -4143,7 +4121,7 @@
     "class_type": "S&C Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 18,
     "capacity": 25
   },
   {
@@ -4154,7 +4132,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
