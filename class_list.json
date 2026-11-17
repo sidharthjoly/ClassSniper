@@ -645,7 +645,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2240,7 +2240,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 24
   },
   {
@@ -2328,7 +2328,7 @@
     "class_type": "S&C Series",
     "instructor": "Joey Bowling",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 26
   },
   {
@@ -3186,7 +3186,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -5232,7 +5232,7 @@
     "class_type": "Reformer Series",
     "instructor": "Leng Taecharattanawanit",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -5518,7 +5518,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
@@ -5595,7 +5595,7 @@
     "class_type": "Mat Series",
     "instructor": "Amber Libert\u00e9",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -5606,7 +5606,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
