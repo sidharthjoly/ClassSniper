@@ -876,7 +876,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -2020,7 +2020,7 @@
     "class_type": "Reformer Series",
     "instructor": "Abigail Rose",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2185,7 +2185,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 38
   },
   {
@@ -3252,7 +3252,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 33
   },
   {
@@ -3659,7 +3659,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -4055,7 +4055,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 18
   },
   {
@@ -4209,7 +4209,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -4363,7 +4363,7 @@
     "class_type": "Mat Series",
     "instructor": "Kat Morrison",
     "location": "Merrylands",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
@@ -4803,7 +4803,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -5122,7 +5122,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 18
   },
   {
@@ -5133,7 +5133,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 32
   },
   {
@@ -5243,7 +5243,7 @@
     "class_type": "Reformer Series",
     "instructor": "Carlos Gallo",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
