@@ -1107,7 +1107,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 20
   },
   {
@@ -1426,7 +1426,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
@@ -4055,7 +4055,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 18
   },
   {
@@ -4825,7 +4825,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 26
   },
   {
@@ -5012,7 +5012,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Zetland",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -5342,7 +5342,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 36
   },
   {
@@ -13920,7 +13920,7 @@
     "time": "5:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -14250,7 +14250,7 @@
     "time": "6:30 PM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
@@ -14747,8 +14747,8 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "103book55781",
@@ -14921,7 +14921,7 @@
     "time": "6:15 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Honor Mills",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -15273,7 +15273,7 @@
     "time": "7:15 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Honor Mills",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -15741,6 +15741,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "103book76979",
+    "date": "2026-11-25",
+    "time": "9:15 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Samantha Smolens",
+    "location": "Marrickville",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "101book105748",
     "date": "2026-11-25",
     "time": "9:15 AM",
@@ -15748,17 +15759,6 @@
     "class_type": "Mat Series",
     "instructor": "Jasmin Salmon",
     "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book76979",
-    "date": "2026-11-25",
-    "time": "9:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
   },
@@ -15937,17 +15937,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "103book77477",
-    "date": "2026-11-25",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "107book104523",
@@ -16670,7 +16659,7 @@
     "time": "4:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -16846,7 +16835,7 @@
     "time": "5:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -17187,7 +17176,7 @@
     "time": "6:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -17550,7 +17539,7 @@
     "time": "7:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
+    "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -18766,6 +18755,17 @@
     "capacity": 24
   },
   {
+    "booking_id": "108book36923",
+    "date": "2026-11-26",
+    "time": "8:30 AM",
+    "name": "Breathwork: Dynamic Release (Morning)",
+    "class_type": "Harmony Series",
+    "instructor": "Lauren Wainer",
+    "location": "Zetland",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "108book32671",
     "date": "2026-11-26",
     "time": "8:30 AM",
@@ -18940,17 +18940,6 @@
     "location": "Surry Hills",
     "remaining_spots": 18,
     "capacity": 18
-  },
-  {
-    "booking_id": "103book56968",
-    "date": "2026-11-26",
-    "time": "9:45 AM",
-    "name": "Breathwork: Dynamic Release (Morning)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "105book43095",
@@ -19259,17 +19248,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "103book57072",
-    "date": "2026-11-26",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Phoebe Thomson",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
   },
   {
     "booking_id": "107book105753",
@@ -19893,7 +19871,7 @@
     "time": "4:15 PM",
     "name": "Fighting Fit",
     "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
+    "instructor": "Kristen Marconi",
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
@@ -21224,7 +21202,7 @@
     "time": "6:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "James Wood",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -21576,7 +21554,7 @@
     "time": "7:30 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "James Wood",
+    "instructor": "Honor Mills",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
