@@ -51,7 +51,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 25
   },
   {
@@ -1822,7 +1822,7 @@
     "class_type": "Mat Series",
     "instructor": "Carlos Gallo",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 38
   },
   {
@@ -3087,7 +3087,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -5155,7 +5155,7 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -5529,7 +5529,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jovana Subotic",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -5562,7 +5562,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 30
   },
   {
@@ -7234,7 +7234,7 @@
     "class_type": "Events",
     "instructor": "Oliver Hobbs",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
