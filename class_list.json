@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book45202",
-    "date": "2026-11-19",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book39014",
-    "date": "2026-11-19",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book74",
-    "date": "2026-11-19",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book41932",
     "date": "2026-11-19",
     "time": "1:15 PM",
@@ -2350,7 +2317,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -3384,7 +3351,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
@@ -3901,7 +3868,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
     "location": "Haymarket",
-    "remaining_spots": 32,
+    "remaining_spots": 24,
     "capacity": 32
   },
   {
@@ -3912,7 +3879,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 23,
     "capacity": 26
   },
   {
@@ -3956,7 +3923,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Newtown",
-    "remaining_spots": 32,
+    "remaining_spots": 30,
     "capacity": 32
   },
   {
@@ -3967,7 +3934,7 @@
     "class_type": "S&C Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 22,
     "capacity": 25
   },
   {
