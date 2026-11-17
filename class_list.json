@@ -5287,7 +5287,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mary Mikhail",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 33
   },
   {
@@ -8294,17 +8294,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "107book55786",
-    "date": "2026-11-22",
-    "time": "4:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book96164",
     "date": "2026-11-22",
     "time": "4:00 PM",
@@ -8323,17 +8312,6 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book55892",
-    "date": "2026-11-22",
-    "time": "5:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
   },
@@ -14817,17 +14795,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book63751",
-    "date": "2026-11-25",
-    "time": "6:00 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book49428",
     "date": "2026-11-25",
     "time": "6:00 AM",
@@ -14845,6 +14812,17 @@
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
     "instructor": "Matt Bull",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
+    "booking_id": "107book122449",
+    "date": "2026-11-25",
+    "time": "6:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Chloe Greenwood",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -15180,6 +15158,17 @@
     "capacity": 28
   },
   {
+    "booking_id": "107book122635",
+    "date": "2026-11-25",
+    "time": "7:00 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Chloe Greenwood",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "107book49473",
     "date": "2026-11-25",
     "time": "7:00 AM",
@@ -15233,17 +15222,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "107book63963",
-    "date": "2026-11-25",
-    "time": "7:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book113198",
@@ -15488,6 +15466,17 @@
     "capacity": 20
   },
   {
+    "booking_id": "107book122725",
+    "date": "2026-11-25",
+    "time": "8:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Chloe Greenwood",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
+  },
+  {
     "booking_id": "108book22701",
     "date": "2026-11-25",
     "time": "8:00 AM",
@@ -15530,17 +15519,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "107book62811",
-    "date": "2026-11-25",
-    "time": "8:15 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book105851",
@@ -16551,17 +16529,6 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book12794",
-    "date": "2026-11-25",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Zetland",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -22033,17 +22000,6 @@
     "capacity": 26
   },
   {
-    "booking_id": "104book68859",
-    "date": "2026-11-27",
-    "time": "9:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book77260",
     "date": "2026-11-27",
     "time": "9:30 AM",
@@ -22229,17 +22185,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book68947",
-    "date": "2026-11-27",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book107078",
