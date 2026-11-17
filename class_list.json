@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book91233",
-    "date": "2026-11-19",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book63433",
-    "date": "2026-11-19",
-    "time": "5:30 AM",
-    "name": "The Zone.",
-    "class_type": "Spin Series",
-    "instructor": "Alexandra Doddridge",
-    "location": "North Sydney",
-    "remaining_spots": 37,
-    "capacity": 40
-  },
-  {
-    "booking_id": "107book105237",
-    "date": "2026-11-19",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Franzmann",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book35644",
-    "date": "2026-11-19",
-    "time": "5:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book235",
-    "date": "2026-11-19",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book68267",
     "date": "2026-11-19",
     "time": "5:45 AM",
@@ -3978,7 +3923,7 @@
     "class_type": "Mat Series",
     "instructor": "Samantha Smolens",
     "location": "Marrickville",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
