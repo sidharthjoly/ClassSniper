@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book64575",
-    "date": "2026-11-19",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book67611",
-    "date": "2026-11-19",
-    "time": "4:15 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Joey Bowling",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book89264",
-    "date": "2026-11-19",
-    "time": "4:15 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book58276",
     "date": "2026-11-19",
     "time": "4:30 PM",
@@ -4088,7 +4055,7 @@
     "class_type": "Barre Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 23
   },
   {
@@ -4176,7 +4143,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -4473,7 +4440,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -4495,7 +4462,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 35,
     "capacity": 35
   },
   {
@@ -4550,7 +4517,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -4693,7 +4660,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 35
   },
   {
@@ -4704,7 +4671,7 @@
     "class_type": "S&C Series",
     "instructor": "Nikki Erdos",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 28
   },
   {
@@ -4715,7 +4682,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 22,
     "capacity": 30
   },
   {
@@ -8081,7 +8048,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 15
   },
   {
