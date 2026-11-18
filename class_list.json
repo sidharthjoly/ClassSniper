@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book60544",
-    "date": "2026-11-20",
-    "time": "9:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Marrickville",
-    "remaining_spots": 23,
-    "capacity": 26
-  },
-  {
-    "booking_id": "104book68858",
-    "date": "2026-11-20",
-    "time": "9:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book77259",
-    "date": "2026-11-20",
-    "time": "9:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Surry Hills",
-    "remaining_spots": 10,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book300",
-    "date": "2026-11-20",
-    "time": "9:30 AM",
-    "name": "Total Build X Tommy Hilfiger | Zetland Opening ",
-    "class_type": "Events",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book45080",
     "date": "2026-11-20",
     "time": "10:00 AM",
