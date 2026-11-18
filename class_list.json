@@ -348,7 +348,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 25
   },
   {
@@ -876,7 +876,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -2240,7 +2240,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 30
   },
   {
