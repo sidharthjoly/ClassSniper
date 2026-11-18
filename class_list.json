@@ -1899,7 +1899,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 8
   },
   {
@@ -1910,7 +1910,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 4
   },
   {
@@ -3483,7 +3483,7 @@
     "class_type": "S&C Series",
     "instructor": "James Wood",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 25
   },
   {
