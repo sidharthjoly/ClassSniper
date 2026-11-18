@@ -2086,7 +2086,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3208,7 +3208,7 @@
     "class_type": "Mat Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 27,
     "capacity": 34
   },
   {
@@ -3692,7 +3692,7 @@
     "class_type": "Mat Series",
     "instructor": "Katie Jay",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -5434,17 +5434,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "103book48796",
-    "date": "2026-11-23",
-    "time": "6:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book58823",
     "date": "2026-11-23",
     "time": "6:15 AM",
@@ -5773,17 +5762,6 @@
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
-  },
-  {
-    "booking_id": "103book48900",
-    "date": "2026-11-23",
-    "time": "7:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book85439",
@@ -16945,7 +16923,7 @@
     "time": "5:15 PM",
     "name": "Double Down | Hybrid",
     "class_type": "Apex Series",
-    "instructor": "James Wood",
+    "instructor": "Jennifer Irvine",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -17231,7 +17209,7 @@
     "time": "6:00 PM",
     "name": "Sub60 | Hybrid",
     "class_type": "Apex Series",
-    "instructor": "James Wood",
+    "instructor": "Jennifer Irvine",
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
@@ -17561,7 +17539,7 @@
     "time": "7:00 PM",
     "name": "Race Pace | Run Only",
     "class_type": "Apex Series",
-    "instructor": "James Wood",
+    "instructor": "Jennifer Irvine",
     "location": "Zetland",
     "remaining_spots": 15,
     "capacity": 15
