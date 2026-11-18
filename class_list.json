@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "103book94799",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 2,
-    "capacity": 4
-  },
-  {
-    "booking_id": "103book95460",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book89248",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book87747",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Merrylands",
-    "remaining_spots": 16,
-    "capacity": 22
-  },
-  {
-    "booking_id": "106book89433",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Chloe Burns",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "104book69233",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book70779",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book23720",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 6,
-    "capacity": 15
-  },
-  {
-    "booking_id": "108book283",
-    "date": "2026-11-20",
-    "time": "11:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Natasia Phimister",
-    "location": "Zetland",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book48708",
     "date": "2026-11-20",
     "time": "11:15 AM",
@@ -1228,7 +1129,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
