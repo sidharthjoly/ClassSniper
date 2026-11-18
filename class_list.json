@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "103book57859",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book58820",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book45410",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38584",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book106537",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book69322",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book7315",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "Zetland",
-    "remaining_spots": 16,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book36",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Zetland",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book41775",
     "date": "2026-11-19",
     "time": "7:45 PM",
@@ -799,7 +711,7 @@
     "class_type": "Reformer Series",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -1030,7 +942,7 @@
     "class_type": "Reformer Series",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 13,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -1778,7 +1690,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -4000,7 +3912,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 23
   },
   {
