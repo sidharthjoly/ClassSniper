@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book64044",
-    "date": "2026-11-19",
-    "time": "7:20 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book99910",
-    "date": "2026-11-19",
-    "time": "7:20 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book57859",
     "date": "2026-11-19",
     "time": "7:30 PM",
@@ -2823,7 +2801,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -4231,7 +4209,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
