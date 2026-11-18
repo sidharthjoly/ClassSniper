@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "103book80190",
-    "date": "2026-11-20",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Nick Gross",
-    "location": "Marrickville",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book68946",
-    "date": "2026-11-20",
-    "time": "10:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book107077",
-    "date": "2026-11-20",
-    "time": "10:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "103book59605",
     "date": "2026-11-20",
     "time": "10:45 AM",
