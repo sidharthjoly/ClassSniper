@@ -1063,7 +1063,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -3914,17 +3914,6 @@
     "location": "Marrickville",
     "remaining_spots": 35,
     "capacity": 36
-  },
-  {
-    "booking_id": "106book50020",
-    "date": "2026-11-21",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 22
   },
   {
     "booking_id": "101book95267",
