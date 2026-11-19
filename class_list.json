@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book49708",
-    "date": "2026-11-21",
-    "time": "11:45 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book42073",
-    "date": "2026-11-21",
-    "time": "11:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 12,
-    "capacity": 23
-  },
-  {
     "booking_id": "104book42230",
     "date": "2026-11-21",
     "time": "12:00 PM",
@@ -777,7 +755,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 24
   },
   {
@@ -1338,7 +1316,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 16,
     "capacity": 18
   },
   {
@@ -1349,7 +1327,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lauren Buck",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
