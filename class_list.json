@@ -1052,7 +1052,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Surry Hills",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 26
   },
   {
@@ -1833,7 +1833,7 @@
     "class_type": "Fight Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 31
   },
   {
