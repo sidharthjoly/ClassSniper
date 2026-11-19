@@ -1074,7 +1074,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 23
   },
   {
@@ -1360,7 +1360,7 @@
     "class_type": "Yoga Series",
     "instructor": "Megan Leung",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 36
   },
   {
@@ -2229,7 +2229,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "North Sydney",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 30
   },
   {
@@ -2614,7 +2614,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
