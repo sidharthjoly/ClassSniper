@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book45653",
-    "date": "2026-11-21",
-    "time": "10:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book30067",
-    "date": "2026-11-21",
-    "time": "10:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 35
-  },
-  {
-    "booking_id": "104book41701",
-    "date": "2026-11-21",
-    "time": "10:15 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Newtown",
-    "remaining_spots": 1,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book53882",
-    "date": "2026-11-21",
-    "time": "10:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Benjamin Young",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book43373",
     "date": "2026-11-21",
     "time": "10:30 AM",
@@ -1547,7 +1503,7 @@
     "class_type": "Yoga Series",
     "instructor": "Aram Faizi",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
