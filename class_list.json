@@ -150,7 +150,7 @@
     "class_type": "One Run",
     "instructor": "Matty Mccormick",
     "location": "Merrylands",
-    "remaining_spots": 49,
+    "remaining_spots": 48,
     "capacity": 50
   },
   {
@@ -502,7 +502,7 @@
     "class_type": "Barre Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 23
   },
   {
@@ -1371,7 +1371,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
