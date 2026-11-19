@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book60495",
-    "date": "2026-11-20",
-    "time": "6:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "101book97809",
-    "date": "2026-11-20",
-    "time": "6:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book87",
-    "date": "2026-11-20",
-    "time": "6:15 PM",
-    "name": "Candlelight Reiki & Sound Bath | Zetland Opening",
-    "class_type": "Events",
-    "instructor": "Lihini Rose",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book7531",
-    "date": "2026-11-20",
-    "time": "6:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book23510",
-    "date": "2026-11-20",
-    "time": "6:15 PM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 20,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book35280",
     "date": "2026-11-20",
     "time": "6:30 PM",
@@ -2218,7 +2163,7 @@
     "class_type": "Spin Series",
     "instructor": "Lily Jones",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 35
   },
   {
@@ -2229,7 +2174,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -2394,7 +2339,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -2548,7 +2493,7 @@
     "class_type": "Dance Series",
     "instructor": "Alicia Quinn",
     "location": "Surry Hills",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 25
   },
   {
@@ -2570,7 +2515,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Surry Hills",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
