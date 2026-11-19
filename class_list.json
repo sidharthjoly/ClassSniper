@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book95465",
-    "date": "2026-11-21",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book61486",
     "date": "2026-11-21",
     "time": "3:00 PM",
@@ -95,7 +84,7 @@
     "class_type": "Yoga Series",
     "instructor": "Laila Nawsheen",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 36
   },
   {
@@ -986,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -1316,7 +1305,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 18
   },
   {
@@ -1811,7 +1800,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 36
   },
   {
@@ -1866,7 +1855,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
