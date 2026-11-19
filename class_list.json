@@ -227,7 +227,7 @@
     "class_type": "Events",
     "instructor": "Ana Lievano",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
@@ -766,7 +766,7 @@
     "class_type": "Yoga Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -986,7 +986,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
