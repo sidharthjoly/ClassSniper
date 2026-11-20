@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book29803",
-    "date": "2026-11-22",
-    "time": "7:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book73316",
     "date": "2026-11-22",
     "time": "8:00 AM",
@@ -2812,7 +2801,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
