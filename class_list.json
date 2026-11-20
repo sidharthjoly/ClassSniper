@@ -491,7 +491,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 20
   },
   {
@@ -623,7 +623,7 @@
     "class_type": "Mat Series",
     "instructor": "Amber Libert\u00e9",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 36
   },
   {
@@ -887,7 +887,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 25
   },
   {
@@ -1041,7 +1041,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
@@ -3164,7 +3164,7 @@
     "class_type": "S&C Series",
     "instructor": "Sean Grosvenor",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 26
   },
   {
@@ -3681,7 +3681,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mari Hooper",
     "location": "Surry Hills",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 18
   },
   {
