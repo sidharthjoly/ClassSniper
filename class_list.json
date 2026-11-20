@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book65480",
-    "date": "2026-11-22",
-    "time": "7:00 AM",
-    "name": "Legacy",
-    "class_type": "Fight Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 31
-  },
-  {
     "booking_id": "108book29803",
     "date": "2026-11-22",
     "time": "7:30 AM",
@@ -1965,7 +1954,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 32
   },
   {
