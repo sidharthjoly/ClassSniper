@@ -18,7 +18,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -392,7 +392,7 @@
     "class_type": "S&C Series",
     "instructor": "Paulo Lole",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
@@ -2581,7 +2581,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "North Sydney",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -2603,7 +2603,7 @@
     "class_type": "Mat Series",
     "instructor": "Lilly Williams",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -2834,7 +2834,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -3285,7 +3285,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -3296,7 +3296,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -3538,7 +3538,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 25
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Dance Series",
     "instructor": "Kristine Gimenez",
     "location": "Haymarket",
-    "remaining_spots": 37,
+    "remaining_spots": 36,
     "capacity": 38
   },
   {
@@ -7623,17 +7623,6 @@
     "capacity": 28
   },
   {
-    "booking_id": "107book122635",
-    "date": "2026-11-25",
-    "time": "7:00 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book49473",
     "date": "2026-11-25",
     "time": "7:00 AM",
@@ -7643,6 +7632,17 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
+  },
+  {
+    "booking_id": "107book123457",
+    "date": "2026-11-25",
+    "time": "7:00 AM",
+    "name": "Mat Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Chloe Greenwood",
+    "location": "North Sydney",
+    "remaining_spots": 30,
+    "capacity": 30
   },
   {
     "booking_id": "108book18438",
@@ -17055,7 +17055,7 @@
     "time": "10:45 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Danielle Panayi",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -17264,7 +17264,7 @@
     "time": "11:45 AM",
     "name": "Reformer: Origins",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Danielle Panayi",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -17385,7 +17385,7 @@
     "time": "12:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Danielle Panayi",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -20658,6 +20658,17 @@
     "capacity": 18
   },
   {
+    "booking_id": "108book32848",
+    "date": "2026-11-30",
+    "time": "4:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sienna Lopez",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
+  },
+  {
     "booking_id": "105book63165",
     "date": "2026-11-30",
     "time": "4:45 PM",
@@ -20986,6 +20997,17 @@
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
+  },
+  {
+    "booking_id": "108book32399",
+    "date": "2026-11-30",
+    "time": "5:30 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Sienna Lopez",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "108book4568",
