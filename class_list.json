@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book85639",
-    "date": "2026-11-22",
-    "time": "1:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Anton Anton",
-    "location": "Marrickville",
-    "remaining_spots": 23,
-    "capacity": 36
-  },
-  {
-    "booking_id": "104book43851",
-    "date": "2026-11-22",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book107767",
     "date": "2026-11-22",
     "time": "2:00 PM",
@@ -3956,7 +3934,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 15,
     "capacity": 30
   },
   {
@@ -3967,7 +3945,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
