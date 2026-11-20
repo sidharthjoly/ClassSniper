@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book64508",
-    "date": "2026-11-22",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Honor Mills",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 35
-  },
-  {
-    "booking_id": "105book46838",
-    "date": "2026-11-22",
-    "time": "9:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Lily Jones",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
     "booking_id": "105book46890",
     "date": "2026-11-22",
     "time": "9:30 AM",
@@ -2834,7 +2812,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 30
   },
   {
