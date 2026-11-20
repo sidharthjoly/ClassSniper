@@ -29,7 +29,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -931,7 +931,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 18
   },
   {
@@ -1129,7 +1129,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -2493,7 +2493,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "Yoga Series",
     "instructor": "Tim Fiorentino",
     "location": "Marrickville",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
@@ -3978,7 +3978,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 23
   },
   {
@@ -4385,7 +4385,7 @@
     "class_type": "Mat Series",
     "instructor": "Julieanne Nicolas",
     "location": "Surry Hills",
-    "remaining_spots": 33,
+    "remaining_spots": 32,
     "capacity": 36
   },
   {
