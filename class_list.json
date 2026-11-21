@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book74589",
-    "date": "2026-11-23",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Shaylen Griffith",
-    "location": "Haymarket",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book72727",
-    "date": "2026-11-23",
-    "time": "11:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 11,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book102153",
-    "date": "2026-11-23",
-    "time": "11:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "North Sydney",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book9386",
-    "date": "2026-11-23",
-    "time": "11:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Zetland",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book9839",
-    "date": "2026-11-23",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lilly Williams",
-    "location": "Zetland",
-    "remaining_spots": 19,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book37572",
     "date": "2026-11-23",
     "time": "12:00 PM",
@@ -4792,7 +4737,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
