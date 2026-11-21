@@ -865,7 +865,7 @@
     "class_type": "Mat Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 23
   },
   {
@@ -1140,7 +1140,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -2889,7 +2889,7 @@
     "class_type": "Dance Series",
     "instructor": "Kristine Gimenez",
     "location": "Haymarket",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 38
   },
   {
@@ -3747,7 +3747,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 30
   },
   {
