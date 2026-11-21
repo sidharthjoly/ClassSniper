@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book47784",
-    "date": "2026-11-23",
-    "time": "1:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Ahlex Leyva",
-    "location": "Haymarket",
-    "remaining_spots": 34,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book59815",
-    "date": "2026-11-23",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "North Sydney",
-    "remaining_spots": 26,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book100142",
-    "date": "2026-11-23",
-    "time": "1:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 14,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book58875",
-    "date": "2026-11-23",
-    "time": "1:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 22,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book4462",
-    "date": "2026-11-23",
-    "time": "1:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Emanuele Troise",
-    "location": "Zetland",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book36647",
     "date": "2026-11-23",
     "time": "1:30 PM",
@@ -2031,7 +1976,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 38
   },
   {
@@ -4704,7 +4649,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
@@ -4979,7 +4924,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "North Sydney",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -5034,7 +4979,7 @@
     "class_type": "Mat Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
@@ -5045,7 +4990,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Surry Hills",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 26
   },
   {
