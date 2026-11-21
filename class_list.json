@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book49264",
-    "date": "2026-11-23",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "103book50948",
-    "date": "2026-11-23",
-    "time": "9:30 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Alek Leyland",
-    "location": "Marrickville",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "104book33712",
-    "date": "2026-11-23",
-    "time": "9:30 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
-  },
-  {
-    "booking_id": "108book4357",
-    "date": "2026-11-23",
-    "time": "9:30 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book37624",
     "date": "2026-11-23",
     "time": "10:00 AM",
