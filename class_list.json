@@ -2691,7 +2691,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -3406,7 +3406,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 35
   },
   {
@@ -4253,7 +4253,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -4539,7 +4539,7 @@
     "class_type": "Creche",
     "instructor": "Chloe Burns",
     "location": "Merrylands",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 8
   },
   {
@@ -4594,7 +4594,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
