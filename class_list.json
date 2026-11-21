@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book104224",
-    "date": "2026-11-23",
-    "time": "8:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 36
-  },
-  {
     "booking_id": "104book34711",
     "date": "2026-11-23",
     "time": "8:30 AM",
