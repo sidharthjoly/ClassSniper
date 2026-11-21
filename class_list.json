@@ -502,7 +502,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 32
   },
   {
@@ -1910,7 +1910,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "North Sydney",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -3252,7 +3252,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -3945,7 +3945,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
