@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book49943",
-    "date": "2026-11-24",
-    "time": "5:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book102558",
-    "date": "2026-11-24",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "North Sydney",
-    "remaining_spots": 2,
-    "capacity": 26
-  },
-  {
-    "booking_id": "107book71430",
-    "date": "2026-11-24",
-    "time": "5:30 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Frances Lee",
-    "location": "North Sydney",
-    "remaining_spots": 39,
-    "capacity": 40
-  },
-  {
-    "booking_id": "108book35751",
-    "date": "2026-11-24",
-    "time": "5:30 AM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "108book35454",
-    "date": "2026-11-24",
-    "time": "5:30 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jay Haydock",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "106book40116",
     "date": "2026-11-24",
     "time": "5:45 AM",
@@ -645,7 +590,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
