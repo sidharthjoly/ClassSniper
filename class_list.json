@@ -205,7 +205,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -1679,7 +1679,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -2944,7 +2944,7 @@
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
@@ -3725,7 +3725,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 24,
     "capacity": 38
   },
   {
@@ -5100,7 +5100,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -5331,7 +5331,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 25
   },
   {
@@ -5980,7 +5980,7 @@
     "class_type": "Harmony Series",
     "instructor": "Daniel Augustine",
     "location": "Newtown",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 20
   },
   {
@@ -10884,7 +10884,7 @@
     "time": "12:00 PM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
+    "instructor": "Killian Bolster",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -14679,7 +14679,7 @@
     "time": "6:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -15042,7 +15042,7 @@
     "time": "7:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
@@ -15350,7 +15350,7 @@
     "time": "8:00 AM",
     "name": "Lower Force",
     "class_type": "S&C Series",
-    "instructor": "Asia Harris",
+    "instructor": "Billy Thornhill",
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
