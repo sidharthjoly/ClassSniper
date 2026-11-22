@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book116298",
-    "date": "2026-11-23",
-    "time": "7:10 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Kristy Hocking",
-    "location": "North Sydney",
-    "remaining_spots": 5,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book74215",
     "date": "2026-11-23",
     "time": "7:15 PM",
@@ -1008,7 +997,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 32
   },
   {
@@ -2196,7 +2185,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 32
   },
   {
@@ -3010,7 +2999,7 @@
     "class_type": "Dance Series",
     "instructor": "Lauren Buck",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
@@ -3340,7 +3329,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 24
   },
   {
@@ -3978,7 +3967,7 @@
     "class_type": "Spin Series",
     "instructor": "Mark Brinker",
     "location": "North Sydney",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 40
   },
   {
