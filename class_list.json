@@ -1,93 +1,5 @@
 [
   {
-    "booking_id": "105book34554",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Kristine Gimenez",
-    "location": "Haymarket",
-    "remaining_spots": 24,
-    "capacity": 38
-  },
-  {
-    "booking_id": "105book37014",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 4,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book50371",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book37958",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Luke Lavender",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book66672",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 34
-  },
-  {
-    "booking_id": "104book34240",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book9752",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book21881",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Zetland",
-    "remaining_spots": 17,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book116298",
     "date": "2026-11-23",
     "time": "7:10 PM",
@@ -2449,7 +2361,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 38
   },
   {
@@ -2702,7 +2614,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 13,
     "capacity": 30
   },
   {
@@ -3472,7 +3384,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 26
   },
   {
@@ -4385,7 +4297,7 @@
     "class_type": "Reformer Series",
     "instructor": "Amelia Gartner",
     "location": "Marrickville",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
@@ -4440,7 +4352,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Newtown",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -5078,7 +4990,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kat Morrison",
     "location": "Marrickville",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 15
   },
   {
@@ -5111,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Zetland",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 24
   },
   {
@@ -5155,7 +5067,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
