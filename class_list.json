@@ -1,148 +1,5 @@
 [
   {
-    "booking_id": "105book38519",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Samantha Smolens",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 32
-  },
-  {
-    "booking_id": "105book39608",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Estella Jones",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book53470",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Marrickville",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "103book52661",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book87937",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jorge Garcia Rodriguez",
-    "location": "Marrickville",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "106book41098",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 23,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book35787",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35504",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book73523",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book50257",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Billy Thornhill",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book5056",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Lower Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book25160",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Double Down | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 14,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book14501",
-    "date": "2026-11-24",
-    "time": "7:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book49766",
     "date": "2026-11-24",
     "time": "7:15 AM",
@@ -3208,7 +3065,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -4792,7 +4649,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
