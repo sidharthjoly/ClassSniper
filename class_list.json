@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book49837",
-    "date": "2026-11-24",
-    "time": "10:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Marrickville",
-    "remaining_spots": 15,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book101945",
-    "date": "2026-11-24",
-    "time": "10:15 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book103378",
     "date": "2026-11-24",
     "time": "10:30 AM",
