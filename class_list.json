@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book77779",
-    "date": "2026-11-24",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Lauren Buck",
-    "location": "Marrickville",
-    "remaining_spots": 12,
-    "capacity": 15
-  },
-  {
     "booking_id": "101book101786",
     "date": "2026-11-24",
     "time": "3:45 PM",
@@ -1039,7 +1028,7 @@
     "time": "7:30 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Kate Vose",
+    "instructor": "Karen Kwang",
     "location": "Surry Hills",
     "remaining_spots": 1,
     "capacity": 18
@@ -1591,7 +1580,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -3703,7 +3692,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 23
   },
   {
@@ -4550,7 +4539,7 @@
     "class_type": "S&C Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 35
   },
   {
@@ -4880,7 +4869,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
