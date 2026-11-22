@@ -601,7 +601,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -2328,7 +2328,7 @@
     "class_type": "Apex Series",
     "instructor": "Stephanie Conlin",
     "location": "Zetland",
-    "remaining_spots": 3,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -2350,7 +2350,7 @@
     "class_type": "S&C Series",
     "instructor": "Honor Mills",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
@@ -5100,7 +5100,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 24
   },
   {
