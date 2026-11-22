@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book101786",
-    "date": "2026-11-24",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book38201",
     "date": "2026-11-24",
     "time": "4:00 PM",
@@ -2482,7 +2471,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Egan",
     "location": "Newtown",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 20
   },
   {
@@ -3120,7 +3109,7 @@
     "class_type": "Reformer Series",
     "instructor": "Vanessa Liu",
     "location": "Haymarket",
-    "remaining_spots": 8,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -3263,7 +3252,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Haymarket",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -4198,7 +4187,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -5133,7 +5122,7 @@
     "class_type": "Mat Series",
     "instructor": "Eva Baonza",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
