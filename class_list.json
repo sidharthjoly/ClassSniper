@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book108855",
-    "date": "2026-11-25",
-    "time": "3:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 27,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book55942",
     "date": "2026-11-25",
     "time": "3:30 PM",
@@ -3252,7 +3241,7 @@
     "class_type": "Fight Series",
     "instructor": "Kristen Marconi",
     "location": "Surry Hills",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 26
   },
   {
@@ -5364,7 +5353,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
