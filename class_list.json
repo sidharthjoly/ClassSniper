@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book79589",
-    "date": "2026-11-25",
-    "time": "8:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Haymarket",
-    "remaining_spots": 32,
-    "capacity": 38
-  },
-  {
-    "booking_id": "107book109150",
-    "date": "2026-11-25",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book66263",
-    "date": "2026-11-25",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Elaina Lentini",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book11857",
-    "date": "2026-11-25",
-    "time": "8:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 5,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book51184",
     "date": "2026-11-25",
     "time": "8:40 AM",
