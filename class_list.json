@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "105book64007",
-    "date": "2026-11-25",
-    "time": "1:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book55212",
-    "date": "2026-11-25",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kat Morrison",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book104898",
-    "date": "2026-11-25",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
     "booking_id": "104book69343",
     "date": "2026-11-25",
     "time": "2:00 PM",
@@ -832,7 +799,7 @@
     "class_type": "Apex Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -1041,7 +1008,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Ward",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -1569,7 +1536,7 @@
     "class_type": "S&C Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 35
   },
   {
@@ -3186,7 +3153,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -3956,7 +3923,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 26
   },
   {
@@ -4627,7 +4594,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 26
   },
   {
@@ -4671,7 +4638,7 @@
     "class_type": "Spin Series",
     "instructor": "Colleen Antony",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 20
   },
   {
@@ -4693,7 +4660,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -4902,7 +4869,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -4957,7 +4924,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 20
   },
   {
@@ -4979,7 +4946,7 @@
     "class_type": "S&C Series",
     "instructor": "Luke Sikora",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
@@ -5034,7 +5001,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 17,
     "capacity": 24
   },
   {
@@ -5056,7 +5023,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 18,
+    "remaining_spots": 15,
     "capacity": 18
   },
   {
@@ -5067,7 +5034,7 @@
     "class_type": "Reformer Series",
     "instructor": "Natasia Phimister",
     "location": "Zetland",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -5078,7 +5045,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 25
   },
   {
