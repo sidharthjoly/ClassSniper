@@ -1,115 +1,5 @@
 [
   {
-    "booking_id": "105book76839",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Haymarket",
-    "remaining_spots": 9,
-    "capacity": 24
-  },
-  {
-    "booking_id": "105book40679",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 9,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book95269",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 5,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book55368",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book96616",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book89954",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Chloe Burns",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book68932",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
-    "location": "Merrylands",
-    "remaining_spots": 32,
-    "capacity": 34
-  },
-  {
-    "booking_id": "106book41993",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mason Battiato",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 33
-  },
-  {
-    "booking_id": "106book90503",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "104book37491",
-    "date": "2026-11-25",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book28858",
     "date": "2026-11-25",
     "time": "10:15 AM",
@@ -3648,7 +3538,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "Surry Hills",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 20
   },
   {
