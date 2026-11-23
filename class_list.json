@@ -6002,7 +6002,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -6737,7 +6737,7 @@
     "time": "7:00 AM",
     "name": "Yoga: Origins",
     "class_type": "Yoga Series",
-    "instructor": "Jen Tran",
+    "instructor": "Daniel Konieczny",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
@@ -11143,17 +11143,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "108book16316",
-    "date": "2026-11-29",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Leng Taecharattanawanit",
-    "location": "Zetland",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
     "booking_id": "107book82506",
     "date": "2026-11-29",
     "time": "11:15 AM",
@@ -11295,6 +11284,17 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
+  },
+  {
+    "booking_id": "108book38767",
+    "date": "2026-11-29",
+    "time": "1:00 PM",
+    "name": "Reformer: Signature",
+    "class_type": "Reformer Series",
+    "instructor": "Leng Taecharattanawanit",
+    "location": "Zetland",
+    "remaining_spots": 24,
+    "capacity": 24
   },
   {
     "booking_id": "103book85640",
@@ -11654,7 +11654,7 @@
     "time": "6:00 AM",
     "name": "Power Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Tan Hutton",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -11995,7 +11995,7 @@
     "time": "7:00 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Tan Hutton",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -12303,7 +12303,7 @@
     "time": "8:00 AM",
     "name": "Infrared Pilates",
     "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
+    "instructor": "Tan Hutton",
     "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
@@ -13711,7 +13711,7 @@
     "time": "5:00 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
+    "instructor": "Kristen Marconi",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
@@ -14052,7 +14052,7 @@
     "time": "6:00 PM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
+    "instructor": "Kristen Marconi",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
@@ -14426,7 +14426,7 @@
     "time": "7:00 PM",
     "name": "BodySculpt",
     "class_type": "Mat Series",
-    "instructor": "Hanna Sadek",
+    "instructor": "Kristen Marconi",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
@@ -14850,17 +14850,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book73676",
-    "date": "2026-12-01",
-    "time": "6:00 AM",
-    "name": "Infrared Yoga",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book72845",
     "date": "2026-12-01",
     "time": "6:00 AM",
@@ -15224,17 +15213,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book73524",
-    "date": "2026-12-01",
-    "time": "7:00 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book50258",
     "date": "2026-12-01",
     "time": "7:00 AM",
@@ -15587,17 +15565,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book78223",
-    "date": "2026-12-01",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book63079",
     "date": "2026-12-01",
     "time": "8:15 AM",
@@ -15781,17 +15748,6 @@
     "class_type": "S&C Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book78047",
-    "date": "2026-12-01",
-    "time": "9:15 AM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
     "remaining_spots": 30,
     "capacity": 30
   },
@@ -16258,17 +16214,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "107book62175",
-    "date": "2026-12-01",
-    "time": "12:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Simon Corfield",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book49234",
     "date": "2026-12-01",
     "time": "12:00 PM",
@@ -16476,17 +16421,6 @@
     "location": "Newtown",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "107book62231",
-    "date": "2026-12-01",
-    "time": "1:00 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Simon Corfield",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
   },
   {
     "booking_id": "101book62373",
