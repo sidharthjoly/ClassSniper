@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book84363",
-    "date": "2026-11-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 9,
-    "capacity": 21
-  },
-  {
-    "booking_id": "106book43414",
-    "date": "2026-11-25",
-    "time": "6:45 AM",
-    "name": "Upper Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 22,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book102756",
-    "date": "2026-11-25",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Isabelle Ward",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "107book51554",
     "date": "2026-11-25",
     "time": "6:50 AM",
