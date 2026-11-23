@@ -128,7 +128,7 @@
     "class_type": "Mat Series",
     "instructor": "Anton Anton",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 36
   },
   {
@@ -4000,7 +4000,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -11343,7 +11343,7 @@
   {
     "booking_id": "108book17717",
     "date": "2026-11-29",
-    "time": "2:00 PM",
+    "time": "2:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Leng Taecharattanawanit",
@@ -11398,7 +11398,7 @@
   {
     "booking_id": "108book18152",
     "date": "2026-11-29",
-    "time": "3:00 PM",
+    "time": "3:15 PM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
     "instructor": "Leng Taecharattanawanit",
@@ -12067,17 +12067,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "101book106955",
-    "date": "2026-11-30",
-    "time": "7:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book59035",
     "date": "2026-11-30",
     "time": "7:15 AM",
@@ -12087,6 +12076,17 @@
     "location": "Surry Hills",
     "remaining_spots": 26,
     "capacity": 26
+  },
+  {
+    "booking_id": "101book116863",
+    "date": "2026-11-30",
+    "time": "7:15 AM",
+    "name": "BodySculpt",
+    "class_type": "Mat Series",
+    "instructor": "Chloe Greenwood",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "101book100051",
@@ -19921,6 +19921,17 @@
     "capacity": 26
   },
   {
+    "booking_id": "101book116173",
+    "date": "2026-12-02",
+    "time": "4:15 PM",
+    "name": "Infrared Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Joey Curcio",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
+  },
+  {
     "booking_id": "103book56205",
     "date": "2026-12-02",
     "time": "4:30 PM",
@@ -20553,7 +20564,7 @@
     "time": "6:30 PM",
     "name": "Limitless",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -20839,7 +20850,7 @@
     "time": "7:30 PM",
     "name": "Pump\u2019d",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -22011,17 +22022,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "101book99234",
-    "date": "2026-12-03",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "101book68636",
     "date": "2026-12-03",
     "time": "9:15 AM",
@@ -22031,6 +22031,17 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
+  },
+  {
+    "booking_id": "101book116951",
+    "date": "2026-12-03",
+    "time": "9:15 AM",
+    "name": "Power Pilates",
+    "class_type": "Mat Series",
+    "instructor": "Eva Baonza",
+    "location": "Surry Hills",
+    "remaining_spots": 36,
+    "capacity": 36
   },
   {
     "booking_id": "108book23197",
