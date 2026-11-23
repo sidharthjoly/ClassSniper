@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book65794",
-    "date": "2026-11-25",
-    "time": "4:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 19,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book116172",
-    "date": "2026-11-25",
-    "time": "4:15 PM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book56204",
     "date": "2026-11-25",
     "time": "4:30 PM",
@@ -3395,7 +3373,7 @@
     "class_type": "S&C Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 24,
     "capacity": 35
   },
   {
@@ -4715,7 +4693,7 @@
     "class_type": "Spin Series",
     "instructor": "Tasharni Jamieson",
     "location": "Haymarket",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 35
   },
   {
