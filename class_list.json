@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "103book67346",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book96854",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Hip Hop",
-    "class_type": "Dance Series",
-    "instructor": "Dante Creek",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
-    "booking_id": "106book54986",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Areeba Talpur",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 21
-  },
-  {
-    "booking_id": "107book110729",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Biordi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "101book63397",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Karen Kwang",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
-    "booking_id": "108book12143",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Zetland",
-    "remaining_spots": 3,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book5387",
-    "date": "2026-11-24",
-    "time": "7:30 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book39290",
     "date": "2026-11-24",
     "time": "7:45 PM",
@@ -810,7 +733,7 @@
     "class_type": "Reformer Series",
     "instructor": "Lily Cole",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -3758,7 +3681,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 32
   },
   {
