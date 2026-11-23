@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book103562",
-    "date": "2026-11-25",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 3,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book39820",
     "date": "2026-11-25",
     "time": "4:00 PM",
@@ -799,7 +788,7 @@
     "class_type": "S&C Series",
     "instructor": "Enif Alvarez",
     "location": "Newtown",
-    "remaining_spots": 14,
+    "remaining_spots": 15,
     "capacity": 32
   },
   {
@@ -2845,7 +2834,7 @@
     "class_type": "Reformer Series",
     "instructor": "Kayla Stanton",
     "location": "Haymarket",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
