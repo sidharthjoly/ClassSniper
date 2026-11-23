@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book55834",
-    "date": "2026-11-25",
-    "time": "9:30 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Marrickville",
-    "remaining_spots": 11,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book5997",
-    "date": "2026-11-25",
-    "time": "9:30 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Zetland",
-    "remaining_spots": 12,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book103201",
     "date": "2026-11-25",
     "time": "9:45 AM",
