@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "106book45619",
-    "date": "2026-11-26",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Danielle Panayi",
-    "location": "Merrylands",
-    "remaining_spots": 13,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book42592",
     "date": "2026-11-26",
     "time": "7:00 AM",
