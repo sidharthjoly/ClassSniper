@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book19069",
-    "date": "2026-11-26",
-    "time": "12:40 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Zetland",
-    "remaining_spots": 24,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book45203",
     "date": "2026-11-26",
     "time": "1:00 PM",
@@ -2086,7 +2075,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 26
   },
   {
