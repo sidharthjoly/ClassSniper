@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book59899",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Shane Collard",
-    "location": "Haymarket",
-    "remaining_spots": 4,
-    "capacity": 35
-  },
-  {
-    "booking_id": "107book49641",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Elizabeth Topfer",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book67300",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book106488",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Lauren Wainer",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book27503",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 20,
-    "capacity": 25
-  },
-  {
-    "booking_id": "108book24542",
-    "date": "2026-11-25",
-    "time": "7:15 PM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book54790",
     "date": "2026-11-25",
     "time": "7:30 PM",
@@ -2834,7 +2768,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Zetland",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
@@ -3758,7 +3692,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 26
   },
   {
@@ -4330,7 +4264,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -5034,7 +4968,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sinead Chabowski",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -5177,7 +5111,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Emanuele Troise",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
