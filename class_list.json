@@ -1899,7 +1899,7 @@
     "class_type": "Reformer Series",
     "instructor": "Michael Roache",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -2519,17 +2519,6 @@
     "capacity": 18
   },
   {
-    "booking_id": "105book34200",
-    "date": "2026-11-26",
-    "time": "6:00 PM",
-    "name": "Commercial Dance Choreography",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 38
-  },
-  {
     "booking_id": "105book42694",
     "date": "2026-11-26",
     "time": "6:00 PM",
@@ -2891,17 +2880,6 @@
     "location": "Zetland",
     "remaining_spots": 0,
     "capacity": 30
-  },
-  {
-    "booking_id": "105book34451",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Heels",
-    "class_type": "Dance Series",
-    "instructor": "Peta Sternaras",
-    "location": "Haymarket",
-    "remaining_spots": 36,
-    "capacity": 38
   },
   {
     "booking_id": "105book42905",
@@ -3340,7 +3318,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Zetland",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -4044,7 +4022,7 @@
     "class_type": "Mat Series",
     "instructor": "Zennah Chaudri",
     "location": "Haymarket",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 38
   },
   {
