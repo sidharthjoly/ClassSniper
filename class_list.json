@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "104book64576",
-    "date": "2026-11-26",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 17,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book89265",
-    "date": "2026-11-26",
-    "time": "4:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 29,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book67612",
-    "date": "2026-11-26",
-    "time": "4:15 PM",
-    "name": "Fighting Fit",
-    "class_type": "Fight Series",
-    "instructor": "Kristen Marconi",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 26
-  },
-  {
     "booking_id": "103book58277",
     "date": "2026-11-26",
     "time": "4:30 PM",
@@ -986,7 +953,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jessica Caetano",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 15
   },
   {
@@ -2526,7 +2493,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -3747,7 +3714,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -4506,7 +4473,7 @@
     "class_type": "Reformer Series",
     "instructor": "Angie Shen",
     "location": "Marrickville",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -4660,7 +4627,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 35
   },
   {
@@ -4671,7 +4638,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "Newtown",
-    "remaining_spots": 28,
+    "remaining_spots": 26,
     "capacity": 28
   },
   {
@@ -4682,7 +4649,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 25,
     "capacity": 30
   },
   {
