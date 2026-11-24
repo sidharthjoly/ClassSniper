@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book44839",
-    "date": "2026-11-26",
-    "time": "9:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book99233",
-    "date": "2026-11-26",
-    "time": "9:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Surry Hills",
-    "remaining_spots": 20,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book68635",
-    "date": "2026-11-26",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jordanna Chapman",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book23196",
-    "date": "2026-11-26",
-    "time": "9:15 AM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Stephanie Conlin",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 15
-  },
-  {
     "booking_id": "103book57961",
     "date": "2026-11-26",
     "time": "9:30 AM",
