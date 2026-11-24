@@ -1,13 +1,10 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-25T05:31:20.027723+11:00",
-  "class_count": 1808,
+  "scraped_at": "2026-11-25T05:31:56.042081+11:00",
+  "class_count": 2137,
   "centers_total": 10,
-  "centers_failed": [
-    "Surry Hills",
-    "Chatswood"
-  ],
+  "centers_failed": [],
   "contract_breaks": {},
   "unmapped_locations": []
 }
