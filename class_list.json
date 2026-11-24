@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "106book43987",
-    "date": "2026-11-26",
-    "time": "10:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Charbel Tasipale",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 33
-  },
-  {
-    "booking_id": "101book113799",
-    "date": "2026-11-26",
-    "time": "10:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bettina Simbuerger",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book69056",
-    "date": "2026-11-26",
-    "time": "10:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 20
-  },
-  {
     "booking_id": "104book38536",
     "date": "2026-11-26",
     "time": "10:30 AM",
