@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book99647",
-    "date": "2026-11-26",
-    "time": "3:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Surry Hills",
-    "remaining_spots": 13,
-    "capacity": 18
-  },
-  {
     "booking_id": "105book42089",
     "date": "2026-11-26",
     "time": "4:00 PM",
@@ -2427,7 +2416,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 15
   },
   {
