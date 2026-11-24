@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book55369",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book93249",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book38744",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 26,
-    "capacity": 32
-  },
-  {
-    "booking_id": "107book106058",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Michael Roache",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book16402",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Zetland",
-    "remaining_spots": 17,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book25786",
-    "date": "2026-11-26",
-    "time": "12:30 PM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Tara McCarthy",
-    "location": "Zetland",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book19069",
     "date": "2026-11-26",
     "time": "12:40 PM",
@@ -3791,7 +3725,7 @@
     "class_type": "Yoga Series",
     "instructor": "Luka Cubrilo",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 36
   },
   {
