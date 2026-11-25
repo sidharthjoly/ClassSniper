@@ -2581,7 +2581,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2878,7 +2878,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 36
   },
   {
@@ -3285,7 +3285,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 13,
+    "remaining_spots": 12,
     "capacity": 24
   },
   {
@@ -3340,7 +3340,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -4165,7 +4165,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 3,
+    "remaining_spots": 1,
     "capacity": 15
   },
   {
@@ -4284,7 +4284,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Samantha Smolens",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -4394,7 +4394,7 @@
     "time": "8:45 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Samantha Smolens",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -4537,7 +4537,7 @@
     "time": "9:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
+    "instructor": "Samantha Smolens",
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
@@ -5542,17 +5542,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "103book49213",
-    "date": "2026-11-30",
-    "time": "7:00 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book37382",
@@ -7463,7 +7452,7 @@
     "time": "5:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "OP Staff",
+    "instructor": "Marcus Parkin",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -7478,17 +7467,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "103book50008",
-    "date": "2026-11-30",
-    "time": "5:30 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "106book38901",
@@ -7826,7 +7804,7 @@
     "time": "6:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "OP Staff",
+    "instructor": "Marcus Parkin",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -13420,17 +13398,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "103book52235",
-    "date": "2026-12-02",
-    "time": "4:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Luka Cubrilo",
-    "location": "Marrickville",
-    "remaining_spots": 36,
-    "capacity": 36
-  },
-  {
     "booking_id": "104book38220",
     "date": "2026-12-02",
     "time": "4:00 PM",
@@ -14624,7 +14591,7 @@
     "time": "6:00 AM",
     "name": "Pump\u2019d",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Inge Schmidt",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -14976,7 +14943,7 @@
     "time": "7:00 AM",
     "name": "Pump\u2019d",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Inge Schmidt",
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
@@ -16494,7 +16461,7 @@
     "time": "4:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "Karol Karg",
     "location": "Haymarket",
     "remaining_spots": 32,
     "capacity": 32
@@ -19336,17 +19303,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book40213",
-    "date": "2026-12-04",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book107289",
