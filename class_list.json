@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book59502",
-    "date": "2026-11-27",
-    "time": "2:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jovana Subotic",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book68551",
     "date": "2026-11-27",
     "time": "3:00 PM",
@@ -2449,7 +2438,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ana Lievano",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -2471,7 +2460,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
@@ -2482,7 +2471,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 6,
     "capacity": 15
   },
   {
@@ -2493,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2515,7 +2504,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 28,
     "capacity": 30
   },
   {
