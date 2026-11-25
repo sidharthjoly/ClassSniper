@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book97584",
-    "date": "2026-11-27",
-    "time": "9:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book97300",
-    "date": "2026-11-27",
-    "time": "9:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 36
-  },
-  {
     "booking_id": "103book60545",
     "date": "2026-11-27",
     "time": "9:30 AM",
