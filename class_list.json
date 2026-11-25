@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "105book66907",
-    "date": "2026-11-27",
-    "time": "8:15 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Tasharni Jamieson",
-    "location": "Haymarket",
-    "remaining_spots": 22,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book74626",
-    "date": "2026-11-27",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Samantha Smolens",
-    "location": "Marrickville",
-    "remaining_spots": 13,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book53416",
-    "date": "2026-11-27",
-    "time": "8:15 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book97073",
-    "date": "2026-11-27",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Surry Hills",
-    "remaining_spots": 9,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book97996",
-    "date": "2026-11-27",
-    "time": "8:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book45133",
     "date": "2026-11-27",
     "time": "8:30 AM",
@@ -227,7 +172,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 20
   },
   {
