@@ -269,7 +269,7 @@
     "time": "6:30 AM",
     "name": "Squad",
     "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Evie Bird",
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 20
@@ -843,7 +843,7 @@
     "class_type": "Mat Series",
     "instructor": "Bronte Carrington",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -1930,7 +1930,7 @@
     "time": "4:00 PM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Karol Karg",
     "location": "Haymarket",
     "remaining_spots": 3,
     "capacity": 32
@@ -2084,7 +2084,7 @@
     "time": "5:00 PM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Colleen Antony",
+    "instructor": "Karol Karg",
     "location": "Haymarket",
     "remaining_spots": 5,
     "capacity": 32
@@ -3010,7 +3010,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 38
   },
   {
@@ -3219,7 +3219,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 10,
     "capacity": 35
   },
   {
