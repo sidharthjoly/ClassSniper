@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "107book64045",
-    "date": "2026-11-26",
-    "time": "7:20 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Aram Faizi",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book99911",
-    "date": "2026-11-26",
-    "time": "7:20 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Rashmi Kulkarni",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 18
-  },
-  {
     "booking_id": "103book58821",
     "date": "2026-11-26",
     "time": "7:30 PM",
@@ -2603,7 +2581,7 @@
     "class_type": "Reformer Series",
     "instructor": "Matthew Carney",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -3384,7 +3362,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 35
   },
   {
@@ -3472,7 +3450,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -3571,7 +3549,7 @@
     "class_type": "S&C Series",
     "instructor": "Inge Schmidt",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 26
   },
   {
@@ -4110,7 +4088,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
