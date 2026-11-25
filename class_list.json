@@ -1393,7 +1393,7 @@
     "class_type": "Reformer Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
@@ -1415,7 +1415,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jaclyn Bogdanovic",
     "location": "Marrickville",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 15
   },
   {
@@ -2768,7 +2768,7 @@
     "class_type": "Mat Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 30
   },
   {
@@ -4000,7 +4000,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 21,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
