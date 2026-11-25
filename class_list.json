@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book56460",
-    "date": "2026-11-27",
-    "time": "1:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 21,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book59762",
-    "date": "2026-11-27",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book106853",
-    "date": "2026-11-27",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 7,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book17521",
-    "date": "2026-11-27",
-    "time": "1:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Zetland",
-    "remaining_spots": 19,
-    "capacity": 24
-  },
-  {
     "booking_id": "101book98445",
     "date": "2026-11-27",
     "time": "2:15 PM",
@@ -1558,7 +1514,7 @@
     "class_type": "Mat Series",
     "instructor": "Phoebe Thomson",
     "location": "Haymarket",
-    "remaining_spots": 18,
+    "remaining_spots": 17,
     "capacity": 38
   },
   {
