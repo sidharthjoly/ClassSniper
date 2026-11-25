@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "101book98445",
-    "date": "2026-11-27",
-    "time": "2:15 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59502",
     "date": "2026-11-27",
     "time": "2:30 PM",
@@ -2416,7 +2405,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Zetland",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 30
   },
   {
