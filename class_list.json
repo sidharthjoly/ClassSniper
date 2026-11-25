@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book55684",
-    "date": "2026-11-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book84753",
-    "date": "2026-11-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book52089",
-    "date": "2026-11-26",
-    "time": "6:45 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 12,
-    "capacity": 20
-  },
-  {
-    "booking_id": "108book19408",
-    "date": "2026-11-26",
-    "time": "6:45 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Chavez Weisskopf-Sacre",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book42905",
     "date": "2026-11-26",
     "time": "7:00 PM",
