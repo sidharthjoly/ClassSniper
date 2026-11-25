@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "105book68551",
-    "date": "2026-11-27",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Vanessa Liu",
-    "location": "Haymarket",
-    "remaining_spots": 14,
-    "capacity": 24
-  },
-  {
-    "booking_id": "104book40581",
-    "date": "2026-11-27",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59658",
     "date": "2026-11-27",
     "time": "3:30 PM",
@@ -1448,7 +1426,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1459,7 +1437,7 @@
     "class_type": "S&C Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -2427,7 +2405,7 @@
     "class_type": "Harmony Series",
     "instructor": "Shannon Hsu",
     "location": "Surry Hills",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -2504,7 +2482,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
@@ -2537,7 +2515,7 @@
     "class_type": "Mat Series",
     "instructor": "Leah Ferguson",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
@@ -2548,7 +2526,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 23
   },
   {
@@ -2559,7 +2537,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lauren Wainer",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 24,
     "capacity": 30
   },
   {
@@ -2570,7 +2548,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
@@ -2581,7 +2559,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -2603,7 +2581,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ana Lievano",
     "location": "Zetland",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
@@ -2783,17 +2761,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "105book47204",
-    "date": "2026-11-29",
-    "time": "10:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
-  },
-  {
     "booking_id": "103book65780",
     "date": "2026-11-29",
     "time": "10:30 AM",
@@ -2869,17 +2836,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "105book46996",
-    "date": "2026-11-29",
-    "time": "11:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 38,
-    "capacity": 38
   },
   {
     "booking_id": "103book66086",
