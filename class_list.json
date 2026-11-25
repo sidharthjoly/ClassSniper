@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "106book46157",
-    "date": "2026-11-27",
-    "time": "6:45 AM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book47286",
-    "date": "2026-11-27",
-    "time": "6:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Maria Sahyoun",
-    "location": "Merrylands",
-    "remaining_spots": 6,
-    "capacity": 22
-  },
-  {
     "booking_id": "105book44352",
     "date": "2026-11-27",
     "time": "7:00 AM",
@@ -1833,7 +1811,7 @@
     "class_type": "Apex Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 30
   },
   {
