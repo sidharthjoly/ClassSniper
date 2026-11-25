@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "105book28958",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
-    "location": "Haymarket",
-    "remaining_spots": 0,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book67090",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Marrickville",
-    "remaining_spots": 1,
-    "capacity": 15
-  },
-  {
-    "booking_id": "106book70667",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Mandy Moussa",
-    "location": "Merrylands",
-    "remaining_spots": 15,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book67441",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 23
-  },
-  {
-    "booking_id": "107book65738",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Kelly Medina",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
-    "booking_id": "101book114211",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Surry Hills",
-    "remaining_spots": 18,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book67985",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Mackenzie Sengotta",
-    "location": "Surry Hills",
-    "remaining_spots": 1,
-    "capacity": 34
-  },
-  {
-    "booking_id": "108book3615",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Emanuele Troise",
-    "location": "Zetland",
-    "remaining_spots": 9,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book29573",
-    "date": "2026-11-26",
-    "time": "5:15 PM",
-    "name": "Double Down | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 22,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book43044",
     "date": "2026-11-26",
     "time": "5:30 PM",
@@ -1602,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Jordanna Chapman",
     "location": "Haymarket",
-    "remaining_spots": 9,
+    "remaining_spots": 8,
     "capacity": 24
   },
   {
@@ -1932,7 +1833,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "Surry Hills",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 20
   },
   {
@@ -4099,7 +4000,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 18
   },
   {
@@ -4154,7 +4055,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
@@ -4176,7 +4077,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -4418,7 +4319,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "North Sydney",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -4550,7 +4451,7 @@
     "class_type": "Reformer Series",
     "instructor": "Monica Faundez",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 20
   },
   {
@@ -4583,7 +4484,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "Haymarket",
-    "remaining_spots": 25,
+    "remaining_spots": 23,
     "capacity": 32
   },
   {
@@ -4726,7 +4627,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 36,
+    "remaining_spots": 32,
     "capacity": 36
   },
   {
