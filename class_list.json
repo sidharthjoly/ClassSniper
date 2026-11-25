@@ -1437,7 +1437,7 @@
     "class_type": "Reformer Series",
     "instructor": "Gianna Petracic",
     "location": "North Sydney",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -2779,7 +2779,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 28
   },
   {
@@ -2867,7 +2867,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "Haymarket",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 35
   },
   {
@@ -3769,7 +3769,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
@@ -3802,7 +3802,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Kelly Medina",
     "location": "Zetland",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -4066,7 +4066,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 30
   },
   {
@@ -4242,7 +4242,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Surry Hills",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 36
   },
   {
