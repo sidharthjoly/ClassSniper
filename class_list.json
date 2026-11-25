@@ -1,71 +1,5 @@
 [
   {
-    "booking_id": "105book42905",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Marcus Parkin",
-    "location": "Haymarket",
-    "remaining_spots": 11,
-    "capacity": 32
-  },
-  {
-    "booking_id": "103book98047",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Yoga: Yin & Calm",
-    "class_type": "Yoga Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 24,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book77450",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Upper Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Mary Mikhail",
-    "location": "Merrylands",
-    "remaining_spots": 27,
-    "capacity": 33
-  },
-  {
-    "booking_id": "104book38963",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "107book63539",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "North Sydney",
-    "remaining_spots": 13,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book23406",
-    "date": "2026-11-26",
-    "time": "7:00 PM",
-    "name": "Race Pace | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 4,
-    "capacity": 15
-  },
-  {
     "booking_id": "106book90850",
     "date": "2026-11-26",
     "time": "7:10 PM",
@@ -2856,7 +2790,7 @@
     "class_type": "Mat Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 36
   },
   {
@@ -3483,7 +3417,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "Zetland",
-    "remaining_spots": 5,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -4286,7 +4220,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 11,
     "capacity": 15
   },
   {
@@ -4308,7 +4242,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 20
   },
   {
