@@ -1426,7 +1426,7 @@
     "class_type": "Yoga Series",
     "instructor": "Nick Gross",
     "location": "Marrickville",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 36
   },
   {
@@ -2086,7 +2086,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Karol Karg",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
@@ -2471,7 +2471,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Colleen Antony",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 32
   },
   {
@@ -3153,7 +3153,7 @@
     "class_type": "Yoga Series",
     "instructor": "Shannon Hsu",
     "location": "North Sydney",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 30
   },
   {
