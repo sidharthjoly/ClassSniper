@@ -1602,7 +1602,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Samantha Smolens",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -3285,7 +3285,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mily Ochoa",
     "location": "Haymarket",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -4328,7 +4328,7 @@
     "time": "8:10 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -4493,7 +4493,7 @@
     "time": "9:10 AM",
     "name": "Total Force",
     "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -4636,7 +4636,7 @@
     "time": "10:10 AM",
     "name": "Athletica",
     "class_type": "S&C Series",
-    "instructor": "Paulo Lole",
+    "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -11335,7 +11335,7 @@
     "time": "5:45 AM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -11720,7 +11720,7 @@
     "time": "6:45 AM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
+    "instructor": "Charbel Tasipale",
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
@@ -19811,17 +19811,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "106book34982",
-    "date": "2026-12-04",
-    "time": "5:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "107book106959",
     "date": "2026-12-04",
     "time": "5:30 PM",
@@ -19972,17 +19961,6 @@
     "class_type": "Apex Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
-    "booking_id": "106book35282",
-    "date": "2026-12-04",
-    "time": "6:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Jonathan Krisnadi",
-    "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
   },
