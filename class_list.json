@@ -687,7 +687,7 @@
     "time": "8:00 AM",
     "name": "Lower Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 32
@@ -2163,7 +2163,7 @@
     "class_type": "Reformer Series",
     "instructor": "Rashmi Kulkarni",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -2469,7 +2469,7 @@
     "time": "7:00 AM",
     "name": "Total Build",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 1,
     "capacity": 32
@@ -2656,7 +2656,7 @@
     "time": "8:00 AM",
     "name": "Pulse",
     "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
+    "instructor": "Colleen Antony",
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 32
@@ -4220,7 +4220,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "North Sydney",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 24
   },
   {
