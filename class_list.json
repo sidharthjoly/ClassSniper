@@ -1,82 +1,5 @@
 [
   {
-    "booking_id": "105book49157",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Total Force",
-    "class_type": "S&C Series",
-    "instructor": "Laura Pailleux-Hanon",
-    "location": "Haymarket",
-    "remaining_spots": 27,
-    "capacity": 30
-  },
-  {
-    "booking_id": "105book55955",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Haymarket",
-    "remaining_spots": 12,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book59970",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "104book40212",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 12,
-    "capacity": 28
-  },
-  {
-    "booking_id": "107book107288",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Gianna Petracic",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book17345",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Zetland",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book19842",
-    "date": "2026-11-27",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Kim Hoffenberg",
-    "location": "Zetland",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "104book40893",
     "date": "2026-11-27",
     "time": "1:00 PM",
@@ -1877,7 +1800,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 18
   },
   {
@@ -2174,7 +2097,7 @@
     "class_type": "Mat Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 36
   },
   {
