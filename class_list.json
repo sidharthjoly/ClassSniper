@@ -821,7 +821,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 1,
+    "remaining_spots": 2,
     "capacity": 30
   },
   {
@@ -975,7 +975,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2152,7 +2152,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 36
   },
   {
