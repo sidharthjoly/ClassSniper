@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book30274",
-    "date": "2026-11-28",
-    "time": "8:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Hayley van Stom",
-    "location": "Haymarket",
-    "remaining_spots": 16,
-    "capacity": 35
-  },
-  {
-    "booking_id": "103book61123",
-    "date": "2026-11-28",
-    "time": "8:15 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Bethany Rumore",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "107book53834",
-    "date": "2026-11-28",
-    "time": "8:15 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Eisha Liyanage",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book121519",
-    "date": "2026-11-28",
-    "time": "8:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Killian Bolster",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book43322",
     "date": "2026-11-28",
     "time": "8:30 AM",
@@ -2086,7 +2042,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 24
   },
   {
