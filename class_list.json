@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book96042",
-    "date": "2026-11-28",
-    "time": "4:30 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Surry Hills",
-    "remaining_spots": 17,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book95528",
-    "date": "2026-11-28",
-    "time": "4:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book55419",
     "date": "2026-11-28",
     "time": "5:00 PM",
@@ -502,7 +480,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -2130,7 +2108,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mackenzie Sengotta",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 24
   },
   {
