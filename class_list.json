@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book24226",
-    "date": "2026-11-28",
-    "time": "6:45 AM",
-    "name": "Heartbreak | Run Only",
-    "class_type": "Apex Series",
-    "instructor": "Flyn Woodward",
-    "location": "Zetland",
-    "remaining_spots": 3,
-    "capacity": 15
-  },
-  {
     "booking_id": "105book45811",
     "date": "2026-11-28",
     "time": "7:00 AM",
@@ -2493,7 +2482,7 @@
     "class_type": "Reformer Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 24
   },
   {
