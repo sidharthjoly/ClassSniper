@@ -150,7 +150,7 @@
     "class_type": "S&C Series",
     "instructor": "Jorge Garcia Rodriguez",
     "location": "Haymarket",
-    "remaining_spots": 24,
+    "remaining_spots": 23,
     "capacity": 35
   },
   {
@@ -535,7 +535,7 @@
     "class_type": "Apex Series",
     "instructor": "Flyn Woodward",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -876,7 +876,7 @@
     "class_type": "Spin Series",
     "instructor": "Eisha Liyanage",
     "location": "North Sydney",
-    "remaining_spots": 35,
+    "remaining_spots": 34,
     "capacity": 40
   },
   {
@@ -2097,7 +2097,7 @@
     "class_type": "Reformer Series",
     "instructor": "Samantha Smolens",
     "location": "Merrylands",
-    "remaining_spots": 2,
+    "remaining_spots": 1,
     "capacity": 21
   },
   {
