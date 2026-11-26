@@ -1272,7 +1272,7 @@
     "class_type": "Fight Series",
     "instructor": "John Purnell",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
@@ -2108,7 +2108,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
@@ -2350,7 +2350,7 @@
     "class_type": "Reformer Series",
     "instructor": "Montana Cominos",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 20
   },
   {
