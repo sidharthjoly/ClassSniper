@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "101book95780",
-    "date": "2026-11-28",
-    "time": "3:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Surry Hills",
-    "remaining_spots": 33,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book95330",
-    "date": "2026-11-28",
-    "time": "3:30 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book108223",
     "date": "2026-11-28",
     "time": "4:00 PM",
