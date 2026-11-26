@@ -491,7 +491,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 20
   },
   {
@@ -1019,7 +1019,7 @@
     "class_type": "Mat Series",
     "instructor": "Tan Hutton",
     "location": "North Sydney",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 30
   },
   {
@@ -1217,7 +1217,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shannon Hsu",
     "location": "Zetland",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 24
   },
   {
