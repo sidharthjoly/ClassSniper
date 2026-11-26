@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "105book46183",
-    "date": "2026-11-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Elizabeth Chun",
-    "location": "Haymarket",
-    "remaining_spots": 15,
-    "capacity": 24
-  },
-  {
-    "booking_id": "103book85122",
-    "date": "2026-11-28",
-    "time": "11:30 AM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Marrickville",
-    "remaining_spots": 31,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book50021",
-    "date": "2026-11-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Merrylands",
-    "remaining_spots": 17,
-    "capacity": 22
-  },
-  {
-    "booking_id": "101book95268",
-    "date": "2026-11-28",
-    "time": "11:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book49709",
     "date": "2026-11-28",
     "time": "11:45 AM",
@@ -1096,7 +1052,7 @@
     "class_type": "Reformer Series",
     "instructor": "Leng Taecharattanawanit",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 24
   },
   {
@@ -1261,7 +1217,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 25,
+    "remaining_spots": 22,
     "capacity": 25
   },
   {
