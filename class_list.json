@@ -73,7 +73,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mitra Alizadeh",
     "location": "Merrylands",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 33
   },
   {
@@ -572,17 +572,6 @@
     "capacity": 38
   },
   {
-    "booking_id": "103book60126",
-    "date": "2026-11-28",
-    "time": "9:00 AM",
-    "name": "Beatbox",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book96160",
     "date": "2026-11-28",
     "time": "9:00 AM",
@@ -790,6 +779,17 @@
     "location": "Marrickville",
     "remaining_spots": 0,
     "capacity": 36
+  },
+  {
+    "booking_id": "103book60126",
+    "date": "2026-11-28",
+    "time": "9:15 AM",
+    "name": "Beatbox",
+    "class_type": "Spin Series",
+    "instructor": "Colleen Antony",
+    "location": "Marrickville",
+    "remaining_spots": 0,
+    "capacity": 20
   },
   {
     "booking_id": "104book41807",
@@ -2515,7 +2515,7 @@
     "class_type": "Reformer Series",
     "instructor": "Nikki Rubbi-Clarke",
     "location": "North Sydney",
-    "remaining_spots": 24,
+    "remaining_spots": 21,
     "capacity": 24
   },
   {
