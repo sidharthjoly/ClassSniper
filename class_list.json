@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "107book107498",
-    "date": "2026-11-27",
-    "time": "6:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Matthew Carney",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 24
-  },
-  {
-    "booking_id": "107book86118",
-    "date": "2026-11-27",
-    "time": "6:30 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tan Hutton",
-    "location": "North Sydney",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
-    "booking_id": "108book34775",
-    "date": "2026-11-27",
-    "time": "6:30 PM",
-    "name": "Sound Healing",
-    "class_type": "Harmony Series",
-    "instructor": "Lihini Rose",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "101book98756",
     "date": "2026-11-27",
     "time": "6:40 PM",
@@ -1976,7 +1943,7 @@
     "class_type": "Reformer Series",
     "instructor": "Ivan Barrios",
     "location": "Haymarket",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -2064,7 +2031,7 @@
     "class_type": "Mat Series",
     "instructor": "Ahlex Leyva",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 23
   },
   {
@@ -2394,7 +2361,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 3,
+    "remaining_spots": 2,
     "capacity": 20
   },
   {
@@ -2449,7 +2416,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 15,
+    "remaining_spots": 7,
     "capacity": 15
   },
   {
@@ -2460,7 +2427,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mia Callander",
     "location": "Newtown",
-    "remaining_spots": 20,
+    "remaining_spots": 11,
     "capacity": 20
   },
   {
