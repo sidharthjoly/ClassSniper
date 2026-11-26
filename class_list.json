@@ -370,7 +370,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "Newtown",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 28
   },
   {
@@ -832,7 +832,7 @@
     "class_type": "S&C Series",
     "instructor": "Carlos Oliveira",
     "location": "Newtown",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 28
   },
   {
@@ -1833,7 +1833,7 @@
     "class_type": "Yoga Series",
     "instructor": "Sunil Tailor",
     "location": "Surry Hills",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 36
   },
   {
