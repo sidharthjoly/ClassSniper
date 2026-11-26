@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book113435",
-    "date": "2026-11-28",
-    "time": "7:45 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Shannon Hsu",
-    "location": "North Sydney",
-    "remaining_spots": 18,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book45550",
     "date": "2026-11-28",
     "time": "8:00 AM",
