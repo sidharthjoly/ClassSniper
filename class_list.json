@@ -418,17 +418,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "106book48777",
-    "date": "2026-11-29",
-    "time": "10:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Vivien Nguyen",
-    "location": "Merrylands",
-    "remaining_spots": 21,
-    "capacity": 21
-  },
-  {
     "booking_id": "104book43435",
     "date": "2026-11-29",
     "time": "10:30 AM",
@@ -874,7 +863,7 @@
     "time": "6:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Montana Cominos",
     "location": "Haymarket",
     "remaining_spots": 19,
     "capacity": 24
@@ -1215,7 +1204,7 @@
     "time": "7:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Montana Cominos",
     "location": "Haymarket",
     "remaining_spots": 4,
     "capacity": 24
@@ -1534,7 +1523,7 @@
     "time": "8:00 AM",
     "name": "Reformer: Sculpt",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Montana Cominos",
     "location": "Haymarket",
     "remaining_spots": 22,
     "capacity": 24
@@ -1754,7 +1743,7 @@
     "time": "9:00 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Mily Ochoa",
+    "instructor": "Montana Cominos",
     "location": "Haymarket",
     "remaining_spots": 22,
     "capacity": 24
@@ -2007,7 +1996,7 @@
     "time": "10:00 AM",
     "name": "Mat Pilates",
     "class_type": "Mat Series",
-    "instructor": "Danielle Panayi",
+    "instructor": "Mandy Moussa",
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
