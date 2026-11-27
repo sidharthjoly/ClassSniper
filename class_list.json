@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "107book55419",
-    "date": "2026-11-28",
-    "time": "5:00 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "North Sydney",
-    "remaining_spots": 3,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book29804",
     "date": "2026-11-29",
     "time": "7:30 AM",
@@ -1393,7 +1382,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 36
   },
   {
