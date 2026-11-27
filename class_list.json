@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book35031",
-    "date": "2026-11-29",
-    "time": "4:45 PM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book34923",
     "date": "2026-11-29",
     "time": "6:00 PM",
@@ -920,7 +909,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 36
   },
   {
@@ -1118,7 +1107,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 13,
     "capacity": 36
   },
   {
@@ -2988,7 +2977,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristen Marconi",
     "location": "Merrylands",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 34
   },
   {
@@ -3098,7 +3087,7 @@
     "class_type": "Harmony Series",
     "instructor": "Lihini Rose",
     "location": "Surry Hills",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 36
   },
   {
@@ -3483,7 +3472,7 @@
     "class_type": "S&C Series",
     "instructor": "Charbel Tasipale",
     "location": "Merrylands",
-    "remaining_spots": 30,
+    "remaining_spots": 29,
     "capacity": 30
   },
   {
