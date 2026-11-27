@@ -1,27 +1,5 @@
 [
   {
-    "booking_id": "103book64963",
-    "date": "2026-11-29",
-    "time": "11:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book96546",
-    "date": "2026-11-29",
-    "time": "11:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Montana Cominos",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book66086",
     "date": "2026-11-29",
     "time": "11:30 AM",
