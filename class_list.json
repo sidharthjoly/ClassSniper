@@ -1800,7 +1800,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sarah Wood",
     "location": "Merrylands",
-    "remaining_spots": 18,
+    "remaining_spots": 19,
     "capacity": 21
   },
   {
@@ -2757,7 +2757,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Marrickville",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 15
   },
   {
@@ -3395,7 +3395,7 @@
     "class_type": "Mat Series",
     "instructor": "Kristy Hocking",
     "location": "North Sydney",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 30
   },
   {
@@ -9144,7 +9144,7 @@
     "booking_id": "101book116173",
     "date": "2026-12-02",
     "time": "4:15 PM",
-    "name": "Infrared Pilates",
+    "name": "Ritual",
     "class_type": "Mat Series",
     "instructor": "Joey Curcio",
     "location": "Surry Hills",
