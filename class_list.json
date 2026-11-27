@@ -1162,7 +1162,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 11,
     "capacity": 24
   },
   {
@@ -1371,7 +1371,7 @@
     "class_type": "Mat Series",
     "instructor": "Chloe Greenwood",
     "location": "Surry Hills",
-    "remaining_spots": 12,
+    "remaining_spots": 11,
     "capacity": 36
   },
   {
@@ -1503,7 +1503,7 @@
     "class_type": "Reformer Series",
     "instructor": "Sienna Lopez",
     "location": "Zetland",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 24
   },
   {
@@ -3151,7 +3151,7 @@
     "time": "5:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "James Wood",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
@@ -3514,7 +3514,7 @@
     "time": "6:30 PM",
     "name": "Upper Force",
     "class_type": "S&C Series",
-    "instructor": "Marcus Parkin",
+    "instructor": "James Wood",
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
