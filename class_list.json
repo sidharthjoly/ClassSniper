@@ -612,7 +612,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ivan Iglesias Garcia",
     "location": "Newtown",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 23
   },
   {
@@ -1074,7 +1074,7 @@
     "class_type": "Reformer Series",
     "instructor": "Danielle Panayi",
     "location": "Merrylands",
-    "remaining_spots": 15,
+    "remaining_spots": 14,
     "capacity": 22
   },
   {
@@ -3780,7 +3780,7 @@
     "class_type": "Reformer Series",
     "instructor": "Mandy Moussa",
     "location": "Merrylands",
-    "remaining_spots": 22,
+    "remaining_spots": 21,
     "capacity": 22
   },
   {
@@ -3813,7 +3813,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "North Sydney",
-    "remaining_spots": 30,
+    "remaining_spots": 20,
     "capacity": 30
   },
   {
