@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "106book73317",
-    "date": "2026-11-29",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Samantha Smolens",
-    "location": "Merrylands",
-    "remaining_spots": 4,
-    "capacity": 21
-  },
-  {
-    "booking_id": "104book65532",
-    "date": "2026-11-29",
-    "time": "8:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amelia Gartner",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
-    "booking_id": "101book95919",
-    "date": "2026-11-29",
-    "time": "8:00 AM",
-    "name": "Meditation Soundscape",
-    "class_type": "Harmony Series",
-    "instructor": "Shannon Hsu",
-    "location": "Surry Hills",
-    "remaining_spots": 21,
-    "capacity": 36
-  },
-  {
-    "booking_id": "108book35151",
-    "date": "2026-11-29",
-    "time": "8:00 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Ana Lievano",
-    "location": "Zetland",
-    "remaining_spots": 1,
-    "capacity": 30
-  },
-  {
     "booking_id": "106book30773",
     "date": "2026-11-29",
     "time": "8:10 AM",
