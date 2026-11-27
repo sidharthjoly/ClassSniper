@@ -216,7 +216,7 @@
     "class_type": "Yoga Series",
     "instructor": "Ana Lievano",
     "location": "Zetland",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 30
   },
   {
@@ -2801,7 +2801,7 @@
     "class_type": "Barre Series",
     "instructor": "Michael Roache",
     "location": "Marrickville",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 20
   },
   {
@@ -3879,7 +3879,7 @@
     "class_type": "Yoga Series",
     "instructor": "Katie Jay",
     "location": "Marrickville",
-    "remaining_spots": 36,
+    "remaining_spots": 35,
     "capacity": 36
   },
   {
