@@ -209,17 +209,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "107book59606",
-    "date": "2026-11-30",
-    "time": "6:00 AM",
-    "name": "Pulse",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 30,
-    "capacity": 30
-  },
-  {
     "booking_id": "108book3148",
     "date": "2026-11-30",
     "time": "6:00 AM",
@@ -401,7 +390,7 @@
     "time": "6:30 AM",
     "name": "Reformer: Signature",
     "class_type": "Reformer Series",
-    "instructor": "Shannon Hsu",
+    "instructor": "Lauren Buck",
     "location": "Zetland",
     "remaining_spots": 2,
     "capacity": 24
@@ -426,17 +415,6 @@
     "instructor": "Jonathan Krisnadi",
     "location": "Merrylands",
     "remaining_spots": 29,
-    "capacity": 30
-  },
-  {
-    "booking_id": "107book59343",
-    "date": "2026-11-30",
-    "time": "6:50 AM",
-    "name": "Total Build",
-    "class_type": "Pulse & Build Series",
-    "instructor": "Matt Bull",
-    "location": "North Sydney",
-    "remaining_spots": 30,
     "capacity": 30
   },
   {
@@ -2306,7 +2284,7 @@
     "class_type": "Fight Series",
     "instructor": "Noor Yaghi",
     "location": "Merrylands",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 31
   },
   {
@@ -3846,7 +3824,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 20,
+    "remaining_spots": 18,
     "capacity": 36
   },
   {
