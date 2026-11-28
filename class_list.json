@@ -1,49 +1,5 @@
 [
   {
-    "booking_id": "103book49161",
-    "date": "2026-11-30",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "107book101630",
-    "date": "2026-11-30",
-    "time": "5:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sara Craighead",
-    "location": "North Sydney",
-    "remaining_spots": 1,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book9405",
-    "date": "2026-11-30",
-    "time": "5:30 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Zetland",
-    "remaining_spots": 10,
-    "capacity": 24
-  },
-  {
-    "booking_id": "108book35236",
-    "date": "2026-11-30",
-    "time": "5:30 AM",
-    "name": "Lower Force",
-    "class_type": "S&C Series",
-    "instructor": "Aaron Fiveash",
-    "location": "Zetland",
-    "remaining_spots": 0,
-    "capacity": 25
-  },
-  {
     "booking_id": "106book38588",
     "date": "2026-11-30",
     "time": "5:45 AM",
@@ -4341,7 +4297,7 @@
     "class_type": "Reformer Series",
     "instructor": "Isabelle Franzmann",
     "location": "Zetland",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 24
   },
   {
@@ -4462,7 +4418,7 @@
     "class_type": "Mat Series",
     "instructor": "Lily Cole",
     "location": "Marrickville",
-    "remaining_spots": 29,
+    "remaining_spots": 28,
     "capacity": 36
   },
   {
@@ -5782,7 +5738,7 @@
     "class_type": "Reformer Series",
     "instructor": "Aly Turska",
     "location": "Zetland",
-    "remaining_spots": 14,
+    "remaining_spots": 13,
     "capacity": 24
   },
   {
