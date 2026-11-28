@@ -293,7 +293,7 @@
     "class_type": "S&C Series",
     "instructor": "Jennia Klimenkova",
     "location": "Surry Hills",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 26
   },
   {
@@ -304,7 +304,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 30
   },
   {
@@ -3065,7 +3065,7 @@
     "class_type": "S&C Series",
     "instructor": "Jose Da Rocha",
     "location": "Newtown",
-    "remaining_spots": 23,
+    "remaining_spots": 22,
     "capacity": 28
   },
   {
@@ -3494,7 +3494,7 @@
     "class_type": "S&C Series",
     "instructor": "Angela Aho",
     "location": "Surry Hills",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
