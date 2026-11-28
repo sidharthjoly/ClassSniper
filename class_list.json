@@ -1,60 +1,5 @@
 [
   {
-    "booking_id": "103book49109",
-    "date": "2026-11-30",
-    "time": "6:15 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Monica Faundez",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 15
-  },
-  {
-    "booking_id": "103book48797",
-    "date": "2026-11-30",
-    "time": "6:15 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Bronte Carrington",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book103841",
-    "date": "2026-11-30",
-    "time": "6:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Chloe Greenwood",
-    "location": "Surry Hills",
-    "remaining_spots": 0,
-    "capacity": 36
-  },
-  {
-    "booking_id": "101book58824",
-    "date": "2026-11-30",
-    "time": "6:15 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jennia Klimenkova",
-    "location": "Surry Hills",
-    "remaining_spots": 5,
-    "capacity": 26
-  },
-  {
-    "booking_id": "108book21353",
-    "date": "2026-11-30",
-    "time": "6:15 AM",
-    "name": "Sub60 | Hybrid",
-    "class_type": "Apex Series",
-    "instructor": "Jennifer Irvine",
-    "location": "Zetland",
-    "remaining_spots": 2,
-    "capacity": 30
-  },
-  {
     "booking_id": "105book32095",
     "date": "2026-11-30",
     "time": "6:30 AM",
@@ -5815,7 +5760,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Benjamin Young",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 32
   },
   {
