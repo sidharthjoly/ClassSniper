@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "103book63298",
-    "date": "2026-11-30",
-    "time": "5:15 AM",
-    "name": "Squad",
-    "class_type": "Spin Series",
-    "instructor": "Colleen Antony",
-    "location": "Marrickville",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49161",
     "date": "2026-11-30",
     "time": "5:30 AM",
@@ -1459,7 +1448,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Haymarket",
-    "remaining_spots": 7,
+    "remaining_spots": 6,
     "capacity": 24
   },
   {
@@ -3604,7 +3593,7 @@
     "class_type": "S&C Series",
     "instructor": "Jay Haydock",
     "location": "Zetland",
-    "remaining_spots": 8,
+    "remaining_spots": 7,
     "capacity": 25
   },
   {
@@ -5639,7 +5628,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Jonathon Balzanelli",
     "location": "Zetland",
-    "remaining_spots": 28,
+    "remaining_spots": 27,
     "capacity": 30
   },
   {
