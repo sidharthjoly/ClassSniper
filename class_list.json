@@ -623,7 +623,7 @@
     "class_type": "Apex Series",
     "instructor": "Jennifer Irvine",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 5,
     "capacity": 15
   },
   {
@@ -1910,7 +1910,7 @@
     "class_type": "Reformer Series",
     "instructor": "Shaylen Griffith",
     "location": "Haymarket",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -2735,7 +2735,7 @@
     "class_type": "Apex Series",
     "instructor": "Laura Pailleux-Hanon",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 15
   },
   {
@@ -3472,7 +3472,7 @@
     "class_type": "Yoga Series",
     "instructor": "Kim Hoffenberg",
     "location": "Surry Hills",
-    "remaining_spots": 27,
+    "remaining_spots": 26,
     "capacity": 36
   },
   {
