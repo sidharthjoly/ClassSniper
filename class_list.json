@@ -458,7 +458,7 @@
     "class_type": "Mat Series",
     "instructor": "Kayla Stanton",
     "location": "Marrickville",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 36
   },
   {
@@ -4121,7 +4121,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Surry Hills",
-    "remaining_spots": 5,
+    "remaining_spots": 4,
     "capacity": 18
   },
   {
@@ -4649,7 +4649,7 @@
     "class_type": "Reformer Series",
     "instructor": "Alison Bruton",
     "location": "North Sydney",
-    "remaining_spots": 21,
+    "remaining_spots": 20,
     "capacity": 24
   },
   {
@@ -5496,7 +5496,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Marcus Parkin",
     "location": "North Sydney",
-    "remaining_spots": 10,
+    "remaining_spots": 9,
     "capacity": 30
   },
   {
@@ -19178,7 +19178,7 @@
     "time": "12:15 PM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Montse Miranda",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -19948,7 +19948,7 @@
     "time": "5:30 PM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Frances Lee",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
@@ -20322,7 +20322,7 @@
     "time": "6:30 PM",
     "name": "Beatbox",
     "class_type": "Spin Series",
-    "instructor": "Jonathon Balzanelli",
+    "instructor": "Frances Lee",
     "location": "North Sydney",
     "remaining_spots": 40,
     "capacity": 40
