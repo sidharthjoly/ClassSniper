@@ -1239,7 +1239,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 4
   },
   {
@@ -3175,7 +3175,7 @@
     "class_type": "Reformer Series",
     "instructor": "Simon Corfield",
     "location": "Haymarket",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
@@ -3857,7 +3857,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Haymarket",
-    "remaining_spots": 31,
+    "remaining_spots": 30,
     "capacity": 35
   },
   {
@@ -4385,7 +4385,7 @@
     "class_type": "Creche",
     "instructor": "Georgia Dame",
     "location": "Merrylands",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 4
   },
   {
@@ -4407,7 +4407,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Mason Battiato",
     "location": "Merrylands",
-    "remaining_spots": 32,
+    "remaining_spots": 31,
     "capacity": 33
   },
   {
